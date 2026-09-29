@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
-import { Link } from 'react-router-dom';
+import { Link, useNavigate } from 'react-router-dom';
 import widgets from '../data/widgets.json';
 import articles from '../data/articles.json';
 import { imgUrl } from '../data/helpers';
@@ -249,6 +249,7 @@ export function Entrust({ data = entrust }) {
 
 export function Partners({ data = partners }) {
   const list = data.partners || [];
+  const navigate = useNavigate();
   const [start, setStart] = useState(0);
   const [animate, setAnimate] = useState(true);
   const [showAll, setShowAll] = useState(false);
@@ -256,7 +257,7 @@ export function Partners({ data = partners }) {
   const [wrapW, setWrapW] = useState(1200);
   const len = list.length;
 
-  const visibleCount = wrapW < 576 ? 2 : wrapW < 992 ? 4 : 7;
+  const visibleCount = wrapW < 576 ? 2 : wrapW < 768 ? 4 : 7;
   const itemW = wrapW / visibleCount;
 
   useEffect(() => {
@@ -308,11 +309,10 @@ export function Partners({ data = partners }) {
             <div className="title">
               <h2 dangerouslySetInnerHTML={{ __html: richText(data.title) }} />
             </div>
-            {data.label && <p dangerouslySetInnerHTML={{ __html: richText(data.label) }} />}
           </div>
           <div className="right-header">
             <div className="nav-position desktop">
-              <div className="viewAll" onClick={() => setShowAll((v) => !v)} style={{ cursor: 'pointer' }}>
+              <div className="viewAll" onClick={() => (data.target && data.target.url ? navigate('/' + data.target.url.replace(/^\//, '')) : setShowAll((v) => !v))} style={{ cursor: 'pointer' }}>
                 <div className="viewAll-body">
                   <div className="button">
                     <span>{showAll ? 'Ascunde' : (data.target && data.target.text) || 'Vezi toate'}</span>

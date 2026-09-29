@@ -1,0 +1,901 @@
+{
+ "_id": "698f157cc513c100313e0b7a",
+ "published": true,
+ "isMain": false,
+ "title": "/consultation-free",
+ "metaTitle": "Consultatie gratuita",
+ "metaDescription": "",
+ "description": "<p>test</p>",
+ "widgets": [
+  {
+   "published": true,
+   "pages": [],
+   "_id": "69ba711bc513c100313e40c5",
+   "name": "Widget Page Header-consultare",
+   "template": {
+    "_id": "5e663dab58401f0031a10770",
+    "name": "Widget Page Header",
+    "type": "widget-page-header",
+    "structure": {
+     "schema": {
+      "type": "object",
+      "properties": {
+       "title": {
+        "type": "string",
+        "required": true
+       },
+       "overlay": {
+        "type": "string"
+       },
+       "bgImage": {
+        "required": true,
+        "type": "object",
+        "properties": {
+         "mimetype": {
+          "type": "string"
+         },
+         "path": {
+          "type": "string"
+         }
+        }
+       },
+       "links": {
+        "type": "array",
+        "items": {
+         "type": "object",
+         "properties": {
+          "name": {
+           "type": "string"
+          },
+          "value": {
+           "type": "string"
+          },
+          "type": {
+           "type": "string",
+           "enum": [
+            "LINK",
+            "ROUTE",
+            "SCROLL"
+           ]
+          }
+         }
+        }
+       }
+      }
+     },
+     "layout": [
+      {
+       "required": true,
+       "key": "title",
+       "type": "text"
+      },
+      {
+       "required": true,
+       "key": "bgImage",
+       "type": "file"
+      },
+      {
+       "key": "overlay",
+       "type": "text",
+       "title": "Background Overlay Style"
+      },
+      {
+       "key": "links",
+       "displayFlex": true,
+       "items": [
+        {
+         "key": "links[].name",
+         "required": true,
+         "type": "text"
+        },
+        {
+         "key": "links[].value",
+         "required": true,
+         "type": "text"
+        },
+        {
+         "type": "select",
+         "key": "links[].type",
+         "required": true,
+         "titleMap": [
+          {
+           "value": "LINK",
+           "name": "Link (to another website)"
+          },
+          {
+           "value": "ROUTE",
+           "name": "Route (to current website)"
+          },
+          {
+           "value": "SCROLL",
+           "name": "Scroll (to the index of widget"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    "createdAt": "2020-03-09T12:59:23.695Z",
+    "updatedAt": "2021-03-24T21:58:12.219Z",
+    "__v": 0,
+    "icon": "public/widget-templates/icons/d228912b-4557-4d82-900b-235b35d8b7a2.png"
+   },
+   "payload": {
+    "title": "Consultatie Gratuita si Prezentare in Showroom",
+    "bgImage": {
+     "mimetype": "image/jpeg",
+     "path": "public/widgets/files/c51d3bc7-e208-4b7e-89a0-001606fccf52.jpg"
+    }
+   },
+   "createdAt": "2026-03-18T09:32:11.354Z",
+   "updatedAt": "2026-03-18T09:45:07.687Z",
+   "__v": 0
+  },
+  {
+   "published": true,
+   "pages": [],
+   "_id": "5e67eb0c6ee7b2002ec93cdf",
+   "name": "Empty Space-60-30",
+   "template": {
+    "_id": "5e6799db6ee7b2002ec93b6b",
+    "name": "Empty Space",
+    "type": "widget-empty-space",
+    "structure": {
+     "schema": {
+      "type": "object",
+      "properties": {
+       "showBackground": {
+        "type": "boolean"
+       },
+       "height": {
+        "type": "object",
+        "properties": {
+         "desktop": {
+          "type": "string"
+         },
+         "mobile": {
+          "type": "string"
+         }
+        }
+       }
+      }
+     },
+     "layout": [
+      {
+       "title": "Empty Widget. Set the height of block"
+      },
+      {
+       "key": "height.desktop",
+       "type": "number"
+      },
+      {
+       "key": "height.mobile",
+       "type": "number"
+      },
+      {
+       "key": "showBackground",
+       "title": " Show background",
+       "type": "checkbox"
+      }
+     ]
+    },
+    "createdAt": "2020-03-10T13:44:59.204Z",
+    "updatedAt": "2022-03-17T14:03:39.489Z",
+    "__v": 0,
+    "icon": "public/widget-templates/icons/fb1e903c-6b8d-4550-aff2-98bc6bcce25a.png"
+   },
+   "payload": {
+    "showBackground": true,
+    "height": {
+     "desktop": "60",
+     "mobile": "30"
+    }
+   },
+   "createdAt": "2020-03-10T19:31:24.112Z",
+   "updatedAt": "2026-03-18T09:41:06.638Z",
+   "__v": 0
+  },
+  {
+   "published": true,
+   "pages": [],
+   "_id": "698f275fc513c100313e0bd7",
+   "name": "consultation-ro",
+   "template": {
+    "_id": "61fd46e35935a200319241fb",
+    "name": "Paragraph container widget",
+    "type": "widget-paragraph-section",
+    "structure": {
+     "schema": {
+      "type": "object",
+      "properties": {
+       "paragraph": {
+        "type": "string"
+       }
+      }
+     },
+     "layout": [
+      {
+       "key": "paragraph",
+       "type": "html"
+      }
+     ]
+    },
+    "createdAt": "2022-02-04T15:31:47.331Z",
+    "updatedAt": "2022-02-04T15:31:47.331Z",
+    "__v": 0
+   },
+   "payload": {
+    "paragraph": "<h2><strong style=\"color: rgb(68, 68, 68);\">Oferim consultatie gratuita si organizam prezentarea echipamentelor si a software-ului in showroom-ul nostru.</strong></h2><p><span style=\"color: rgb(68, 68, 68);\">Specialistii nostri:</span></p><ul><li><span style=\"color: rgb(68, 68, 68);\">Va explica in detaliu caracteristicile produselor</span></li><li><span style=\"color: rgb(68, 68, 68);\">Fac demonstratii practice</span></li><li><span style=\"color: rgb(68, 68, 68);\">Raspund la toate intrebarile</span></li><li><span style=\"color: rgb(68, 68, 68);\">Va ajuta sa alegeti solutia potrivita pentru afacerea dumneavoastra</span></li></ul><p><span style=\"color: rgb(68, 68, 68);\">Selectam echipamente sau solutii software adaptate nevoilor si obiectivelor companiei dumneavoastra.</span></p><h3><span style=\"color: rgb(68, 68, 68);\">Pentru informatii suplimentare, sunati la</span> <a href=\"tel:+373 69 116121\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255); color: rgb(115, 115, 115);\"><strong>+373 69 116121</strong></a></h3><p><br></p>"
+   },
+   "createdAt": "2026-02-13T13:30:07.845Z",
+   "updatedAt": "2026-03-18T11:26:14.026Z",
+   "__v": 0
+  },
+  {
+   "published": true,
+   "pages": [],
+   "_id": "5d5277e0a482e30031c00860",
+   "name": "Widget - Partners - Clienti - Pagina principala",
+   "template": {
+    "_id": "5cffb13fc8eb6d0031695966",
+    "name": "Partners Widget",
+    "type": "partners-widget",
+    "structure": {
+     "schema": {
+      "type": "object",
+      "properties": {
+       "label": {
+        "type": "string"
+       },
+       "title": {
+        "type": "string"
+       },
+       "target": {
+        "type": "object",
+        "properties": {
+         "text": {
+          "type": "string"
+         },
+         "url": {
+          "type": "string"
+         }
+        }
+       },
+       "partners": {
+        "type": "array",
+        "items": {
+         "type": "object",
+         "properties": {
+          "image": {
+           "type": "object",
+           "properties": {
+            "mimetype": {
+             "type": "string"
+            },
+            "path": {
+             "type": "string"
+            }
+           }
+          },
+          "imageTitle": {
+           "type": "string"
+          }
+         }
+        }
+       }
+      }
+     },
+     "layout": [
+      {
+       "key": "label",
+       "type": "text"
+      },
+      {
+       "key": "title",
+       "type": "text"
+      },
+      {
+       "key": "target",
+       "displayFlex": true,
+       "items": [
+        {
+         "key": "target.text",
+         "type": "text"
+        },
+        {
+         "key": "target.url",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "key": "partners",
+       "displayFlex": true,
+       "items": [
+        {
+         "key": "partners[].image",
+         "type": "file"
+        },
+        {
+         "key": "partners[].imageTitle",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    },
+    "createdAt": "2019-06-11T13:48:47.630Z",
+    "updatedAt": "2022-07-01T11:15:25.897Z",
+    "__v": 0,
+    "icon": "public/widget-templates/icons/257239db-a460-4a1e-8fe2-30d6ba6f5412.png"
+   },
+   "payload": {
+    "title": "Peste 600 de companii de succes <br> care au devenit clienti fideli",
+    "target": {
+     "text": "Vezi toate",
+     "url": "/clienti"
+    },
+    "partners": [
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/8e4e1574-6b68-464a-8469-ea9ed1a59c8f.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/f7b3a6c7-5491-47ac-8e61-93beafad1a6a.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/b6b0d9eb-3f68-4a6e-ab69-63e21a97ab2c.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/2321d033-4a4f-4621-9c0f-0aa14519af0c.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/ed234afa-0a0b-4aad-90af-ff077715610b.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/8191ebaa-0145-40ed-9c5f-005502db0753.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/c6f4e982-6e40-47ea-9ce2-f6a4957e8ba8.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/694b5b34-f52f-4ecf-8fe5-c7ad84c1e376.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/a4aceb6f-9394-47e4-bf52-3fd8778d3b3b.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/c59f829a-e991-4846-b04f-205a371c1d0d.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/96fbfa76-63e0-4935-9a7d-b8f089725395.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/1c7345df-34cf-4fb8-a3b9-c830e5bae2ea.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/51633daf-2931-4d34-9a6e-1929c86ebb44.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/315915df-2c37-48e8-9d82-de1fb1da4e50.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/a094458c-7850-4345-ba98-22430f0cc6ee.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/76de9dd1-c546-405f-b279-23c487a3a42e.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/35225989-8791-4ffa-a474-724a12812a91.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/7ea750ac-d4cd-47df-ad9e-fc5a47d73cf9.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/0608e6ce-9818-4b95-80e6-9d34148f3372.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/4e750efd-0d4c-41a8-9b51-0c4de79c64fc.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/48fbd913-034f-4fbf-a7a0-9a131523ec6d.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/e250a8b7-0d5f-4e32-98c9-a8154bbe8b0f.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/c05edd1a-e6f2-44c1-ae18-4f26d590dd69.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/394a1213-f7d5-4a16-a089-b0e939b33045.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/a59d2228-ad1a-480b-b00b-7710ca384435.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/bf2f0bf8-6d99-499f-830e-f774afe61c19.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/d9108a90-0ab0-4936-8407-83a971285ef5.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/260428e9-6498-48e8-8655-2ecc800c7c56.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/dfd45297-7445-4bec-a52c-3577c3dd373d.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/2cf4949d-a831-47e3-b318-340b74ba953a.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/17cbae50-54aa-4dbc-8b43-7ee916a37a4b.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/98b45c58-7867-44ab-a6f3-713dc5daf132.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/48bc4fd7-3c36-4d84-bb1f-aee6d3b20440.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/3f97feae-6107-4c9f-8b4c-53c11b11dff0.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/cdfc2517-8b2a-470c-bd19-8564385a7994.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/90e4f8ab-637a-48f5-8d0a-fec7d880607d.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/865ae1d6-60df-4717-b69d-469e90c3fe7d.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/c5c30e5a-5f85-4823-af0c-3ff7819ef2c5.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/34db590b-f67c-4820-a736-78f65b17d1a7.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/9869d79f-b8b5-4c17-891d-50637880af84.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/7dac7610-461e-45bd-8f53-4fbe349fffc0.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/a2b715a7-36e6-47ce-9d77-773803eaf95c.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/f9206746-6ac1-4e75-b24e-ee845ca17079.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/0667f085-4371-49d3-9e3e-65017fdaa5dc.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/3f6266a7-be4a-49e7-a53f-46c2a2f50e68.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/5ca11eab-174e-4f70-bb5c-a2c1c4664fe9.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/d5043e87-c80b-43d9-b720-2c2730bf2176.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/f1a32050-5875-48ba-86e5-b167102925e0.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/72163065-5b91-452b-90bc-4508a8d822e6.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/1ad8aea2-3548-4c50-85c2-445ab9f1c40e.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/76300f60-bd97-4d81-94c0-d13cbd263e66.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/8cf79a87-6ab2-4b8f-b45d-621caaec2baf.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/7738a92e-b8b9-4dbe-a48b-8ed8e48afe83.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/b0971337-186d-4315-85a4-5fe90294c0da.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/d596e166-3690-49a8-a47d-1987b65dcf64.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/2acc5b07-a84d-4e55-8921-f0871d3ec0c3.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/6294f43e-d29f-40a3-9dfc-caa281df5abe.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/2d819899-9344-40e2-8892-d0280537bf11.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/35fa3b64-ef88-4138-bc3a-33fd8964f93b.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/a3059c0a-df6e-4dfb-9c26-e0f570853e88.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/7eb9efb1-e6ec-4ba2-aadc-65886cb137f9.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/87c5af95-ec02-495b-9794-deb6e730e717.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/f2b21d94-4e4e-492a-9548-fb84651412e1.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/2674d2d1-dfdd-468e-8e88-b3c73ca087aa.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/1f2cc228-65f5-4f10-8695-222ec336180a.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/2c0d204f-d43f-4948-9932-a09499dd2f5a.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/0aee12cd-c339-43df-af63-0669697d2843.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/3ff7dc85-e2b8-4777-a0b0-b8c475a74034.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/0a0a1470-78dc-4c77-81ca-dc62f45c8894.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/bfc7bf35-35a4-46f3-8abe-f9fe7b14bae1.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/50030f38-1e54-448a-a492-d32000c37ba8.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/623d0156-d53e-477b-b0ea-186fd8ed568b.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/6bc8dd78-d0dd-4092-b06b-074db0ccc9f7.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/440cc8fe-a2e4-4eca-8739-daff941a26b6.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/60438bfe-5e50-4c57-80ce-d1b236aa6354.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/cfb97d98-e5f0-418d-81b0-9c3715b71f9e.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/51e2faef-ba02-4b47-9d1b-b9245a68a479.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/17ac0a66-0b1b-4dc0-aa49-42c3dc75e67f.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/8323b67d-df76-4688-8350-6cc75f8d692b.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/0d44370b-6ba5-4d77-89f5-d40c1b22ab81.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/a9d6d370-012e-4031-a2cd-d7378cb948bf.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/657fea1e-57b5-474b-b3d8-334c39b3f420.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/863d0bb1-ba53-4229-a005-4af236fe035d.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/e096d79a-08bf-473e-b38b-591c46cd2ae4.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/c223f381-6932-495e-9a20-be11b846ee85.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/ca020202-f9dc-4454-ac89-b438f830eaaa.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/aff76cc4-c32f-448b-bc48-210a442a948b.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/23e7448d-4d8e-43f6-9c24-7e7135cbc699.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/98c6a6e5-d596-40fd-8d98-f0fe237daac8.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/8435d6b5-92bb-4970-a63c-7ac7e354648b.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/f6798705-41f0-433b-b4eb-fac9d24fa0e1.png"
+      }
+     }
+    ]
+   },
+   "createdAt": "2019-08-13T08:42:08.614Z",
+   "updatedAt": "2022-08-19T07:20:24.447Z",
+   "__v": 0
+  }
+ ],
+ "image": {
+  "path": null,
+  "mimetype": null
+ },
+ "slug": "consultation-free",
+ "createdAt": "2026-02-13T12:13:48.920Z",
+ "updatedAt": "2026-03-18T11:26:16.722Z",
+ "__v": 0
+}

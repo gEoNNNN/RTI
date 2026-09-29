@@ -27,6 +27,7 @@ import IikoPage from './pages/IikoPage';
 import SyrvePricingPage from './pages/SyrvePricingPage';
 import OneCPricingPage from './pages/OneCPricingPage';
 import AboutPage from './pages/AboutPage';
+import ConsultPage from './pages/ConsultPage';
 import CatSolutiiRetail from './pages/categories/CatSolutiiRetail';
 import CatEchipamenteDeParcare from './pages/categories/CatEchipamenteDeParcare';
 import CatSistemeSupraveghereVideo from './pages/categories/CatSistemeSupraveghereVideo';
@@ -95,7 +96,7 @@ export default function App() {
           {/* Content pages */}
           <Route path="/contacte" element={<ContactePage />} />
           <Route path="/despre-noi" element={<AboutPage />} />
-          <Route path="/consultation-free" element={<ConsultatiePage />} />
+          <Route path="/consultation-free" element={<ConsultPage />} />
           <Route path="/preturi-soft-syrve" element={<SyrvePricingPage />} />
           <Route path="/preturi-soft-1c" element={<OneCPricingPage />} />
 
