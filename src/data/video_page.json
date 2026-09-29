@@ -1,0 +1,825 @@
+{
+ "Cover - Landing sisteme de supraveghere - Business Branch Widget-6": {
+  "title": "Proiectare - Montaj - Vânzare a sistemelor de supraveghere video",
+  "description": "Instalarea camerelor de supraveghere video pentru orice domeniu — începând cu apartamente obișnuite și terminând cu obiecte industriale",
+  "bgImage": {
+   "mimetype": "image/jpeg",
+   "path": "public/widgets/files/11091b14-0a7d-422a-938a-d975c2be6206.jpeg"
+  },
+  "slides": [
+   {
+    "icon": {
+     "mimetype": "image/svg+xml",
+     "path": "public/widgets/files/c2b0fc74-25a5-43b0-a7b4-34dc13f3ab6d.svg"
+    },
+    "darkIcon": {
+     "mimetype": "image/svg+xml",
+     "path": "public/widgets/files/a7b7f9a2-31e5-401e-b77e-35fe28d7fc8a.svg"
+    },
+    "image": {
+     "mimetype": "image/webp",
+     "path": "public/widgets/files/82ef56ba-6e08-4026-8637-76cb44aaeacd.webp"
+    },
+    "class": "Automatizarea HoReCa",
+    "label": "Automatizarea HoReCa",
+    "target": {
+     "text": "Automatizarea HoReCa",
+     "url": "solutii-automatizare-horeca"
+    }
+   },
+   {
+    "icon": {
+     "mimetype": "image/svg+xml",
+     "path": "public/widgets/files/60883318-9a52-4322-b945-3971a560bc50.svg"
+    },
+    "darkIcon": {
+     "mimetype": "image/svg+xml",
+     "path": "public/widgets/files/fb9874e5-3d8c-4ad5-b612-eb3de4bde709.svg"
+    },
+    "image": {
+     "mimetype": "image/webp",
+     "path": "public/widgets/files/9731333d-3a4a-4da9-b011-a19aa6254bba.webp"
+    },
+    "class": "Automatizarea retail",
+    "label": "Automatizarea retail",
+    "target": {
+     "text": "Automatizarea retail",
+     "url": "automatizarea-magazinelor-si-retelelor-de-vanzare-cu-amanuntul"
+    }
+   },
+   {
+    "icon": {
+     "mimetype": "image/svg+xml",
+     "path": "public/widgets/files/14a41df4-0b92-4a04-a67b-929dbf133d73.svg"
+    },
+    "darkIcon": {
+     "mimetype": "image/svg+xml",
+     "path": "public/widgets/files/bace0641-0648-45cc-b7d1-cac06d8f0e67.svg"
+    },
+    "image": {
+     "mimetype": "image/webp",
+     "path": "public/widgets/files/a163ea35-37f6-4365-983c-c0317faf3bab.webp"
+    },
+    "class": "Sisteme gestionare parcari",
+    "label": "Sisteme gestionare parcari",
+    "target": {
+     "text": "Sisteme gestionare parcari",
+     "url": "solutii-sisteme-parcare"
+    }
+   },
+   {
+    "icon": {
+     "mimetype": "image/svg+xml",
+     "path": "public/widgets/files/d6045779-b4ff-41e6-ba3b-eef6e263c43a.svg"
+    },
+    "darkIcon": {
+     "mimetype": "image/svg+xml",
+     "path": "public/widgets/files/7c18efef-4c2a-40c9-a980-2e6a7e37dbff.svg"
+    },
+    "image": {
+     "mimetype": "image/webp",
+     "path": "public/widgets/files/ed60378b-95a0-4746-a03a-a02a25010e00.webp"
+    },
+    "class": "Panouri digitale",
+    "label": "Panouri digitale",
+    "target": {
+     "text": "Panouri digitale",
+     "url": "panouri-digitale"
+    }
+   }
+  ]
+ },
+ "Breadcrumbs Solutii Sisteme video": {
+  "border": true,
+  "breadcrumbs": [
+   {
+    "title": "Principala",
+    "link": "/"
+   },
+   {
+    "title": "Solutii"
+   },
+   {
+    "title": "Sisteme video"
+   }
+  ]
+ },
+ "Empty Space-30-0-BG": {
+  "showBackground": true,
+  "height": {
+   "desktop": "30",
+   "mobile": "0"
+  }
+ },
+ "Dual Widget-Sisteme Video": {
+  "showBackground": true,
+  "left": {
+   "widget_id": "62335ac72cab9a0032d29a7b",
+   "columns": 2,
+   "padding": {
+    "desktop": "0 100px 0 0",
+    "mobile": "0 30px 0 0"
+   },
+   "content": {
+    "published": true,
+    "pages": [],
+    "_id": "62335ac72cab9a0032d29a7b",
+    "name": "Widget Title Sisteme Video",
+    "template": {
+     "_id": "5e25c84aab98870031ec4474",
+     "name": "Title",
+     "type": "title-widget",
+     "structure": {
+      "schema": {
+       "type": "object",
+       "properties": {
+        "title": {
+         "type": "string"
+        },
+        "maxWidth": {
+         "type": "string"
+        },
+        "background": {
+         "type": "string"
+        }
+       }
+      },
+      "layout": [
+       {
+        "key": "title",
+        "type": "html"
+       },
+       {
+        "key": "maxWidth",
+        "title": "Max With (px)",
+        "type": "number"
+       },
+       {
+        "key": "background",
+        "title": "Background",
+        "type": "string"
+       }
+      ]
+     },
+     "createdAt": "2020-01-20T15:33:30.474Z",
+     "updatedAt": "2021-03-24T21:06:23.692Z",
+     "__v": 0,
+     "icon": "public/widget-templates/icons/24d45201-05d3-458e-9d4e-6427283bc052.png"
+    },
+    "payload": {
+     "title": "<h2>Unde pot fi implementate sistemele de supraveghere videoere video</h2>",
+     "maxWidth": "700"
+    },
+    "createdAt": "2022-03-17T15:59:03.528Z",
+    "updatedAt": "2026-06-24T14:02:44.981Z",
+    "__v": 0
+   }
+  },
+  "right": {
+   "widget_id": "62335ae92cab9a0032d29a7c",
+   "columns": 2,
+   "content": {
+    "published": true,
+    "pages": [],
+    "_id": "62335ae92cab9a0032d29a7c",
+    "name": "Widget Description sisteme video",
+    "template": {
+     "_id": "5cffa869c8eb6d0031695963",
+     "name": "Description Widget",
+     "type": "description-widget",
+     "structure": {
+      "schema": {
+       "type": "object",
+       "properties": {
+        "label": {
+         "type": "string"
+        },
+        "description": {
+         "type": "string"
+        },
+        "rows": {
+         "type": "number"
+        }
+       }
+      },
+      "layout": [
+       {
+        "key": "label",
+        "type": "text"
+       },
+       {
+        "key": "description",
+        "type": "html"
+       },
+       {
+        "key": "rows",
+        "title": "Maximum rows (enter the number)",
+        "type": "number"
+       }
+      ]
+     },
+     "createdAt": "2019-06-11T13:11:05.559Z",
+     "updatedAt": "2021-04-29T10:08:58.875Z",
+     "__v": 0,
+     "icon": "public/widget-templates/icons/b0b9c260-22fa-4e05-92e6-ea32ede21cec.png"
+    },
+    "payload": {
+     "label": "Sisteme video",
+     "description": "<p>Produse complexe pentru supraveghere video IP, inclusiv camere IP, video recordere IP, decodoare, software client si aplicatii de stocare a datelor.</p>"
+    },
+    "createdAt": "2022-03-17T15:59:37.239Z",
+    "updatedAt": "2022-06-27T07:44:13.644Z",
+    "__v": 0
+   }
+  }
+ },
+ "Widget Solution Sisteme video Business Branch-5": {
+  "slides": [
+   {
+    "image": {
+     "mimetype": "image/jpeg",
+     "path": "public/widgets/files/adb17e5c-d665-43e1-a79a-75afc5c7c2aa.jpg"
+    },
+    "label": "Centru comercial",
+    "target": {
+     "url": "solutii-supraveghere-pt-centrul-comercial"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/jpeg",
+     "path": "public/widgets/files/20778020-67ee-4564-b318-545fde7a2db0.jpg"
+    },
+    "label": "Comert",
+    "target": {
+     "url": "supraveghere-pentru-comert"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/jpeg",
+     "path": "public/widgets/files/893c55df-2f1c-45c0-a043-c0aafd340fd9.jpg"
+    },
+    "label": "Spatiu public",
+    "target": {
+     "url": "supraveghere-pentru-spatiu-public"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/jpeg",
+     "path": "public/widgets/files/c62032de-bd0f-48a2-b60f-e8db9789c1d4.jpg"
+    },
+    "label": "Banca",
+    "target": {
+     "url": "supraveghere-video-pentru-banca"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/jpeg",
+     "path": "public/widgets/files/8c08309b-8d48-4801-b8e8-62e8db2bb7dd.jpg"
+    },
+    "label": "Oficii",
+    "target": {
+     "url": "sisteme-de-supraveghere-video-pentru-oficii"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/jpeg",
+     "path": "public/widgets/files/cb199f82-b865-4d22-a38e-e9133f6806b4.jpg"
+    },
+    "label": "Gara/Aeroport",
+    "target": {
+     "url": "supraveghere-video-pentru-gara-si-aeroport"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/jpeg",
+     "path": "public/widgets/files/979fea75-a231-4de7-883f-0c90580cf638.jpg"
+    },
+    "class": "1",
+    "label": "Santier",
+    "target": {
+     "url": "supraveghere-video-pentru-santier"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/jpeg",
+     "path": "public/widgets/files/0c43c499-8434-4fc8-9ced-970f7b1776e0.jpg"
+    },
+    "label": "Industrie",
+    "target": {
+     "url": "supraveghere-video-pentru-fabrica"
+    }
+   }
+  ]
+ },
+ "Menu - Landing sisteme de supraveghere - Widget Page Header-4": {
+  "title": "                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        ",
+  "bgImage": {
+   "mimetype": "image/jpeg",
+   "path": "public/widgets/files/b79b7bef-434d-4678-ad98-0a8d7a5e34bd.jpg"
+  },
+  "links": [
+   {
+    "name": "Domeniul",
+    "value": "1",
+    "type": "SCROLL"
+   },
+   {
+    "name": "Beneficii",
+    "value": "2",
+    "type": "SCROLL"
+   },
+   {
+    "name": "Avantaje",
+    "value": "3",
+    "type": "SCROLL"
+   },
+   {
+    "name": "Funcții",
+    "value": "5",
+    "type": "SCROLL"
+   },
+   {
+    "name": "Service și support",
+    "value": "10",
+    "type": "SCROLL"
+   },
+   {
+    "name": "Contacte",
+    "value": "11",
+    "type": "SCROLL"
+   }
+  ]
+ },
+ "Beneficii - Landing sisteme supraveghere - Widget Red Features-3": {
+  "backgroundColor": "linear-gradient(rgb(255 255 255) 0px, rgb(244 244 244) 100%)",
+  "information": [
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/ce8c4757-cb0e-4764-84b4-c0042c37191b.png"
+    },
+    "title": "Calitate la preț bun",
+    "description": "Negociem cu fiecare client și oferim soluții în dependență de buget și cerințe."
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/23e9cd12-1e4f-4055-aca8-29ba0d7f3af5.png"
+    },
+    "title": "Proiect la cheie",
+    "description": "Un sortiment vast de peste 2000 de produse și sisteme specializate"
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/3d8d137f-c743-40f4-8748-06dd80a5b90f.png"
+    },
+    "title": "Experiență de 18 ani",
+    "description": "În 18 ani de activitate, compania RTI a dotat cu sisteme de securitate peste 400 de obiecte"
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/f3d4d16f-ceb3-4382-a4e3-f53037a4165e.png"
+    },
+    "title": "Sortiment vast ",
+    "description": "De peste 500 de camere video cu posibilitate de testare în Showroom."
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/e1f6cc35-d5d4-4939-bbad-558f8ce17d02.png"
+    },
+    "title": "Instalare, vânzare și deservire",
+    "description": "Executăm lucrări de proiectare, instalare și deservire a echipamentelor "
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/0b136d42-37d2-446b-b35a-72911840e50c.png"
+    },
+    "title": "Deplasarea gratuită a specialistului",
+    "description": "Deplasaraea specialistului la fața locului este gratuită"
+   }
+  ]
+ },
+ "Empty Space-45-0.": {
+  "height": {
+   "desktop": "40",
+   "mobile": "0"
+  }
+ },
+ "Detector mișcare - Landing sisteme supraveghere - Banner Widget-3": {
+  "image": {
+   "mimetype": "image/png",
+   "path": "public/widgets/files/d779da42-10ff-4bef-866c-3ed92e3a94db.png"
+  },
+  "title": "Detectează mișcarea și îți trimite alerte imediate",
+  "description": "Vei primi o notificare pe telefon atunci când camera detectează mișcare la intrare în casă, garaj sau oficiu. Poate fi o notificare de sosire sau intruziune suspectă. În plus, declanșează afecte de lumină și sunet pentru a speria vizitatorii nedoriți. \n<br>✓  Pătrundere pe teritoriul supravegheat\n<br>✓  Pierderea semnalului cu sistemul de supraveghere\n<br>✓  Schimbarea poziției camerei",
+  "color": "#ffffff",
+  "text-color": "#000000"
+ },
+ "Conectare wifi - Landing sisteme supraveghere - Text Features-5": {
+  "title": "Conectare rapidă și stocare sigură",
+  "image": {
+   "mimetype": "image/png",
+   "path": "public/widgets/files/5dab9730-e58f-4b00-80ff-003758ef6d5b.png"
+  },
+  "features": [
+   {
+    "text": "Stocare locală sau prin cloud și conecțiune prin wifi. Nu este nevoie să procurați echipament suplimentar. Conectare rapidă și siguranță maximă pentru a preveni incidentele de hacking pe internet"
+   },
+   {
+    "text": "Posesorii de bunuri, locuinte, afaceri sau spatii cu flux intens pot apela la aceasta solutie, atat pentru a imbunatati activitatea cat si pentru a creste siguranta familiei."
+   },
+   {
+    "text": "Aceste sisteme si-au dovedit eficienta in supravegherea fluxului de productie, ducand la eficientizarea activitatii. Camere de supraveghere cu card de memorie astfel ca stocarea informatiilor poate fi facuta local (pe hard disk) sau pe calculatoare aflate la distanta. Sistemul de supraveghere video poate fi interconectat cu un sistem de alarma la efractie sau cu cel de control acces si pontaj electronic, pentru cresterea eficientei."
+   }
+  ]
+ },
+ "Vedere nocturnă - Landing sisteme supraveghere - Banner Widget-3": {
+  "image": {
+   "mimetype": "image/png",
+   "path": "public/widgets/files/d779da42-10ff-4bef-866c-3ed92e3a94db.png"
+  },
+  "title": "Vedere nocturnă avansată sporește protecția atunci când dormi",
+  "description": "Dormi în siguranță, lasă camera să îți supravegheze casa sau oficiul în timp de noapte. Night vision cu infraroșu de 850 nm acceptă filtrul automat de schimbare a culorii în condiții de lumină scăzută, cu o distanță vizuală mărită.\n<br>✓  Matricile sensibile permit observarea mai multor detalii în întuneric",
+  "color": "#ffffff"
+ },
+ "Imagine IP67 - Landing supraveghere video - Widget Images-8": {
+  "images": [
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/a8dc8665-15e6-4613-9c65-e17bd2eb7f4b.png"
+    },
+    "imageUrl": "javascript:void(0)",
+    "order": 1000000
+   }
+  ],
+  "layout": {
+   "value": "flex"
+  },
+  "columns": 4,
+  "showViewAll": false,
+  "padding": "1",
+  "imageHeight": "500"
+ },
+ "Servicii si suport - Landing supraveghere video -Dual Widget-9": {
+  "left": {
+   "widget_id": "5f2abbcf98eee8002e912062",
+   "columns": 7,
+   "padding": {
+    "desktop": "10px 50px 20px 0",
+    "mobile": "0"
+   },
+   "align": {
+    "value": "null"
+   },
+   "content": {
+    "published": true,
+    "pages": [],
+    "_id": "5f2abbcf98eee8002e912062",
+    "name": "Serviciile noastre supraveghere video",
+    "template": {
+     "_id": "5cff785ec8eb6d003169595d",
+     "name": "Advantages Widget",
+     "type": "advantages-widget",
+     "structure": {
+      "schema": {
+       "type": "object",
+       "properties": {
+        "title": {
+         "type": "string"
+        },
+        "label": {
+         "type": "string"
+        },
+        "advantages": {
+         "type": "array",
+         "items": {
+          "type": "object",
+          "properties": {
+           "title": {
+            "type": "string"
+           },
+           "description": {
+            "type": "string"
+           }
+          }
+         }
+        }
+       }
+      },
+      "layout": [
+       {
+        "key": "title",
+        "type": "text"
+       },
+       {
+        "key": "label",
+        "type": "text"
+       },
+       {
+        "key": "advantages",
+        "displayFlex": true,
+        "items": [
+         {
+          "key": "advantages[].title",
+          "type": "text"
+         },
+         {
+          "key": "advantages[].description",
+          "type": "textarea"
+         }
+        ]
+       }
+      ]
+     },
+     "createdAt": "2019-06-11T09:46:06.297Z",
+     "updatedAt": "2020-01-08T10:22:09.465Z",
+     "__v": 0,
+     "icon": "public/widget-templates/icons/c8787b77-7ea3-4329-910e-b8312320ee1e.png"
+    },
+    "payload": {
+     "title": "Servicii de proiectare, instalare și mentenanță. La cheie doar în câteva zile!",
+     "label": "Executăm lucrări de proiectare, instalare și montare a echipamentelor de securitate și protecție, iar Dumneavoastră vă bucurați de beneficiile aduse de un sistem de supraveghere video",
+     "advantages": [
+      {
+       "title": "Proiectarea și estimarea costurilor ",
+       "description": "Evaluarea proiectului și determinarea nevoilor concrete ale viitorului sistem de supraveghere"
+      },
+      {
+       "title": "Instalarea și configurarea sistemului",
+       "description": "Integrare după caz, în infrastructura existentă sau conectându-l la alte dispozitive"
+      },
+      {
+       "title": "Punerea în funcțiune eficientă",
+       "description": "Suntem distribuitor exclusiv al echipamentelor furnizate"
+      },
+      {
+       "title": "Suport tehnic și consultanță",
+       "description": "Reparăm defecțiunile la centrul tehnic autorizat al companiei"
+      }
+     ]
+    },
+    "__v": 0,
+    "createdAt": "2020-08-05T14:01:51.997Z",
+    "updatedAt": "2021-05-27T14:01:30.480Z"
+   }
+  },
+  "right": {
+   "widget_id": "5eda18a0b86d6b002e433565",
+   "columns": 5,
+   "align": {
+    "value": "null"
+   },
+   "content": {
+    "published": true,
+    "pages": [],
+    "_id": "5eda18a0b86d6b002e433565",
+    "name": "Imagine suport tehnic video",
+    "template": {
+     "_id": "5e25bb80ab98870031ec4470",
+     "name": "Widget Template - Images",
+     "type": "widget-images",
+     "structure": {
+      "schema": {
+       "type": "object",
+       "properties": {
+        "images": {
+         "type": "array",
+         "items": {
+          "type": "object",
+          "properties": {
+           "image": {
+            "type": "object",
+            "properties": {
+             "mimetype": {
+              "type": "string"
+             },
+             "path": {
+              "type": "string"
+             }
+            }
+           },
+           "imageUrl": {
+            "type": "string",
+            "default": "javascript:void(0)"
+           },
+           "imageTitle": {
+            "type": "string"
+           },
+           "order": {
+            "type": "number",
+            "default": 1000000
+           }
+          }
+         }
+        },
+        "layout": {
+         "type": "object",
+         "properties": {
+          "value": {
+           "type": "string"
+          },
+          "name": {
+           "type": "string"
+          }
+         }
+        },
+        "columns": {
+         "type": "number"
+        },
+        "showViewAll": {
+         "type": "boolean"
+        },
+        "showLoadMore": {
+         "type": "boolean"
+        },
+        "showImageUrl": {
+         "type": "boolean"
+        },
+        "limit": {
+         "type": "number"
+        },
+        "link": {
+         "type": "string"
+        },
+        "padding": {
+         "type": "string"
+        },
+        "imageHeight": {
+         "type": "string"
+        },
+        "overlay": {
+         "type": "object",
+         "properties": {
+          "value": {
+           "type": "string"
+          },
+          "name": {
+           "type": "string"
+          }
+         }
+        }
+       }
+      },
+      "layout": [
+       {
+        "key": "images",
+        "displayFlex": true,
+        "items": [
+         {
+          "key": "images[]",
+          "displayFlex": true,
+          "items": [
+           {
+            "key": "images[].image",
+            "type": "file"
+           },
+           {
+            "key": "images[].imageUrl",
+            "type": "string"
+           },
+           {
+            "key": "images[].imageTitle",
+            "type": "string"
+           },
+           {
+            "key": "images[].order",
+            "type": "number"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "key": "limit",
+        "type": "number",
+        "title": "Limit Images (leave empty for no limit)"
+       },
+       {
+        "key": "showViewAll",
+        "type": "radio",
+        "title": "Activează butonul Vezi toate"
+       },
+       {
+        "key": "showLoadMore",
+        "type": "radio",
+        "title": "Activează butonul Mai multe"
+       },
+       {
+        "key": "link",
+        "type": "text",
+        "title": "Link pentru butonul Vezi toate"
+       },
+       {
+        "key": "showImageUrl",
+        "type": "checkbox",
+        "title": " Vizualizare in carduri"
+       },
+       {
+        "key": "padding",
+        "type": "text",
+        "title": "Button (link) Padding"
+       },
+       {
+        "key": "overlay.value",
+        "title": "Overlay",
+        "type": "select",
+        "titleMap": [
+         {
+          "value": "white",
+          "name": "White"
+         },
+         {
+          "value": "grey",
+          "name": "Grey"
+         }
+        ]
+       },
+       {
+        "key": "layout.value",
+        "title": "Layout",
+        "type": "select",
+        "titleMap": [
+         {
+          "value": "flex",
+          "name": "Flex"
+         },
+         {
+          "value": "columns",
+          "name": "Columns"
+         }
+        ]
+       },
+       {
+        "key": "columns",
+        "title": "Columns per row",
+        "type": "number",
+        "condition": "layout.value"
+       },
+       {
+        "key": "imageHeight",
+        "title": "Maximum Image Height",
+        "type": "number",
+        "condition": "layout.value"
+       }
+      ]
+     },
+     "createdAt": "2020-01-20T14:38:56.730Z",
+     "updatedAt": "2026-06-19T11:42:14.944Z",
+     "__v": 0,
+     "icon": "public/widget-templates/icons/7dc13a4b-21dc-486d-b2ea-a31e522efc9f.png"
+    },
+    "payload": {
+     "images": [
+      {
+       "image": {
+        "mimetype": "image/jpeg",
+        "path": "public/widgets/files/7e38d792-8a2c-4d6b-bb09-70a880433038.jpg"
+       }
+      }
+     ],
+     "layout": {
+      "value": "columns"
+     },
+     "columns": 1,
+     "imageHeight": "1200",
+     "overlay": {
+      "value": "null"
+     }
+    },
+    "createdAt": "2020-06-05T10:04:16.723Z",
+    "updatedAt": "2020-09-13T18:22:46.042Z",
+    "__v": 0
+   }
+  }
+ },
+ "Call to action - Landing supraveghere video - Widget Images-8": {
+  "images": [
+   {
+    "image": {
+     "mimetype": "image/jpeg",
+     "path": "public/widgets/files/ca754388-a07d-4f97-bd45-902d9ac3c6b4.jpg"
+    }
+   }
+  ],
+  "layout": {
+   "value": "flex"
+  },
+  "showViewAll": false
+ },
+ "Description Widget-5 RO": {
+  "description": "<h2>Proiectarea și montarea de sisteme de supraveghere video în Moldova.</h2><p>Montarea de sisteme de supraveghere video în Chișînău este una dintre cei mai necesari acțiuni pentru creșterea nivelului de securitate. Permite controlul a ceea ce se întâmplă, ceea ce este deosebit de important în locurile care necesită o securitate sporită, cum ar fi băncile, instituțiile medicale și guvernamentale.</p><p>Vânzare de sisteme video în Moldova câștigă avant în fiecare an, deoarece fiecare antreprenor încearcă să-și protejeze afacerea și angajații de la amenințare. Montarea camerelor video poate fi realizată în orice clădire publică, atât în interior, cât și în exterior, acoperind întregul teritoriu.</p><p>Sisteme de supraveghere video pentru oficii în Chișînău, precum și pentru case și centre comerciale, permite nu numai creșterea securității, ci și îmbunătățirea controlului calității muncii. Veți putea observă viață afacerii dvs., chiar și atunci când nu va aflați în preajma lucrătorilor.</p><p>Întregul proces de instalare a sistemului constă în mai multe etape:</p><ul><li>Proiectarea de camere video în Moldova este prima etapă a instalării echipamentelor, pe parcursul căreia teritoriul este studiat pentru lucrări ulterioare. Sunt selectate camere adecvate și sunt stabilite locațiile de instalare. Numărul camerelor și locația lor este determinat în așa fel încât, că urmare, nu există zone moarte care nu ar intră sub supraveghere.</li><li>Montarea și servicii de mentenanță pentru supraveghere video în Chișînău. Echipamente video au nevoie de service regulat pentru a se asigura că camere sunt întotdeauna în stare de funcționare și nu se defectează la momentul potrivit.</li></ul><p>Unul dintre cele mai moderne sisteme de supraveghere este sistemul legat de IP. Acest sistem video pentru centrele comerciale în Moldova are capacitatea de a transmite un flux video în format digital. Este format din dispozitive conectate în rețea, în care fiecare dispozitiv are propria adresa IP și o adresa MAC unică.</p><p>Proiectarea de sistem de supraveghere video IP în Chișînău include câteva sarcini importante:</p><ul><li>Selectarea echipamentului de baza;</li><li>Construirea unei rețele locale;</li><li>Calcularea cantității de memorie pentru stocarea înregistrărilor video;</li></ul><p>Costul unui astfel de sistem larg este destul de mare, dar în ciuda acestui fapt, vânzarea de camere video IP în Moldova nu încetează să crească. Camerele IP au o rezoluție foarte mare în comparație cu camerele analogice simple. Camera video este capabilă de analiză video a imaginii și integrarea cu aplicații de rețea și servicii cloud. Prin urmare, montarea de supravegherea video IP în Chișînău este o oportunitate uimitoare pentru a va asigura siguranță afacerii dvs.</p><p>Compania noastră va oferă un serviciu de garanție pentru un sistem video, deoarece, că orice alt echipament, are nevoie de inspecție și întreținere periodică. De asemenea, nu uitați de faptul că un sistem de supraveghere video pentru casă în Moldova necesită și controale periodice. În caz că echipamentul este defectat, vom efectua reparații rapide ale camerelor video și ale sistemului.</p><p>Noi oferim produse si solutii complexe pentru automatizarea afacerilor:</p><ul><li><a href=\"https://rti.md/category/echipamente-fiscale\" target=\"_blank\">Echipamente fiscale</a></li><li><a href=\"https://rti.md/category/pospc-specializat\" target=\"_blank\">Echipamente POS</a></li><li><a href=\"https://rti.md/ru/category/scanere-coduri-de-bare\" target=\"_blank\">Scanere codurilor de bare</a></li><li><a href=\"https://rti.md/category/cantare-comerciale\" target=\"_blank\">Cantare comerciale</a></li><li><a href=\"https://rti.md/category/imprimante\" target=\"_blank\">Imprimante</a></li><li><a href=\"https://rti.md/solutii-automatizare-horeca\" target=\"_blank\">Automatizare HoReCa</a></li><li><a href=\"https://rti.md/automatizare-retail\" target=\"_blank\">Automatizare retail</a></li><li><a href=\"https://rti.md/supraveghere-video\" target=\"_blank\">Sisteme de supraveghere video</a></li><li><a href=\"https://rti.md/sisteme-de-parcare\" target=\"_blank\">Sisteme de parcare</a></li><li><a href=\"https://rti.md/panouri-digitale\" target=\"_blank\">Panouri digitale</a></li></ul><p><br></p><p>Compania RTI - <a href=\"https://rti.md/\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255); color: rgb(22, 22, 22);\">Automatizarea proceselor de afaceri in Moldova</a></p>",
+  "rows": 14
+ }
+}

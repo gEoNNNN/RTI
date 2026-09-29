@@ -1,0 +1,690 @@
+[
+  {
+    "id": "5d2e5a81f8bdad003164db01",
+    "slug": "imprimante-pos",
+    "title": "Imprimante POS",
+    "parent": "5d2e5a3ef8bdad003164dafa",
+    "icon": null,
+    "order": null
+  },
+  {
+    "id": "5e38059f98acc300316b96a5",
+    "slug": "centrale-de-detectie-si-semnalizare-incendiu",
+    "title": "Centrale de detectie si semnalizare incendiu",
+    "parent": "5d2e5c03f8bdad003164db23",
+    "icon": "/images/08516625-037b-4bf5-801c-25acaa49127d.95d1f.jpg",
+    "order": null
+  },
+  {
+    "id": "5e3805bf98acc300316b96a6",
+    "slug": "dispozitive-periferice",
+    "title": "Dispozitive periferice",
+    "parent": "5d2e5c03f8bdad003164db23",
+    "icon": "/images/1ab4f02e-fea9-48b1-ac51-4012edae8b6c.95d1f.jpg",
+    "order": null
+  },
+  {
+    "id": "5e3825c198acc300316b96a7",
+    "slug": "masini-automate-de-etichetare",
+    "title": "Masini automate de etichetare",
+    "parent": "5d2e5c21f8bdad003164db25",
+    "icon": "/images/97decb30-d4c0-4c9f-9923-2425194dc5f8.95d1f.jpg",
+    "order": null
+  },
+  {
+    "id": "5e38263d98acc300316b96a9",
+    "slug": "detectoare-industriale-de-metale",
+    "title": "Detectoare industriale de metale",
+    "parent": "5d2e5c21f8bdad003164db25",
+    "icon": "/images/f8f29bd7-fe24-4356-ba45-b5def78ee647.95d1f.jpg",
+    "order": null
+  },
+  {
+    "id": "5d2e5a47f8bdad003164dafb",
+    "slug": "terminale-pos",
+    "title": "Terminale POS",
+    "parent": "5d2e5a3ef8bdad003164dafa",
+    "icon": null,
+    "order": 0
+  },
+  {
+    "id": "5d2e5a52f8bdad003164dafc",
+    "slug": "monitoare-pos",
+    "title": "Monitoare POS",
+    "parent": "5d2e5a3ef8bdad003164dafa",
+    "icon": null,
+    "order": 0
+  },
+  {
+    "id": "5d2e5a59f8bdad003164dafd",
+    "slug": "pos-tableta",
+    "title": "POS Tableta",
+    "parent": "5d2e5a3ef8bdad003164dafa",
+    "icon": null,
+    "order": 0
+  },
+  {
+    "id": "5d2e5a60f8bdad003164dafe",
+    "slug": "display-client-pos",
+    "title": "Display Client POS",
+    "parent": "5d2e5a3ef8bdad003164dafa",
+    "icon": null,
+    "order": 0
+  },
+  {
+    "id": "5d2e5a7af8bdad003164db00",
+    "slug": "pos-pc",
+    "title": "POS PC",
+    "parent": "5d2e5a3ef8bdad003164dafa",
+    "icon": null,
+    "order": 0
+  },
+  {
+    "id": "5d2e5a8bf8bdad003164db02",
+    "slug": "cititoare-magnetice",
+    "title": "Cititoare magnetice",
+    "parent": "5d2e5a3ef8bdad003164dafa",
+    "icon": null,
+    "order": 0
+  },
+  {
+    "id": "5d2e5a93f8bdad003164db03",
+    "slug": "sertar-de-bani",
+    "title": "Sertar de bani",
+    "parent": "5d2e5a3ef8bdad003164dafa",
+    "icon": null,
+    "order": 0
+  },
+  {
+    "id": "5d2e5a99f8bdad003164db04",
+    "slug": "price-checkers",
+    "title": "Price checkers",
+    "parent": "5d2e5a3ef8bdad003164dafa",
+    "icon": null,
+    "order": 0
+  },
+  {
+    "id": "5d2dc25785c6d900318650fe",
+    "slug": "pospc-specializat",
+    "title": "POS/PC specializat",
+    "parent": null,
+    "icon": "/images/388bd559-cdbe-40fe-909c-01e9c99cd41b.95d1f.svg",
+    "order": 1
+  },
+  {
+    "id": "5d2e5aadf8bdad003164db06",
+    "slug": "echipamente-fiscale",
+    "title": "Echipamente fiscale",
+    "parent": null,
+    "icon": "/images/d14bb8d5-eed3-4659-b217-9409eeb819df.95d1f.svg",
+    "order": 1
+  },
+  {
+    "id": "5d2e5b8df8bdad003164db17",
+    "slug": "difuzoare-audio",
+    "title": "Difuzoare audio",
+    "parent": "5d2e5b82f8bdad003164db16",
+    "icon": "/images/207c103f-da94-4ef9-aa18-b17465900ce8.95d1f.jpg",
+    "order": 1
+  },
+  {
+    "id": "5d60517cb8f21800319edfa9",
+    "slug": "scanere-manuale",
+    "title": "Scanere manuale",
+    "parent": "5d2e5bdcf8bdad003164db1f",
+    "icon": "/images/f6648284-4fe1-4529-b6ca-ac0d2fff2825.95d1f.jpg",
+    "order": 1
+  },
+  {
+    "id": "5e3a75e898acc300316b96aa",
+    "slug": "turnichete",
+    "title": "Turnichete",
+    "parent": "5d2e5c3df8bdad003164db28",
+    "icon": "/images/537964c7-ac00-470a-a0d2-369418f142d3.95d1f.svg",
+    "order": 1
+  },
+  {
+    "id": "5e3a76df98acc300316b96ac",
+    "slug": "turnichete-tripod",
+    "title": "Turnichete tripod",
+    "parent": "5e3a75e898acc300316b96aa",
+    "icon": null,
+    "order": 1
+  },
+  {
+    "id": "5e3abc9546e713003c66ecaf",
+    "slug": "sisteme-nvr",
+    "title": "Sisteme NVR",
+    "parent": "5d2e5b6cf8bdad003164db13",
+    "icon": "/images/c83d67dc-97e7-4f6c-8946-a794e7f06a8b.95d1f.jpg",
+    "order": 1
+  },
+  {
+    "id": "5e88b7111208a4002ee4dde8",
+    "slug": "etichete-cu-imagine-prealabila",
+    "title": "Etichete cu imagine prealabila",
+    "parent": "5d2e5b3af8bdad003164db0e",
+    "icon": "/images/576077d3-9c49-4a61-a146-4dca659f6346.95d1f.jpg",
+    "order": 1
+  },
+  {
+    "id": "5e8b1a411208a4002ee4de72",
+    "slug": "feliatoare-manuale",
+    "title": "Feliatoare manuale",
+    "parent": "5d2e5c21f8bdad003164db25",
+    "icon": "/images/d528e8c5-15d0-4d9e-8c78-828bb9c0f8a6.95d1f.jpg",
+    "order": 1
+  },
+  {
+    "id": "5ecccb671fc0b7002e9617c0",
+    "slug": "sistem-pos",
+    "title": "Sistem POS",
+    "parent": "5d2dc25785c6d900318650fe",
+    "icon": "/images/ee89a3ce-1629-4e9a-a425-7c4c81fb133b.95d1f.jpg",
+    "order": 1
+  },
+  {
+    "id": "5f416f7e0a6e78002e4600c6",
+    "slug": "imprimante-termice",
+    "title": "Imprimante termice",
+    "parent": "5d2e5babf8bdad003164db1a",
+    "icon": "/images/536410cc-63cf-4a78-937a-bd4d65751c97.95d1f.jpg",
+    "order": 1
+  },
+  {
+    "id": "61a8db42cfab9d002e096fc6",
+    "slug": "terminale-chainway",
+    "title": "Terminale Chainway",
+    "parent": "5e33f4e498acc300316b966f",
+    "icon": "/images/25313bf3-525c-459b-bed0-fde6a7391cba.95d1f.jpg",
+    "order": 1
+  },
+  {
+    "id": "61bb260d499eac00318fb1c6",
+    "slug": "scanere-rscan",
+    "title": "Scanere RScan",
+    "parent": "5d60517cb8f21800319edfa9",
+    "icon": null,
+    "order": 1
+  },
+  {
+    "id": "61cc46a2499eac00318fb969",
+    "slug": "solutii-horeca",
+    "title": "Solutii HoReCa ",
+    "parent": "61cc31b4499eac00318fb968",
+    "icon": "/images/59468627-2707-437a-9c67-c820e4c98fec.95d1f.jpg",
+    "order": 1
+  },
+  {
+    "id": "61cc4778499eac00318fb96a",
+    "slug": "solutii-retail",
+    "title": "Solutii Retail",
+    "parent": "61cc31b4499eac00318fb968",
+    "icon": "/images/42bee20d-8c85-4701-99c5-4951ba3c5f2f.95d1f.jpg",
+    "order": 1
+  },
+  {
+    "id": "621770bd2cab9a0032d28c48",
+    "slug": "acceptoare-monede",
+    "title": "Acceptoare monede",
+    "parent": "6217530d2cab9a0032d28c44",
+    "icon": "/images/5f01b9cb-21dd-4de6-8cf3-28650df45573.95d1f.jpg",
+    "order": 1
+  },
+  {
+    "id": "68fb8a4bc513c100313dffe3",
+    "slug": "detachers",
+    "title": "Detachers",
+    "parent": "68f9ed13c513c100313dff6d",
+    "icon": null,
+    "order": 1
+  },
+  {
+    "id": "690b56ecc513c100313e03d9",
+    "slug": "ticket-system",
+    "title": "Ticket System",
+    "parent": "6220babb2cab9a0032d29007",
+    "icon": "/images/4c1efe65-42ba-4302-b7bd-06e99a15dac8.95d1f.svg",
+    "order": 1
+  },
+  {
+    "id": "5d2e5b56f8bdad003164db10",
+    "slug": "etichete-termice",
+    "title": "Etichete termice",
+    "parent": "5d2e5b3af8bdad003164db0e",
+    "icon": "/images/4cb9ba8a-067b-4f5e-bcd9-ef3d451dd526.95d1f.jpg",
+    "order": 2
+  },
+  {
+    "id": "5d2e5b96f8bdad003164db18",
+    "slug": "amplificatoare-audio",
+    "title": "Amplificatoare audio",
+    "parent": "5d2e5b82f8bdad003164db16",
+    "icon": "/images/3d150501-febb-47d1-94f7-ce134692ca73.95d1f.jpg",
+    "order": 2
+  },
+  {
+    "id": "5d2e5bbbf8bdad003164db1b",
+    "slug": "imprimante-de-etichete",
+    "title": "Imprimante de etichete",
+    "parent": "5d2e5babf8bdad003164db1a",
+    "icon": "/images/d231e4fd-6da1-43b8-b8bf-480784833bab.95d1f.jpg",
+    "order": 2
+  },
+  {
+    "id": "5e3a784298acc300316b96af",
+    "slug": "turnichete-poarta",
+    "title": "Turnichete-poarta",
+    "parent": "5e3a75e898acc300316b96aa",
+    "icon": null,
+    "order": 2
+  },
+  {
+    "id": "5e84acfd1208a4002ee4d7d7",
+    "slug": "scanere-de-masa",
+    "title": "Scanere de masa",
+    "parent": "5d2e5bdcf8bdad003164db1f",
+    "icon": "/images/b3faef36-1384-45ba-8a17-182434a3c644.95d1f.jpg",
+    "order": 2
+  },
+  {
+    "id": "5e84cddf1208a4002ee4d969",
+    "slug": "echipamente-pos-suplimentare",
+    "title": "Echipamente POS suplimentare",
+    "parent": "5d2dc25785c6d900318650fe",
+    "icon": "/images/d8ec6793-3d18-4a71-a0da-cdf4667183e3.95d1f.jpg",
+    "order": 2
+  },
+  {
+    "id": "5ec7c84b1fc0b7002e9614ec",
+    "slug": "sisteme-biometrice",
+    "title": "Sisteme biometrice",
+    "parent": "5d2e5c3df8bdad003164db28",
+    "icon": "/images/b8dce45d-b496-40a6-a390-21159e130570.95d1f.jpg",
+    "order": 2
+  },
+  {
+    "id": "5ed64f6bb86d6b002e4333b4",
+    "slug": "controlere-de-acces",
+    "title": "Controlere de acces",
+    "parent": "5d2e5c3df8bdad003164db28",
+    "icon": "/images/4373899d-12b7-4b61-90e1-ae0280465c73.95d1f.jpg",
+    "order": 2
+  },
+  {
+    "id": "61a8db54cfab9d002e096fc7",
+    "slug": "terminale-datalogic",
+    "title": "Terminale Datalogic",
+    "parent": "5e33f4e498acc300316b966f",
+    "icon": "/images/0261fdc8-1a9b-453d-8934-e19737c7221e.95d1f.jpg",
+    "order": 2
+  },
+  {
+    "id": "62177bbb2cab9a0032d28c4a",
+    "slug": "validatoracceptor-numerar",
+    "title": "Validator/acceptor numerar",
+    "parent": "6217530d2cab9a0032d28c44",
+    "icon": "/images/27e4dc33-a9a0-4b08-af6d-f0d4d83f48dd.95d1f.jpg",
+    "order": 2
+  },
+  {
+    "id": "62dfda439f9a3c00318c374a",
+    "slug": "camere-video-ptz",
+    "title": "Camere video PTZ",
+    "parent": "5d2e5b6cf8bdad003164db13",
+    "icon": "/images/b465460a-be63-4a24-96cc-af3722ae333a.95d1f.jpg",
+    "order": 2
+  },
+  {
+    "id": "6890aa4bc513c100313dfc0f",
+    "slug": "pc-based",
+    "title": "PC Based",
+    "parent": "62ff756a9f9a3c00318c7b29",
+    "icon": "/images/74aaa6ea-9c02-4bb8-812a-915613109fca.95d1f.webp",
+    "order": 2
+  },
+  {
+    "id": "68f745aec513c100313dfe96",
+    "slug": "antene-antifurt-am",
+    "title": "Antene Antifurt AM",
+    "parent": "5d2e5c59f8bdad003164db2b",
+    "icon": "/images/dbe97e98-51fb-476c-8ae2-65a7c2e79370.95d1f.png",
+    "order": 2
+  },
+  {
+    "id": "68f75e67c513c100313dfead",
+    "slug": "antene-antifurt-rf",
+    "title": "Antene Antifurt RF",
+    "parent": "5d2e5c59f8bdad003164db2b",
+    "icon": "/images/172f723b-37e1-4099-9993-06936043f62a.95d1f.png",
+    "order": 2
+  },
+  {
+    "id": "690b57b3c513c100313e03e4",
+    "slug": "cardpass-rparking",
+    "title": "CardPass RParking",
+    "parent": "6220babb2cab9a0032d29007",
+    "icon": "/images/f5f1917f-49c0-4dd1-9289-2dd76c0fc97e.95d1f.svg",
+    "order": 2
+  },
+  {
+    "id": "5d2e5a01f8bdad003164daf6",
+    "slug": "scanere-bi-optic",
+    "title": "Scanere Bi-optic",
+    "parent": "5d2e5bdcf8bdad003164db1f",
+    "icon": "/images/b8b29d1c-2ccc-443e-bcb4-b09a087a53fe.95d1f.jpg",
+    "order": 3
+  },
+  {
+    "id": "5d2e5b48f8bdad003164db0f",
+    "slug": "hartie-termica",
+    "title": "Hartie termica",
+    "parent": "5d2e5b3af8bdad003164db0e",
+    "icon": "/images/e0f068f6-9523-4896-a5d8-f57e7031a4df.95d1f.jpg",
+    "order": 3
+  },
+  {
+    "id": "5d2e5babf8bdad003164db1a",
+    "slug": "imprimante",
+    "title": "Imprimante ",
+    "parent": null,
+    "icon": "/images/412efdb8-97ce-4bff-8ef1-6380fae276ce.95d1f.svg",
+    "order": 3
+  },
+  {
+    "id": "5d2e5bc3f8bdad003164db1c",
+    "slug": "imprimante-portabile",
+    "title": "Imprimante portabile",
+    "parent": "5d2e5babf8bdad003164db1a",
+    "icon": "/images/53334a97-fbda-4952-8b6c-488aab82f2d9.95d1f.jpg",
+    "order": 3
+  },
+  {
+    "id": "5e8b1a871208a4002ee4de74",
+    "slug": "feliatoare-automatesemi-automate",
+    "title": "Feliatoare automate/semi-automate",
+    "parent": "5d2e5c21f8bdad003164db25",
+    "icon": "/images/eb6cdf9e-a004-4f1f-a1e7-1da8db635ff3.95d1f.jpg",
+    "order": 3
+  },
+  {
+    "id": "5edcebbfb86d6b002e4335c1",
+    "slug": "cititoare",
+    "title": "Cititoare",
+    "parent": "5d2e5c3df8bdad003164db28",
+    "icon": "/images/75ba33bb-a137-4b62-bdb7-84a8e2e4a108.95d1f.jpg",
+    "order": 3
+  },
+  {
+    "id": "5ee7382910a64600397f34d7",
+    "slug": "accesorii-audio",
+    "title": "Accesorii audio",
+    "parent": "5d2e5b82f8bdad003164db16",
+    "icon": "/images/bf6fe54f-b3f8-46cc-a3d9-fa48e00e02d3.95d1f.jpg",
+    "order": 3
+  },
+  {
+    "id": "62dfcbe89f9a3c00318c36cb",
+    "slug": "ip-camere-de-interior",
+    "title": "IP camere de interior",
+    "parent": "5d2e5b6cf8bdad003164db13",
+    "icon": "/images/bdb98833-747a-4f1d-82d1-8018057a1803.95d1f.jpg",
+    "order": 3
+  },
+  {
+    "id": "652661b839394c00313e5122",
+    "slug": "dibal-500",
+    "title": "Dibal  500 ",
+    "parent": "62ff756a9f9a3c00318c7b29",
+    "icon": null,
+    "order": 3
+  },
+  {
+    "id": "68f9ed13c513c100313dff6d",
+    "slug": "accesorii-antifurt",
+    "title": "Accesorii Antifurt ",
+    "parent": "5d2e5c59f8bdad003164db2b",
+    "icon": "/images/c9e4edd9-74fc-41c7-9d36-91594c597601.95d1f.png",
+    "order": 3
+  },
+  {
+    "id": "690ba162c513c100313e046f",
+    "slug": "terminal-de-plata",
+    "title": "Terminal de Plata",
+    "parent": "6220babb2cab9a0032d29007",
+    "icon": "/images/be4233b6-2dc4-4617-968e-21aea981a434.95d1f.svg",
+    "order": 3
+  },
+  {
+    "id": "5d2e5b5df8bdad003164db11",
+    "slug": "riboane",
+    "title": "Riboane",
+    "parent": "5d2e5b3af8bdad003164db0e",
+    "icon": "/images/c799405d-de24-42e2-9db2-c7db2b96cb00.95d1f.jpg",
+    "order": 4
+  },
+  {
+    "id": "5d2e5bd1f8bdad003164db1e",
+    "slug": "imprimante-industriale",
+    "title": "Imprimante industriale",
+    "parent": "5d2e5babf8bdad003164db1a",
+    "icon": "/images/431fa255-f714-4026-8c33-4a879da3d5b3.95d1f.jpg",
+    "order": 4
+  },
+  {
+    "id": "5eda0eafb86d6b002e433564",
+    "slug": "lacate-electronice",
+    "title": "Lacate electronice",
+    "parent": "5d2e5c3df8bdad003164db28",
+    "icon": "/images/bdc20d0a-d3c9-4fa8-856c-400b0a49cebb.95d1f.jpg",
+    "order": 4
+  },
+  {
+    "id": "62dfcd029f9a3c00318c36cc",
+    "slug": "ip-camere-de-exterior",
+    "title": "IP camere de exterior",
+    "parent": "5d2e5b6cf8bdad003164db13",
+    "icon": "/images/35ca807e-04f3-47cd-add5-5846939c5cb0.95d1f.jpg",
+    "order": 4
+  },
+  {
+    "id": "62ff756a9f9a3c00318c7b29",
+    "slug": "cantare-comerciale",
+    "title": "Cantare comerciale",
+    "parent": null,
+    "icon": "/images/719fc604-31f0-4735-a1ed-f1feaac8c0a0.95d1f.png",
+    "order": 4
+  },
+  {
+    "id": "63c120db39394c00313e4694",
+    "slug": "scanere-incorporate",
+    "title": " Scanere  &icirc;ncorporate",
+    "parent": "5d2e5bdcf8bdad003164db1f",
+    "icon": "/images/be41f14f-b5b2-49a2-978f-5bf2ad4d8225.95d1f.jpg",
+    "order": 4
+  },
+  {
+    "id": "6890a5d6c513c100313dfbd4",
+    "slug": "dibal-900",
+    "title": "Dibal  900 ",
+    "parent": "62ff756a9f9a3c00318c7b29",
+    "icon": "/images/e4d77d4a-40f5-4b72-b5b6-e09e1e79e124.95d1f.webp",
+    "order": 4
+  },
+  {
+    "id": "68f9ec85c513c100313dff6c",
+    "slug": "detacher",
+    "title": "Detacher",
+    "parent": "5d2e5c59f8bdad003164db2b",
+    "icon": "/images/9092f296-bf74-47ab-9d1e-99fb002313df.95d1f.png",
+    "order": 4
+  },
+  {
+    "id": "690b62ecc513c100313e03f7",
+    "slug": "bariera-automata",
+    "title": "Barier&#259; Automat&#259; ",
+    "parent": "6220babb2cab9a0032d29007",
+    "icon": "/images/89e036df-835f-4573-8d67-95b506e51458.95d1f.svg",
+    "order": 4
+  },
+  {
+    "id": "5d2e5bcaf8bdad003164db1d",
+    "slug": "imprimante-de-carduri",
+    "title": "Imprimante de carduri",
+    "parent": "5d2e5babf8bdad003164db1a",
+    "icon": "/images/189bd2d2-f395-46c5-8ca4-45637dd89972.95d1f.jpg",
+    "order": 5
+  },
+  {
+    "id": "5d2e5bdcf8bdad003164db1f",
+    "slug": "scanere-coduri-de-bare",
+    "title": "Scanere coduri de bare",
+    "parent": null,
+    "icon": "/images/9913315e-fa08-41dd-abfd-f168c1629182.95d1f.svg",
+    "order": 5
+  },
+  {
+    "id": "5e33f4e498acc300316b966f",
+    "slug": "terminale-colectare-date",
+    "title": "Terminale colectare date",
+    "parent": null,
+    "icon": "/images/3bff2ee7-0e5d-4cc6-8866-3e3259813ce3.95d1f.svg",
+    "order": 5
+  },
+  {
+    "id": "5edceb34b86d6b002e4335c0",
+    "slug": "accesorii",
+    "title": "Accesorii",
+    "parent": "5d2e5c3df8bdad003164db28",
+    "icon": "/images/39912824-273d-473e-bbea-365b6b22c342.95d1f.jpg",
+    "order": 5
+  },
+  {
+    "id": "61cc31b4499eac00318fb968",
+    "slug": "case-de-autodeservire",
+    "title": "Case de autodeservire",
+    "parent": null,
+    "icon": "/images/89075582-863c-49d9-b1ff-eca1d22ff770.95d1f.svg",
+    "order": 5
+  },
+  {
+    "id": "69020cf1c513c100313e0195",
+    "slug": "safer",
+    "title": " Safer ",
+    "parent": "5d2e5c59f8bdad003164db2b",
+    "icon": "/images/f61fe308-3520-48e8-a35e-7b2e426475b6.95d1f.png",
+    "order": 5
+  },
+  {
+    "id": "690b6870c513c100313e040b",
+    "slug": "accesorii-de-parcare",
+    "title": "Accesorii de Parcare ",
+    "parent": "6220babb2cab9a0032d29007",
+    "icon": "/images/ed4ef64a-00fe-4619-b2c7-42d56efb52bb.95d1f.svg",
+    "order": 5
+  },
+  {
+    "id": "61add9c4cfab9d002e09728f",
+    "slug": "sistem-numarare-vizitatori",
+    "title": "Sistem numarare vizitatori",
+    "parent": null,
+    "icon": "/images/7295179b-6b8e-42d8-a28e-14bc628d6220.95d1f.svg",
+    "order": 6
+  },
+  {
+    "id": "61af258bcfab9d002e09781a",
+    "slug": "automate-de-schimb",
+    "title": "Automate de schimb",
+    "parent": "6217530d2cab9a0032d28c44",
+    "icon": "/images/296c7671-c1d3-4ecb-8d47-adcc9e0feb86.95d1f.svg",
+    "order": 7
+  },
+  {
+    "id": "5d2e5c59f8bdad003164db2b",
+    "slug": "sistem-antifurt",
+    "title": "Sistem antifurt",
+    "parent": null,
+    "icon": "/images/79f1a2b5-21fc-47f5-8468-44364344370d.95d1f.svg",
+    "order": 9
+  },
+  {
+    "id": "6220babb2cab9a0032d29007",
+    "slug": "echipamente-de-parcare",
+    "title": "Echipamente de parcare",
+    "parent": null,
+    "icon": "/images/b2b0fe8b-9f88-4941-a285-a7ae332868ed.95d1f.svg",
+    "order": 10
+  },
+  {
+    "id": "5d2e5b6cf8bdad003164db13",
+    "slug": "sisteme-supraveghere-video",
+    "title": "Sisteme supraveghere video",
+    "parent": null,
+    "icon": "/images/92aefe24-ee4e-4491-8db9-6d7707c56cf1.95d1f.svg",
+    "order": 11
+  },
+  {
+    "id": "5d2e5b82f8bdad003164db16",
+    "slug": "sisteme-audio",
+    "title": "Sisteme audio",
+    "parent": null,
+    "icon": "/images/8687d167-03b6-40a5-8f08-62313f299e91.95d1f.svg",
+    "order": 12
+  },
+  {
+    "id": "5d2e5c3df8bdad003164db28",
+    "slug": "sistem-control-acces",
+    "title": "Sistem control acces",
+    "parent": null,
+    "icon": "/images/e205feec-7ba6-4fa5-8da2-0f24af0d6bc5.95d1f.svg",
+    "order": 13
+  },
+  {
+    "id": "6217530d2cab9a0032d28c44",
+    "slug": "echipament-primireemitere-numerar",
+    "title": "Echipament primire/emitere numerar",
+    "parent": null,
+    "icon": "/images/22892391-7047-4804-be11-c40dafa1a1f4.95d1f.svg",
+    "order": 15
+  },
+  {
+    "id": "5d2e5c21f8bdad003164db25",
+    "slug": "echipamente-industriale-alimentare",
+    "title": "Echipamente industriale alimentare",
+    "parent": null,
+    "icon": "/images/d8ba2053-4958-4dba-8d3a-493fdb631ddf.95d1f.svg",
+    "order": 16
+  },
+  {
+    "id": "5eb2a44f1fc0b7002e96079c",
+    "slug": "echipamente-wireless",
+    "title": "Echipamente wireless",
+    "parent": null,
+    "icon": "/images/42e7b0a0-912e-426b-9ccb-fa2c9ff7cf4a.95d1f.svg",
+    "order": 17
+  },
+  {
+    "id": "5d2e5c03f8bdad003164db23",
+    "slug": "sisteme-antiincendiu",
+    "title": "Sisteme antiincendiu",
+    "parent": null,
+    "icon": "/images/ea3a76d9-baef-478b-98f6-6bcdacc32c58.95d1f.svg",
+    "order": 18
+  },
+  {
+    "id": "5d2e5b3af8bdad003164db0e",
+    "slug": "consumabile",
+    "title": "Consumabile",
+    "parent": null,
+    "icon": "/images/bbd71f8c-263f-49e0-b5f8-20822079999d.95d1f.svg",
+    "order": 19
+  },
+  {
+    "id": "628cc7329f9a3c00318c1022",
+    "slug": "sudare-cu-fibre-optice",
+    "title": "Sudare cu fibre optice",
+    "parent": null,
+    "icon": "/images/5ddc7954-6a35-4a83-a999-4a9c376a41de.95d1f.svg",
+    "order": 20
+  }
+]

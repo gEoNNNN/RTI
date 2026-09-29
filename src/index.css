@@ -1,0 +1,181 @@
+/* Global reset to allow original site styles to take full effect */
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background: #ffffff;
+  font-family: Roboto, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+#root {
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Ensure smooth transition and default link decoration */
+a {
+  text-decoration: none;
+  color: inherit;
+}
+a:hover {
+  text-decoration: none;
+}
+
+
+/* ==== Navbar icon + layout hardening ==== */
+.nav-links__item .item-icon {
+  display: inline-flex;
+  align-items: center;
+  flex: none;
+  width: 18px;
+  height: 18px;
+  overflow: hidden;
+}
+.nav-links__item .item-icon img {
+  width: 16px !important;
+  height: 16px !important;
+  max-width: 16px !important;
+  max-height: 16px !important;
+  flex: none;
+  object-fit: contain;
+}
+.nav-links__item .item-icon img.active { display: none !important; }
+.nav-links__item .item-icon img.inactive { display: inline-block !important; }
+.nav-links__item:hover .item-icon img.active,
+.nav-links__item.active-link .item-icon img.active { display: inline-block !important; }
+.nav-links__item:hover .item-icon img.inactive,
+.nav-links__item.active-link .item-icon img.inactive { display: none !important; }
+.nav-links__list { flex-wrap: nowrap !important; }
+.nav-links__item .item-title { white-space: nowrap; }
+
+/* Departments list icons — same double-icon protection */
+.departments__links .icon { width: 20px; height: 20px; display: inline-flex; align-items: center; flex: none; }
+.departments__links .icon img { max-width: 20px !important; max-height: 20px !important; }
+.departments__links .icon img.active { display: none !important; }
+.departments__links .departments__item:hover .icon img.active { display: inline-block !important; }
+.departments__links .departments__item:hover .icon img.inactive { display: none !important; }
+
+/* Mega-menu subcategory icons */
+.departments__menu .menu .list a img.icon { width: 30px !important; height: 30px !important; object-fit: contain; flex: none; }
+
+/* Entrust slider — text was collapsed by -webkit-box/line-clamp combo */
+.entrustSlider .slideContent .left-side .meta .descriptionBox {
+  display: block !important;
+  -webkit-line-clamp: unset !important;
+  text-overflow: clip;
+  max-height: 165px;
+  overflow: hidden;
+  font-size: 16px;
+  line-height: 150%;
+  color: #464646;
+}
+
+/* Entrust slide inner .left-side was wrongly hit by .widgetEntrust .left-side
+   (absolute positioned 80px-wide white panel meant for the widget edge) */
+.entrustSlider .slideContent .left-side {
+  position: static !important;
+  width: auto !important;
+  height: auto !important;
+  background: transparent !important;
+}
+
+/* Partners carousel — one sliding row, side chevrons, auto-rotate */
+.partnersCarousel {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.partnersCarousel .carousel-arrow {
+  flex: none;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  opacity: 0.4;
+  transition: opacity 0.2s;
+}
+.partnersCarousel .carousel-arrow:hover { opacity: 1; }
+.partnersTrackWrap {
+  flex: 1;
+  overflow: hidden;
+  min-width: 0;
+}
+.partnersTrack {
+  display: flex;
+  flex-wrap: nowrap;
+  width: max-content;
+}
+.partnersTrackItem {
+  flex: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 18px;
+  box-sizing: border-box;
+  height: 90px;
+}
+.partnersTrackItem img {
+  max-width: 100%;
+  max-height: 70px;
+  object-fit: contain;
+}
+
+/* Dual widget — footer item fade on rotate */
+@keyframes footerSlideIn {
+  from { opacity: 0; transform: translateX(18px); }
+  to { opacity: 1; transform: translateX(0); }
+}
+.footerSlide { animation: footerSlideIn 0.5s ease; }
+
+/* Solution pages — solutions grid must not inherit homepage hero-slide flex rules */
+.solutionsBranch .slides {
+  display: block !important;
+  margin-top: 0 !important;
+  position: static;
+}
+.solutionsBranch .slides .row {
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: -15px;
+  margin-left: -15px;
+  width: 100%;
+}
+.solutionsBranch .item-info {
+  padding: 0 5px 10px;
+  box-sizing: border-box;
+}
+.solutionsBranch .businessBranchItem {
+  margin-bottom: 5px;
+}
+.solutionsBranch .businessBranchItem .content {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50%;
+}
+
+/* Text features — items must stack vertically, not as flex columns */
+.widget-text-features .features .items { display: block !important; }
+.widget-text-features .features .items .item { display: flex; width: 100%; }
+.widget-text-features .features .items .item .right { flex: 1; min-width: 0; }
+
+/* Prevent decorative absolute elements (200vw backgrounds, offset bullet-masks) from widening the page */
+html, body { overflow-x: hidden; }
+
+/* Landing dual-widget — right-side photo must be full-size, not logo-thumbnail */
+.dualWidgetWrap .custom-column { padding: 0; }
+.dualWidgetWrap .custom-column img { max-height: none; width: 100%; }
+
+/* TDF items must stack vertically, not in a flex row */
+.widget-title-description-features .features .items{display:block}
+.widget-title-description-features .features .items .item{display:block;width:100%}
+
+.widget-accordion .accordions .items{display:block}
+.widget-accordion .accordions .items .item{display:flex}
+
+/* Nested .left/.right inside dual-widget children must not inherit column widths */
+.dualWidgetWrap .widget-accordion .accordions .item .left{width:60px!important;padding-left:0!important}
+.dualWidgetWrap .widget-accordion .accordions .item .right{width:auto!important;flex:1;padding-left:0!important;padding-bottom:0!important;padding-top:0!important}
+.dualWidgetWrap .widget-accordion .accordions .item{padding:15px 0!important}

@@ -1,0 +1,454 @@
+{
+ "Widget Page Header-3 Romana": {
+  "title": "Preturi soft",
+  "bgImage": {
+   "mimetype": "image/png",
+   "path": "public/widgets/files/eff2cee8-3221-4a7d-b281-25e0a6579c6a.png"
+  },
+  "links": [
+   {
+    "name": "Preturi",
+    "value": "2",
+    "type": "SCROLL"
+   },
+   {
+    "name": "Functii pachete",
+    "value": "3",
+    "type": "SCROLL"
+   }
+  ]
+ },
+ "Breadcrumbs-Preturi Syrve - RO": {
+  "border": true,
+  "breadcrumbs": [
+   {
+    "title": "Principala",
+    "link": "/"
+   },
+   {
+    "title": " Preturi soft Syrve",
+    "link": "/"
+   }
+  ]
+ },
+ "Pachete soft Syrve - Landing software Syrve - Widget Pricing Box": {
+  "title": "Software Syrve",
+  "description": "Un sistem special de planificare a resurselor intreprinderii, conceput pentru a automatiza contabilitatea intr-un restaurant, bar, cafenea si un serviciu de livrare de bucate gata preparate.",
+  "disclaimer": "* Preturile pachetelor de mai sus sunt afisate in Euro si fara TVA.",
+  "oneTimePayment": false,
+  "packages": [
+   {
+    "title": "Basic",
+    "description": "Aplicatie pentru afaceri mici",
+    "price": "39 EURO/lună",
+    "content": "<li>Suportul tehnic la nivel BASIC </li><li>Pret special la achitarea pentru 12 luni</li><li>Pret pe punct de vanzare POS *</li>"
+   },
+   {
+    "title": "Professional",
+    "description": "Caracteristici avansate pentru restaurante",
+    "price": "59 EURO/lună",
+    "content": "<ul><li>Suportul tehnic la nivel BASIC</li><li>Pret special la achitarea pentru 12 luni</li><li>Pret pe punct de vanzare POS *</li></ul>"
+   },
+   {
+    "title": "Entreprise",
+    "description": "Aplicatie pentru afaceri dezvoltate",
+    "price": "89 EURO/lună",
+    "content": "<li>Suportul tehnic la nivel BASIC </li><li>Pret special la achitarea pentru 12 luni</li><li>Pret pe punct de vanzare POS *"
+   }
+  ]
+ },
+ "Caracteristici pachete iiko - Landing software iiko - package-solutions English": {
+  "title": "Descopera toate solutiile incluse",
+  "packageContent": "Continutul pachetelor",
+  "seeAll": "Extinde",
+  "basic": "Basic",
+  "pro": "Professional",
+  "enterprise": "Enterprise",
+  "solutions": [
+   {
+    "title": "Functionalitati de baza ale sistemului",
+    "basic": "1",
+    "pro": "1",
+    "enterprise": "1",
+    "additional_solutions": [
+     {
+      "title": "Interfata POS intuitiva",
+      "basic": "1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Schema salilor",
+      "basic": "1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Separarea bonurilor de plata",
+      "basic": "1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Integrare terminale bancare",
+      "basic": "-1",
+      "pro": "-1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Imprimarea comenzilor si gestionarea rulajului la bucatarie.",
+      "basic": "1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Aplicație pentru dispozitive mobile",
+      "basic": "$10 /lună per device",
+      "pro": "$10 /lună per device",
+      "enterprise": "$10 /lună per device"
+     }
+    ]
+   },
+   {
+    "title": "Meniu si preturi",
+    "basic": "0",
+    "pro": "1",
+    "enterprise": "1",
+    "additional_solutions": [
+     {
+      "title": "Crearea meniului de baza",
+      "basic": "1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Retetare",
+      "basic": "by RTI",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Configurarea avansata a meniului de baza",
+      "basic": "-1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Categorii de preturi",
+      "basic": "-1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Modificarea programata a meniului",
+      "basic": "-1",
+      "pro": "1",
+      "enterprise": "1"
+     }
+    ]
+   },
+   {
+    "title": "Gestiunea lantului de restaurante",
+    "basic": "0",
+    "pro": "1",
+    "enterprise": "1",
+    "additional_solutions": [
+     {
+      "title": "Genereaza rapoarte în timp real",
+      "basic": "1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Preturi personalizate pe fiecare restaurant",
+      "basic": "-1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Transfer gestiune între restaurante",
+      "basic": "-1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Producere centralizata si transfer de produse intre ele",
+      "basic": "-1",
+      "pro": "1",
+      "enterprise": "1"
+     }
+    ]
+   },
+   {
+    "title": "Caracteristici avansate ale restaurantului",
+    "basic": "-1",
+    "pro": "1",
+    "enterprise": "1",
+    "additional_solutions": [
+     {
+      "title": "Plata cu tichete de masa",
+      "basic": "-1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Display pentru bucatarie",
+      "basic": "-1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Conectarea cantarului pentru calcul greutate",
+      "basic": "-1",
+      "pro": "1",
+      "enterprise": "1"
+     }
+    ]
+   },
+   {
+    "title": "Livrarea si takeaway",
+    "basic": "0",
+    "pro": "0",
+    "enterprise": "1",
+    "additional_solutions": [
+     {
+      "title": "Colectarea centralizata a comenzilor",
+      "basic": "-1",
+      "pro": "-1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Integrarea cu platforme de livrare externe",
+      "basic": "-1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Display-ul consumatorului",
+      "basic": "-1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Conectarea cu telefonie IP",
+      "basic": "-1",
+      "pro": "-1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Creare traseu livrari si monitorizarea acestora",
+      "basic": "-1",
+      "pro": "-1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Crează notificări SMS către clienți",
+      "basic": "-1",
+      "pro": "-1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Conexiune API",
+      "basic": "-1",
+      "pro": "-1",
+      "enterprise": "1"
+     }
+    ]
+   },
+   {
+    "title": "Sistem de loialitate",
+    "basic": "0",
+    "pro": "0",
+    "enterprise": "1",
+    "additional_solutions": [
+     {
+      "title": "Program de bonusare",
+      "basic": "1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Program Punch Card pentru stocarea informatiilor",
+      "basic": "1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Programe de loialitate configurabile",
+      "basic": "-1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Oferte meniuri personalizate",
+      "basic": "-1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Creare campanii marketing email",
+      "basic": "-1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Loyality API",
+      "basic": "-1",
+      "pro": "-1",
+      "enterprise": "1"
+     }
+    ]
+   },
+   {
+    "title": "Inventariere si achizitii",
+    "basic": "0",
+    "pro": "0",
+    "enterprise": "1",
+    "additional_solutions": [
+     {
+      "title": "Inventariere de pe dispozitiv mobil",
+      "basic": "1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Automatizare achizitii marfuri",
+      "basic": "1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Functionalitati suplimentare, (contorizati-va saptamanal stocul cu inventarului mobil)",
+      "basic": "-1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Creare gestiuni multiple în restaurant",
+      "basic": "-1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Inventariere API",
+      "basic": "-1",
+      "pro": "-1",
+      "enterprise": "1"
+     }
+    ]
+   },
+   {
+    "title": "Team management",
+    "basic": "0",
+    "pro": "0",
+    "enterprise": "1",
+    "additional_solutions": [
+     {
+      "title": "Managementul angajatilor",
+      "basic": "1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Creare program de lucru pentru angajati",
+      "basic": "1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Pontaj angajati",
+      "basic": "1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Pagina personala angajat",
+      "basic": "1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Tabloul de bord cu cele mai bune vanzari",
+      "basic": "1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Configurare programe motivaționale",
+      "basic": "-1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Transmitere informații noi către angajații companiei",
+      "basic": "-1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "API",
+      "basic": "-1",
+      "pro": "-1",
+      "enterprise": "1"
+     }
+    ]
+   },
+   {
+    "title": "Analize si rapoarte",
+    "basic": "0",
+    "pro": "0",
+    "enterprise": "1",
+    "additional_solutions": [
+     {
+      "title": "Prognozare vanzarilor",
+      "basic": "1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Primire notificari despre performanta liderului de echipa",
+      "basic": "1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Rapoarte configurabile bazate pe KPI",
+      "basic": "1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "P&L si raporte simplificate",
+      "basic": "1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Integrare cu sistem de contabilitate",
+      "basic": "-1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Advanced Reporting",
+      "basic": "-1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Instore Dashboard",
+      "basic": "-1",
+      "pro": "-1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Reporting API",
+      "basic": "-1",
+      "pro": "-1",
+      "enterprise": "1"
+     }
+    ]
+   }
+  ]
+ }
+}

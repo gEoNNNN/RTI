@@ -1,0 +1,116 @@
+{
+ "Page header widget 1C Soft": {
+  "title": "Preturi soft",
+  "bgImage": {
+   "mimetype": "image/png",
+   "path": "public/widgets/files/181e45e9-f758-4c3d-917b-c909b25b0ea4.png"
+  }
+ },
+ "Preturi soft 1c breadcumbs": {
+  "border": true,
+  "breadcrumbs": [
+   {
+    "title": "Principala",
+    "link": "/"
+   },
+   {
+    "title": "Preturi soft 1C",
+    "link": "/"
+   }
+  ]
+ },
+ "1C price box widget": {
+  "title": "Software 1C",
+  "description": "O combinatie intre platforma 1C si o solutie de aplicatie (Configuratie), un produs conceput pentru automatizarea intreprinderilor.",
+  "disclaimer": "* Preturile pachetelor de mai sus sunt afisate în MDL si cu TVA inclus.",
+  "oneTimePayment": true,
+  "packages": [
+   {
+    "title": "1C:Contabilitate",
+    "price": "7800 MDL",
+    "content": "<p>Destinata pentru automatizarea evidentei contabile, inclusiv pentru pregatirea darilor de seama obligatorii."
+   },
+   {
+    "title": "1C:Gestiune comert",
+    "price": "11800 MDL",
+    "content": "<p>Solutioneaza in mod complex si eficient sarcinile evidentei de gestiune si operativa, analizei si planificarii.</p>"
+   },
+   {
+    "title": "1C:Comert cu amanuntul",
+    "price": "7800 MDL",
+    "content": "<p>Asigura inregistrarea operatiunilor cu marfurile in sectiunea grupurilor de marfuri, magazinelor, depozitelor, etc.</p>"
+   },
+   {
+    "title": "1C:Gestiune companie",
+    "price": "10500 MDL",
+    "content": "<p> Mareste eficienta activitatii companiei, datorita unui spectru vast  de instrumente pentru o administrare eminenta. </p>"
+   }
+  ]
+ },
+ "Empty Space-1C-page": {
+  "height": {
+   "desktop": "70",
+   "mobile": "35"
+  }
+ },
+ "Title container 1C before feature items": {
+  "title": "Descopera toate licentele incluse"
+ },
+ "Empty Space 1C after Title": {
+  "height": {
+   "desktop": "30",
+   "mobile": "20"
+  }
+ },
+ "Feature item with hover effect UP": {
+  "features": [
+   {
+    "numbers": "1",
+    "text": "Licenta client pentru <br>1 loc de munca"
+   },
+   {
+    "numbers": "5",
+    "text": "Licenta client pentru<br>5 locuri de munca"
+   },
+   {
+    "numbers": "10",
+    "text": "Licenta client pentru<br>10 locuri de munca"
+   },
+   {
+    "numbers": "50",
+    "text": "Licenta client pentru<br>50 locuri de munca"
+   },
+   {
+    "numbers": "100",
+    "text": "Licenta client pentru<br>100 locuri de munca"
+   },
+   {
+    "numbers": "x32",
+    "text": "Licenta server"
+   },
+   {
+    "numbers": "x64 x84",
+    "text": "Licenta server"
+   },
+   {
+    "numbers": "5",
+    "text": "Server MINI pentru<br>5 conexiuni"
+   }
+  ]
+ },
+ "Empty Space after paragraph": {
+  "height": {
+   "desktop": "34",
+   "mobile": "34"
+  }
+ },
+ "Paragraph container 1C page after Title": {
+  "paragraph": "<p>Licentele client sunt folosite pentru a extinde numarul de locuri de munca. Acestea acorda utilizatorului posibilitatea de a lucra cu orice numar de solutii de aplicatie si ofera acces la platforma 1C:Enterprise 8, care este aceeasi pentru toate solutiile.</p>"
+ },
+ "Empty Space bottom": {
+  "height": {
+   "desktop": "50",
+   "mobile": "25"
+  }
+ }
+}

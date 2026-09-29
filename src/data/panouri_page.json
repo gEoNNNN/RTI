@@ -1,0 +1,361 @@
+{
+ "Widget Page Header Panouri digitale": {
+  "title": "Solutii",
+  "bgImage": {
+   "mimetype": "image/jpeg",
+   "path": "public/widgets/files/f528ab58-00de-4d66-82e3-8427faeef5a2.jpg"
+  }
+ },
+ "Breadcrumbs Panouri digitale": {
+  "border": true,
+  "breadcrumbs": [
+   {
+    "title": "Principala",
+    "link": "/"
+   },
+   {
+    "title": "Solutii"
+   },
+   {
+    "title": "Panouri digitale"
+   }
+  ]
+ },
+ "Empty Space-30-0-BG": {
+  "showBackground": true,
+  "height": {
+   "desktop": "30",
+   "mobile": "0"
+  }
+ },
+ "Dual Widget Title - Panouri digitale": {
+  "showBackground": true,
+  "left": {
+   "widget_id": "62b5abac9f9a3c00318c24d5",
+   "columns": 2,
+   "padding": {
+    "desktop": "0 100px 0 0",
+    "mobile": "0 30px 0 0"
+   },
+   "content": {
+    "published": true,
+    "pages": [],
+    "_id": "62b5abac9f9a3c00318c24d5",
+    "name": "Title Widget Panouri digitale",
+    "template": {
+     "_id": "5e25c84aab98870031ec4474",
+     "name": "Title",
+     "type": "title-widget",
+     "structure": {
+      "schema": {
+       "type": "object",
+       "properties": {
+        "title": {
+         "type": "string"
+        },
+        "maxWidth": {
+         "type": "string"
+        },
+        "background": {
+         "type": "string"
+        }
+       }
+      },
+      "layout": [
+       {
+        "key": "title",
+        "type": "html"
+       },
+       {
+        "key": "maxWidth",
+        "title": "Max With (px)",
+        "type": "number"
+       },
+       {
+        "key": "background",
+        "title": "Background",
+        "type": "string"
+       }
+      ]
+     },
+     "createdAt": "2020-01-20T15:33:30.474Z",
+     "updatedAt": "2021-03-24T21:06:23.692Z",
+     "__v": 0,
+     "icon": "public/widget-templates/icons/24d45201-05d3-458e-9d4e-6427283bc052.png"
+    },
+    "payload": {
+     "title": "<h1>Panouri digitale</h1>",
+     "maxWidth": "700"
+    },
+    "__v": 0,
+    "createdAt": "2022-06-24T12:18:52.519Z",
+    "updatedAt": "2022-06-24T12:19:15.130Z"
+   }
+  },
+  "right": {
+   "widget_id": "62b5ac6b9f9a3c00318c24d8",
+   "columns": 2,
+   "content": {
+    "published": true,
+    "pages": [],
+    "_id": "62b5ac6b9f9a3c00318c24d8",
+    "name": "Description widget Panouri digitale",
+    "template": {
+     "_id": "5cffa869c8eb6d0031695963",
+     "name": "Description Widget",
+     "type": "description-widget",
+     "structure": {
+      "schema": {
+       "type": "object",
+       "properties": {
+        "label": {
+         "type": "string"
+        },
+        "description": {
+         "type": "string"
+        },
+        "rows": {
+         "type": "number"
+        }
+       }
+      },
+      "layout": [
+       {
+        "key": "label",
+        "type": "text"
+       },
+       {
+        "key": "description",
+        "type": "html"
+       },
+       {
+        "key": "rows",
+        "title": "Maximum rows (enter the number)",
+        "type": "number"
+       }
+      ]
+     },
+     "createdAt": "2019-06-11T13:11:05.559Z",
+     "updatedAt": "2021-04-29T10:08:58.875Z",
+     "__v": 0,
+     "icon": "public/widget-templates/icons/b0b9c260-22fa-4e05-92e6-ea32ede21cec.png"
+    },
+    "payload": {
+     "description": "<p>Instalatie digitala care afiseaza continut video sau multimedia in scopuri informationale sau publicitare.</p>"
+    },
+    "__v": 0,
+    "createdAt": "2022-06-24T12:22:03.523Z",
+    "updatedAt": "2022-07-06T13:27:47.891Z"
+   }
+  }
+ },
+ "Empty Space-30-30-BG": {
+  "showBackground": true,
+  "height": {
+   "desktop": "30",
+   "mobile": "30"
+  }
+ },
+ "Widget Solution Business Branch-Panouri digitale": {
+  "slides": [
+   {
+    "image": {
+     "mimetype": "image/jpeg",
+     "path": "public/widgets/files/260dcd0b-0964-4419-8191-0dea0de64a80.jpg"
+    },
+    "class": "1",
+    "label": "Interior",
+    "target": {
+     "url": "panouri-digitale-pentru-interior"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/7d52c3b0-b105-461f-91d8-8bddabba3ab5.png"
+    },
+    "class": "1",
+    "label": "Exterior",
+    "target": {
+     "url": "panouri-digitale-pentru-exterior"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/jpeg",
+     "path": "public/widgets/files/bfb0655d-bf71-47f1-ab9b-be9c59548616.jpg"
+    },
+    "label": "Transparent",
+    "target": {
+     "url": "panouri-digitale-transparente"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/jpeg",
+     "path": "public/widgets/files/484e403a-8d4e-4158-a82f-ae1998cb91c5.jpg"
+    },
+    "label": "Perete video",
+    "target": {
+     "url": "panouri-perete-video"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/jpeg",
+     "path": "public/widgets/files/a29dd815-574f-4f77-9640-626d8c4c62c9.jpg"
+    },
+    "label": "Chiosc",
+    "target": {
+     "url": "panouri-chiosc"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/jpeg",
+     "path": "public/widgets/files/fe94b737-d2f6-42f1-a061-d807e89c5fe9.jpg"
+    },
+    "label": "Interactiv",
+    "target": {
+     "url": "panouri-interactive"
+    }
+   }
+  ]
+ },
+ "Empty Space-103": {
+  "showBackground": true,
+  "height": {
+   "desktop": "80",
+   "mobile": "50"
+  }
+ },
+ "Widget - Partners - Clienti -Panouri digitale": {
+  "title": "Peste 600 de companii de succes <br> care au devenit clienti fideli",
+  "target": {
+   "text": "Vezi toate",
+   "url": "/clienti"
+  },
+  "partners": [
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/cd0a29e7-c8d2-418b-b19d-078c8b330a44.png"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/38dd4388-72e2-47cb-bb02-43f28a3644bf.png"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/85774388-41ad-49a8-ad93-5f494c0c74aa.png"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/svg+xml",
+     "path": "public/widgets/files/97893cc4-f43b-4ca6-a1d1-599386b8e4c2.svg"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/f521d3b4-ab84-4e63-bf22-59e593a3e4d7.png"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/19cf3a80-54a0-4ea8-9c4b-9d1c0a814f5e.png"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/a094458c-7850-4345-ba98-22430f0cc6ee.png"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/0608e6ce-9818-4b95-80e6-9d34148f3372.png"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/9d42a271-7b9f-4362-ab08-17c44026f3a4.png"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/394a1213-f7d5-4a16-a089-b0e939b33045.png"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/b4780f10-e9ef-4a59-97bb-1585ca5080e0.png"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/90ff974f-5de7-45f3-a82a-3ed6f8b7ef08.png"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/a2581698-9117-4c18-bd6d-ecabe8345d7b.png"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/a54ef545-df5b-49f3-ba6b-26db827f1ec0.png"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/fb746cd2-99d5-4af9-a810-9c4b244950fa.png"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/829a4404-195e-4436-b640-fe15259ddc7e.png"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/webp",
+     "path": "public/widgets/files/3072e6d9-0520-43ca-88ea-1a2b59853aa2.webp"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/2e07e581-acb7-42f3-a0c6-890e6bd2e2e1.png"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/webp",
+     "path": "public/widgets/files/f65fd701-66e2-45a8-b8b5-e614f288c0ab.webp"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/webp",
+     "path": "public/widgets/files/d969a9f7-ad96-4950-9d8a-1d88415bdd83.webp"
+    }
+   }
+  ]
+ }
+}
