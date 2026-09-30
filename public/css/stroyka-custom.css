@@ -338,3 +338,7 @@
 .contact-page .widgetContactMeta .body .items{display:block}
 .contact-page .widgetContactMeta .body .items .item{padding:0;cursor:default}
 .contact-page .widgetContactMeta .body .items .item:first-child:hover svg path{stroke:inherit}
+
+/* Category page subheader ("Toate") — real style from Angular component */
+.page-subheader{padding:25px 0 50px}
+.page-subheader h1,.page-subheader h2{font-weight:300;font-size:48px;line-height:56px;display:flex;align-items:center;color:#161616;margin:0}
