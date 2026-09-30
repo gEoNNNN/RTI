@@ -291,3 +291,50 @@
 /* About page (/despre-noi) — this page's description-widget/video variants override the 400px-paragraph extraction */
 .about-page .sectionDescription p{width:auto;margin-top:0}
 .about-page .widget-video .body .video-placeholder img{width:100%!important}
+
+/* ===== Contact page (/contacte) — styles extracted from Angular chunk 7 ===== */
+.contact-page .block{margin-bottom:80px}
+.contact-page .block>.container>.header{position:relative;height:0;width:100%}
+.contact-page .block>.container>.header .header-body{position:absolute;top:-95px;width:100%;z-index:50}
+.contact-page .block>.container>.header .header-body .items{display:flex}
+.contact-page .block>.container>.header .header-body .items .item{flex:1;padding:33px;background:#161616;cursor:pointer;-webkit-user-select:none;user-select:none;display:flex;align-items:center}
+.contact-page .block>.container>.header .header-body .items .item.first{margin-right:10px}
+.contact-page .block>.container>.header .header-body .items .item.second{margin-left:2px}
+.contact-page .block>.container>.header .header-body .items .item .title{display:flex;justify-content:center;width:100%}
+.contact-page .block>.container>.header .header-body .items .item .title h4{font-family:Roboto;font-style:normal;font-weight:400;font-size:24px;line-height:110%;color:#fff;margin:0}
+.contact-page .block>.container>.header .header-body .items .item.active{background:#fff;border-top:3px solid #e72d35}
+.contact-page .block>.container>.header .header-body .items .item.active .title h4{font-weight:500;color:#e72d35}
+@media (max-width:575px){.contact-page .block>.container>.header .header-body{top:-86px}.contact-page .block>.container>.header .header-body .items .item{padding:33px 10px!important}.contact-page .block>.container>.header .header-body .items .item .title h4{font-size:16px}}
+.contact-page .block .contact-us-container{padding-top:60px;position:relative}
+.contact-page .block .contact-us-container .bullet-mask{position:absolute;height:100px;width:100px;left:-150px;top:70px}
+.contact-page .block .contact-us-container .ng-select.reason-select .ng-select-container{border-radius:0;box-shadow:none;padding:18px 20px;border:none;background:#f2f2f2;margin-bottom:0;height:auto;min-height:0;display:flex;align-items:center;cursor:pointer}
+.contact-page .block .contact-us-container .ng-select.reason-select .ng-select-container .ng-value-container{padding:0;display:flex;align-items:center}
+.contact-page .block .contact-us-container .ng-select.reason-select .ng-select-container .ng-value-container .ng-placeholder{color:#9f9f9f}
+.contact-page .block .contact-us-container .ng-select.reason-select .ng-select-container .ng-value-container .ng-value{color:#4c4c4c}
+.contact-page .block .contact-us-container .ng-select.reason-select{position:relative;display:block}
+.contact-page .block .contact-us-container .ng-select.reason-select .ng-dropdown-panel{position:absolute;z-index:1050;width:100%;left:0}
+.contact-page .block .contact-us-container .ng-select.reason-select .ng-dropdown-panel .ng-option{cursor:pointer}
+.contact-page .widgetContactMeta{max-width:500px}
+.contact-page .widgetContactMeta .header .title{font-family:Roboto;font-style:normal;font-weight:300;font-size:48px;line-height:56px;color:#161616;max-width:320px}
+.contact-page .widgetContactMeta .header .title h1,.contact-page .widgetContactMeta .header .title h2{margin:0;font:inherit}
+.contact-page .widgetContactMeta .header .description{margin-top:30px;font-family:Roboto;font-style:normal;font-weight:400;font-size:20px;line-height:30px}
+.contact-page .widgetContactMeta .header .description span{color:#737373}
+.contact-page .widgetContactMeta .header .description span:hover{text-decoration:none}
+.contact-page .widgetContactMeta .header .description span a{color:#161616;text-decoration:none}
+.contact-page .widgetContactMeta .header .description span a:hover{font-weight:700}
+.contact-page .widgetContactMeta .body{margin-top:40px}
+.contact-page .widgetContactMeta .body .items .item{margin-top:30px}
+.contact-page .widgetContactMeta .body .items .item:first-child{margin-top:0}
+.contact-page .widgetContactMeta .body .items .item .title{font-family:Roboto;font-style:normal;font-weight:300;font-size:20px;line-height:30px;color:#161616;margin:0}
+.contact-page .widgetContactMeta .body .items .item .description{font-family:Roboto;font-style:normal;font-weight:500;font-size:24px;line-height:30px;color:#161616;margin:0}
+.contact-page .widgetContactMeta .footer{margin-top:20px}
+.contact-page .widgetContactMeta .footer .black-btn{background:#272727;display:inline-flex;align-items:center;padding:10px 22px;cursor:pointer;white-space:nowrap}
+.contact-page .widgetContactMeta .footer .black-btn:hover{background:#161616}
+.contact-page .widgetContactMeta .footer .black-btn .ng-fa-icon{color:#fff}
+.contact-page .widgetContactMeta .footer .black-btn span{margin-left:10px;font-family:Roboto;font-style:normal;font-weight:700;font-size:14px;line-height:30px;display:flex;align-items:center;text-align:center;color:#fff}
+@media (max-width:991px){.contact-page .widgetContactMeta{max-width:100%}}
+
+/* Contact page: neutralize global .items/.item share-block rules inside widgetContactMeta */
+.contact-page .widgetContactMeta .body .items{display:block}
+.contact-page .widgetContactMeta .body .items .item{padding:0;cursor:default}
+.contact-page .widgetContactMeta .body .items .item:first-child:hover svg path{stroke:inherit}

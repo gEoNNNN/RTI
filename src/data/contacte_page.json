@@ -1,0 +1,67 @@
+{
+ "slug": "contacte",
+ "title": "Contacte",
+ "metaTitle": "Contacte",
+ "widgets": [
+  {
+   "name": "Contact Meta RO - Selling",
+   "type": "widget-contact-meta",
+   "payload": {
+    "title": "Cum ne gasiti?",
+    "description": "Daca doriti sa aflati mai multe despre serviciile si produsele noastre, puteti contacta echipa suport relatii clienti pe numerele indicate mai jos sau sa completati formularul, iar noi vom raspunde solicitarilor dumneavoastra in cel mai scurt timp posibil.",
+    "layout": "SELLING",
+    "information": [
+     {
+      "title": "Sediul principal",
+      "description": {
+       "text": "+373 22 81-58-29"
+      }
+     },
+     {
+      "title": "E-mail",
+      "description": {
+       "text": "office_rti@rti.md"
+      }
+     },
+     {
+      "title": "Adresa",
+      "description": {
+       "text": "str-la. Calatorilor 30, Chisinau, Moldova"
+      }
+     }
+    ],
+    "button": {
+     "text": "Vedeti locatia pe harta",
+     "link": "https://www.google.com/maps/place/46%C2%B059'58.6%22N+28%C2%B053'55.6%22E/@46.9996132,28.8987734,18z"
+    }
+   }
+  },
+  {
+   "name": "Contact Meta RO - Support",
+   "type": "widget-contact-meta",
+   "payload": {
+    "title": "A aparut o problema?",
+    "description": "Povestiti-ne cat mai multe detalii despre problema cu care se confrunta afacerea dumneavoastra, iar noi va vom raspunde in cel mai scurt timp posibil.",
+    "layout": "SUPPORT",
+    "information": [
+     {
+      "title": "Centru de service",
+      "description": {
+       "text": "+373 22 89-08-38"
+      }
+     },
+     {
+      "title": "Adresa",
+      "description": {
+       "text": "str-la. Calatorilor 30, Chisinau, Moldova"
+      }
+     }
+    ],
+    "button": {
+     "text": "Vedeti locatia pe harta",
+     "link": "https://www.google.com/maps/place/Plasma+RTI/@46.9996964,28.8989805,15z/data=!4m2!3m1!1s0x0:0x6c2b7d2dce546a6?sa=X&ved=2ahUKEwjWq6DPuszxAhXm_rsIHbwwA1IQ_BIwDnoECDoQBQ"
+    }
+   }
+  }
+ ]
+}

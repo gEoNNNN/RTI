@@ -28,6 +28,7 @@ import SyrvePricingPage from './pages/SyrvePricingPage';
 import OneCPricingPage from './pages/OneCPricingPage';
 import AboutPage from './pages/AboutPage';
 import ConsultPage from './pages/ConsultPage';
+import ContactPage from './pages/ContactPage';
 import CatSolutiiRetail from './pages/categories/CatSolutiiRetail';
 import CatEchipamenteDeParcare from './pages/categories/CatEchipamenteDeParcare';
 import CatSistemeSupraveghereVideo from './pages/categories/CatSistemeSupraveghereVideo';
@@ -94,7 +95,7 @@ export default function App() {
           <Route path="/noutati/:slug" element={<ArticlePage />} />
 
           {/* Content pages */}
-          <Route path="/contacte" element={<ContactePage />} />
+          <Route path="/contacte" element={<ContactPage />} />
           <Route path="/despre-noi" element={<AboutPage />} />
           <Route path="/consultation-free" element={<ConsultPage />} />
           <Route path="/preturi-soft-syrve" element={<SyrvePricingPage />} />
