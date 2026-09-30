@@ -2,16 +2,11 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import { imgUrl } from '../data/helpers';
 import { BusinessBranch, Partners, richText } from './HomePage';
-import page from '../data/horeca_page.json';
+import pageRo from '../data/horeca_page.json';
+import pageRu from '../data/ru/horeca_page.json';
+import pageEn from '../data/en/horeca_page.json';
+import { useLang, useT, useTo, to, pick } from '../lang';
 
-const hero = page['Widget Page Header Automatizare Horeca'] || {};
-const breadcrumbs = (page['Breadcrumbs Automatizare Horeca'] || {}).breadcrumbs || [];
-const dualW = page['Dual Widget Title - Automatizare Horeca'] || {};
-const leftTitle = (dualW.left && dualW.left.content && dualW.left.content.payload) || {};
-const rightDesc = (dualW.right && dualW.right.content && dualW.right.content.payload) || {};
-const leftPadding = (dualW.left && dualW.left.padding) || {};
-const solutions = (page['Widget Solution Business Branch-5'] || {}).slides || [];
-const partnersData = page['Widget - Partners - Clienti - Automatizarea Horeca'] || {};
 
 function ChevronRight() {
   return (
@@ -22,6 +17,16 @@ function ChevronRight() {
 }
 
 export default function SolutiiHorecaPage() {
+  const lang = useLang();
+  const page = pick(lang, pageRo, pageRu, pageEn);
+  const hero = page['Widget Page Header Automatizare Horeca'] || {};
+  const breadcrumbs = (page['Breadcrumbs Automatizare Horeca'] || {}).breadcrumbs || [];
+  const dualW = page['Dual Widget Title - Automatizare Horeca'] || {};
+  const solutions = (page['Widget Solution Business Branch-5'] || {}).slides || [];
+  const partnersData = page['Widget - Partners - Clienti - Automatizarea Horeca'] || {};
+  const leftTitle = (dualW.left && dualW.left.content && dualW.left.content.payload) || {};
+  const rightDesc = (dualW.right && dualW.right.content && dualW.right.content.payload) || {};
+  const leftPadding = (dualW.left && dualW.left.padding) || {};
   return (
     <div className="site__body">
       <BusinessBranch data={hero} />

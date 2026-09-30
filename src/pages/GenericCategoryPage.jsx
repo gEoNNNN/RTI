@@ -1,30 +1,42 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import products from '../data/products.json';
-import categories from '../data/categories_full.json';
-import catProducts from '../data/category_products.json';
+import productsRo from '../data/products.json';
+import productsRu from '../data/ru/products.json';
+import productsEn from '../data/en/products.json';
+import categoriesRo from '../data/categories_full.json';
+import categoriesRu from '../data/ru/categories_full.json';
+import categoriesEn from '../data/en/categories_full.json';
+import catProductsRo from '../data/category_products.json';
+import catProductsRu from '../data/ru/category_products.json';
+import catProductsEn from '../data/en/category_products.json';
 import { imgUrl } from '../data/helpers';
+import { useLang, useT, useTo, pick } from '../lang';
 import { PageHeader } from './StaticPages';
 
+const PRODUCTS = { ro: productsRo, ru: productsRu, en: productsEn };
+const CATS = { ro: categoriesRo, ru: categoriesRu, en: categoriesEn };
+const CAT_PRODUCTS = { ro: catProductsRo, ru: catProductsRu, en: catProductsEn };
+
 const idToSlug = {};
-Object.values(categories).forEach((c) => {
+Object.values(categoriesRo).forEach((c) => {
   if (c.id) idToSlug[c.id] = c.slug;
 });
 
 function ProductCard({ product }) {
+  const to = useTo();
   const img = product.images && product.images.length ? imgUrl(product.images[0]) : '/images/shopping-bag.e9efb.svg';
   return (
     <div className="products-list__item" style={{ padding: '8px' }}>
       <div className="product-card">
         <div className="product-card__image">
-          <Link to={'/product/' + product.slug}>
+          <Link to={to('/product/' + product.slug)}>
             <img src={img} alt={product.title} loading="lazy" />
           </Link>
         </div>
         <div className="product-card-box-meta">
           <div className="product-name">
             <div className="product-card__name">
-              <Link to={'/product/' + product.slug}>{product.title}</Link>
+              <Link to={to('/product/' + product.slug)}>{product.title}</Link>
             </div>
           </div>
           <div className="product-card-footer">
@@ -46,14 +58,21 @@ function ProductCard({ product }) {
 }
 
 export default function GenericCategoryPage({ slug }) {
+  const lang = useLang();
+  const t = useT();
+  const to = useTo();
+  const products = pick(lang, PRODUCTS.ro, PRODUCTS.ru, PRODUCTS.en);
+  const categories = pick(lang, CATS.ro, CATS.ru, CATS.en);
+  const catProducts = pick(lang, CAT_PRODUCTS.ro, CAT_PRODUCTS.ru, CAT_PRODUCTS.en);
+
   const cat = categories[slug];
   const title = cat ? cat.title : slug;
   const prods = (catProducts[slug] || []).map((s) => products[s]).filter(Boolean);
   const children = Object.values(categories).filter((c) => c.parent === (cat && cat.id));
   const parent = cat && cat.parent ? categories[idToSlug[cat.parent]] : null;
 
-  const crumbs = [{ label: 'Produse' }];
-  if (parent) crumbs.push({ label: parent.title, to: '/category/' + parent.slug });
+  const crumbs = [{ label: t('header.megaMenu', 'Produse') }];
+  if (parent) crumbs.push({ label: parent.title, to: to('/category/' + parent.slug) });
   crumbs.push({ label: title });
 
   return (
@@ -75,7 +94,7 @@ export default function GenericCategoryPage({ slug }) {
                     {children.map((c) => (
                       <Link
                         key={c.slug}
-                        to={'/category/' + c.slug}
+                        to={to('/category/' + c.slug)}
                         style={{
                           display: 'flex',
                           alignItems: 'center',
@@ -122,8 +141,7 @@ export default function GenericCategoryPage({ slug }) {
               ) : (
                 children.length === 0 && (
                   <p>
-                    Produsele din această categorie sunt în curs de actualizare. Pentru detalii
-                    contactați-ne la{' '}
+                    {t('categoryPage.empty', 'Produsele din această categorie sunt în curs de actualizare. Pentru detalii contactați-ne la')}{' '}
                     <a href="tel:+37369116121" style={{ color: '#1976d2' }}>+373 69 116 121</a>.
                   </p>
                 )

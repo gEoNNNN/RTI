@@ -1,0 +1,362 @@
+{
+ "Widget Page Header Automatizare PARCARE - RO": {
+  "title": "Системы управления парковками",
+  "description": "Решения по автоматизации парковок, разработанные для упрощения управления доступом, оплатой и операционным контролем.",
+  "bgImage": {
+   "mimetype": "image/webp",
+   "path": "public/widgets/files/91fa8b08-a204-45b5-874e-36ca188d3fc9.webp"
+  },
+  "slides": [
+   {
+    "icon": {
+     "mimetype": "image/svg+xml",
+     "path": "public/widgets/files/2d52d481-29b9-438e-9ced-24b21e8150e3.svg"
+    },
+    "darkIcon": {
+     "mimetype": "image/svg+xml",
+     "path": "public/widgets/files/86852c42-2a1f-4cf0-accf-376c7bab5258.svg"
+    },
+    "image": {
+     "mimetype": "image/webp",
+     "path": "public/widgets/files/da1e11bf-a8b2-4f48-959e-c38d732504bf.webp"
+    },
+    "class": "Автоматизация HoReCa",
+    "label": "Автоматизация HoReCa",
+    "target": {
+     "text": "Автоматизация HoReCa",
+     "url": "ru/solutii-automatizare-horeca"
+    }
+   },
+   {
+    "icon": {
+     "mimetype": "image/svg+xml",
+     "path": "public/widgets/files/42cb33fe-8a21-4229-a627-db96dc9b0150.svg"
+    },
+    "darkIcon": {
+     "mimetype": "image/svg+xml",
+     "path": "public/widgets/files/4ec4006f-0bd9-4b74-a08d-e3a3bb249bf7.svg"
+    },
+    "image": {
+     "mimetype": "image/jpeg",
+     "path": "public/widgets/files/5a814aef-d50d-4b7a-b782-cef773f3b4ab.jpeg"
+    },
+    "class": "Системы видеонаблюдения",
+    "label": "Системы видеонаблюдения",
+    "target": {
+     "text": "Системы видеонаблюдения",
+     "url": "ru/instalarea-sistemelor-de-supraveghere-video-pentru-casa-si-afacere"
+    }
+   },
+   {
+    "icon": {
+     "mimetype": "image/svg+xml",
+     "path": "public/widgets/files/54246eda-ef5a-4cf1-8585-17e541260db3.svg"
+    },
+    "darkIcon": {
+     "mimetype": "image/svg+xml",
+     "path": "public/widgets/files/42715622-c4b1-4cc8-8b7a-78319511a9bd.svg"
+    },
+    "image": {
+     "mimetype": "image/webp",
+     "path": "public/widgets/files/6d85dd55-0eb1-4bac-870a-c32f739dc8b8.webp"
+    },
+    "class": "Автоматизация розничной торговли",
+    "label": "Автоматизация розничной торговли",
+    "target": {
+     "text": "Автоматизация розничной торговли",
+     "url": "ru/automatizarea-magazinelor-si-retelelor-de-vanzare-cu-amanuntul"
+    }
+   },
+   {
+    "icon": {
+     "mimetype": "image/svg+xml",
+     "path": "public/widgets/files/895f1458-2620-433c-8074-c907efa54e88.svg"
+    },
+    "darkIcon": {
+     "mimetype": "image/svg+xml",
+     "path": "public/widgets/files/1fad8af9-1081-41ec-b700-1319c985f215.svg"
+    },
+    "image": {
+     "mimetype": "image/webp",
+     "path": "public/widgets/files/0067ca63-5340-4448-b0b4-891c741977db.webp"
+    },
+    "class": "Цифровые вывески",
+    "label": "Цифровые вывески",
+    "target": {
+     "text": "Цифровые вывески",
+     "url": "ru/panouri-digitale"
+    }
+   }
+  ]
+ },
+ "Breadcrumbs Solutii Sisteme de parcare": {
+  "border": true,
+  "breadcrumbs": [
+   {
+    "title": "Главная",
+    "link": "/"
+   },
+   {
+    "title": "Решения"
+   },
+   {
+    "title": "Парковочные системы"
+   }
+  ]
+ },
+ "Empty Space-30-0-BG": {
+  "showBackground": true,
+  "height": {
+   "desktop": "30",
+   "mobile": "0"
+  }
+ },
+ "Dual Widget Title - Sisteme parcare": {
+  "showBackground": true,
+  "left": {
+   "widget_id": "6245ae019f9a3c00318c06ec",
+   "columns": 2,
+   "padding": {
+    "desktop": "0 100px 0 0",
+    "mobile": "0 30px 0 0"
+   },
+   "content": {
+    "published": true,
+    "pages": [],
+    "_id": "6245ae019f9a3c00318c06ec",
+    "name": "Widget Title Sisteme parcare RU",
+    "template": {
+     "_id": "5e25c84aab98870031ec4474",
+     "name": "Title",
+     "type": "title-widget",
+     "structure": {
+      "schema": {
+       "type": "object",
+       "properties": {
+        "title": {
+         "type": "string"
+        },
+        "maxWidth": {
+         "type": "string"
+        },
+        "background": {
+         "type": "string"
+        }
+       }
+      },
+      "layout": [
+       {
+        "key": "title",
+        "type": "html"
+       },
+       {
+        "key": "maxWidth",
+        "title": "Max With (px)",
+        "type": "number"
+       },
+       {
+        "key": "background",
+        "title": "Background",
+        "type": "string"
+       }
+      ]
+     },
+     "createdAt": "2020-01-20T15:33:30.474Z",
+     "updatedAt": "2021-03-24T21:06:23.692Z",
+     "__v": 0,
+     "icon": "public/widget-templates/icons/24d45201-05d3-458e-9d4e-6427283bc052.png"
+    },
+    "payload": {
+     "title": "<h2>Типы парковочных систем и места их внедрения</h2>",
+     "maxWidth": "700"
+    },
+    "__v": 0,
+    "createdAt": "2022-03-31T13:34:57.481Z",
+    "updatedAt": "2026-06-24T12:38:12.744Z"
+   }
+  },
+  "right": {
+   "widget_id": "6245aebe9f9a3c00318c06ed",
+   "columns": 2,
+   "content": {
+    "published": true,
+    "pages": [],
+    "_id": "6245aebe9f9a3c00318c06ed",
+    "name": "Descriere boxe Sisteme parcare RU",
+    "template": {
+     "_id": "5cffa869c8eb6d0031695963",
+     "name": "Description Widget",
+     "type": "description-widget",
+     "structure": {
+      "schema": {
+       "type": "object",
+       "properties": {
+        "label": {
+         "type": "string"
+        },
+        "description": {
+         "type": "string"
+        },
+        "rows": {
+         "type": "number"
+        }
+       }
+      },
+      "layout": [
+       {
+        "key": "label",
+        "type": "text"
+       },
+       {
+        "key": "description",
+        "type": "html"
+       },
+       {
+        "key": "rows",
+        "title": "Maximum rows (enter the number)",
+        "type": "number"
+       }
+      ]
+     },
+     "createdAt": "2019-06-11T13:11:05.559Z",
+     "updatedAt": "2021-04-29T10:08:58.875Z",
+     "__v": 0,
+     "icon": "public/widget-templates/icons/b0b9c260-22fa-4e05-92e6-ea32ede21cec.png"
+    },
+    "payload": {
+     "label": "Sisteme de parcare",
+     "description": "<p>Современное решение, специально разработанное для оптимизации парковочного пространства, управления потоком автомобилей и обработки платежей.</p>"
+    },
+    "__v": 0,
+    "createdAt": "2022-03-31T13:38:06.401Z",
+    "updatedAt": "2022-05-19T11:27:06.597Z"
+   }
+  }
+ },
+ "Empty Space-30-30-BG": {
+  "showBackground": true,
+  "height": {
+   "desktop": "30",
+   "mobile": "30"
+  }
+ },
+ "Widget Solution Unde poate fi instalat?": {
+  "slides": [
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/08d3acb5-2523-4980-b9d6-36ff9bb296b5.png"
+    },
+    "class": "1",
+    "label": "Автоматическая",
+    "target": {
+     "url": "ru/sisteme-parcare-automata"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/457fb9a9-6a98-4ab7-9717-8ae05a62edce.png"
+    },
+    "label": "С оператором",
+    "target": {
+     "url": "ru/sisteme-parcare-cu-operator"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/44ccfc0a-1595-4cad-8003-1e4e11c28dda.png"
+    },
+    "label": "Реверсивная",
+    "target": {
+     "url": "ru/sisteme-parcare-reversibila"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/bdb9ab77-d5f5-48d8-827b-039eb018554c.png"
+    },
+    "class": "1",
+    "label": "Oбщественная",
+    "target": {
+     "url": "ru/sisteme-parcare-publica"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/70090b49-c7cf-48e1-93c0-2f9c13e017d6.png"
+    },
+    "label": "Торговый центр",
+    "target": {
+     "url": "ru/sisteme-parcare-centru-comercial"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/6f77c959-1794-4e2d-8dbd-a9cdd3725f2c.png"
+    },
+    "label": "Вокзал/Аэропорт ",
+    "target": {
+     "url": "ru/sisteme-parcare-garaaeroport"
+    }
+   }
+  ]
+ },
+ "Empty Space-103": {
+  "showBackground": true,
+  "height": {
+   "desktop": "80",
+   "mobile": "50"
+  }
+ },
+ "Partners Widget-Sisteme de parcare": {
+  "label": "Sisteme parcare ",
+  "title": "Более 600 успешных компаний,<br>ставших постоянными клиентами",
+  "target": {
+   "text": "Посмотреть все",
+   "url": "/clienti"
+  },
+  "partners": [
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/b772e499-4407-4730-af8b-7679191ef02e.png"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/97ccb66f-25e9-4f2d-8ad3-7c69ef31c3c3.png"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/1d3df9fc-8d99-454f-8f64-50b38c29b67d.png"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/ecf4c02b-77e3-41a5-a2d9-8cf6634f4359.png"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/a79b3cdd-aed0-4e65-b354-ff617500137c.png"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/e4df7e44-4669-4e79-a8ad-f429867fad6f.png"
+    }
+   }
+  ]
+ }
+}

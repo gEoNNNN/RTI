@@ -1,8 +1,19 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import categoriesRo from '../data/categories_full.json';
+import categoriesRu from '../data/ru/categories_full.json';
+import categoriesEn from '../data/en/categories_full.json';
+import { useLang, useT, to, pick } from '../lang';
+
+const CATS = { ro: categoriesRo, ru: categoriesRu, en: categoriesEn };
 
 export default function MobileMenu({ isOpen, onClose }) {
+  const lang = useLang();
+  const t = useT();
   if (!isOpen) return null;
+
+  const categories = pick(lang, CATS.ro, CATS.ru, CATS.en);
+  const roots = Object.values(categories).filter((c) => !c.parent);
 
   return (
     <div className="mobile-menu" style={{ display: 'block' }}>
@@ -24,15 +35,18 @@ export default function MobileMenu({ isOpen, onClose }) {
           </div>
           <div className="mobilemenu__content">
             <ul className="mobile-links mobile-links--level--0">
-              <li className="mobile-links__item"><Link to="/" onClick={onClose} className="mobile-links__item-link">Acasă</Link></li>
-              <li className="mobile-links__item"><Link to="/category/amplificatoare-audio" onClick={onClose} className="mobile-links__item-link">Amplificatoare audio</Link></li>
-              <li className="mobile-links__item"><Link to="/category/difuzoare-audio" onClick={onClose} className="mobile-links__item-link">Difuzoare audio</Link></li>
-              <li className="mobile-links__item"><Link to="/category/sisteme-audio" onClick={onClose} className="mobile-links__item-link">Sisteme audio</Link></li>
-              <li className="mobile-links__item"><Link to="/category/echipamente-fiscale" onClick={onClose} className="mobile-links__item-link">Echipamente fiscale</Link></li>
-              <li className="mobile-links__item"><Link to="/category/cantare-comerciale" onClick={onClose} className="mobile-links__item-link">Cântare comerciale</Link></li>
-              <li className="mobile-links__item"><Link to="/category/imprimante" onClick={onClose} className="mobile-links__item-link">Imprimante</Link></li>
-              <li className="mobile-links__item"><Link to="/category/scanere-coduri-de-bare" onClick={onClose} className="mobile-links__item-link">Scanere coduri de bare</Link></li>
-              <li className="mobile-links__item"><Link to="/category/sistem-antifurt" onClick={onClose} className="mobile-links__item-link">Sisteme antifurt</Link></li>
+              <li className="mobile-links__item">
+                <Link to={to('/', lang)} onClick={onClose} className="mobile-links__item-link">
+                  {t('global.menu.home', 'Acasă')}
+                </Link>
+              </li>
+              {roots.map((c) => (
+                <li className="mobile-links__item" key={c.slug}>
+                  <Link to={to('/category/' + c.slug, lang)} onClick={onClose} className="mobile-links__item-link">
+                    {c.title}
+                  </Link>
+                </li>
+              ))}
             </ul>
           </div>
         </div>

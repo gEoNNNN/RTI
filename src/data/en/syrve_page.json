@@ -1,0 +1,453 @@
+{
+ "Widget Page Header-3 Romana": {
+  "title": "Software prices",
+  "bgImage": {
+   "mimetype": "image/png",
+   "path": "public/widgets/files/eff2cee8-3221-4a7d-b281-25e0a6579c6a.png"
+  },
+  "links": [
+   {
+    "name": "Preturi",
+    "value": "2",
+    "type": "SCROLL"
+   },
+   {
+    "name": "Functii pachete",
+    "value": "3",
+    "type": "SCROLL"
+   }
+  ]
+ },
+ "Breadcrumbs-Preturi Syrve - RO": {
+  "border": true,
+  "breadcrumbs": [
+   {
+    "title": "Home",
+    "link": "/"
+   },
+   {
+    "title": "Syrve software prices",
+    "link": "/"
+   }
+  ]
+ },
+ "Pachete soft Syrve - Landing software Syrve - Widget Pricing Box": {
+  "title": "Syrve software",
+  "description": "A special enterprise resource planning system designed to automate accounting in a restaurant, bar, cafe, and a ready-made meal delivery service.",
+  "disclaimer": "* The prices of the above packages are displayed in DOLLARS and without VAT.",
+  "packages": [
+   {
+    "title": "Basic",
+    "description": "Small business application",
+    "price": "39 EURO/month",
+    "content": "<ul><li>BASIC level technical support</li><li>POS price*</li></ul>"
+   },
+   {
+    "title": "Professional",
+    "description": "Advanced restaurant features",
+    "price": "59 EURO/month",
+    "content": "<ul><li>BASIC level technical support</li><li>POS price*</li></ul>"
+   },
+   {
+    "title": "Enterprise",
+    "description": "Application for developed businesses",
+    "price": "89 EURO/month",
+    "content": "<ul><li>BASIC level technical support</li><li>POS price*</li></ul>"
+   }
+  ]
+ },
+ "Caracteristici pachete iiko - Landing software iiko - package-solutions English": {
+  "title": "Discover all the included solutions",
+  "packageContent": "Package contents",
+  "seeAll": "Extend",
+  "basic": "Basic",
+  "pro": "Profesional",
+  "enterprise": "Enterprise",
+  "solutions": [
+   {
+    "title": "Basic system functionalities",
+    "basic": "1",
+    "pro": "1",
+    "enterprise": "1",
+    "additional_solutions": [
+     {
+      "title": "Intuitive POS interface",
+      "basic": "1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Room layout",
+      "basic": "1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Separation of payment slips",
+      "basic": "1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Integration of banking terminals",
+      "basic": "-1",
+      "pro": "-1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Printing orders and managing kitchen turnover",
+      "basic": "1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Aplicație pentru dispozitive mobile",
+      "basic": "$10 /lună per device",
+      "pro": "$10 /lună per device",
+      "enterprise": "$10 /lună per device"
+     }
+    ]
+   },
+   {
+    "title": "Menu and prices",
+    "basic": "0",
+    "pro": "1",
+    "enterprise": "1",
+    "additional_solutions": [
+     {
+      "title": "Creating the basic menu",
+      "basic": "1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Formulation",
+      "basic": "by RTI",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Advanced basic menu setup",
+      "basic": "-1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Price categories",
+      "basic": "-1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Scheduled menu change",
+      "basic": "-1",
+      "pro": "1",
+      "enterprise": "1"
+     }
+    ]
+   },
+   {
+    "title": "Restaurant chain management",
+    "basic": "0",
+    "pro": "1",
+    "enterprise": "1",
+    "additional_solutions": [
+     {
+      "title": "Generate real-time reports",
+      "basic": "1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Customized prices on each restaurant",
+      "basic": "-1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Transfer management between restaurants",
+      "basic": "-1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Centralized production and transfer of products between them",
+      "basic": "-1",
+      "pro": "1",
+      "enterprise": "1"
+     }
+    ]
+   },
+   {
+    "title": "Advanced restaurant features",
+    "basic": "-1",
+    "pro": "1",
+    "enterprise": "1",
+    "additional_solutions": [
+     {
+      "title": "Payment with meal vouchers",
+      "basic": "-1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Kitchen display",
+      "basic": "-1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Connecting the weighing scale",
+      "basic": "-1",
+      "pro": "1",
+      "enterprise": "1"
+     }
+    ]
+   },
+   {
+    "title": "Delivery and takeaway",
+    "basic": "0",
+    "pro": "0",
+    "enterprise": "1",
+    "additional_solutions": [
+     {
+      "title": "Centralized order collection",
+      "basic": "-1",
+      "pro": "-1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Integration with external delivery platforms",
+      "basic": "-1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Consumer display",
+      "basic": "-1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "IP telephony connection",
+      "basic": "-1",
+      "pro": "-1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Create delivery track and monitor them",
+      "basic": "-1",
+      "pro": "-1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Crează notificări SMS către clienți",
+      "basic": "-1",
+      "pro": "-1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Conexiune API",
+      "basic": "-1",
+      "pro": "-1",
+      "enterprise": "1"
+     }
+    ]
+   },
+   {
+    "title": "Loyalty system",
+    "basic": "0",
+    "pro": "0",
+    "enterprise": "1",
+    "additional_solutions": [
+     {
+      "title": "Bonus program",
+      "basic": "1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Punch Card program for storing information",
+      "basic": "1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Configurable loyalty programs",
+      "basic": "-1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Offers personalized menus",
+      "basic": "-1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Create Email Marketing Campaigns",
+      "basic": "-1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Loyality API",
+      "basic": "-1",
+      "pro": "-1",
+      "enterprise": "1"
+     }
+    ]
+   },
+   {
+    "title": "Inventories and purchases",
+    "basic": "0",
+    "pro": "0",
+    "enterprise": "1",
+    "additional_solutions": [
+     {
+      "title": "Mobile device inventory",
+      "basic": "1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Goods procurement automation",
+      "basic": "1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Additional features (count your weekly inventory with mobile inventory)",
+      "basic": "-1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Create multiple managements in the restaurant",
+      "basic": "-1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "API inventory",
+      "basic": "-1",
+      "pro": "-1",
+      "enterprise": "1"
+     }
+    ]
+   },
+   {
+    "title": "Team management",
+    "basic": "0",
+    "pro": "0",
+    "enterprise": "1",
+    "additional_solutions": [
+     {
+      "title": "Employee management",
+      "basic": "1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Create work schedule for employees",
+      "basic": "1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Employee timekeeping",
+      "basic": "1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Personal page employee",
+      "basic": "1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "The best-selling dashboard",
+      "basic": "1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Configurare programe motivaționale",
+      "basic": "-1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Transmitere informații noi către angajații companiei",
+      "basic": "-1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "API",
+      "basic": "-1",
+      "pro": "-1",
+      "enterprise": "1"
+     }
+    ]
+   },
+   {
+    "title": "Analyzes and reports",
+    "basic": "0",
+    "pro": "0",
+    "enterprise": "1",
+    "additional_solutions": [
+     {
+      "title": "Sales forecast",
+      "basic": "1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Receive notifications about team leader performance",
+      "basic": "1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "KPI-based configurable reports",
+      "basic": "1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "P&L and simplified reports",
+      "basic": "1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Integration with accounting system",
+      "basic": "-1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Advanced Reporting",
+      "basic": "-1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Instore Dashboard",
+      "basic": "-1",
+      "pro": "-1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Reporting API",
+      "basic": "-1",
+      "pro": "-1",
+      "enterprise": "1"
+     }
+    ]
+   }
+  ]
+ }
+}

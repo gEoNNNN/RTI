@@ -1,0 +1,1144 @@
+{
+ "_id": "698f157cc513c100313e0b7a",
+ "published": true,
+ "isMain": false,
+ "title": "/consultation-free",
+ "metaTitle": "Free consultation",
+ "metaDescription": "",
+ "description": "",
+ "widgets": [
+  {
+   "published": true,
+   "pages": [],
+   "_id": "69ba771dc513c100313e40c8",
+   "name": "Widget Page Header-0",
+   "template": {
+    "_id": "5e663dab58401f0031a10770",
+    "name": "Widget Page Header",
+    "type": "widget-page-header",
+    "structure": {
+     "schema": {
+      "type": "object",
+      "properties": {
+       "title": {
+        "type": "string",
+        "required": true
+       },
+       "overlay": {
+        "type": "string"
+       },
+       "bgImage": {
+        "required": true,
+        "type": "object",
+        "properties": {
+         "mimetype": {
+          "type": "string"
+         },
+         "path": {
+          "type": "string"
+         }
+        }
+       },
+       "links": {
+        "type": "array",
+        "items": {
+         "type": "object",
+         "properties": {
+          "name": {
+           "type": "string"
+          },
+          "value": {
+           "type": "string"
+          },
+          "type": {
+           "type": "string",
+           "enum": [
+            "LINK",
+            "ROUTE",
+            "SCROLL"
+           ]
+          }
+         }
+        }
+       }
+      }
+     },
+     "layout": [
+      {
+       "required": true,
+       "key": "title",
+       "type": "text"
+      },
+      {
+       "required": true,
+       "key": "bgImage",
+       "type": "file"
+      },
+      {
+       "key": "overlay",
+       "type": "text",
+       "title": "Background Overlay Style"
+      },
+      {
+       "key": "links",
+       "displayFlex": true,
+       "items": [
+        {
+         "key": "links[].name",
+         "required": true,
+         "type": "text"
+        },
+        {
+         "key": "links[].value",
+         "required": true,
+         "type": "text"
+        },
+        {
+         "type": "select",
+         "key": "links[].type",
+         "required": true,
+         "titleMap": [
+          {
+           "value": "LINK",
+           "name": "Link (to another website)"
+          },
+          {
+           "value": "ROUTE",
+           "name": "Route (to current website)"
+          },
+          {
+           "value": "SCROLL",
+           "name": "Scroll (to the index of widget"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    "createdAt": "2020-03-09T12:59:23.695Z",
+    "updatedAt": "2021-03-24T21:58:12.219Z",
+    "__v": 0,
+    "icon": "public/widget-templates/icons/d228912b-4557-4d82-900b-235b35d8b7a2.png"
+   },
+   "payload": {
+    "title": "Free Consultation and Showroom Presentation",
+    "bgImage": {
+     "mimetype": "image/jpeg",
+     "path": "public/widgets/files/bf1fce8a-241b-4847-b1b6-56621d64fa8d.jpg"
+    }
+   },
+   "createdAt": "2026-03-18T09:57:49.406Z",
+   "updatedAt": "2026-03-18T09:57:49.406Z",
+   "__v": 0
+  },
+  {
+   "published": true,
+   "pages": [],
+   "_id": "5e67eb0c6ee7b2002ec93cdf",
+   "name": "Empty Space-60-30",
+   "template": {
+    "_id": "5e6799db6ee7b2002ec93b6b",
+    "name": "Empty Space",
+    "type": "widget-empty-space",
+    "structure": {
+     "schema": {
+      "type": "object",
+      "properties": {
+       "showBackground": {
+        "type": "boolean"
+       },
+       "height": {
+        "type": "object",
+        "properties": {
+         "desktop": {
+          "type": "string"
+         },
+         "mobile": {
+          "type": "string"
+         }
+        }
+       }
+      }
+     },
+     "layout": [
+      {
+       "title": "Empty Widget. Set the height of block"
+      },
+      {
+       "key": "height.desktop",
+       "type": "number"
+      },
+      {
+       "key": "height.mobile",
+       "type": "number"
+      },
+      {
+       "key": "showBackground",
+       "title": " Show background",
+       "type": "checkbox"
+      }
+     ]
+    },
+    "createdAt": "2020-03-10T13:44:59.204Z",
+    "updatedAt": "2022-03-17T14:03:39.489Z",
+    "__v": 0,
+    "icon": "public/widget-templates/icons/fb1e903c-6b8d-4550-aff2-98bc6bcce25a.png"
+   },
+   "payload": {
+    "showBackground": true,
+    "height": {
+     "desktop": "60",
+     "mobile": "30"
+    }
+   },
+   "createdAt": "2020-03-10T19:31:24.112Z",
+   "updatedAt": "2026-03-18T09:41:06.638Z",
+   "__v": 0
+  },
+  {
+   "published": true,
+   "pages": [],
+   "_id": "698f410ec513c100313e0bdb",
+   "name": "consultation-eng",
+   "template": {
+    "_id": "61fd46e35935a200319241fb",
+    "name": "Paragraph container widget",
+    "type": "widget-paragraph-section",
+    "structure": {
+     "schema": {
+      "type": "object",
+      "properties": {
+       "paragraph": {
+        "type": "string"
+       }
+      }
+     },
+     "layout": [
+      {
+       "key": "paragraph",
+       "type": "html"
+      }
+     ]
+    },
+    "createdAt": "2022-02-04T15:31:47.331Z",
+    "updatedAt": "2022-02-04T15:31:47.331Z",
+    "__v": 0
+   },
+   "payload": {
+    "paragraph": "<h2>We provide a <strong>free consultation</strong> and offer a <strong>product presentation of equipment and software</strong> in our showroom.</h2><p>Our specialists will:</p><ul><li>Explain all product features in detail</li><li>Demonstrate how the equipment and software work</li><li>Answer all your questions</li><li>Help you choose the best solution for your business</li></ul><p>We select equipment or software tailored to your company’s specific needs and goals.</p><h3>For more information, please call <a href=\"tel:+373 69 116121\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255); color: rgb(115, 115, 115);\">+373 69 116121</a></h3><p><br></p>"
+   },
+   "createdAt": "2026-02-13T15:19:42.515Z",
+   "updatedAt": "2026-03-18T09:58:09.266Z",
+   "__v": 0
+  },
+  {
+   "published": true,
+   "pages": [],
+   "_id": "623c35559f9a3c00318c03ef",
+   "name": "Widget - Clienti -  Pagina - EN Version",
+   "template": {
+    "_id": "5e25bb80ab98870031ec4470",
+    "name": "Widget Template - Images",
+    "type": "widget-images",
+    "structure": {
+     "schema": {
+      "type": "object",
+      "properties": {
+       "images": {
+        "type": "array",
+        "items": {
+         "type": "object",
+         "properties": {
+          "image": {
+           "type": "object",
+           "properties": {
+            "mimetype": {
+             "type": "string"
+            },
+            "path": {
+             "type": "string"
+            }
+           }
+          },
+          "imageUrl": {
+           "type": "string",
+           "default": "javascript:void(0)"
+          },
+          "imageTitle": {
+           "type": "string"
+          },
+          "order": {
+           "type": "number",
+           "default": 1000000
+          }
+         }
+        }
+       },
+       "layout": {
+        "type": "object",
+        "properties": {
+         "value": {
+          "type": "string"
+         },
+         "name": {
+          "type": "string"
+         }
+        }
+       },
+       "columns": {
+        "type": "number"
+       },
+       "showViewAll": {
+        "type": "boolean"
+       },
+       "showLoadMore": {
+        "type": "boolean"
+       },
+       "showImageUrl": {
+        "type": "boolean"
+       },
+       "limit": {
+        "type": "number"
+       },
+       "link": {
+        "type": "string"
+       },
+       "padding": {
+        "type": "string"
+       },
+       "imageHeight": {
+        "type": "string"
+       },
+       "overlay": {
+        "type": "object",
+        "properties": {
+         "value": {
+          "type": "string"
+         },
+         "name": {
+          "type": "string"
+         }
+        }
+       }
+      }
+     },
+     "layout": [
+      {
+       "key": "images",
+       "displayFlex": true,
+       "items": [
+        {
+         "key": "images[]",
+         "displayFlex": true,
+         "items": [
+          {
+           "key": "images[].image",
+           "type": "file"
+          },
+          {
+           "key": "images[].imageUrl",
+           "type": "string"
+          },
+          {
+           "key": "images[].imageTitle",
+           "type": "string"
+          },
+          {
+           "key": "images[].order",
+           "type": "number"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "key": "limit",
+       "type": "number",
+       "title": "Limit Images (leave empty for no limit)"
+      },
+      {
+       "key": "showViewAll",
+       "type": "radio",
+       "title": "Activează butonul Vezi toate"
+      },
+      {
+       "key": "showLoadMore",
+       "type": "radio",
+       "title": "Activează butonul Mai multe"
+      },
+      {
+       "key": "link",
+       "type": "text",
+       "title": "Link pentru butonul Vezi toate"
+      },
+      {
+       "key": "showImageUrl",
+       "type": "checkbox",
+       "title": " Vizualizare in carduri"
+      },
+      {
+       "key": "padding",
+       "type": "text",
+       "title": "Button (link) Padding"
+      },
+      {
+       "key": "overlay.value",
+       "title": "Overlay",
+       "type": "select",
+       "titleMap": [
+        {
+         "value": "white",
+         "name": "White"
+        },
+        {
+         "value": "grey",
+         "name": "Grey"
+        }
+       ]
+      },
+      {
+       "key": "layout.value",
+       "title": "Layout",
+       "type": "select",
+       "titleMap": [
+        {
+         "value": "flex",
+         "name": "Flex"
+        },
+        {
+         "value": "columns",
+         "name": "Columns"
+        }
+       ]
+      },
+      {
+       "key": "columns",
+       "title": "Columns per row",
+       "type": "number",
+       "condition": "layout.value"
+      },
+      {
+       "key": "imageHeight",
+       "title": "Maximum Image Height",
+       "type": "number",
+       "condition": "layout.value"
+      }
+     ]
+    },
+    "createdAt": "2020-01-20T14:38:56.730Z",
+    "updatedAt": "2026-06-19T11:42:14.944Z",
+    "__v": 0,
+    "icon": "public/widget-templates/icons/7dc13a4b-21dc-486d-b2ea-a31e522efc9f.png"
+   },
+   "payload": {
+    "images": [
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/202be39f-05f1-41ca-b624-6dcb89853f09.png"
+      },
+      "imageTitle": "Berds",
+      "order": 1
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/939f0396-c7e1-4e70-8eab-b338b30da0a3.png"
+      },
+      "imageTitle": "Draft",
+      "order": 2
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/0f37ebf7-0287-49e0-9b6f-6397f65d37a4.png"
+      },
+      "imageUrl": "/",
+      "imageTitle": "Three House",
+      "order": 3
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/c560f976-a7a6-4729-baf6-40fdbf7dc669.png"
+      },
+      "imageTitle": "Metro",
+      "order": 4
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/ce22ed08-2492-49f6-b79d-daf6b94a273e.png"
+      },
+      "order": 5
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/aad64ee7-4d9b-4fb3-94f0-3fd24f4387dc.png"
+      },
+      "imageUrl": "https://rogob.md/ru/",
+      "imageTitle": "Rogob",
+      "order": 6
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/a1ab42f5-70ed-404c-a2c0-c8817b65c307.png"
+      },
+      "order": 7
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/0548c6e8-b970-4c02-981e-21583f6151db.png"
+      },
+      "order": 8
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/8105208e-564d-459c-95fc-1572c5d4ec21.png"
+      },
+      "order": 9
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/ebc52a03-7c10-4e10-b918-a1a9c34bdb5b.png"
+      },
+      "order": 10
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/42879d21-f019-48d3-bbd1-a93c6beeab7a.png"
+      },
+      "order": 11
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/0a336f01-58a1-4f81-bf41-3066aab7f0ee.png"
+      },
+      "order": 12
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/164f35b9-b4d5-41e8-8eb2-b3bf8c063a49.png"
+      },
+      "order": 13
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/570ae515-060b-4e6e-8194-0c9e84de4790.png"
+      },
+      "order": 14
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/17539ab0-523a-4aed-9dd3-71bbd6aa95b4.png"
+      },
+      "order": 15
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/cb276f03-f83c-47ca-a0a4-40ca0a725d94.png"
+      },
+      "order": 16
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/fcf886e1-c892-4b1b-9e6b-812ad1f63429.png"
+      },
+      "order": 17
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/362c2b45-bbc9-45f0-8e84-e4c3389a2e1b.png"
+      },
+      "order": 18
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/5ba70450-14bc-482d-aea3-a607cb73c01a.png"
+      },
+      "order": 19
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/9062875c-1586-432a-906f-7b93ef415da3.png"
+      },
+      "order": 20
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/a3e50d92-17ff-48a1-9d9a-c3e6ab41f2d8.png"
+      },
+      "order": 21
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/29764418-97ad-499d-8cdc-c70e2c7bec42.png"
+      },
+      "order": 22
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/7ca42aa8-a4d6-4dec-968b-9c445935f849.png"
+      },
+      "order": 23
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/72b102b5-d5b5-4b08-90de-8d10f181c17c.png"
+      },
+      "order": 1000000
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/7650beb9-c0a2-45aa-9140-07be95d5337d.png"
+      },
+      "order": 1000000
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/85abdc13-e45b-42b6-a84d-8c019e9b25ed.png"
+      },
+      "order": 1000000
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/819797b8-066f-47ee-a1e2-83b7a6a97cdc.png"
+      },
+      "order": 1000000
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/d60005f4-cf8b-487b-b720-6ba701de0b6c.png"
+      },
+      "order": 1000000
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/d9be2ad3-5ff2-4415-b63a-8f5710e1941e.png"
+      },
+      "order": 1000000
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/9d6ea5a4-b4ca-41f5-bcc1-69a5cb13a08f.png"
+      },
+      "order": 1000000
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/bf9b82e8-d331-433a-8126-9803e0760d3b.png"
+      },
+      "order": 1000000
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/faa451ff-ff2b-4b8b-84a8-5b5381d2aa51.png"
+      },
+      "order": 1000000
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/1ce114f3-9ac4-437b-b760-f9390f489068.png"
+      },
+      "order": 1000000
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/8dd93cf8-b066-41bb-acf1-9170af2ce87a.png"
+      },
+      "order": 1000000
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/84322026-003b-4798-b152-7ce548c20868.png"
+      },
+      "order": 1000000
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/ea415663-c202-4ad3-886f-2c4e6d27a084.png"
+      },
+      "order": 1000000
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/923217c7-0f29-42d4-ae87-fdd162ab841d.png"
+      },
+      "order": 1000000
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/0d444b11-c078-4677-89aa-2adae52c26a4.png"
+      },
+      "order": 1000000
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/06f65862-6dc7-479a-be4f-63e068b1cefb.png"
+      },
+      "order": 1000000
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/70d7733f-db53-4a28-8be3-a11f9174dc6e.png"
+      },
+      "order": 1000000
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/bd60c726-7197-4f2b-8cfc-c7ba383f9db3.png"
+      },
+      "order": 1000000
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/a1f04f04-10be-412e-bae5-2c385c4d1968.png"
+      },
+      "order": 1000000
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/abc5a028-d328-4644-a0ed-6a704e50a3c2.png"
+      },
+      "order": 1000000
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/d11db566-0ef9-424a-ad1c-827db9e48f8d.png"
+      },
+      "order": 1000000
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/6b9dc793-957b-4acb-8ac7-712e46703f1c.png"
+      },
+      "order": 1000000
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/8cdfe2da-de85-478f-8be5-81b6b0de9045.png"
+      },
+      "order": 1000000
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/5a740b81-7360-49ca-8b27-c520c1d394c2.png"
+      },
+      "order": 1000000
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/4038d04b-084a-497f-8e59-e321755f2251.png"
+      },
+      "order": 1000000
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/faf136e2-b98e-4e0c-a029-b3a6308c6a25.png"
+      },
+      "order": 1000000
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/42312f22-9408-46a6-87ec-5e7f5d2f4d6b.png"
+      },
+      "order": 1000000
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/0ebe6688-cf07-4fa6-85e2-8dfee7cb5b9f.png"
+      },
+      "order": 1000000
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/fa7e72c4-f1c8-4f61-87c3-6d9b5f24e8f4.png"
+      },
+      "order": 1000000
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/483b4423-48b0-48d3-bb39-331d61b24a51.png"
+      },
+      "order": 1000000
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/ba721820-595c-4f3d-94e9-d30afdb39e66.png"
+      },
+      "order": 1000000
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/b396fe71-d0fa-40ec-95d6-9c32c7200b04.png"
+      },
+      "order": 1000000
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/109ec7d5-7c08-433b-a8ce-df479002322f.png"
+      },
+      "order": 1000000
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/d6989e24-e979-46aa-b2f8-27abdfdf0232.png"
+      },
+      "order": 1000000
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/a51b3a39-7e05-457d-b9b6-5d170acc559d.png"
+      },
+      "order": 1000000
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/65eb983e-ae41-4da6-b0b6-a9bfbbc62f13.png"
+      },
+      "order": 1000000
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/b3f51ded-68cd-410c-a895-6fbe1ba3f92b.png"
+      },
+      "order": 1000000
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/d7e8e809-17ca-4772-a74b-27008e4b26ea.png"
+      },
+      "order": 1000000
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/df316df1-ef99-4a31-9eff-a3b6d8971fea.png"
+      },
+      "order": 1000000
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/536b5c3a-1e2b-4386-a2b4-9effb7f07372.png"
+      },
+      "order": 1000000
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/7b65de18-0249-472a-b05e-db2a0c0d89ab.png"
+      },
+      "order": 1000000
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/2b5b70fa-cbdc-43d4-852e-63e044d8e197.png"
+      },
+      "order": 1000000
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/87500ec3-3005-456c-8e3e-7f23d6a18e98.png"
+      },
+      "order": 1000000
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/d5c4264f-70c7-4293-82b6-ce4b41f93220.png"
+      },
+      "order": 1000000
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/c7973b2d-a510-476e-8422-0b289a036f96.png"
+      },
+      "order": 1000000
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/527121a8-d068-4ac5-a0f9-7c3800178ddd.png"
+      },
+      "order": 1000000
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/b07240b6-22b2-49db-97de-416b09439927.png"
+      },
+      "order": 1000000
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/53e383e7-ae7e-4565-9403-fc290a5cc3b9.png"
+      },
+      "order": 1000000
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/666c6bf9-10f9-40ac-85ea-8552f977072b.png"
+      },
+      "order": 1000000
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/be183ecd-7143-4a56-aef7-96e3b3f547c8.png"
+      },
+      "order": 1000000
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/b2501694-d529-48a8-a805-9bb5175b751f.png"
+      },
+      "order": 1000000
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/da4fe5be-03af-41e6-ac01-a0312945fad4.png"
+      },
+      "imageUrl": "https://moldtelecom.md/ru/",
+      "imageTitle": "Moldtelecom",
+      "order": 1000000
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/39e81609-7dd9-4f1f-80ae-2117bf0e6eae.png"
+      },
+      "order": 1000000
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/ed2e3df3-e3a8-4692-a42d-722db8000b9e.png"
+      },
+      "order": 1000000
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/29cdc910-77df-4d2e-a54b-06bab0686d10.png"
+      },
+      "order": 1000000
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/d95e2a09-7922-4fa0-90ca-e83937147302.png"
+      },
+      "order": 1000000
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/df313b08-a9c5-4fbe-8eab-7ccce9278489.png"
+      },
+      "order": 1000000
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/b2a3aadc-e3f1-4638-beaa-e32dd9382f17.png"
+      },
+      "order": 1000000
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/b32e3111-cc6f-4ccf-826a-8d9ad888887a.png"
+      },
+      "order": 1000000
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/363785e7-25b9-465e-9ac5-9bac498f07e4.png"
+      },
+      "order": 1000000
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/fdce8475-3d53-4b98-a5cf-7f44a6ef7bd6.png"
+      },
+      "order": 1000000
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/bbc77e0d-cd9c-4416-b4eb-34530d83cadf.png"
+      },
+      "order": 1000000
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/ddd816c3-544f-4779-8973-80651109d85e.png"
+      },
+      "order": 1000000
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/33a108de-6af5-4eaa-a774-1d6493518c2d.png"
+      },
+      "order": 1000000
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/5799ecaa-7f45-46b8-bbfc-9bb119a18903.png"
+      },
+      "order": 1000000
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/aceae00e-bb9e-4814-8209-c2c85595be4e.png"
+      },
+      "order": 1000000
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/d8197a79-2f88-4138-b7dc-16d4221b5c42.png"
+      },
+      "imageTitle": "Terranova",
+      "order": 1000000
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/15d25d6a-b610-4568-bbbb-2be8aa770b5d.png"
+      },
+      "imageTitle": "Top Brands",
+      "order": 1000000
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/f067eab5-94ab-4c50-bc27-dafc121b5bdc.png"
+      },
+      "imageTitle": "Trend",
+      "order": 1000000
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/0bc6b857-559d-4d0f-9f18-46d7768f692d.png"
+      },
+      "imageTitle": "United Colors of Beneton",
+      "order": 1000000
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/b24f0324-8390-438c-b1f5-fd88714f5ac3.png"
+      },
+      "imageTitle": "Visaje Nica",
+      "order": 1000000
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/e79b431e-4537-44c0-ae7b-a29d61299bff.png"
+      },
+      "imageTitle": "Vladalina",
+      "order": 1000000
+     }
+    ],
+    "layout": {
+     "value": "columns"
+    },
+    "columns": 7,
+    "showViewAll": true,
+    "showImageUrl": false,
+    "limit": 20,
+    "link": "/clienti",
+    "padding": "22px 0 18px 0",
+    "imageHeight": "100",
+    "overlay": {
+     "value": "white"
+    }
+   },
+   "createdAt": "2022-03-24T09:09:41.877Z",
+   "updatedAt": "2022-03-24T09:09:59.769Z",
+   "__v": 0
+  }
+ ],
+ "image": {
+  "path": null,
+  "mimetype": null
+ },
+ "slug": "consultation-free",
+ "createdAt": "2026-02-13T12:13:48.920Z",
+ "updatedAt": "2026-03-18T11:26:16.722Z",
+ "__v": 0
+}

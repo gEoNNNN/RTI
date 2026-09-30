@@ -1,0 +1,687 @@
+{
+ "Cover - Landing sisteme de supraveghere - Business Branch Widget-6": {
+  "title": "Проектирование - Монтаж - Продажа систем видеонаблюдения в Молдове",
+  "description": "Комплексные решения по безопасности для любого сегмента — от обычной квартиры, до крупного помышленного объекта.",
+  "bgImage": {
+   "mimetype": "image/jpeg",
+   "path": "public/widgets/files/11091b14-0a7d-422a-938a-d975c2be6206.jpeg"
+  },
+  "slides": [
+   {
+    "icon": {
+     "mimetype": "image/svg+xml",
+     "path": "public/widgets/files/00418411-1925-4650-91fc-f9fb1b703907.svg"
+    },
+    "darkIcon": {
+     "mimetype": "image/svg+xml",
+     "path": "public/widgets/files/94813e8a-60f8-49c4-8c80-67e04d5cbcfc.svg"
+    },
+    "image": {
+     "mimetype": "image/webp",
+     "path": "public/widgets/files/2b6fab6a-c6ee-4e0b-972b-b77de322da3b.webp"
+    },
+    "class": "Автоматизация HoReCa",
+    "label": "Автоматизация HoReCa",
+    "target": {
+     "text": "Автоматизация HoReCa",
+     "url": "ru/solutii-automatizare-horeca"
+    }
+   },
+   {
+    "icon": {
+     "mimetype": "image/svg+xml",
+     "path": "public/widgets/files/bd4e948b-d28e-4f3a-9fdd-c5607c5bed03.svg"
+    },
+    "darkIcon": {
+     "mimetype": "image/svg+xml",
+     "path": "public/widgets/files/86076406-aeee-4b4d-aff1-51b5be5727c9.svg"
+    },
+    "image": {
+     "mimetype": "image/webp",
+     "path": "public/widgets/files/419a9e69-a99d-45dd-9446-f5c59b045d3b.webp"
+    },
+    "class": "Автоматизация ретейла",
+    "label": "Автоматизация ретейла",
+    "target": {
+     "text": "Автоматизация ретейла",
+     "url": "ru/automatizarea-magazinelor-si-retelelor-de-vanzare-cu-amanuntul"
+    }
+   },
+   {
+    "icon": {
+     "mimetype": "image/svg+xml",
+     "path": "public/widgets/files/5377b0b6-bd59-4d10-a82b-fa79d9d78d61.svg"
+    },
+    "darkIcon": {
+     "mimetype": "image/svg+xml",
+     "path": "public/widgets/files/bb256ade-2f21-4bf2-8286-ad5a6e39f9b9.svg"
+    },
+    "image": {
+     "mimetype": "image/webp",
+     "path": "public/widgets/files/b543292a-9e7f-47b3-a2d2-275484798123.webp"
+    },
+    "class": "Парковочные системы",
+    "label": "Парковочные системы",
+    "target": {
+     "text": "Парковочные системы",
+     "url": "ru/solutii-sisteme-parcare"
+    }
+   },
+   {
+    "icon": {
+     "mimetype": "image/svg+xml",
+     "path": "public/widgets/files/ad85da46-df2d-4f18-811a-26a6c3bd8746.svg"
+    },
+    "darkIcon": {
+     "mimetype": "image/svg+xml",
+     "path": "public/widgets/files/c15e0afd-d26a-430e-948f-655a96983e79.svg"
+    },
+    "image": {
+     "mimetype": "image/webp",
+     "path": "public/widgets/files/9f03e66a-cfaf-4fcc-a2fb-eb9fe0754e91.webp"
+    },
+    "class": "Цифровые вывески",
+    "label": "Цифровые вывески",
+    "target": {
+     "text": "Цифровые вывески",
+     "url": "ru/panouri-digitale"
+    }
+   }
+  ]
+ },
+ "Breadcrumbs Solutii Sisteme video": {
+  "border": true,
+  "breadcrumbs": [
+   {
+    "title": "Главная ",
+    "link": "/"
+   },
+   {
+    "title": "Решения"
+   },
+   {
+    "title": "Системы видеонаблюдения "
+   }
+  ]
+ },
+ "Empty Space-30-0-BG": {
+  "height": {
+   "desktop": "32",
+   "mobile": "20"
+  }
+ },
+ "Dual Widget-Sisteme Video": {
+  "showBackground": true,
+  "left": {
+   "widget_id": "624ae2c69f9a3c00318c0879",
+   "columns": 2,
+   "padding": {
+    "desktop": "0 100px 0 0",
+    "mobile": "0 30px 0 0"
+   },
+   "content": {
+    "published": true,
+    "pages": [],
+    "_id": "624ae2c69f9a3c00318c0879",
+    "name": "Widget Title Sisteme Video RU",
+    "template": {
+     "_id": "5e25c84aab98870031ec4474",
+     "name": "Title",
+     "type": "title-widget",
+     "structure": {
+      "schema": {
+       "type": "object",
+       "properties": {
+        "title": {
+         "type": "string"
+        },
+        "maxWidth": {
+         "type": "string"
+        },
+        "background": {
+         "type": "string"
+        }
+       }
+      },
+      "layout": [
+       {
+        "key": "title",
+        "type": "html"
+       },
+       {
+        "key": "maxWidth",
+        "title": "Max With (px)",
+        "type": "number"
+       },
+       {
+        "key": "background",
+        "title": "Background",
+        "type": "string"
+       }
+      ]
+     },
+     "createdAt": "2020-01-20T15:33:30.474Z",
+     "updatedAt": "2021-03-24T21:06:23.692Z",
+     "__v": 0,
+     "icon": "public/widget-templates/icons/24d45201-05d3-458e-9d4e-6427283bc052.png"
+    },
+    "payload": {
+     "title": "<h2>Где можно внедрить системы видеонаблюдения</h2>",
+     "maxWidth": "700"
+    },
+    "__v": 0,
+    "createdAt": "2022-04-04T12:21:26.577Z",
+    "updatedAt": "2026-06-24T14:02:59.714Z"
+   }
+  },
+  "right": {
+   "widget_id": "624ae3119f9a3c00318c087b",
+   "columns": 2,
+   "content": {
+    "published": true,
+    "pages": [],
+    "_id": "624ae3119f9a3c00318c087b",
+    "name": "Widget Description sisteme video RU",
+    "template": {
+     "_id": "5cffa869c8eb6d0031695963",
+     "name": "Description Widget",
+     "type": "description-widget",
+     "structure": {
+      "schema": {
+       "type": "object",
+       "properties": {
+        "label": {
+         "type": "string"
+        },
+        "description": {
+         "type": "string"
+        },
+        "rows": {
+         "type": "number"
+        }
+       }
+      },
+      "layout": [
+       {
+        "key": "label",
+        "type": "text"
+       },
+       {
+        "key": "description",
+        "type": "html"
+       },
+       {
+        "key": "rows",
+        "title": "Maximum rows (enter the number)",
+        "type": "number"
+       }
+      ]
+     },
+     "createdAt": "2019-06-11T13:11:05.559Z",
+     "updatedAt": "2021-04-29T10:08:58.875Z",
+     "__v": 0,
+     "icon": "public/widget-templates/icons/b0b9c260-22fa-4e05-92e6-ea32ede21cec.png"
+    },
+    "payload": {
+     "label": "Видеосистемы",
+     "description": "<p>Kомплексные продукты для IP-видеонаблюдения, в том числе IP-камеры, IP-видеорегистраторы, декодеры, клиентское ПО и приложения для хранения данных.</p>"
+    },
+    "__v": 0,
+    "createdAt": "2022-04-04T12:22:41.154Z",
+    "updatedAt": "2022-06-27T07:45:04.586Z"
+   }
+  }
+ },
+ "Widget Solution Sisteme video Business Branch-5": {
+  "slides": [
+   {
+    "image": {
+     "mimetype": "image/jpeg",
+     "path": "public/widgets/files/dea302f7-d126-42ef-8128-8a6d960bfa8a.jpg"
+    },
+    "label": "Торговый центр",
+    "target": {
+     "url": "ru/solutii-supraveghere-pt-centrul-comercial"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/jpeg",
+     "path": "public/widgets/files/63af3200-5e2d-4385-b27b-7922f31be9f7.jpg"
+    },
+    "class": "1",
+    "label": "Торговля ",
+    "target": {
+     "url": "ru/supraveghere-pentru-comert"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/jpeg",
+     "path": "public/widgets/files/c43920a9-1cdd-4e50-9849-ab069be0680e.jpg"
+    },
+    "label": "Общественные места ",
+    "target": {
+     "url": "ru/supraveghere-pentru-spatiu-public"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/jpeg",
+     "path": "public/widgets/files/3b4af98b-a13a-4ddf-9431-52876a460ebc.jpg"
+    },
+    "label": "Банк",
+    "target": {
+     "url": "ru/supraveghere-video-pentru-banca"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/jpeg",
+     "path": "public/widgets/files/e413bf29-5861-43a8-83c3-d6a370c81777.jpg"
+    },
+    "label": "Офис",
+    "target": {
+     "url": "ru/sisteme-de-supraveghere-video-pentru-oficii"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/jpeg",
+     "path": "public/widgets/files/8619993c-19b5-4afa-b6dd-fb21c0887910.jpg"
+    },
+    "class": "1",
+    "label": "Вокзал/Аэропорт ",
+    "target": {
+     "url": "ru/supraveghere-video-pentru-gara-si-aeroport"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/jpeg",
+     "path": "public/widgets/files/3bff4545-7231-4e71-bf19-778f95e14aeb.jpg"
+    },
+    "label": "Cтройплощадка ",
+    "target": {
+     "url": "ru/supraveghere-video-pentru-santier"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/jpeg",
+     "path": "public/widgets/files/77ec32b9-eefb-44ee-a56a-24e732e70308.jpg"
+    },
+    "label": "Промышленность",
+    "target": {
+     "url": "ru/supraveghere-video-pentru-fabrica"
+    }
+   }
+  ]
+ },
+ "Menu - Landing sisteme de supraveghere - Widget Page Header-4": {
+  "title": " ",
+  "bgImage": {
+   "mimetype": "image/jpeg",
+   "path": "public/widgets/files/6149df0d-8157-4460-9886-3d3ec4a23122.jpg"
+  }
+ },
+ "Beneficii - Landing sisteme supraveghere - Widget Red Features-3": {
+  "backgroundColor": "linear-gradient(rgb(255 255 255) 0px, rgb(244 244 244) 100%)",
+  "information": [
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/ce8c4757-cb0e-4764-84b4-c0042c37191b.png"
+    },
+    "title": "Calitate la preț bun",
+    "description": "Negociem cu fiecare client și oferim soluții în dependență de buget și cerințe."
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/23e9cd12-1e4f-4055-aca8-29ba0d7f3af5.png"
+    },
+    "title": "Proiect la cheie",
+    "description": "Un sortiment vast de peste 2000 de produse și sisteme specializate"
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/3d8d137f-c743-40f4-8748-06dd80a5b90f.png"
+    },
+    "title": "Experiență de 18 ani",
+    "description": "În 18 ani de activitate, compania RTI a dotat cu sisteme de securitate peste 400 de obiecte"
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/f3d4d16f-ceb3-4382-a4e3-f53037a4165e.png"
+    },
+    "title": "Sortiment vast ",
+    "description": "De peste 500 de camere video cu posibilitate de testare în Showroom."
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/e1f6cc35-d5d4-4939-bbad-558f8ce17d02.png"
+    },
+    "title": "Instalare, vânzare și deservire",
+    "description": "Executăm lucrări de proiectare, instalare și deservire a echipamentelor "
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/0b136d42-37d2-446b-b35a-72911840e50c.png"
+    },
+    "title": "Deplasarea gratuită a specialistului",
+    "description": "Deplasaraea specialistului la fața locului este gratuită"
+   }
+  ]
+ },
+ "Empty Space-45-0.": {
+  "height": {
+   "desktop": "32",
+   "mobile": "20"
+  }
+ },
+ "Detector mișcare - Landing sisteme supraveghere - Banner Widget-3": {
+  "image": {
+   "mimetype": "image/png",
+   "path": "public/widgets/files/d779da42-10ff-4bef-866c-3ed92e3a94db.png"
+  },
+  "title": "Detectează mișcarea și îți trimite alerte imediate",
+  "description": "Vei primi o notificare pe telefon atunci când camera detectează mișcare la intrare în casă, garaj sau oficiu. Poate fi o notificare de sosire sau intruziune suspectă. În plus, declanșează afecte de lumină și sunet pentru a speria vizitatorii nedoriți. \n<br>✓  Pătrundere pe teritoriul supravegheat\n<br>✓  Pierderea semnalului cu sistemul de supraveghere\n<br>✓  Schimbarea poziției camerei",
+  "color": "#ffffff",
+  "text-color": "#000000"
+ },
+ "Conectare wifi - Landing sisteme supraveghere - Text Features-5": {
+  "title": "Conectare rapidă și stocare sigură",
+  "image": {
+   "mimetype": "image/png",
+   "path": "public/widgets/files/5dab9730-e58f-4b00-80ff-003758ef6d5b.png"
+  },
+  "features": [
+   {
+    "text": "Stocare locală sau prin cloud și conecțiune prin wifi. Nu este nevoie să procurați echipament suplimentar. Conectare rapidă și siguranță maximă pentru a preveni incidentele de hacking pe internet"
+   },
+   {
+    "text": "Posesorii de bunuri, locuinte, afaceri sau spatii cu flux intens pot apela la aceasta solutie, atat pentru a imbunatati activitatea cat si pentru a creste siguranta familiei."
+   },
+   {
+    "text": "Aceste sisteme si-au dovedit eficienta in supravegherea fluxului de productie, ducand la eficientizarea activitatii. Camere de supraveghere cu card de memorie astfel ca stocarea informatiilor poate fi facuta local (pe hard disk) sau pe calculatoare aflate la distanta. Sistemul de supraveghere video poate fi interconectat cu un sistem de alarma la efractie sau cu cel de control acces si pontaj electronic, pentru cresterea eficientei."
+   }
+  ]
+ },
+ "Vedere nocturnă - Landing sisteme supraveghere - Banner Widget-3": {
+  "image": {
+   "mimetype": "image/png",
+   "path": "public/widgets/files/d779da42-10ff-4bef-866c-3ed92e3a94db.png"
+  },
+  "title": "Vedere nocturnă avansată sporește protecția atunci când dormi",
+  "description": "Dormi în siguranță, lasă camera să îți supravegheze casa sau oficiul în timp de noapte. Night vision cu infraroșu de 850 nm acceptă filtrul automat de schimbare a culorii în condiții de lumină scăzută, cu o distanță vizuală mărită.\n<br>✓  Matricile sensibile permit observarea mai multor detalii în întuneric",
+  "color": "#ffffff"
+ },
+ "Imagine IP67 - Landing supraveghere video - Widget Images-8": {
+  "images": [
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/a8dc8665-15e6-4613-9c65-e17bd2eb7f4b.png"
+    },
+    "imageUrl": "javascript:void(0)",
+    "order": 1000000
+   }
+  ],
+  "layout": {
+   "value": "flex"
+  },
+  "columns": 4,
+  "showViewAll": false,
+  "padding": "1",
+  "imageHeight": "500"
+ },
+ "Servicii si suport - Landing supraveghere video -Dual Widget-9": {
+  "left": {
+   "widget_id": "5fb63869c1f3dc003aabe964",
+   "columns": 7,
+   "padding": {
+    "desktop": "76px 50px 20px 0",
+    "mobile": "0"
+   },
+   "align": {
+    "value": "center"
+   },
+   "content": {
+    "published": true,
+    "pages": [],
+    "_id": "5fb63869c1f3dc003aabe964",
+    "name": "Компания RTI - Landing sisteme supraveghere - avantaje",
+    "template": {
+     "_id": "5cff785ec8eb6d003169595d",
+     "name": "Advantages Widget",
+     "type": "advantages-widget",
+     "structure": {
+      "schema": {
+       "type": "object",
+       "properties": {
+        "title": {
+         "type": "string"
+        },
+        "label": {
+         "type": "string"
+        },
+        "advantages": {
+         "type": "array",
+         "items": {
+          "type": "object",
+          "properties": {
+           "title": {
+            "type": "string"
+           },
+           "description": {
+            "type": "string"
+           }
+          }
+         }
+        }
+       }
+      },
+      "layout": [
+       {
+        "key": "title",
+        "type": "text"
+       },
+       {
+        "key": "label",
+        "type": "text"
+       },
+       {
+        "key": "advantages",
+        "displayFlex": true,
+        "items": [
+         {
+          "key": "advantages[].title",
+          "type": "text"
+         },
+         {
+          "key": "advantages[].description",
+          "type": "textarea"
+         }
+        ]
+       }
+      ]
+     },
+     "createdAt": "2019-06-11T09:46:06.297Z",
+     "updatedAt": "2020-01-08T10:22:09.465Z",
+     "__v": 0,
+     "icon": "public/widget-templates/icons/c8787b77-7ea3-4329-910e-b8312320ee1e.png"
+    },
+    "payload": {
+     "title": "С нами вам будет комфортно",
+     "label": "Индивидуальный подход к каждому проекту, профессиональный монтаж, ежедневная техническая поддержка и расширенная гарантия – дают полную уверенность в качестве и эффективности приобретаемых у нас систем.",
+     "advantages": [
+      {
+       "title": "Двойная <br>гарантия ",
+       "description": "Предоставляем двойнную гарантию от нас и производителя "
+      },
+      {
+       "title": "Техническое обслуживание",
+       "description": "Техническое обслуживание в авторизированном сервисном центре компании"
+      },
+      {
+       "title": "Огромный ассортимент",
+       "description": "Более 2000 позиций оборудования для систем безопасности в Молдове"
+      },
+      {
+       "title": "Бесплатный выезд<br>специалиста",
+       "description": "Бесплатный выезд замерщика и составление сметы прямо на объекте"
+      }
+     ]
+    },
+    "__v": 0,
+    "createdAt": "2020-11-19T09:18:33.983Z",
+    "updatedAt": "2020-11-19T11:08:28.227Z"
+   }
+  },
+  "right": {
+   "widget_id": "5fb6524cc1f3dc003aabe966",
+   "columns": 5,
+   "align": {
+    "value": "center"
+   },
+   "content": {
+    "published": true,
+    "pages": [],
+    "_id": "5fb6524cc1f3dc003aabe966",
+    "name": "Компания RTI лидер на рынке видеонаблюдения - Landing supraveghere video - Despre companie",
+    "template": {
+     "_id": "5cff76a3c8eb6d003169595c",
+     "name": "Info Widget",
+     "type": "info-widget",
+     "structure": {
+      "schema": {
+       "type": "object",
+       "properties": {
+        "title": {
+         "type": "string"
+        },
+        "description": {
+         "type": "string"
+        },
+        "media": {
+         "type": "array",
+         "items": {
+          "type": "object",
+          "properties": {
+           "image": {
+            "type": "object",
+            "properties": {
+             "mimetype": {
+              "type": "string"
+             },
+             "path": {
+              "type": "string"
+             }
+            }
+           }
+          }
+         }
+        },
+        "footer_item": {
+         "type": "array",
+         "items": {
+          "type": "object",
+          "properties": {
+           "image": {
+            "type": "object",
+            "properties": {
+             "mimetype": {
+              "type": "string"
+             },
+             "path": {
+              "type": "string"
+             }
+            }
+           },
+           "image_description": {
+            "type": "string"
+           }
+          }
+         }
+        }
+       }
+      },
+      "layout": [
+       {
+        "key": "title",
+        "type": "text"
+       },
+       {
+        "key": "description",
+        "type": "text"
+       },
+       {
+        "key": "media",
+        "displayFlex": true,
+        "items": [
+         {
+          "key": "media[].image",
+          "type": "file"
+         }
+        ]
+       },
+       {
+        "key": "footer_item",
+        "displayFlex": true,
+        "items": [
+         {
+          "key": "footer_item[].image",
+          "type": "file"
+         },
+         {
+          "key": "footer_item[].image_description",
+          "type": "text"
+         }
+        ]
+       }
+      ]
+     },
+     "createdAt": "2019-06-11T09:38:43.583Z",
+     "updatedAt": "2021-08-06T12:40:31.790Z",
+     "__v": 0,
+     "icon": "public/widget-templates/icons/aacc6047-a22c-4cee-a508-1498874c2eae.png"
+    },
+    "payload": {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/5a9cb326-76d1-40b1-a1de-783f9f44d878.png"
+     },
+     "image_description": "Uniview международный лидер в производстве систем видеонаблюдения",
+     "title": "Качественная установка видеонаблюдения – легко и доступно с RTI",
+     "description": "Огромный опыт и пройденный путь с 2003 года в сфере систем видеонаблюдения и прочих систем безопасности, позволяют нам \"строить\" проекты любого уровня под любой бюджет. От небольших домашних систем видеонаблюдения до крупных проектов, с полным профессиональным комплексом систем технической безопасности."
+    },
+    "createdAt": "2020-11-19T11:09:00.933Z",
+    "updatedAt": "2021-05-27T13:41:19.958Z",
+    "__v": 0
+   }
+  }
+ },
+ "Call to action - Landing supraveghere video - Widget Images-8": {
+  "images": [
+   {
+    "image": {
+     "mimetype": "image/jpeg",
+     "path": "public/widgets/files/ca754388-a07d-4f97-bd45-902d9ac3c6b4.jpg"
+    }
+   }
+  ],
+  "layout": {
+   "value": "flex"
+  },
+  "showViewAll": false
+ },
+ "Description Widget-5 RO": {
+  "description": "<h2 class=\"ql-align-center\">Проектирование и монтаж системы видеонаблюдения для дома в Молдове</h2><p> </p><p>Монтаж системы видеонаблюдения в Кишиневе является одним из самых необходимых действий для повышения уровня безопасности. Она дает возможность контролировать происходящее, что особенно важно в местах, требующих повышенной безопасности, таких как банки, медицинские и государственные учреждения.</p><p>Продажа видеосистемы в Молдове набирает обороты с каждым годом, ведь каждый предприниматель старается обезопасить свой бизнес и сотрудников от угрозы. Монтаж видеокамер может осуществляется в любом общественном здании, как внутри, так и снаружи, покрывая всю территорию. </p><p>Система видеонаблюдения для офисов в Кишиневе, а также для дома и торговых центров, позволяет не только повысить безопасность, но и улучшить контроль качества работы. Вы сможете наблюдать за жизнью вашего бизнеса, даже когда вас нет рядом с работниками.</p><p>Весь процесс установки системы состоит из нескольких этапов:</p><ul><li>Проектирование видеокамер в Молдове – это первый этап при установке оборудования, в ходе которого, изучается территория для последующей работы. Подбираются подходящие камеры и определяются места для установки. Количество камер и их местоположение определяется таким образом, чтобы в результате не было мертвых зон, которые бы не попадали под наблюдение.</li><li>Монтаж и сервисное обслуживание видеонаблюдения в Кишиневе. Видеооборудованию необходим регулярный сервис для того, чтобы камеры всегда были в рабочем состоянии и не подвели в нужный момент.</li></ul><p>Одной из самых современных систем для наблюдения является система, связанная с ip. Такая видеосистема для торговых центров в Молдове имеет возможность передавать видеопоток в цифровом формате. Она состоит из сетевых устройств, где каждое такое устройство обладает собственным IP-адресом и уникальным MAC-адресом.</p><p>Проектирование системы ip видеонаблюдения в Кишиневе включает в себя некоторые важные задачи:</p><ul><li>выбор основного оборудования, </li><li>построение локальной сети, </li><li>расчет объема памяти для хранения видеозаписей.</li></ul><p>Конечно, стоимость такой масштабной системы довольно высока, но несмотря на это продажа ip видеокамер в Молдове не перестает расти. IP-камеры имеют очень высокое разрешение, в сравнении с простыми аналоговыми камерами. Одна такая видеокамера способна проводить видеоанализ изображения и интеграцию с сетевыми приложениями и облачными сервисами. Поэтому монтаж ip видеонаблюдения в Кишиневе – это потрясающая возможность обеспечить безопасность вашему бизнесу. </p><p>Наша компания предлагает вам гарантийное обслуживание видеосистемы, ведь как и любое другое оборудование, оно нуждается в регулярном осмотре и уходе. Также не стоит забывать и про то, что система видеонаблюдения для дома в Молдове точно также требует периодической проверки. Если по какой-то причине оборудование вышло из строя, мы осуществим оперативный ремонт видеокамер и самой системы.</p><p>Мы предлагаем вам<span style=\"color: rgb(50, 58, 69);\"> товары и комплексные решения для автоматизации бизнеса</span>:</p><ul><li><a href=\"https://rti.md/ru/category/echipamente-fiscale\" target=\"_blank\">Фискальное оборудование</a></li><li><a href=\"https://rti.md/ru/category/pospc-specializat\" target=\"_blank\">POS оборудование</a></li><li><a href=\"https://rti.md/ru/category/scanere-coduri-de-bare\" target=\"_blank\">Сканеры штрих-кодов</a></li><li><a href=\"https://rti.md/ru/category/cantare-comerciale\" target=\"_blank\">Торговые весы</a></li><li><a href=\"https://rti.md/ru/category/imprimante\" target=\"_blank\">Принтеры</a></li><li><a href=\"https://rti.md/ru/solutii-automatizare-horeca\" target=\"_blank\">Автоматизация HoReCa</a></li><li><a href=\"https://rti.md/ru/automatizare-retail\" target=\"_blank\">Автоматизация розничной торговли</a></li><li><a href=\"https://rti.md/ru/supraveghere-video\" target=\"_blank\">Системы видеонаблюдения</a></li><li><a href=\"https://rti.md/ru/sisteme-de-parcare\" target=\"_blank\">Парковочные системы</a></li><li><a href=\"https://rti.md/ru/panouri-digitale\" target=\"_blank\">Цифровые вывески</a></li></ul><p><br></p><p class=\"ql-align-center\">Компания RTI - <a href=\"https://rti.md/ru\" target=\"_blank\">aвтоматизация бизнес-процессов в Молдове</a></p><p><br></p>",
+  "rows": 14
+ }
+}

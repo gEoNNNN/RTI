@@ -70,7 +70,7 @@ export default function CatSistemeNvr() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,nvr-uniview-nvr308-64e-b" />
+                                      <link itemprop="url" href="/product/nvr-uniview-nvr308-64e-b" />
                                       <meta itemprop="name" content="NVR Uniview NVR308-64E-B" />
                                       <a href="/product/nvr-uniview-nvr308-64e-b">
                                         NVR Uniview NVR308-64E-B
@@ -116,7 +116,7 @@ export default function CatSistemeNvr() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,nvr-uniview-unicorn" />
+                                      <link itemprop="url" href="/product/nvr-uniview-unicorn" />
                                       <meta itemprop="name" content="NVR Uniview Unicorn" />
                                       <a href="/product/nvr-uniview-unicorn">
                                         NVR Uniview Unicorn
@@ -162,7 +162,7 @@ export default function CatSistemeNvr() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,nvr-uniview-nvr301-08e" />
+                                      <link itemprop="url" href="/product/nvr-uniview-nvr301-08e" />
                                       <meta itemprop="name" content="NVR Uniview NVR301-08E" />
                                       <a href="/product/nvr-uniview-nvr301-08e">
                                         NVR Uniview NVR301-08E
@@ -208,7 +208,7 @@ export default function CatSistemeNvr() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,nvr-uniview-nvr301-16-p8" />
+                                      <link itemprop="url" href="/product/nvr-uniview-nvr301-16-p8" />
                                       <meta itemprop="name" content="NVR Uniview NVR301-16-P8" />
                                       <a href="/product/nvr-uniview-nvr301-16-p8">
                                         NVR Uniview NVR301-16-P8
@@ -254,7 +254,7 @@ export default function CatSistemeNvr() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,nvr-uniview-nvr301-04e" />
+                                      <link itemprop="url" href="/product/nvr-uniview-nvr301-04e" />
                                       <meta itemprop="name" content="NVR Uniview NVR301-04E" />
                                       <a href="/product/nvr-uniview-nvr301-04e">
                                         NVR Uniview NVR301-04E
@@ -300,7 +300,7 @@ export default function CatSistemeNvr() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,nvr-uniview-nvr301-08-p8" />
+                                      <link itemprop="url" href="/product/nvr-uniview-nvr301-08-p8" />
                                       <meta itemprop="name" content="NVR Uniview NVR301-08-P8" />
                                       <a href="/product/nvr-uniview-nvr301-08-p8">
                                         NVR Uniview NVR301-08-P8
@@ -346,7 +346,7 @@ export default function CatSistemeNvr() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,nvr-uniview-nvr301-16e" />
+                                      <link itemprop="url" href="/product/nvr-uniview-nvr301-16e" />
                                       <meta itemprop="name" content="NVR Uniview NVR301-16E" />
                                       <a href="/product/nvr-uniview-nvr301-16e">
                                         NVR Uniview NVR301-16E
@@ -392,7 +392,7 @@ export default function CatSistemeNvr() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,nvr-uniview-nvr302-16e-b1" />
+                                      <link itemprop="url" href="/product/nvr-uniview-nvr302-16e-b1" />
                                       <meta itemprop="name" content="NVR Uniview NVR302-16E-B1" />
                                       <a href="/product/nvr-uniview-nvr302-16e-b1">
                                         NVR Uniview NVR302-16E-B1
@@ -438,7 +438,7 @@ export default function CatSistemeNvr() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,nvr-uniview-nvr302-16e-p16-b" />
+                                      <link itemprop="url" href="/product/nvr-uniview-nvr302-16e-p16-b" />
                                       <meta itemprop="name" content="NVR Uniview NVR302-16E-P16-B" />
                                       <a href="/product/nvr-uniview-nvr302-16e-p16-b">
                                         NVR Uniview NVR302-16E-P16-B
@@ -484,7 +484,7 @@ export default function CatSistemeNvr() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,nvr-uniview-nvr304-32e-b" />
+                                      <link itemprop="url" href="/product/nvr-uniview-nvr304-32e-b" />
                                       <meta itemprop="name" content="NVR Uniview NVR304-32E-B" />
                                       <a href="/product/nvr-uniview-nvr304-32e-b">
                                         NVR Uniview NVR304-32E-B
@@ -530,7 +530,7 @@ export default function CatSistemeNvr() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,nvr-uniview-nvr516-64128" />
+                                      <link itemprop="url" href="/product/nvr-uniview-nvr516-64128" />
                                       <meta itemprop="name" content="NVR Uniview NVR516-64/128" />
                                       <a href="/product/nvr-uniview-nvr516-64128">
                                         NVR Uniview NVR516-64/128
@@ -576,7 +576,7 @@ export default function CatSistemeNvr() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,nvr-uniview-nvr302-16e-b" />
+                                      <link itemprop="url" href="/product/nvr-uniview-nvr302-16e-b" />
                                       <meta itemprop="name" content="NVR Uniview NVR302-16E-B" />
                                       <a href="/product/nvr-uniview-nvr302-16e-b">
                                         NVR Uniview NVR302-16E-B
@@ -622,7 +622,7 @@ export default function CatSistemeNvr() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,nvr-uniview-nvr301-p-series" />
+                                      <link itemprop="url" href="/product/nvr-uniview-nvr301-p-series" />
                                       <meta itemprop="name" content="NVR Uniview NVR301-P SERIES" />
                                       <a href="/product/nvr-uniview-nvr301-p-series">
                                         NVR Uniview NVR301-P SERIES

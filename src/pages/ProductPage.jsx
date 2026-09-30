@@ -1,18 +1,31 @@
 import React, { useState } from 'react';
 import { Link, useParams } from 'react-router-dom';
-import products from '../data/products.json';
-import categories from '../data/categories_full.json';
+import productsRo from '../data/products.json';
+import productsRu from '../data/ru/products.json';
+import productsEn from '../data/en/products.json';
+import categoriesRo from '../data/categories_full.json';
+import categoriesRu from '../data/ru/categories_full.json';
+import categoriesEn from '../data/en/categories_full.json';
 import { imgUrl } from '../data/helpers';
+import { useLang, useT, useTo, pick } from '../lang';
 import { PageHeader } from './StaticPages';
 import NotFoundPage from './NotFoundPage';
 
+const PRODUCTS = { ro: productsRo, ru: productsRu, en: productsEn };
+const CATS = { ro: categoriesRo, ru: categoriesRu, en: categoriesEn };
+
 const catIdToSlug = {};
-Object.values(categories).forEach((c) => {
+Object.values(categoriesRo).forEach((c) => {
   if (c.id) catIdToSlug[c.id] = c.slug;
 });
 
 export default function ProductPage() {
   const { slug } = useParams();
+  const lang = useLang();
+  const t = useT();
+  const to = useTo();
+  const products = pick(lang, PRODUCTS.ro, PRODUCTS.ru, PRODUCTS.en);
+  const categories = pick(lang, CATS.ro, CATS.ru, CATS.en);
   const product = products[slug] || products[slug && slug.replace(/_20/g, ' ')];
   const [activeImg, setActiveImg] = useState(0);
 
@@ -23,7 +36,7 @@ export default function ProductPage() {
   const catTitle = catSlug && categories[catSlug] ? categories[catSlug].title : null;
 
   const crumbs = [];
-  if (catSlug) crumbs.push({ label: catTitle, to: '/category/' + catSlug });
+  if (catSlug) crumbs.push({ label: catTitle, to: to('/category/' + catSlug) });
   crumbs.push({ label: product.title });
 
   const attrs = (product.attributes || [])
@@ -83,15 +96,15 @@ export default function ProductPage() {
               <h1 style={{ fontSize: 28, marginBottom: 16 }}>{product.title}</h1>
               {catSlug && (
                 <p style={{ marginBottom: 16 }}>
-                  Categorie:{' '}
-                  <Link to={'/category/' + catSlug} style={{ color: '#1976d2' }}>
+                  {t('categoryPage.sort.show', 'Categorie')}:{' '}
+                  <Link to={to('/category/' + catSlug)} style={{ color: '#1976d2' }}>
                     {catTitle}
                   </Link>
                 </p>
               )}
               <div style={{ margin: '24px 0' }}>
                 <Link
-                  to="/contacte"
+                  to={to('/contacte')}
                   className="btn btn-primary btn-lg"
                   style={{
                     display: 'inline-block',
@@ -102,7 +115,7 @@ export default function ProductPage() {
                     fontWeight: 500,
                   }}
                 >
-                  Cere ofertă
+                  {t('global.askForPrice', 'Cere ofertă')}
                 </Link>
                 <a
                   href="tel:+37369116121"
@@ -131,7 +144,7 @@ export default function ProductPage() {
 
           {attrs.length > 0 && (
             <div style={{ marginTop: 50 }}>
-              <h2 style={{ fontSize: 22, marginBottom: 16 }}>Specificații</h2>
+              <h2 style={{ fontSize: 22, marginBottom: 16 }}>{t('product.specification', 'Specificații')}</h2>
               <table style={{ width: '100%', borderCollapse: 'collapse' }}>
                 <tbody>
                   {attrs.map((a, i) => (

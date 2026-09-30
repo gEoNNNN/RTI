@@ -103,7 +103,7 @@ export default function CatPospcSpecializat() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,rsistems-folding-stand-pos" />
+                                      <link itemprop="url" href="/product/rsistems-folding-stand-pos" />
                                       <meta itemprop="name" content="RSistems POS cu suport pliabil" />
                                       <a href="/product/rsistems-folding-stand-pos">
                                         RSistems POS cu suport pliabil
@@ -142,7 +142,7 @@ export default function CatPospcSpecializat() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,rsistems-pos-aluminium-design" />
+                                      <link itemprop="url" href="/product/rsistems-pos-aluminium-design" />
                                       <meta itemprop="name" content="RSistems Aluminium POS – Premium Design" />
                                       <a href="/product/rsistems-pos-aluminium-design">
                                         RSistems Aluminium POS – Premium Design
@@ -188,7 +188,7 @@ export default function CatPospcSpecializat() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,monitor-pentru-clienti-fec" />
+                                      <link itemprop="url" href="/product/monitor-pentru-clienti-fec" />
                                       <meta itemprop="name" content="POS display cumparator FEC AM-1008W" />
                                       <a href="/product/monitor-pentru-clienti-fec">
                                         POS display cumparator FEC AM-1008W
@@ -227,7 +227,7 @@ export default function CatPospcSpecializat() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,pos-terminal-rsistem-j4125" />
+                                      <link itemprop="url" href="/product/pos-terminal-rsistem-j4125" />
                                       <meta itemprop="name" content="POS terminal RSistem J4125" />
                                       <a href="/product/pos-terminal-rsistem-j4125">
                                         POS terminal RSistem J4125
@@ -273,7 +273,7 @@ export default function CatPospcSpecializat() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,tableta-rs-wt-101-all-in-one-specializat-101-windows" />
+                                      <link itemprop="url" href="/product/tableta-rs-wt-101-all-in-one-specializat-101-windows" />
                                       <meta itemprop="name" content="Tableta specializata Windows RS - WT All-in-one " />
                                       <a href="/product/tableta-rs-wt-101-all-in-one-specializat-101-windows">
                                         Tableta specializata Windows RS - WT All-in-one 
@@ -319,7 +319,7 @@ export default function CatPospcSpecializat() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,pos-terminal-beetle-ipos-plus-diebold-nixdorf" />
+                                      <link itemprop="url" href="/product/pos-terminal-beetle-ipos-plus-diebold-nixdorf" />
                                       <meta itemprop="name" content="POS terminal BEETLE/iPOS plus Diebold Nixdorf" />
                                       <a href="/product/pos-terminal-beetle-ipos-plus-diebold-nixdorf">
                                         POS terminal BEETLE/iPOS plus Diebold Nixdorf
@@ -365,7 +365,7 @@ export default function CatPospcSpecializat() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,pos-terminal-rsistems-j1900" />
+                                      <link itemprop="url" href="/product/pos-terminal-rsistems-j1900" />
                                       <meta itemprop="name" content="POS terminal RSistems J1900" />
                                       <a href="/product/pos-terminal-rsistems-j1900">
                                         POS terminal RSistems J1900
@@ -411,7 +411,7 @@ export default function CatPospcSpecializat() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,pos-terminal-pos-rs156-aw" />
+                                      <link itemprop="url" href="/product/pos-terminal-pos-rs156-aw" />
                                       <meta itemprop="name" content="POS terminal RSistems RS156-AW " />
                                       <a href="/product/pos-terminal-pos-rs156-aw">
                                         POS terminal RSistems RS156-AW 
@@ -457,7 +457,7 @@ export default function CatPospcSpecializat() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,sertar-de-bani-hs-410a" />
+                                      <link itemprop="url" href="/product/sertar-de-bani-hs-410a" />
                                       <meta itemprop="name" content="Sertar de bani HS-410A" />
                                       <a href="/product/sertar-de-bani-hs-410a">
                                         Sertar de bani HS-410A
@@ -506,7 +506,7 @@ export default function CatPospcSpecializat() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,sertar-de-bani-hs-170" />
+                                      <link itemprop="url" href="/product/sertar-de-bani-hs-170" />
                                       <meta itemprop="name" content="Sertar de bani HS 170" />
                                       <a href="/product/sertar-de-bani-hs-170">
                                         Sertar de bani HS 170

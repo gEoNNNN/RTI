@@ -70,7 +70,7 @@ export default function CatAccesoriiAudio() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,microfon-de-masa-itc-t-621a" />
+                                      <link itemprop="url" href="/product/microfon-de-masa-itc-t-621a" />
                                       <meta itemprop="name" content="Microfon de masa ITC T-621A" />
                                       <a href="/product/microfon-de-masa-itc-t-621a">
                                         Microfon de masa ITC T-621A
@@ -109,7 +109,7 @@ export default function CatAccesoriiAudio() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,potentiometru-volum-itc-t-673-30w" />
+                                      <link itemprop="url" href="/product/potentiometru-volum-itc-t-673-30w" />
                                       <meta itemprop="name" content="Potentiometru volum ITC T-673 30W" />
                                       <a href="/product/potentiometru-volum-itc-t-673-30w">
                                         Potentiometru volum ITC T-673 30W
@@ -148,7 +148,7 @@ export default function CatAccesoriiAudio() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,potentiometru-volum-itc-t-674-60w" />
+                                      <link itemprop="url" href="/product/potentiometru-volum-itc-t-674-60w" />
                                       <meta itemprop="name" content="Potentiometru volum ITC T-674 60W" />
                                       <a href="/product/potentiometru-volum-itc-t-674-60w">
                                         Potentiometru volum ITC T-674 60W

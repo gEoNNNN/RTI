@@ -1,5 +1,8 @@
 import React, { useRef, useState } from 'react';
-import page from '../data/contacte_page.json';
+import pageRo from '../data/contacte_page.json';
+import pageRu from '../data/ru/contacte_page.json';
+import pageEn from '../data/en/contacte_page.json';
+import { useLang, useT, pick } from '../lang';
 
 const EMAIL_RE = /^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?(?:\.[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?)*$/;
 const REASONS = [
@@ -55,6 +58,7 @@ function ContactMeta({ payload }) {
 }
 
 function ReasonSelect({ value, onChange }) {
+  const t = useT();
   const [open, setOpen] = useState(false);
   const ref = useRef(null);
   const selected = REASONS.find((r) => r.value === value);
@@ -67,7 +71,7 @@ function ReasonSelect({ value, onChange }) {
     >
       <div className="ng-select-container" onClick={() => setOpen((o) => !o)}>
         <div className="ng-value-container">
-          {!selected && <div className="ng-placeholder">Motiv pentru a lua legatura</div>}
+          {!selected && <div className="ng-placeholder">{t('contacts.reason', 'Motiv pentru a lua legatura')}</div>}
           {selected && (
             <div className="ng-value">
               <span className="ng-value-label">{selected.name}</span>
@@ -102,6 +106,10 @@ function ReasonSelect({ value, onChange }) {
 }
 
 export default function ContactPage() {
+  const lang = useLang();
+  const t = useT();
+  const page = pick(lang, pageRo, pageRu, pageEn);
+  const errMinMax = (min, max) => t('account.global.min&max', 'Campul trebuie sa contina minim {{min}} caracter(e) si maxim {{max}} caracter(e)').replace('{{min}}', min).replace('{{max}}', max);
   const [selling, setSelling] = useState(true);
   const [form, setForm] = useState(EMPTY_FORM);
   const [touched, setTouched] = useState({});
@@ -156,11 +164,11 @@ export default function ContactPage() {
         body: JSON.stringify(payload),
       });
       if (!res.ok) throw new Error(res.status);
-      showToast('success', 'Mesajul a fost livrat cu success');
+      showToast('success', t('contacts.success', 'Mesajul a fost livrat cu success'));
       setForm(EMPTY_FORM);
       setTouched({});
     } catch {
-      showToast('error', 'Mesajul nu a fost livrat.');
+      showToast('error', t('contacts.error', 'Mesajul nu a fost livrat.'));
     } finally {
       setSending(false);
     }
@@ -174,7 +182,7 @@ export default function ContactPage() {
         <div className="overlay" style={{ background: 'transparent' }}></div>
         <div id="links" className="page-header__container container">
           <div className="page-header__title">
-            <h1>Contacte</h1>
+            <h1>{t('contacts.title', 'Contacte')}</h1>
           </div>
         </div>
       </div>
@@ -185,10 +193,10 @@ export default function ContactPage() {
             <div className="header-body">
               <div className="items">
                 <div className={`item first${selling ? ' active' : ''}`} onClick={() => switchTab(true)}>
-                  <div className="title"><h4>Cereri de vanzare</h4></div>
+                  <div className="title"><h4>{t('contacts.header.selling', 'Cereri de vanzare')}</h4></div>
                 </div>
                 <div className={`item second${!selling ? ' active' : ''}`} onClick={() => switchTab(false)}>
-                  <div className="title"><h4>Ai nevoie de suport?</h4></div>
+                  <div className="title"><h4>{t('contacts.header.support', 'Ai nevoie de suport?')}</h4></div>
                 </div>
               </div>
             </div>
@@ -203,36 +211,36 @@ export default function ContactPage() {
               </div>
               <div className="col-12 col-lg-6">
                 <div className="rti-form">
-                  <h4 className="form-title">Completati campurile</h4>
+                  <h4 className="form-title">{t('contacts.completeForm', 'Completati campurile')}</h4>
                   <form id="contacts-form" noValidate onSubmit={onSubmit}>
                     <div className="form-item">
                       {showErr('name') && (
                         <div className="errors">
-                          {errors.name === 'required' && <span className="error">Cimpul nu poate fi gol</span>}
-                          {errors.name === 'minmax' && <span className="error">Campul trebuie sa contina minim 3 caracter(e) si maxim 20 caracter(e)</span>}
+                          {errors.name === 'required' && <span className="error">{t('account.global.requiredField', 'Cimpul nu poate fi gol')}</span>}
+                          {errors.name === 'minmax' && <span className="error">{errMinMax(3, 20)}</span>}
                         </div>
                       )}
-                      <input type="text" id="form-name" name="name" className="form-control" placeholder="Numele"
+                      <input type="text" id="form-name" name="name" className="form-control" placeholder={t('contacts.name', 'Numele')}
                         value={form.name} onChange={set('name')} onBlur={touch('name')} />
                     </div>
                     <div className="form-item">
                       {showErr('email') && (
                         <div className="errors">
-                          {errors.email === 'required' && <span className="error">Cimpul nu poate fi gol</span>}
-                          {errors.email === 'invalid' && <span className="error">Emailul este invalid</span>}
+                          {errors.email === 'required' && <span className="error">{t('account.global.requiredField', 'Cimpul nu poate fi gol')}</span>}
+                          {errors.email === 'invalid' && <span className="error">{t('account.global.invalidEmail', 'Emailul este invalid')}</span>}
                         </div>
                       )}
-                      <input type="email" id="form-email" name="email" className="form-control" placeholder="Email"
+                      <input type="email" id="form-email" name="email" className="form-control" placeholder={t('contacts.email', 'Email')}
                         value={form.email} onChange={set('email')} onBlur={touch('email')} />
                     </div>
                     {selling && (
                       <>
                         <div className="form-item">
-                          <input type="text" id="form-phone" name="phone" className="form-control" placeholder="Telefon"
+                          <input type="text" id="form-phone" name="phone" className="form-control" placeholder={t('contacts.phone', 'Telefon')}
                             value={form.phone} onChange={set('phone')} onBlur={touch('phone')} />
                         </div>
                         <div className="form-item">
-                          <input type="text" id="form-company" name="company" className="form-control" placeholder="Denumirea Companiei"
+                          <input type="text" id="form-company" name="company" className="form-control" placeholder={t('contacts.company', 'Denumirea Companiei')}
                             value={form.company} onChange={set('company')} onBlur={touch('company')} />
                         </div>
                       </>
@@ -243,15 +251,15 @@ export default function ContactPage() {
                     <div className="form-item">
                       {showErr('message') && (
                         <div className="errors">
-                          {errors.message === 'required' && <span className="error">Cimpul nu poate fi gol</span>}
-                          {errors.message === 'minmax' && <span className="error">Campul trebuie sa contina minim 10 caracter(e) si maxim 500 caracter(e)</span>}
+                          {errors.message === 'required' && <span className="error">{t('account.global.requiredField', 'Cimpul nu poate fi gol')}</span>}
+                          {errors.message === 'minmax' && <span className="error">{errMinMax(10, 500)}</span>}
                         </div>
                       )}
-                      <textarea id="form-message" rows="4" name="message" className="form-control textarea-class" placeholder="Mesaj"
+                      <textarea id="form-message" rows="4" name="message" className="form-control textarea-class" placeholder={t('contacts.message', 'Mesaj')}
                         value={form.message} onChange={set('message')} onBlur={touch('message')}></textarea>
                     </div>
                     <button type="submit" className="btn btn-primary submitForm" disabled={invalid || sending}>
-                      {' '}Trimiteti{' '}
+                      {t('contacts.sendMessage', 'Trimiteti')}
                     </button>
                   </form>
                 </div>

@@ -78,7 +78,7 @@ export default function CatImprimanteDeCarduri() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,imprimanta-de-carduri-zebra-zc10l-single-side" />
+                                      <link itemprop="url" href="/product/imprimanta-de-carduri-zebra-zc10l-single-side" />
                                       <meta itemprop="name" content="Imprimanta de carduri Zebra ZC10L" />
                                       <a href="/product/imprimanta-de-carduri-zebra-zc10l-single-side">
                                         Imprimanta de carduri Zebra ZC10L

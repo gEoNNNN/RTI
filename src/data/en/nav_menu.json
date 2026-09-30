@@ -1,0 +1,94 @@
+[
+ {
+  "title": "Solutions",
+  "link": "/",
+  "icon": "public/menu/icons/f7f8b439-dee2-4cbc-a171-cb05c79e96e9.svg",
+  "activeIcon": "public/menu/icons/8cda4cc1-57e1-4328-a489-8fec21a468ca.svg",
+  "submenu": [
+   {
+    "title": "HoReCa Automation ",
+    "link": "solutii-automatizare-horeca",
+    "icon": "public/menu/icons/21463c6b-da5f-480f-b00a-034330a2692e.svg",
+    "activeIcon": "public/menu/icons/5a4056f2-9c5a-4b6b-8de8-2dca081fd562.svg"
+   },
+   {
+    "title": "Retail automation",
+    "link": "automatizarea-magazinelor-si-retelelor-de-vanzare-cu-amanuntul",
+    "icon": "public/menu/icons/31c5b68b-5053-4be0-9e6d-59bd5d0a880f.svg",
+    "activeIcon": "public/menu/icons/c80d23dd-b7dd-4657-8bf5-e50f8701b090.svg"
+   },
+   {
+    "title": "CCTV systems",
+    "link": "instalarea-sistemelor-de-supraveghere-video-pentru-casa-si-afacere",
+    "icon": "public/menu/icons/8fe4d4f6-b164-497d-b6a7-7dfc7f9a287b.svg",
+    "activeIcon": "public/menu/icons/70f644c1-5baa-44ec-95d7-dd1a36f1ae17.svg"
+   },
+   {
+    "title": "Parking systems",
+    "link": "/solutii-sisteme-parcare",
+    "icon": "public/menu/icons/5b4532e5-3dae-423b-9caa-fba0bd21186b.svg",
+    "activeIcon": "public/menu/icons/9d2c3672-2b07-4aa2-a6cc-40ccf0b53966.svg"
+   },
+   {
+    "title": "Digital signage",
+    "link": "/panouri-digitale",
+    "icon": "public/menu/icons/20f5a33f-2ea3-4c38-b207-ff1180bae47b.svg",
+    "activeIcon": "public/menu/icons/94fb9b42-bb0f-4443-96b1-3cf88d49be89.svg"
+   },
+   {
+    "title": "iiko - soft",
+    "link": "iiko-soft-de-gestiune-horeca",
+    "icon": "public/menu/icons/274b49c8-636e-4c5e-a8aa-d57f7aeaecbc.svg",
+    "activeIcon": "public/menu/icons/e61f3952-9cc6-44f5-add8-9613871ea2de.svg"
+   }
+  ]
+ },
+ {
+  "title": "Software prices",
+  "link": "/",
+  "icon": "public/menu/icons/a928bb2b-4982-486c-ba30-18a378668c5b.svg",
+  "activeIcon": "public/menu/icons/f6daa054-7784-40bc-ac48-f34812a63ad7.svg",
+  "submenu": [
+   {
+    "title": "Syrve software prices",
+    "link": "/preturi-soft-syrve",
+    "icon": "public/menu/icons/3fe764c2-b314-478e-9b09-acd32a023f40.svg",
+    "activeIcon": "public/menu/icons/260a37f3-5a4b-4c54-a260-a5850f4137e3.svg"
+   },
+   {
+    "title": "1C software prices",
+    "link": "/preturi-soft-1c",
+    "icon": "public/menu/icons/f304377e-5de7-4ffe-9934-5876f64fed9e.svg",
+    "activeIcon": "public/menu/icons/6e41eff6-b6b2-4867-9341-67609ad2d669.svg"
+   }
+  ]
+ },
+ {
+  "title": "About us",
+  "link": "/despre-noi",
+  "icon": "public/menu/icons/e4eeffff-8fa7-456e-b81f-6e3ebd1348a8.svg",
+  "activeIcon": "public/menu/icons/c43e50a6-2867-438c-ba86-d371910dc4ed.svg",
+  "submenu": []
+ },
+ {
+  "title": "News",
+  "link": "/noutati",
+  "icon": "public/menu/icons/0230464a-5e86-4340-a10c-a75164e5b63a.svg",
+  "activeIcon": "public/menu/icons/aae77707-75d9-478f-aa49-a34b0348289e.svg",
+  "submenu": []
+ },
+ {
+  "title": "Free consultation",
+  "link": "/consultation-free",
+  "icon": "public/menu/icons/f1309890-5d26-4cf6-a6de-0b27e09ec9de.svg",
+  "activeIcon": "public/menu/icons/fd9528c1-d9f1-4c99-bcb9-41541a7802ef.svg",
+  "submenu": []
+ },
+ {
+  "title": "Contacts",
+  "link": "/contacte",
+  "icon": "public/menu/icons/bc7e5ae0-2415-45b1-985b-f46ef48dd98f.svg",
+  "activeIcon": "public/menu/icons/96179b06-5e48-4d17-be9a-e525586eaba1.svg",
+  "submenu": []
+ }
+]

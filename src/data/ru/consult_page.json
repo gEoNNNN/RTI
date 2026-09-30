@@ -1,0 +1,457 @@
+{
+ "_id": "698f157cc513c100313e0b7a",
+ "published": true,
+ "isMain": false,
+ "title": "/consultation-free",
+ "metaTitle": "Бесплатная консультация",
+ "metaDescription": "",
+ "description": "",
+ "widgets": [
+  {
+   "published": true,
+   "pages": [],
+   "_id": "69ba7582c513c100313e40c6",
+   "name": "Widget Page Header-4",
+   "template": {
+    "_id": "5e663dab58401f0031a10770",
+    "name": "Widget Page Header",
+    "type": "widget-page-header",
+    "structure": {
+     "schema": {
+      "type": "object",
+      "properties": {
+       "title": {
+        "type": "string",
+        "required": true
+       },
+       "overlay": {
+        "type": "string"
+       },
+       "bgImage": {
+        "required": true,
+        "type": "object",
+        "properties": {
+         "mimetype": {
+          "type": "string"
+         },
+         "path": {
+          "type": "string"
+         }
+        }
+       },
+       "links": {
+        "type": "array",
+        "items": {
+         "type": "object",
+         "properties": {
+          "name": {
+           "type": "string"
+          },
+          "value": {
+           "type": "string"
+          },
+          "type": {
+           "type": "string",
+           "enum": [
+            "LINK",
+            "ROUTE",
+            "SCROLL"
+           ]
+          }
+         }
+        }
+       }
+      }
+     },
+     "layout": [
+      {
+       "required": true,
+       "key": "title",
+       "type": "text"
+      },
+      {
+       "required": true,
+       "key": "bgImage",
+       "type": "file"
+      },
+      {
+       "key": "overlay",
+       "type": "text",
+       "title": "Background Overlay Style"
+      },
+      {
+       "key": "links",
+       "displayFlex": true,
+       "items": [
+        {
+         "key": "links[].name",
+         "required": true,
+         "type": "text"
+        },
+        {
+         "key": "links[].value",
+         "required": true,
+         "type": "text"
+        },
+        {
+         "type": "select",
+         "key": "links[].type",
+         "required": true,
+         "titleMap": [
+          {
+           "value": "LINK",
+           "name": "Link (to another website)"
+          },
+          {
+           "value": "ROUTE",
+           "name": "Route (to current website)"
+          },
+          {
+           "value": "SCROLL",
+           "name": "Scroll (to the index of widget"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    "createdAt": "2020-03-09T12:59:23.695Z",
+    "updatedAt": "2021-03-24T21:58:12.219Z",
+    "__v": 0,
+    "icon": "public/widget-templates/icons/d228912b-4557-4d82-900b-235b35d8b7a2.png"
+   },
+   "payload": {
+    "title": "Бесплатная консультация и презентация в шоуруме",
+    "bgImage": {
+     "mimetype": "image/jpeg",
+     "path": "public/widgets/files/9c292609-5d54-466d-8a55-94d9288c54d5.jpg"
+    }
+   },
+   "createdAt": "2026-03-18T09:50:58.047Z",
+   "updatedAt": "2026-03-18T09:50:58.047Z",
+   "__v": 0
+  },
+  {
+   "published": true,
+   "pages": [],
+   "_id": "5e67eb0c6ee7b2002ec93cdf",
+   "name": "Empty Space-60-30",
+   "template": {
+    "_id": "5e6799db6ee7b2002ec93b6b",
+    "name": "Empty Space",
+    "type": "widget-empty-space",
+    "structure": {
+     "schema": {
+      "type": "object",
+      "properties": {
+       "showBackground": {
+        "type": "boolean"
+       },
+       "height": {
+        "type": "object",
+        "properties": {
+         "desktop": {
+          "type": "string"
+         },
+         "mobile": {
+          "type": "string"
+         }
+        }
+       }
+      }
+     },
+     "layout": [
+      {
+       "title": "Empty Widget. Set the height of block"
+      },
+      {
+       "key": "height.desktop",
+       "type": "number"
+      },
+      {
+       "key": "height.mobile",
+       "type": "number"
+      },
+      {
+       "key": "showBackground",
+       "title": " Show background",
+       "type": "checkbox"
+      }
+     ]
+    },
+    "createdAt": "2020-03-10T13:44:59.204Z",
+    "updatedAt": "2022-03-17T14:03:39.489Z",
+    "__v": 0,
+    "icon": "public/widget-templates/icons/fb1e903c-6b8d-4550-aff2-98bc6bcce25a.png"
+   },
+   "payload": {
+    "showBackground": true,
+    "height": {
+     "desktop": "60",
+     "mobile": "30"
+    }
+   },
+   "createdAt": "2020-03-10T19:31:24.112Z",
+   "updatedAt": "2026-03-18T09:41:06.638Z",
+   "__v": 0
+  },
+  {
+   "published": true,
+   "pages": [],
+   "_id": "698f3fa2c513c100313e0bd9",
+   "name": "consultation-ru",
+   "template": {
+    "_id": "61fd46e35935a200319241fb",
+    "name": "Paragraph container widget",
+    "type": "widget-paragraph-section",
+    "structure": {
+     "schema": {
+      "type": "object",
+      "properties": {
+       "paragraph": {
+        "type": "string"
+       }
+      }
+     },
+     "layout": [
+      {
+       "key": "paragraph",
+       "type": "html"
+      }
+     ]
+    },
+    "createdAt": "2022-02-04T15:31:47.331Z",
+    "updatedAt": "2022-02-04T15:31:47.331Z",
+    "__v": 0
+   },
+   "payload": {
+    "paragraph": "<h2>Мы предоставляем <strong>бесплатную консультацию</strong> и проводим <strong>презентацию оборудования и программного обеспечения</strong> в нашем шоуруме.</h2><p>Наши специалисты:</p><ul><li>Подробно расскажут о возможностях продукции</li><li>Продемонстрируют оборудование и ПО в работе</li><li>Ответят на все ваши вопросы</li><li>Помогут подобрать оптимальное решение именно для вашего бизнеса</li></ul><p>Мы подберем оборудование или программное обеспечение с учетом задач, масштаба и специфики вашей компании.</p><h3>Получить дополнительную информацию вы можете по телефону  <a href=\"tel:+373 69 116121\" target=\"_blank\" style=\"color: rgb(115, 115, 115);\">+373 69 116121</a></h3><p><br></p><p><br></p>"
+   },
+   "createdAt": "2026-02-13T15:13:38.239Z",
+   "updatedAt": "2026-03-18T09:58:20.422Z",
+   "__v": 0
+  },
+  {
+   "published": true,
+   "pages": [],
+   "_id": "5f742c2ac1f3dc003aabe51f",
+   "name": "Наши клиенты -  Landing automatizarea soft de gestiune magazin - Partners Widget-9",
+   "template": {
+    "_id": "5cffb13fc8eb6d0031695966",
+    "name": "Partners Widget",
+    "type": "partners-widget",
+    "structure": {
+     "schema": {
+      "type": "object",
+      "properties": {
+       "label": {
+        "type": "string"
+       },
+       "title": {
+        "type": "string"
+       },
+       "target": {
+        "type": "object",
+        "properties": {
+         "text": {
+          "type": "string"
+         },
+         "url": {
+          "type": "string"
+         }
+        }
+       },
+       "partners": {
+        "type": "array",
+        "items": {
+         "type": "object",
+         "properties": {
+          "image": {
+           "type": "object",
+           "properties": {
+            "mimetype": {
+             "type": "string"
+            },
+            "path": {
+             "type": "string"
+            }
+           }
+          },
+          "imageTitle": {
+           "type": "string"
+          }
+         }
+        }
+       }
+      }
+     },
+     "layout": [
+      {
+       "key": "label",
+       "type": "text"
+      },
+      {
+       "key": "title",
+       "type": "text"
+      },
+      {
+       "key": "target",
+       "displayFlex": true,
+       "items": [
+        {
+         "key": "target.text",
+         "type": "text"
+        },
+        {
+         "key": "target.url",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "key": "partners",
+       "displayFlex": true,
+       "items": [
+        {
+         "key": "partners[].image",
+         "type": "file"
+        },
+        {
+         "key": "partners[].imageTitle",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    },
+    "createdAt": "2019-06-11T13:48:47.630Z",
+    "updatedAt": "2022-07-01T11:15:25.897Z",
+    "__v": 0,
+    "icon": "public/widget-templates/icons/257239db-a460-4a1e-8fe2-30d6ba6f5412.png"
+   },
+   "payload": {
+    "title": "Компании использующие систему",
+    "target": {
+     "text": "Все клиенты",
+     "url": "/clienti"
+    },
+    "partners": [
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/a00f4163-aa7c-4337-a14c-7a798e7a353d.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/fa490c4e-6799-44ce-b01c-bdb6a6db6b13.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/888f2381-fbd2-46c4-914f-d374e57052bd.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/d7254b92-0bba-4335-aab7-bc9d0167e921.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/97888971-a877-4835-96fe-cd1f12b2ebe7.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/e90ed87c-48d9-4578-b279-78971b3a43db.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/60493e46-7630-41eb-a98e-ed077de05f65.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/2678bde5-571a-4989-a9d7-e824deaa984f.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/b2c09aa6-796e-49d0-8e0d-d9bab4efcfd2.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/9fbe7f92-c897-46e6-93e5-6e085a0538d4.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/780a81f8-b2f7-4753-9798-5855f4d2efdc.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/6a2fd0ff-9e2a-4390-9295-4c238b27a86b.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/d1aab3e4-a5ad-46b0-8861-98caec74d1e3.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/d5aa3f3a-8fc2-42d7-8eef-7e86fcd545f8.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/8286e879-1352-4801-a0b9-bdfef03fedf9.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/281644c9-fa06-4851-af8c-97ed319f48df.png"
+      }
+     },
+     {
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/070911d5-a597-4c03-96c8-b08eaa26d132.png"
+      }
+     }
+    ]
+   },
+   "createdAt": "2020-09-30T06:56:42.857Z",
+   "updatedAt": "2020-09-30T06:56:42.857Z",
+   "__v": 0
+  }
+ ],
+ "image": {
+  "path": null,
+  "mimetype": null
+ },
+ "slug": "consultation-free",
+ "createdAt": "2026-02-13T12:13:48.920Z",
+ "updatedAt": "2026-03-18T11:26:16.722Z",
+ "__v": 0
+}

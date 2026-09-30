@@ -79,7 +79,7 @@ export default function CatScanereManuale() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,cititor-coduri-bare-2d-datalogic-quickscan-qd2430" />
+                                      <link itemprop="url" href="/product/cititor-coduri-bare-2d-datalogic-quickscan-qd2430" />
                                       <meta itemprop="name" content="Scaner coduri de bare 2D Datalogic QuickScan QD2430" />
                                       <a href="/product/cititor-coduri-bare-2d-datalogic-quickscan-qd2430">
                                         Scaner coduri de bare 2D Datalogic QuickScan
@@ -128,7 +128,7 @@ export default function CatScanereManuale() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,scaner-coduri-de-bare-rsc-8410" />
+                                      <link itemprop="url" href="/product/scaner-coduri-de-bare-rsc-8410" />
                                       <meta itemprop="name" content="Scaner 2D coduri de bare wireless RScan RSC 8410" />
                                       <a href="/product/scaner-coduri-de-bare-rsc-8410">
                                         Scaner 2D coduri de bare wireless RScan RSC 8410
@@ -167,7 +167,7 @@ export default function CatScanereManuale() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,scaner-coduri-de-bare-rsc-4300" />
+                                      <link itemprop="url" href="/product/scaner-coduri-de-bare-rsc-4300" />
                                       <meta itemprop="name" content="Scaner 1D coduri de bare manual RScan RSC 4300" />
                                       <a href="/product/scaner-coduri-de-bare-rsc-4300">
                                         Scaner 1D coduri de bare manual RScan RSC 4300
@@ -206,7 +206,7 @@ export default function CatScanereManuale() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,scaner-coduri-de-bare-rsc-2410" />
+                                      <link itemprop="url" href="/product/scaner-coduri-de-bare-rsc-2410" />
                                       <meta itemprop="name" content="Scaner 2D coduri de bare manual RScan RSC 2410" />
                                       <a href="/product/scaner-coduri-de-bare-rsc-2410">
                                         Scaner 2D coduri de bare manual RScan RSC 2410
@@ -245,7 +245,7 @@ export default function CatScanereManuale() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,datalogic-quickscan-qm-2130" />
+                                      <link itemprop="url" href="/product/datalogic-quickscan-qm-2130" />
                                       <meta itemprop="name" content="Datalogic 1D  QuickScan QM 2130" />
                                       <a href="/product/datalogic-quickscan-qm-2130">
                                         Datalogic 1D  QuickScan QM 2130
@@ -288,7 +288,7 @@ export default function CatScanereManuale() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,datalogic-heron-hd3430" />
+                                      <link itemprop="url" href="/product/datalogic-heron-hd3430" />
                                       <meta itemprop="name" content="Scaner 1d,2D coduri de bare Datalogic Heron HD3430" />
                                       <a href="/product/datalogic-heron-hd3430">
                                         Scaner 1d,2D coduri de bare Datalogic Heron HD3430
@@ -331,7 +331,7 @@ export default function CatScanereManuale() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,scaner-datalogic-quickscan-i-lite-qw2100" />
+                                      <link itemprop="url" href="/product/scaner-datalogic-quickscan-i-lite-qw2100" />
                                       <meta itemprop="name" content="Scaner 1D Datalogic QuickScan Lite QW2100" />
                                       <a href="/product/scaner-datalogic-quickscan-i-lite-qw2100">
                                         Scaner 1D Datalogic QuickScan Lite QW2100
@@ -380,7 +380,7 @@ export default function CatScanereManuale() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,cititor-de-coduri-de-bare-datalogic-quickscan-qm-2130a" />
+                                      <link itemprop="url" href="/product/cititor-de-coduri-de-bare-datalogic-quickscan-qm-2130a" />
                                       <meta itemprop="name" content="Scaner 1D  de coduri de bare Datalogic QuickScan QM 2130a" />
                                       <a href="/product/cititor-de-coduri-de-bare-datalogic-quickscan-qm-2130a">
                                         Scaner 1D  de coduri de bare Datalogic QuickScan

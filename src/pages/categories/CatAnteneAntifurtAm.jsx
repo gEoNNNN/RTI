@@ -70,7 +70,7 @@ export default function CatAnteneAntifurtAm() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,sistemul-antifurt-rguard-new-line-am" />
+                                      <link itemprop="url" href="/product/sistemul-antifurt-rguard-new-line-am" />
                                       <meta itemprop="name" content="Sistemul Antifurt RGuard New Line AM" />
                                       <a href="/product/sistemul-antifurt-rguard-new-line-am">
                                         Sistemul Antifurt RGuard New Line AM
@@ -109,7 +109,7 @@ export default function CatAnteneAntifurtAm() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,antene-antifurt-sensormatic-ultra-exit" />
+                                      <link itemprop="url" href="/product/antene-antifurt-sensormatic-ultra-exit" />
                                       <meta itemprop="name" content="Antene antifurt Sensormatic Ultra Exit" />
                                       <a href="/product/antene-antifurt-sensormatic-ultra-exit">
                                         Antene antifurt Sensormatic Ultra Exit
@@ -148,7 +148,7 @@ export default function CatAnteneAntifurtAm() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,antene-antifurt-sensormatic-ultra-post" />
+                                      <link itemprop="url" href="/product/antene-antifurt-sensormatic-ultra-post" />
                                       <meta itemprop="name" content="Antene antifurt Sensormatic Ultra Post" />
                                       <a href="/product/antene-antifurt-sensormatic-ultra-post">
                                         Antene antifurt Sensormatic Ultra Post
@@ -187,7 +187,7 @@ export default function CatAnteneAntifurtAm() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,rguard-new-line-am-acryl-antenna" />
+                                      <link itemprop="url" href="/product/rguard-new-line-am-acryl-antenna" />
                                       <meta itemprop="name" content="RGuard New Line AM Acryl Antenna" />
                                       <a href="/product/rguard-new-line-am-acryl-antenna">
                                         RGuard New Line AM Acryl Antenna

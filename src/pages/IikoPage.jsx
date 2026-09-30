@@ -2,19 +2,11 @@ import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import { imgUrl } from '../data/helpers';
 import { BusinessBranch, Entrust, richText } from './HomePage';
-import page from '../data/iiko_page.json';
+import pageRo from '../data/iiko_page.json';
+import pageRu from '../data/ru/iiko_page.json';
+import pageEn from '../data/en/iiko_page.json';
+import { useLang, useT, useTo, to, pick } from '../lang';
 
-const hero = page['Tipuri afaceri - Landing software iiko - Business Branch Ro - versimea 2'] || {};
-const entrustData = page['Video - Automaizare restaurant Ro - Entrust Widget-8'] || {};
-const redFeatures = page['Funcționalități - RED FEATURES - Automaitzare restarunta Ro - Widget Red Features'] || {};
-const bgVanzare = page['iiko interfata de vanzare - iiko - BG GREY - Automatizare restaurant - Widget 2 '] || {};
-const bgGestiune = page['iiko interfata de gestiune - iiko - BG GREY - Automatizare restaurant - Widget 3 '] || {};
-const menu = page['iiko cloud + MENU - Widget Header-1'] || {};
-const bgBucatarie = page['Ecran de bucatarie - iiko - BG GREY - Automatizare restaurant - Widget 2 '] || {};
-const textFeatures = page['Echipament - IMAGE+TEXT -  Ro Text Features'] || {};
-const dualServices = page['Servicii si suport - Landing iiko -Dual Widget-9'] || {};
-const dualClients = page['Titlu si descriere clientii HORECA DUAL - Landing Horeca'] || {};
-const clientLogos = page['LOGO CLIENTI PARTENERI RO - Automatizare restaurant '] || {};
 
 function sidePayload(bg, side) {
   const s = (bg.widgets && bg.widgets[0] && bg.widgets[0].content && bg.widgets[0].content.payload && bg.widgets[0].content.payload[side]) || {};
@@ -74,6 +66,8 @@ function TdfWidget({ data }) {
 
 /* Images column/row (widget-images) — used inside dual widgets and for client logos */
 function WidgetImages({ data }) {
+  const lang = useLang();
+  const t = useT();
   const h = parseInt(data.imageHeight, 10) || null;
   const limit = data.limit ? data.limit + 1 : (data.images || []).length;
   const images = (data.images || []).slice(0, limit);
@@ -84,7 +78,7 @@ function WidgetImages({ data }) {
           {data.title && (
             <div className="card-box-title">
               <h1>{data.title}</h1>
-              {data.showViewAll && data.link && <Link to={data.link}>Vezi toate</Link>}
+              {data.showViewAll && data.link && <Link to={to(data.link, lang)}>{t('product.viewAll', 'Vezi toate')}</Link>}
             </div>
           )}
           <div className="images">
@@ -219,6 +213,19 @@ function EmptySpace({ desktop, mobile, id }) {
 }
 
 export default function IikoPage() {
+  const lang = useLang();
+  const page = pick(lang, pageRo, pageRu, pageEn);
+  const hero = page['Tipuri afaceri - Landing software iiko - Business Branch Ro - versimea 2'] || {};
+  const entrustData = page['Video - Automaizare restaurant Ro - Entrust Widget-8'] || {};
+  const redFeatures = page['Funcționalități - RED FEATURES - Automaitzare restarunta Ro - Widget Red Features'] || {};
+  const bgVanzare = page['iiko interfata de vanzare - iiko - BG GREY - Automatizare restaurant - Widget 2 '] || {};
+  const bgGestiune = page['iiko interfata de gestiune - iiko - BG GREY - Automatizare restaurant - Widget 3 '] || {};
+  const menu = page['iiko cloud + MENU - Widget Header-1'] || {};
+  const bgBucatarie = page['Ecran de bucatarie - iiko - BG GREY - Automatizare restaurant - Widget 2 '] || {};
+  const textFeatures = page['Echipament - IMAGE+TEXT -  Ro Text Features'] || {};
+  const dualServices = page['Servicii si suport - Landing iiko -Dual Widget-9'] || {};
+  const dualClients = page['Titlu si descriere clientii HORECA DUAL - Landing Horeca'] || {};
+  const clientLogos = page['LOGO CLIENTI PARTENERI RO - Automatizare restaurant '] || {};
   const advLeft = (dualServices.left && dualServices.left.content && dualServices.left.content.payload) || {};
   const advPadding = (dualServices.left && dualServices.left.padding) || {};
   const svcImages = (dualServices.right && dualServices.right.content && dualServices.right.content.payload) || {};

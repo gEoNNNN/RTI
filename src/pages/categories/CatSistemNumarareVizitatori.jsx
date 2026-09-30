@@ -72,7 +72,7 @@ export default function CatSistemNumarareVizitatori() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,contor-flux-de-vizitatori-stereo-3d" />
+                                      <link itemprop="url" href="/product/contor-flux-de-vizitatori-stereo-3d" />
                                       <meta itemprop="name" content="Contor flux de vizitatori RCount" />
                                       <a href="/product/contor-flux-de-vizitatori-stereo-3d">
                                         Contor flux de vizitatori RCount

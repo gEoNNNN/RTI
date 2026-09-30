@@ -70,7 +70,7 @@ export default function CatDibal500() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,cantar-dibal-wind-serie-500" />
+                                      <link itemprop="url" href="/product/cantar-dibal-wind-serie-500" />
                                       <meta itemprop="name" content="Cantar cu imprimare de etichete Dibal Wind serie 500" />
                                       <a href="/product/cantar-dibal-wind-serie-500">
                                         Cantar cu imprimare de etichete Dibal Wind serie
@@ -109,7 +109,7 @@ export default function CatDibal500() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,cantar-dibal-serie-500" />
+                                      <link itemprop="url" href="/product/cantar-dibal-serie-500" />
                                       <meta itemprop="name" content="Cantar cu imprimare de etichete Dibal serie 500" />
                                       <a href="/product/cantar-dibal-serie-500">
                                         Cantar cu imprimare de etichete Dibal serie 500
@@ -148,7 +148,7 @@ export default function CatDibal500() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,cintar-suspendat-dibal-serie-500" />
+                                      <link itemprop="url" href="/product/cintar-suspendat-dibal-serie-500" />
                                       <meta itemprop="name" content="Cantar suspendat Dibal serie 500" />
                                       <a href="/product/cintar-suspendat-dibal-serie-500">
                                         Cantar suspendat Dibal serie 500

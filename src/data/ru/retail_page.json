@@ -1,0 +1,532 @@
+{
+ "Widget Page Header Automatizare RETAIL - RO": {
+  "title": "Автоматизация розничной торговли",
+  "description": "Идеальное решение для оптимизации процессов в сфере розничной торговли — от управления запасами и снабжения до продаж, выставления счетов и работы с клиентами.",
+  "bgImage": {
+   "mimetype": "image/webp",
+   "path": "public/widgets/files/a185764e-b759-4b60-8be6-069c77a54dec.webp"
+  },
+  "slides": [
+   {
+    "icon": {
+     "mimetype": "image/svg+xml",
+     "path": "public/widgets/files/2d52d481-29b9-438e-9ced-24b21e8150e3.svg"
+    },
+    "darkIcon": {
+     "mimetype": "image/svg+xml",
+     "path": "public/widgets/files/86852c42-2a1f-4cf0-accf-376c7bab5258.svg"
+    },
+    "image": {
+     "mimetype": "image/webp",
+     "path": "public/widgets/files/830e9e7b-2f53-4b2d-b52f-4e4ccc6ce629.webp"
+    },
+    "class": "Автоматизация HoReCa",
+    "label": "Автоматизация HoReCa",
+    "target": {
+     "text": "Автоматизация HoReCa",
+     "url": "ru/solutii-automatizare-horeca"
+    }
+   },
+   {
+    "icon": {
+     "mimetype": "image/svg+xml",
+     "path": "public/widgets/files/42cb33fe-8a21-4229-a627-db96dc9b0150.svg"
+    },
+    "darkIcon": {
+     "mimetype": "image/svg+xml",
+     "path": "public/widgets/files/4ec4006f-0bd9-4b74-a08d-e3a3bb249bf7.svg"
+    },
+    "image": {
+     "mimetype": "image/jpeg",
+     "path": "public/widgets/files/5a814aef-d50d-4b7a-b782-cef773f3b4ab.jpeg"
+    },
+    "class": "Системы видеонаблюдения",
+    "label": "Системы видеонаблюдения",
+    "target": {
+     "text": "Системы видеонаблюдения",
+     "url": "ru/instalarea-sistemelor-de-supraveghere-video-pentru-casa-si-afacere"
+    }
+   },
+   {
+    "icon": {
+     "mimetype": "image/svg+xml",
+     "path": "public/widgets/files/860a9b4b-c867-4c19-adf6-708e9de7be69.svg"
+    },
+    "darkIcon": {
+     "mimetype": "image/svg+xml",
+     "path": "public/widgets/files/8bef85ff-b731-4471-a215-2114fe566155.svg"
+    },
+    "image": {
+     "mimetype": "image/webp",
+     "path": "public/widgets/files/6d85dd55-0eb1-4bac-870a-c32f739dc8b8.webp"
+    },
+    "class": "Парковочные системы",
+    "label": "Парковочные системы",
+    "target": {
+     "text": "Парковочные системы",
+     "url": "ru/solutii-sisteme-parcare"
+    }
+   },
+   {
+    "icon": {
+     "mimetype": "image/svg+xml",
+     "path": "public/widgets/files/895f1458-2620-433c-8074-c907efa54e88.svg"
+    },
+    "darkIcon": {
+     "mimetype": "image/svg+xml",
+     "path": "public/widgets/files/1fad8af9-1081-41ec-b700-1319c985f215.svg"
+    },
+    "image": {
+     "mimetype": "image/webp",
+     "path": "public/widgets/files/0067ca63-5340-4448-b0b4-891c741977db.webp"
+    },
+    "class": "Цифровые панели",
+    "label": "Цифровые панели",
+    "target": {
+     "text": "Цифровые панели",
+     "url": "ru/panouri-digitale"
+    }
+   }
+  ]
+ },
+ "Breadcrumbs Automatizare Retail": {
+  "border": true,
+  "breadcrumbs": [
+   {
+    "title": "Главная ",
+    "link": "/"
+   },
+   {
+    "title": "Решения"
+   },
+   {
+    "title": "Автоматизация розничной торговли"
+   }
+  ]
+ },
+ "Dual Widget Title - Automatizare Retail": {
+  "showBackground": true,
+  "left": {
+   "widget_id": "624ae3bb9f9a3c00318c087d",
+   "columns": 2,
+   "padding": {
+    "desktop": "0 100px 0 0",
+    "mobile": "0 30px 0 0"
+   },
+   "content": {
+    "published": true,
+    "pages": [],
+    "_id": "624ae3bb9f9a3c00318c087d",
+    "name": "Title widget Automatizare Ratail RU",
+    "template": {
+     "_id": "5e25c84aab98870031ec4474",
+     "name": "Title",
+     "type": "title-widget",
+     "structure": {
+      "schema": {
+       "type": "object",
+       "properties": {
+        "title": {
+         "type": "string"
+        },
+        "maxWidth": {
+         "type": "string"
+        },
+        "background": {
+         "type": "string"
+        }
+       }
+      },
+      "layout": [
+       {
+        "key": "title",
+        "type": "html"
+       },
+       {
+        "key": "maxWidth",
+        "title": "Max With (px)",
+        "type": "number"
+       },
+       {
+        "key": "background",
+        "title": "Background",
+        "type": "string"
+       }
+      ]
+     },
+     "createdAt": "2020-01-20T15:33:30.474Z",
+     "updatedAt": "2021-03-24T21:06:23.692Z",
+     "__v": 0,
+     "icon": "public/widget-templates/icons/24d45201-05d3-458e-9d4e-6427283bc052.png"
+    },
+    "payload": {
+     "title": "<h2>Виды розничного бизнеса, в которых можно внедрить автоматизацию</h2>",
+     "maxWidth": "700"
+    },
+    "__v": 0,
+    "createdAt": "2022-04-04T12:25:31.230Z",
+    "updatedAt": "2026-06-24T12:22:01.720Z"
+   }
+  },
+  "right": {
+   "widget_id": "624ae4019f9a3c00318c087f",
+   "columns": 2,
+   "content": {
+    "published": true,
+    "pages": [],
+    "_id": "624ae4019f9a3c00318c087f",
+    "name": "Description Widget Automatizare retail RU",
+    "template": {
+     "_id": "5cffa869c8eb6d0031695963",
+     "name": "Description Widget",
+     "type": "description-widget",
+     "structure": {
+      "schema": {
+       "type": "object",
+       "properties": {
+        "label": {
+         "type": "string"
+        },
+        "description": {
+         "type": "string"
+        },
+        "rows": {
+         "type": "number"
+        }
+       }
+      },
+      "layout": [
+       {
+        "key": "label",
+        "type": "text"
+       },
+       {
+        "key": "description",
+        "type": "html"
+       },
+       {
+        "key": "rows",
+        "title": "Maximum rows (enter the number)",
+        "type": "number"
+       }
+      ]
+     },
+     "createdAt": "2019-06-11T13:11:05.559Z",
+     "updatedAt": "2021-04-29T10:08:58.875Z",
+     "__v": 0,
+     "icon": "public/widget-templates/icons/b0b9c260-22fa-4e05-92e6-ea32ede21cec.png"
+    },
+    "payload": {
+     "label": "Автоматизация розничной торговли",
+     "description": "<p>Это идеальное решение для упрощения всех процессов управления бизнесом, таких как закупки, управленческий/складской учёты, взаимоотношения с клиентами и поставщиками и т.д.</p>"
+    },
+    "__v": 0,
+    "createdAt": "2022-04-04T12:26:41.036Z",
+    "updatedAt": "2022-06-21T10:15:23.328Z"
+   }
+  }
+ },
+ "Widget Solution Retail Business Branch-5": {
+  "slides": [
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/9fff9b5a-d103-4591-88ab-0e1d7acba433.png"
+    },
+    "class": "1",
+    "label": "Гипермаркет",
+    "target": {
+     "url": "ru/automatizare-retail-hypermarkete"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/c4f5c944-6801-4443-93c7-7783a887721c.png"
+    },
+    "class": "1",
+    "label": "Розничная торговля ",
+    "target": {
+     "url": "ru/automatizare-retail-food-retail"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/1689a7aa-b1ab-4b05-93df-563fa37ffbf2.png"
+    },
+    "label": "Текстиль",
+    "target": {
+     "url": "ru/automatizare-retail-textile"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/b924f601-be83-406e-b0e3-194cead1c2f7.png"
+    },
+    "label": "Строительные материалы",
+    "target": {
+     "url": "ru/automatizare-retail-constructii"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/00f19a84-e858-4c12-a193-064ee0f1a789.png"
+    },
+    "label": "Автозаправки ",
+    "target": {
+     "url": "ru/automatizare-retail-peco"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/76f69657-6a27-4579-9cbb-a317376f61ee.png"
+    },
+    "label": "Прочее ",
+    "target": {
+     "url": "ru/automatizare-retail-altele"
+    }
+   }
+  ]
+ },
+ "Descriere - Automatizare Retail New - Entrust Widget-0": {
+  "title": "Решение для автоматизации торговли",
+  "description": "Автоматизация торгового учета и процессов розничной торговли, управление ассортиментом, рассчет заказов, управление запасами, настройка ценообразования, ведение учета складских операций, планирование и выпуск продукции, отслеживание продаж, контроль работы с поставщиками."
+ },
+ "Funcționalitățile REM - Automatizare Retail New - Widget Red Features-3": {
+  "backgroundColor": "linear-gradient(rgb(255, 255, 255) 0px, rgb(244, 244, 244) 100%)",
+  "information": [
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/1207d619-0a5c-4f94-9d93-2debd189a297.png"
+    },
+    "title": "Emitere documente",
+    "description": "Permite emiterea la o serie de documente de intrare/ieșire a mărfurilor, comenzi/retururi către furnizori, avize, bonuri de consum, note de transfer, etc."
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/e1c43efe-62e2-48ab-ba23-ca587382e270.png"
+    },
+    "title": "Operațiuni de casă",
+    "description": "Permite generarea și vizualizarea rapoartelor privind vînzările pe casieri, vînzările unui casier în diapazon de o zi (Forma nr. 1)  sau de o lună (Forma nr. 2).                                                        "
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/f24289f5-e12f-4254-9e88-aa958b0b0b7e.png"
+    },
+    "title": "Săli comerciale",
+    "description": "Permite vizualizarea raportului detaliat pe tură: total vînzări pe o perioadă anumită, metodele de incasare, detalii ale bonurilor fiscale emise și anulate."
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/5e228239-4ace-4316-ad21-69b4fc34690e.png"
+    },
+    "title": "Furnizori",
+    "description": "Permite introducerea datelor despre furnizori și distribuitori. Programul acceptă configurarea furnizorilor/distribuitorilor atît persoane fizice cît și persoane juridice, inclusiv permite setarea programelor de livrare, condițiilor financiare cu furnizorii și distribuitorii. "
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/0bbea50e-8b9e-4eec-b912-4ff658a82bde.png"
+    },
+    "title": "Producere",
+    "description": "Include funcționalul de planificare automată a produselor  finite și setarea fișelor tehnologice prin utilizarea tabelului de egalare a produselor. Planificarea resurselor reduce durata anumitor operații tehnologice și minimizează pierderile de timp din vina angajaților."
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/b96d400c-87a3-4be2-8c29-a172cae71d8d.png"
+    },
+    "title": "Gestiune prețuri",
+    "description": "Include funcționalul de creare cu ușurință strategii de preț, liste specifice pe magazine, produse, categorii de produse, acordați discount-uri (cantitative și pe comandă), gestionați promoțiile, gestionați prețurile și etichetele la raft."
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/c3114fd0-4ca4-4443-9a29-e4772b6b56aa.png"
+    },
+    "title": "Rapoarte",
+    "description": "Programul gestionează stocul în timp real. Obțineți rapoarte de profitabilitate pe magazine, produse sau furnizori. Aveți posibilitatea de a vizualiza ciclul de viață a unui produs, categorii de produse. În timp real puteți vizualiza registrul procurărilor și registrul vînzărilor."
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/62b50285-ecbe-4ba8-9fa4-8334fe68520b.png"
+    },
+    "title": "Integrarea cu soluții software și hardware",
+    "description": "Permite exportul informațiilor în sistemul contabil 1C. Este ușor integrabil cu casele de marcat sau imprimantele fiscale, cîntarele electronice, imprimantele termice, terminalele mobile pentru recepție și inventariere."
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/62979e77-c378-4145-8a3f-3bdcbeec6eb6.png"
+    },
+    "title": "Clasificatoare",
+    "description": "Softul permite adăugare produselor în categorii și subcategorii. Se pot introduce produse de tip materie prima, semifabricate, marfa, consumabile, etc. Permite introducerea informațiilor despre unitățile structurale și clienți în speța cardurilor de reduceri."
+   }
+  ]
+ },
+ "Empty Space-32-20": {
+  "height": {
+   "desktop": "32",
+   "mobile": "20"
+  }
+ },
+ "REM Beneficii - IMAGE+TEXT -  Ro Text Features": {
+  "title": "Beneficiile implementării REM",
+  "image": {
+   "mimetype": "image/png",
+   "path": "public/widgets/files/f918ee1a-7f5d-46d1-a0f9-e0c48f4b2232.png"
+  },
+  "features": [
+   {
+    "text": "Crești performanța angajaților prin automatizarea unor procese, precum și monitorizarea activității furnizorilor."
+   },
+   {
+    "text": "Planifici necesarul de produse și reduci sau elimini activitățile neproductive."
+   },
+   {
+    "text": "Permite urmărirea centralizată a cheltuielilor și vînzărilor din întreaga rețea de magazine."
+   },
+   {
+    "text": "Acceptă forme multiple de plată: numerar, card, tichete de masă, cecuri, etc."
+   },
+   {
+    "text": "Permite interconectarea cu diferite software și hardware."
+   }
+  ]
+ },
+ "Empty Space-10-10": {
+  "height": {
+   "desktop": "10",
+   "mobile": "10"
+  }
+ },
+ "Complecte produse - Automatizare Retail - Widget Categorii produse": {
+  "title": "Полный спектр оборудования для розничной торговли",
+  "description": "Оборудование для торговли всех форматов, pos оборудование торговых залов и кассовых зон, оснащение зоны самообслуживания (в т.ч. торговое весовое оборудование), печатное оборудование для маркировки товаров торговой этикеткой, для автоматизации инвентаризации и учета товаров в торговле и на складе.\n<br> Все оборудование обеспечено полным спектром консультаций, интеграции, услуг и ремонта.",
+  "products": [
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/b96c8762-d1ec-4d88-99ce-3da9eb677e4b.png"
+    },
+    "type": "big",
+    "title": "Готовые комплекты оборудования",
+    "description": "Комплексное решение для бизнеса включает всё необходимое оборудование, сенсорный POS-терминал, фискальный регистратор и ПО",
+    "price": "40",
+    "target": {
+     "text": "Подробнее",
+     "url": "/category/sistem-pos"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/bb758694-970f-4932-acad-03a3cd205593.png"
+    },
+    "type": "big",
+    "title": "Программа для автоматизации магазина REM",
+    "description": "Программа позволяет автоматизировать продажи и закупки, вести учет, контролировать финансы, работать с клиентами, печатать необходимые документы",
+    "target": {
+     "text": "Подробнее",
+     "url": "/soft-de-gestiune-magazin"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/jpeg",
+     "path": "public/widgets/files/03d6d0cb-90b4-4d95-8447-316bb09a4d4a.jpg"
+    },
+    "type": "small",
+    "title": "POS системы",
+    "description": "POS-монитор, POS-компьютер, дисплей покупателя, POS-клавиатура",
+    "price": "99",
+    "target": {
+     "text": "Заказать",
+     "url": "/category/sistem-pos"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/jpeg",
+     "path": "public/widgets/files/c5ef4f03-7ab4-448d-bb56-6c30531c98c6.jpg"
+    },
+    "type": "small",
+    "title": "Сканеры штрих-кода",
+    "description": "Сканеры с большей точностью и скоростью чтения",
+    "price": "999",
+    "target": {
+     "text": "Заказать",
+     "url": "category/sistem-pos"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/jpeg",
+     "path": "public/widgets/files/91993eb7-5d33-41da-b76e-f0a96719d7b5.jpg"
+    },
+    "type": "small",
+    "title": " Терминалы сбора данных",
+    "description": "Оснащены сенсорным экраном, wi-fi и bluetooth модулями ",
+    "price": "99",
+    "target": {
+     "text": "Заказать",
+     "url": "category/sistem-pos"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/jpeg",
+     "path": "public/widgets/files/e85bced4-111e-46b8-92a4-1a8e6ab0f19d.jpg"
+    },
+    "type": "small",
+    "title": "Принтеры",
+    "description": "Предназначены для маркировки продукции и учета товародвижения",
+    "price": "9999",
+    "target": {
+     "text": "Заказать",
+     "url": "/category/imprimante"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/jpeg",
+     "path": "public/widgets/files/5f316c2e-0466-4da4-9a2e-ffe48e3e8e3b.jpg"
+    },
+    "type": "small",
+    "title": "Весы",
+    "description": "Весы для торговли всемирно известного бренда как Dibal",
+    "target": {
+     "text": "Заказать",
+     "url": "/category/cantare"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/jpeg",
+     "path": "public/widgets/files/a39c8bad-d3b1-4747-9a5e-735ab639a53e.jpg"
+    },
+    "type": "small",
+    "title": "Слайсеры",
+    "description": "Обеспечивают быструю и точную нарезку продуктов",
+    "price": "999",
+    "target": {
+     "text": "Заказать",
+     "url": "/category/feliatoare"
+    }
+   }
+  ]
+ },
+ "Description Widget-4 RO - Landing automatizarea magazinelor - Descriere SEO": {
+  "description": "<h1 class=\"ql-align-center\">Оборудование и crm система для автоматизации магазинов в Молдове</h1><p> </p><p>Современному магазину, гипермаркету или сети магазинов невозможно обойтись без оборудования для него. Такие процессы как закупка товара, ценообразование, учет продукции, контроль склада и выстраивание системы лояльности, требуют наличия специализированных программ, таких как <strong>программа для автоматизации розничной торговли в Кишиневе.</strong></p><p>Процесс реализации товара состоит из многих операций, затрагивает разные микропроцессы и большой арсенал работников. Для осуществления приемки товара в магазин после его поступления и реализации, требуется немало времени, особенно если весь процесс происходит «по старинке», а основная часть работы и контроля лежит на сотрудниках. В этом вам поможет <strong>crm система для магазинов в Молдове</strong>.</p><p>Для того, чтобы избежать погрешностей в отчетности, потерь и исключить такое явление как «человеческий фактор», предприятия стараются оптимизировать как можно больше процессов торговли, где контролировать каждую операцию будет не человек, а компьютер. Для осуществления этого процесса необходимо использовать специализированное <strong>оборудование для розничной торговли в Кишиневе.</strong></p><p>Автоматизация магазинов довольно масштабный процесс. Он включает в себя установку специализированного оборудования и программного обеспечения для повышения эффективности продаж. <strong>Установка программы для автоматизации магазинов в Молдове </strong>позволяет эффективно управлять закупкой и реализацией товара, вести учет, контролировать прибыль и издержки, работать с клиентами и печатать необходимые документы.</p><p>Установка и <strong>настройка оборудования для розничной торговли в Кишиневе </strong>дает следующие возможности:</p><ul><li>Увеличение потока покупателей;</li><li>Упрощает процесс ценообразования и закупки товара;</li><li>Сокращает время для составления отчетов;</li><li>Позволяет отслеживать загруженность склада и наличие товара в режиме реального времени;</li><li>Повышает качество обслуживания покупателей.</li></ul><p>Помощь в информировании и удержании клиентов может оказать <strong>crm система для автоматизации магазинов в Молдове. </strong>Основная функция этой системы состоит в сохранении информации о клиентах, с целью осуществления продаж в будущем. Эта система имеет контроль над звонками и встречами, сохраняет историю покупок и интересовавших товаров. Также с использованием дополнительных инструментов такая система может осуществлять рекламную рассылку.</p><p>Но не стоит забывать, что мало только купить весь арсенал необходимого оборудования. Куда более важной является <strong>настройка программы для автоматизации розничной торговли в Молдове. </strong>Наша компания предлагает полный спектр услуг по подбору, продаже, установке и обслуживанию оборудования. Мы счастливы, что можем помочь вашему бизнесу расти и развиваться!</p><p>Мы предлагаем вам<span style=\"color: rgb(50, 58, 69);\"> товары и комплексные решения для автоматизации бизнеса</span>:</p><ul><li><a href=\"https://rti.md/ru/category/echipamente-fiscale\" target=\"_blank\">Фискальное оборудование</a></li><li><a href=\"https://rti.md/ru/category/pospc-specializat\" target=\"_blank\">POS оборудование</a></li><li><a href=\"https://rti.md/ru/category/scanere-coduri-de-bare\" target=\"_blank\">Сканеры штрих-кодов</a></li><li><a href=\"https://rti.md/ru/category/cantare-comerciale\" target=\"_blank\">Торговые весы</a></li><li><a href=\"https://rti.md/ru/category/imprimante\" target=\"_blank\">Принтеры</a></li><li><a href=\"https://rti.md/ru/solutii-automatizare-horeca\" target=\"_blank\">Автоматизация HoReCa</a></li><li><a href=\"https://rti.md/ru/automatizare-retail\" target=\"_blank\">Автоматизация розничной торговли</a></li><li><a href=\"https://rti.md/ru/supraveghere-video\" target=\"_blank\">Системы видеонаблюдения</a></li><li><a href=\"https://rti.md/ru/sisteme-de-parcare\" target=\"_blank\">Парковочные системы</a></li><li><a href=\"https://rti.md/ru/panouri-digitale\" target=\"_blank\">Цифровые вывески</a></li></ul><p><br></p><p class=\"ql-align-center\">Компания RTI - <a href=\"https://rti.md/ru\" target=\"_blank\">aвтоматизация бизнес-процессов в Молдове</a></p>",
+  "rows": 14
+ }
+}

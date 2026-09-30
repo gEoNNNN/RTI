@@ -1,13 +1,31 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
-import widgets from '../data/widgets.json';
-import articles from '../data/articles.json';
+import widgetsRo from '../data/widgets.json';
+import widgetsRu from '../data/ru/widgets.json';
+import widgetsEn from '../data/en/widgets.json';
+import articlesRo from '../data/articles.json';
+import articlesRu from '../data/ru/articles.json';
+import articlesEn from '../data/en/articles.json';
 import { imgUrl } from '../data/helpers';
+import { useLang, useT, to, pick } from '../lang';
 
-const MONTHS_RO = [
-  'ianuarie', 'februarie', 'martie', 'aprilie', 'mai', 'iunie',
-  'iulie', 'august', 'septembrie', 'octombrie', 'noiembrie', 'decembrie',
-];
+const WIDGETS = { ro: widgetsRo, ru: widgetsRu, en: widgetsEn };
+const ARTICLES = { ro: articlesRo, ru: articlesRu, en: articlesEn };
+
+const MONTHS = {
+  ro: [
+    'ianuarie', 'februarie', 'martie', 'aprilie', 'mai', 'iunie',
+    'iulie', 'august', 'septembrie', 'octombrie', 'noiembrie', 'decembrie',
+  ],
+  ru: [
+    'январь', 'февраль', 'март', 'апрель', 'май', 'июнь',
+    'июль', 'август', 'сентябрь', 'октябрь', 'ноябрь', 'декабрь',
+  ],
+  en: [
+    'January', 'February', 'March', 'April', 'May', 'June',
+    'July', 'August', 'September', 'October', 'November', 'December',
+  ],
+};
 
 export function richText(html) {
   if (!html) return '';
@@ -23,10 +41,15 @@ export function richText(html) {
     .replace(/&amp;/g, '&');
 }
 
-const w = {};
-widgets.forEach((widget) => {
-  w[widget.type] = widget.payload;
-});
+function widgetMap(widgets) {
+  const map = {};
+  (widgets || []).forEach((widget) => {
+    map[widget.type] = widget.payload;
+  });
+  return map;
+}
+
+const w = widgetMap(widgetsRo);
 
 const branch = w['business-branch-widget'] || {};
 const entrust = w['entrust-widget'] || {};
@@ -45,12 +68,13 @@ const NEWS_SLUGS = [
   'sfaturi-utile-pentru-alegerea-sistemului-crm-potrivit-afacerii-tale',
   'un-magazin-securizat-este-un-magazin-profitabil',
 ];
-const newsArticles = NEWS_SLUGS.map((s) => articles.find((a) => a.slug === s)).filter(Boolean);
+const newsArticles = NEWS_SLUGS.map((s) => articlesRo.find((a) => a.slug === s)).filter(Boolean);
 
-function fmtDate(iso) {
+function fmtDate(iso, lang) {
   if (!iso) return '';
   const d = new Date(iso);
-  return `${MONTHS_RO[d.getMonth()]} ${d.getFullYear()}`;
+  const months = MONTHS[lang] || MONTHS.ro;
+  return `${months[d.getMonth()]} ${d.getFullYear()}`;
 }
 
 function ShareIcon({ color = '#FFFFFF' }) {
@@ -250,6 +274,8 @@ export function Entrust({ data = entrust }) {
 export function Partners({ data = partners }) {
   const list = data.partners || [];
   const navigate = useNavigate();
+  const lang = useLang();
+  const t = useT();
   const [start, setStart] = useState(0);
   const [animate, setAnimate] = useState(true);
   const [showAll, setShowAll] = useState(false);
@@ -312,10 +338,10 @@ export function Partners({ data = partners }) {
           </div>
           <div className="right-header">
             <div className="nav-position desktop">
-              <div className="viewAll" onClick={() => (data.target && data.target.url ? navigate('/' + data.target.url.replace(/^\//, '')) : setShowAll((v) => !v))} style={{ cursor: 'pointer' }}>
+              <div className="viewAll" onClick={() => (data.target && data.target.url ? navigate(to('/' + data.target.url.replace(/^\//, ''), lang)) : setShowAll((v) => !v))} style={{ cursor: 'pointer' }}>
                 <div className="viewAll-body">
                   <div className="button">
-                    <span>{showAll ? 'Ascunde' : (data.target && data.target.text) || 'Vezi toate'}</span>
+                    <span>{showAll ? t('SeoText.restrict', 'Ascunde') : (data.target && data.target.text) || t('product.viewAll', 'Vezi toate')}</span>
                   </div>
                 </div>
               </div>
@@ -370,9 +396,9 @@ export function Partners({ data = partners }) {
   );
 }
 
-function DualWidget() {
-  const media = (dualRight && dualRight.media) || [];
-  const footer = (dualRight && dualRight.footer_item) || [];
+function DualWidget({ left = dualLeft, right = dualRight }) {
+  const media = (right && right.media) || [];
+  const footer = (right && right.footer_item) || [];
   const [mi, setMi] = useState(0);
   const [mAnim, setMAnim] = useState(true);
   const [fi, setFi] = useState(0);
@@ -421,11 +447,11 @@ function DualWidget() {
                 <div className="container">
                   <div className="ourAdvantages">
                   <div className="header">
-                    <h2>{dualLeft && dualLeft.title}</h2>
-                    <p>{dualLeft && dualLeft.label}</p>
+                    <h2>{left && left.title}</h2>
+                    <p>{left && left.label}</p>
                   </div>
                   <div className="advantagesList">
-                    {(dualLeft ? dualLeft.advantages || [] : []).map((a, i) => (
+                    {(left ? left.advantages || [] : []).map((a, i) => (
                       <div className="advantageItem" key={i}>
                         <div className="header">
                           <span>{i + 1}</span>
@@ -445,8 +471,8 @@ function DualWidget() {
               <div className="widgetInfo widget-body">
                 <div className="infoWidgetWrap">
                   <div className="header">
-                    <h3 className="sectionTitle">{dualRight && dualRight.title}</h3>
-                    <p className="description" dangerouslySetInnerHTML={{ __html: richText(dualRight && dualRight.description) }} />
+                    <h3 className="sectionTitle">{right && right.title}</h3>
+                    <p className="description" dangerouslySetInnerHTML={{ __html: richText(right && right.description) }} />
                   </div>
                   <div className="body">
                     <div className="carousel-media">
@@ -499,20 +525,20 @@ function DualWidget() {
   );
 }
 
-function NewsWidget() {
-  if (!newsArticles.length) return null;
-  const [first, ...rest] = newsArticles;
+function NewsWidget({ data = newsW, items = newsArticles, lang = 'ro' }) {
+  if (!items.length) return null;
+  const [first, ...rest] = items;
   return (
     <div className="widgetNews">
       <div className="container">
         <div className="header">
           <div className="row flex-content">
             <div className="col-lg-6">
-              <h3>{newsW.title}</h3>
+              <h3>{data.title}</h3>
             </div>
             <div className="col-lg-5">
               <div className="info">
-                <p>{newsW.description}</p>
+                <p>{data.description}</p>
               </div>
             </div>
           </div>
@@ -531,7 +557,7 @@ function NewsWidget() {
                           <div className="overlay">
                             <div className="header">
                               <div className="date">
-                                <span>{fmtDate(first.createdAt)}</span>
+                                <span>{fmtDate(first.createdAt, lang)}</span>
                               </div>
                               <div className="share">
                                 <div className="share-block">
@@ -560,7 +586,7 @@ function NewsWidget() {
                                 <div className="content">
                                   <div className="left">
                                     <div className="date">
-                                      <span style={{ textTransform: 'capitalize' }}>{fmtDate(a.createdAt)}</span>
+                                      <span style={{ textTransform: 'capitalize' }}>{fmtDate(a.createdAt, lang)}</span>
                                       <div className="share">
                                         <div className="share-block">
                                           <div className="share-icon">
@@ -595,8 +621,9 @@ function NewsWidget() {
   );
 }
 
-function SeoText() {
+function SeoText({ data = seo }) {
   const [expanded, setExpanded] = useState(false);
+  const t = useT();
   return (
     <div className="container">
       <div className="seo-text">
@@ -604,11 +631,11 @@ function SeoText() {
           {!expanded && (
             <div className="bg-gradient" style={{ position: 'absolute', bottom: 0, left: 0, right: 0, height: 80, background: 'linear-gradient(transparent, #fff)' }}></div>
           )}
-          <div dangerouslySetInnerHTML={{ __html: richText(seo.description) }} />
+          <div dangerouslySetInnerHTML={{ __html: richText(data.description) }} />
         </div>
         <div className="extend-button">
           <div className="button" onClick={() => setExpanded(!expanded)} style={{ cursor: 'pointer' }}>
-            <div>{expanded ? 'Restrange' : 'Extinde'}</div>
+            <div>{expanded ? t('SeoText.restrict', 'Restrange') : t('SeoText.expand', 'Extinde')}</div>
             <div className="seo-arrow" style={{ transform: expanded ? 'rotate(180deg)' : undefined }}></div>
           </div>
         </div>
@@ -618,15 +645,24 @@ function SeoText() {
 }
 
 export default function HomePage() {
+  const lang = useLang();
+  const widgets = pick(lang, WIDGETS.ro, WIDGETS.ru, WIDGETS.en);
+  const articles = pick(lang, ARTICLES.ro, ARTICLES.ru, ARTICLES.en);
+  const wL = widgetMap(widgets);
+  const dualL = wL['dual-widget'] || {};
+  const newsItems = NEWS_SLUGS.map((s) => articles.find((a) => a.slug === s)).filter(Boolean);
   return (
     <div className="site__body">
       <div className="block builder-page">
-        <BusinessBranch />
-        <Entrust />
-        <Partners />
-        <DualWidget />
-        <NewsWidget />
-        <SeoText />
+        <BusinessBranch data={wL['business-branch-widget'] || branch} />
+        <Entrust data={wL['entrust-widget'] || entrust} />
+        <Partners data={wL['partners-widget'] || partners} />
+        <DualWidget
+          left={(dualL.left && dualL.left.content && dualL.left.content.payload) || dualLeft}
+          right={(dualL.right && dualL.right.content && dualL.right.content.payload) || dualRight}
+        />
+        <NewsWidget data={wL['news-widget'] || newsW} items={newsItems} lang={lang} />
+        <SeoText data={wL['seo-text-widget'] || seo} />
       </div>
     </div>
   );

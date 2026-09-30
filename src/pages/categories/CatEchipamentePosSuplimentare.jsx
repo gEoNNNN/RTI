@@ -165,7 +165,7 @@ export default function CatEchipamentePosSuplimentare() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,monitor-pentru-clienti-fec" />
+                                      <link itemprop="url" href="/product/monitor-pentru-clienti-fec" />
                                       <meta itemprop="name" content="POS display cumparator FEC AM-1008W" />
                                       <a href="/product/monitor-pentru-clienti-fec">
                                         POS display cumparator FEC AM-1008W
@@ -204,7 +204,7 @@ export default function CatEchipamentePosSuplimentare() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,sertar-de-bani-hs-410a" />
+                                      <link itemprop="url" href="/product/sertar-de-bani-hs-410a" />
                                       <meta itemprop="name" content="Sertar de bani HS-410A" />
                                       <a href="/product/sertar-de-bani-hs-410a">
                                         Sertar de bani HS-410A
@@ -253,7 +253,7 @@ export default function CatEchipamentePosSuplimentare() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,sertar-de-bani-hs-170" />
+                                      <link itemprop="url" href="/product/sertar-de-bani-hs-170" />
                                       <meta itemprop="name" content="Sertar de bani HS 170" />
                                       <a href="/product/sertar-de-bani-hs-170">
                                         Sertar de bani HS 170

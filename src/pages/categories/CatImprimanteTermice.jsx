@@ -70,7 +70,7 @@ export default function CatImprimanteTermice() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,imprimanta-termica-pos-citizen-ct-s310ii" />
+                                      <link itemprop="url" href="/product/imprimanta-termica-pos-citizen-ct-s310ii" />
                                       <meta itemprop="name" content="Imprimanta termica POS Citizen CT-S310II" />
                                       <a href="/product/imprimanta-termica-pos-citizen-ct-s310ii">
                                         Imprimanta termica POS Citizen CT-S310II
@@ -109,7 +109,7 @@ export default function CatImprimanteTermice() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,imprimanta-termica-citizen-ct-e651" />
+                                      <link itemprop="url" href="/product/imprimanta-termica-citizen-ct-e651" />
                                       <meta itemprop="name" content="Imprimanta termica Citizen CT-E651" />
                                       <a href="/product/imprimanta-termica-citizen-ct-e651">
                                         Imprimanta termica Citizen CT-E651
@@ -148,7 +148,7 @@ export default function CatImprimanteTermice() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,imprimanta-termica-pos-citizen-ct-e351" />
+                                      <link itemprop="url" href="/product/imprimanta-termica-pos-citizen-ct-e351" />
                                       <meta itemprop="name" content="Imprimanta termica POS Citizen CT-E351" />
                                       <a href="/product/imprimanta-termica-pos-citizen-ct-e351">
                                         Imprimanta termica POS Citizen CT-E351
@@ -187,7 +187,7 @@ export default function CatImprimanteTermice() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,rprinter-421-l" />
+                                      <link itemprop="url" href="/product/rprinter-421-l" />
                                       <meta itemprop="name" content="RPrinter 421 L" />
                                       <a href="/product/rprinter-421-l">
                                         RPrinter 421 L

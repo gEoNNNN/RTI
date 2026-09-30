@@ -1,0 +1,596 @@
+{
+ "SeoText": {
+  "expand": "Expand",
+  "restrict": "Show less"
+ },
+ "seoKeyWords": {
+  "title": "RTI group of companies",
+  "description": "The RTI group of companies is a team with over 15 years of experience in designing and implementing business process automation."
+ },
+ "header": {
+  "megaMenu": "Products",
+  "title": "Business equipment and software",
+  "inMoldova": "in Moldova",
+  "subtitle": "Automation of the most complicated processes and operations",
+  "searchComponent": {
+   "placeholder": "Enter a keyword or model"
+  }
+ },
+ "menu": {
+  "dashboard": "Dashboard",
+  "my.account": "My profile",
+  "order.history": "Order history",
+  "addresses": "Shipping addresses",
+  "password": "Password",
+  "logout": "Logout",
+  "login": "Login"
+ },
+ "notFound": {
+  "title": "Error 404 not found",
+  "subtitle": "Page Not Found",
+  "description": "Looks like we can't find the page you're looking for.",
+  "descriptionTwo": "Try using search",
+  "search": "Search",
+  "searchPage": "Search the page",
+  "tryFirstPage": "Or go to the home page to get started.",
+  "toFirstPage": "Go to the main page",
+  "goBack": "Back"
+ },
+ "comingSoon": {
+  "title": "Coming Soon",
+  "subtitle": "The page is under construction",
+  "description": "At the moment, improvements are being made to the service of your requests and we will be back soon"
+ },
+ "contacts": {
+  "breadcrumbs": {
+   "home": "Home",
+   "contacts": "Contacts",
+   "clients": "Clients"
+  },
+  "header": {
+   "selling": "Orders requests",
+   "support": "Do you need support?"
+  },
+  "title": "Contacts",
+  "leaveMessage": "Leave us a message",
+  "completeForm": "If you have an account, you can log in using the form below",
+  "completeRegisterForm": "To create a new account you must fill out the registration form below",
+  "completeLoginForm": "",
+  "name": "Name",
+  "email": "Email",
+  "phone": "Phone",
+  "company": "Company name",
+  "message": "Message",
+  "sendMessage": "Send",
+  "success": "The message was delivered successfully",
+  "error": "The message was not delivered.",
+  "reason": "Reason to contact",
+  "checkEmail": "Access the email to confirm registration"
+ },
+ "cart": {
+  "breadcrumbs": {
+   "home": "Main pagina",
+   "shoppingCart": "Shopping cart"
+  },
+  "addedToCart": "The product <span>{{title}}</span> has been added to cart.",
+  "title": "Shopping cart",
+  "image": "Image",
+  "continue": "Continue",
+  "cartTools": "Shopping cart tools",
+  "checkout": "Buy",
+  "total": "Total",
+  "subtotal": "Subtotal",
+  "emptyCart": "Your cart is empty",
+  "articleRemainInCart": "The items remain in the bag for 60 minutes and are then moved to your saved items",
+  "connectToBuy": "Log in to see your cart and continue shopping!",
+  "connect": "Login",
+  "weAccept": "We accept",
+  "table": {
+   "image": "Imagine",
+   "title": "Title",
+   "price": "Price",
+   "quantity": "Quantity",
+   "total": "Total"
+  },
+  "viewCart": "Cart",
+  "articles": " articles",
+  "quantity": "Quantity: "
+ },
+ "checkout": {
+  "breadcrumbs": {
+   "home": "Main page",
+   "shoppingCart": "Shopping cart"
+  },
+  "global": {
+   "buy": "Buy",
+   "billingDetails": "Payment details",
+   "firstName": "Name",
+   "lastName": "First Name",
+   "country": "Country",
+   "city": "City",
+   "address": "Address",
+   "postCode": "Postal code",
+   "email": "Email",
+   "phone": "Phone number",
+   "createAccount": "Create account?",
+   "shippingDetails": "Shipping details",
+   "shipToDifferentAddress": "Shipping to another address?",
+   "yourOrder": "Your order.",
+   "product": "Product",
+   "total": "Total",
+   "readTerms": "I have read and agree to ",
+   "terms": "terms of use",
+   "finishOrder": "Finish order",
+   "login": "Login",
+   "register": "Register",
+   "needToLogin": "You must be logged in to complete the purchase!",
+   "successfulCheckout": "The order was completed successfully.",
+   "errorCheckout": "The order has not been completed"
+  }
+ },
+ "categoryPage": {
+  "sidebar": {
+   "latestProducts": "Last products"
+  },
+  "view": {
+   "show": "Displayed",
+   "of": "of",
+   "products": "All"
+  },
+  "sort": {
+   "sortBy": "Sort by",
+   "default": "Default",
+   "byAlphabet": "(A-Z)",
+   "show": "Show"
+  }
+ },
+ "product": {
+  "price": "Price",
+  "specification": "Specifications",
+  "inStock": "In stock",
+  "outOfStock": "Out of stock",
+  "quantity": "quantity ",
+  "availability": "Availability",
+  "addToCart": "Add to cart",
+  "noPriceText": {
+   "text": "Pre-order in one  ",
+   "button": "click"
+  },
+  "viewAll": "View all",
+  "meta": {
+   "description": "Description",
+   "characteristic": "Characteristics",
+   "files": "Files"
+  },
+  "facilities": {
+   "title": "Facilities"
+  },
+  "documentation": {
+   "title": "Documentation"
+  }
+ },
+ "filter": {
+  "filter": "Filter",
+  "reset": "Reset",
+  "filters": "Filters"
+ },
+ "global": {
+  "askForPrice": "Ask for price",
+  "message": "Message",
+  "title": "RTI",
+  "browsehappy": "You are using an <strong>outdated</strong> browser. Please <a href=\"http://browsehappy.com/\">upgrade your browser</a> to improve your experience.",
+  "menu": {
+   "home": "Home",
+   "entities": {
+    "main": "Entitati",
+    "bankAccount": "Cont iancar",
+    "label": "Eticheta",
+    "operation": "Operatie"
+   },
+   "account": {
+    "main": "Cont",
+    "settings": "Settings",
+    "password": "Password",
+    "sessions": "Sessions",
+    "login": "Login",
+    "logout": "Logout",
+    "register": "Register"
+   },
+   "admin": {
+    "main": "Administration",
+    "userManagement": "Manage users",
+    "tracker": "Informatii utilizatori",
+    "metrics": "Statistics",
+    "health": "Health",
+    "configuration": "Configuration",
+    "logs": "Logs",
+    "audits": "Audits",
+    "apidocs": "APIDOCS",
+    "database": "Database"
+   },
+   "services": {
+    "main": "Services"
+   },
+   "articles": {
+    "main": "Articles"
+   },
+   "language": "Language"
+  },
+  "form": {
+   "username.label": "Username",
+   "username.placeholder": "Username",
+   "currentpassword.label": "Current password",
+   "currentpassword.placeholder": "Current password",
+   "newpassword.label": "New password",
+   "newpassword.placeholder": "New password",
+   "confirmpassword.label": "Confirm password",
+   "confirmpassword.placeholder": "Confirm new password",
+   "email.label": "Email",
+   "email.placeholder": "Your email"
+  },
+  "messages": {
+   "info": {
+    "authenticated": {
+     "prefix": "If you want to ",
+     "link": "login",
+     "suffix": ", puteti incerca conturile implicite:<br/>- Administrator (login=\"admin\" si parola=\"admin\") <br/>- Utilizator (login=\"user\" si parola=\"user\")."
+    },
+    "register": {
+     "noaccount": "Don't have an account yet?",
+     "link": "Create new account"
+    }
+   },
+   "error": {
+    "dontmatch": "Parola si confirmarea ei nu corespund!"
+   },
+   "validate": {
+    "newpassword": {
+     "required": "Parola dumneavoastra este necesara.",
+     "minlength": "Parola dumneavoastra trebuie sa aiba cel putin 4 caractere.",
+     "maxlength": "Parola dumneavoastra poate avea maxim 50 de caractere.",
+     "strength": "Complexitatea parolei:"
+    },
+    "confirmpassword": {
+     "required": "Confirmarea parolei este necesara.",
+     "minlength": "Confirmarea parolei trebuie sa aiba cel putin 4 caractere.",
+     "maxlength": "Confirmarea parolei poate avea maxim 50 de caractere."
+    },
+    "email": {
+     "required": "Emailul dumneavoastra este necesar.",
+     "invalid": "Email invalid.",
+     "minlength": "Emailul dumneavoastra trebuie sa aiba cel putin 5 caractere",
+     "maxlength": "Emailul dumneavoastra nu poate avea mai mult de 50 de caractere."
+    }
+   }
+  },
+  "field": {
+   "id": "ID"
+  },
+  "ribbon": {
+   "dev": "Development"
+  },
+  "item-count": "Se afiseaza {{first}} - {{second}} din {{total}} elemente."
+ },
+ "entity": {
+  "action": {
+   "addblob": "Adaugare blob",
+   "addimage": "Adaugare imagine",
+   "back": "Inapoi",
+   "cancel": "Anulare",
+   "delete": "Stergere",
+   "edit": "Editare",
+   "open": "Deschidere",
+   "save": "Salvare",
+   "view": "Vizualizare"
+  },
+  "detail": {
+   "field": "Camp",
+   "value": "Valoare"
+  },
+  "delete": {
+   "title": "Confirmati operatia de stergere"
+  },
+  "validation": {
+   "required": "Acest camp este necesar.",
+   "minlength": "Acest camp nu poate fi mai scurt de {{min}} caractere.",
+   "maxlength": "Acest camp nu poate fi mai lung de {{max}} caractere.",
+   "min": "Acest camp trebuie sa aiba o valoare mai mare decat {{min}}.",
+   "max": "Acest camp trebuie sa aiba o valoare mai mica decat {{max}}.",
+   "minbytes": "Acest camp nu poate sa fie mai mic de {{min}} bytes.",
+   "maxbytes": "Acest camp nu poate sa fie mai mare de {{max}} bytes.",
+   "pattern": "Acest camp trebuie sa corespunda sablonului {{pattern}}.",
+   "number": "Acest camp trebuie sa fie numeric.",
+   "datetimelocal": "Acest camp trebuie sa contina data si ora."
+  }
+ },
+ "error": {
+  "internalServerError": "Eroare interna a serverului",
+  "server.not.reachable": "Serverul este indisponibil",
+  "url.not.found": "Nu a fost gasit",
+  "NotNull": "Campul {{fieldName}} nu poate fi gol!",
+  "Size": "Campul {{fieldName}} nu corespunde cerintelor de dimensiune minima/maxima!",
+  "userexists": "Numele de utilizator exista deja!",
+  "emailexists": "Emailul este deja folosit!",
+  "idexists": "O noua entitate {{entityName}} nu poate avea un ID existent",
+  "idnull": "Invalid ID",
+  "title": "Pagina eroare!",
+  "http": {
+   "400": "Bad request.",
+   "401": "Email sau parola este incorect.",
+   "403": "Nu sunteti autorizat pentru accesarea acestei pagini.",
+   "404": "Pagina nu exista.",
+   "405": "The HTTP verb you used is not supported for this URL.",
+   "500": "Internal server error.",
+   "1": "Cosul nu este gasit sau nu este disponibil",
+   "2": "Utilizatorul nu exista sau nu a fost gasit",
+   "3": "Aceasta adresa de e-mail a fost deja folosita",
+   "4": "Cosul de cumparaturi a fost deja atribuit utilizatorului specificat",
+   "5": "Utilizatorul cu e-mail este deja activat",
+   "6": "Utilizatorul cu un astfel de simbol de resetare nu exista",
+   "7": "Timpul pentru resetarea parolei a expirat",
+   "8": "Cantitatea produselor a fost depasita",
+   "9": "Nu aveti acces la acest cos",
+   "10": "Cosul este deja comandat",
+   "11": "Email sau parola incorecta",
+   "12": "Utilizatorul curent nu este activ, verificati e-mailul"
+  },
+  "concurrencyFailure": "Another user modified this data at the same time as you. Your changes were rejected.",
+  "validation": "Validation error on the server."
+ },
+ "footer": {
+  "description": "RTI marca a companiei Plasma RTI SRL",
+  "termsAndCond": "Termeni si Conditii",
+  "policyPrivacy": "Politica de confidențialitate",
+  "contactUs": {
+   "title": "Contacteaza-ne",
+   "description": "Grupul de companii RTI este o echipa cu peste de 15 ani de experienta  in conceperea si implementarea automatizarii proceselor de business.",
+   "address": "str-la Calatorului n.30, Chisinau, Moldova",
+   "email": "office_rti@rti.md",
+   "phones": "Tel: +373 (69) 116121 / Fax: +373 (22) 815830"
+  },
+  "information": {
+   "title": "Informations",
+   "equipment": "Equipment",
+   "softwareSolutions": "Software",
+   "solutions": "Solutions",
+   "aboutUs": "About us",
+   "contacts": "Contacts",
+   "policyPrivacy": "Privacy policy"
+  },
+  "myAccount": {
+   "title": "My account"
+  },
+  "newsletter": {
+   "title": "Newsletter",
+   "email": "Email",
+   "subscribe": "Subscribe"
+  },
+  "socialNetworks": {
+   "description": "Follow us"
+  }
+ },
+ "login": {
+  "title": "Login",
+  "form": {
+   "password": "Password",
+   "password.placeholder": "Your password",
+   "rememberme": "Remember me",
+   "button": "Login"
+  },
+  "messages": {
+   "error": {
+    "authentication": "<strong>Autentificarea nu a reusit!</strong>. Va rugam sa va verificati credentialele si sa incercati din nou."
+   }
+  },
+  "password": {
+   "forgot": "V-ati uitat parola?"
+  }
+ },
+ "widgets": {
+  "packages": {
+   "orderNow": "Order"
+  },
+  "relatedNews": {
+   "title": "Recommended products"
+  },
+  "newsletterSubscribe": {
+   "subscribe": "Subscribe",
+   "emailField.placeholder": "Introduceti e-mail-ul dvs.",
+   "firstName.placeholder": "Introduceti numele dvs.",
+   "success": "Abonare cu success.",
+   "error": "Email incorect.",
+   "acceptTerms": "I agree with the privacy policy."
+  },
+  "newsCategories": {
+   "all": "All"
+  },
+  "newsItem": {
+   "readMore": "Read more"
+  }
+ },
+ "searchPage": {
+  "title": "Rezultatul cautarii pentru: "
+ },
+ "account": {
+  "routes": {
+   "title": "Navigation",
+   "dashboard": "Dashboard",
+   "myAccount": "My profile",
+   "editProfile": "Edit profile",
+   "orderHistory": "Order history",
+   "addresses": "Addresses",
+   "logout": "Log out"
+  },
+  "text": {
+   "login": {
+    "greeting": "Welcome back to RTI",
+    "description": "Log in to your existing account"
+   },
+   "register": {
+    "greeting": "Don't have an RTI account yet?",
+    "description": "Let's get you all set up so you can start creating your first onboarding experience."
+   }
+  },
+  "global": {
+   "firstName": "First name",
+   "lastName": "Last name",
+   "email": "Email",
+   "phoneNumber": "Phone number",
+   "country": "Country",
+   "city": "City",
+   "address": "Address",
+   "zipCode": "Postal code",
+   "floor": "Floor",
+   "apartment": "Apartament",
+   "interphone": "Interphone",
+   "login": "Login",
+   "password": "Password",
+   "rememberMe": "Remember me",
+   "forgottenPassword": "Forgot your password?",
+   "repeatPassword": "Repeat password",
+   "register": "Register",
+   "min&max": "Field must contain minimum {{min}} characters and maximum {{max}} characters",
+   "lettersPattern": "Field must contain only letters",
+   "invalidEmail": "Email is invalid",
+   "requiredField": "Field cannot be empty",
+   "minLength": "Field must contain at least {{min}} characters",
+   "differentPassword": "Passwords do not match",
+   "editProfile": "Edit my profile",
+   "defaultAddress": "Active address",
+   "recentOrders": "Recent orders",
+   "loginWarning": "You must log in",
+   "save": "Save",
+   "optional": "optional",
+   "fixedLength": "The field must contain {{characters}} characters.",
+   "invalidCode": "Postal code is invalid",
+   "editAddress": "Edit address",
+   "numberPatter": "The field must contain only numbers",
+   "resetPassword": "Reset password",
+   "reset": "Reset",
+   "resetSuccess": "Password reset successfully",
+   "resetError": "The password has not been reset",
+   "activate": "Activate",
+   "logOutConfirm": "Are you sure you want to log out?",
+   "send": "Send",
+   "modalName": "Name",
+   "modalPhone": "Phone",
+   "modalEmail": "Email",
+   "modalMessage": "Message"
+  },
+  "login": {
+   "title": "Login"
+  },
+  "register": {
+   "title": "Register",
+   "createdSuccess": "Profile created successfully",
+   "createdError": "Profile not created",
+   "accept": "I agree",
+   "terms": "Terms & Conditions"
+  },
+  "dashboard": {
+   "order": "Order",
+   "date": "Date",
+   "status": "Status",
+   "total": "Total"
+  },
+  "orders": {
+   "title": "Order history",
+   "noOrders": "You did not order anything"
+  },
+  "addresses": {
+   "addNew": "New address",
+   "edit": "Edit",
+   "remove": "Delete",
+   "noAddresses": "There are no added shipping addresses"
+  },
+  "address": {
+   "new": {
+    "title": "Add new address",
+    "addedSuccess": "Address successfully added",
+    "addedError": "Address not added"
+   },
+   "edit": {
+    "title": "Edit address",
+    "editedSuccess": "The address was changed successfully",
+    "editedError": "Address wast not changed",
+    "floorPattern": "Campul trebuie sa contina doar numere",
+    "phonePattern": "The field must contain only numbers"
+   },
+   "remove": {
+    "title": "Are you sure you want to delete the address?",
+    "yes": "Yes",
+    "no": "No"
+   }
+  },
+  "resetPassword": {
+   "title": "Reset your password",
+   "reset": "Reset",
+   "resetSuccess": "A link to the reset page has been sent to your email address",
+   "resetError": "Password reset failed",
+   "text": "Enter the email associated with your account and we'll send an email with instructions to reset your password."
+  }
+ },
+ "blog": {
+  "breadcrumbs": {
+   "home": "Home",
+   "blog": "Blog"
+  },
+  "categoryPage": {
+   "title": "News",
+   "noArticles": "There are no articles",
+   "loadMore": "More"
+  },
+  "categoryBadge": {
+   "noCategory": "Without category"
+  },
+  "blogSearchWidget": {
+   "searchPlaceholder": "Search articles"
+  },
+  "aboutBlogWidget": {
+   "title": "About blog",
+   "description": "Description"
+  },
+  "categoriesWidget": {
+   "title": "Categories"
+  },
+  "latestPostsWidget": {
+   "title": "Latest articles"
+  },
+  "newsletterWidget": {
+   "title": "Subscribe to the newsletter",
+   "description": "Description",
+   "email": "Email",
+   "subscribe": "Subscribe"
+  },
+  "tagsWidget": {
+   "title": "Tags"
+  },
+  "article": {
+   "readMore": "Extend",
+   "readLess": "Minimize "
+  },
+  "searchPage": {
+   "title": "Articles found by: "
+  }
+ },
+ "clientsPage": {
+  "category": {
+   "all": {
+    "name": "All",
+    "title": "All"
+   },
+   "foodRetail": {
+    "name": "RETAIL",
+    "title": "Food retail"
+   },
+   "nonFoodRetail": {
+    "name": "NONFOODRETAIL",
+    "title": "Non-food retail"
+   },
+   "horeca": {
+    "name": "HORECA",
+    "title": "HoReCa"
+   }
+  }
+ }
+}

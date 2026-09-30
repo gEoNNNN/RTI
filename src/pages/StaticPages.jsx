@@ -1,8 +1,11 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import { useT, useTo } from '../lang';
 
 // Shared page header matching the original site's page-header/breadcrumb design
 export function PageHeader({ title, crumbs = [] }) {
+  const t = useT();
+  const to = useTo();
   return (
     <div className="header">
       <div className="page-header">
@@ -11,7 +14,7 @@ export function PageHeader({ title, crumbs = [] }) {
             <nav aria-label="breadcrumb">
               <ul className="breadcrumb">
                 <li className="bc-item">
-                  <Link to="/">Principala</Link>
+                  <Link to={to('/')}>{t('contacts.breadcrumbs.home', 'Principala')}</Link>
                   <span className="bc-arrow"> / </span>
                 </li>
                 {crumbs.map((c, i) => (

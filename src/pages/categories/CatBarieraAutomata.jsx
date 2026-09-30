@@ -70,7 +70,7 @@ export default function CatBarieraAutomata() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,bariere" />
+                                      <link itemprop="url" href="/product/bariere" />
                                       <meta itemprop="name" content="Bariera Automata RParking" />
                                       <a href="/product/bariere">
                                         Bariera Automata RParking
@@ -109,7 +109,7 @@ export default function CatBarieraAutomata() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,detachers-universal" />
+                                      <link itemprop="url" href="/product/detachers-universal" />
                                       <meta itemprop="name" content="Bariera Automată RParking PRO" />
                                       <a href="/product/detachers-universal">
                                         Bariera Automată RParking PRO

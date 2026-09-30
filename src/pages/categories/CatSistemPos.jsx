@@ -70,7 +70,7 @@ export default function CatSistemPos() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,rsistems-folding-stand-pos" />
+                                      <link itemprop="url" href="/product/rsistems-folding-stand-pos" />
                                       <meta itemprop="name" content="RSistems POS cu suport pliabil" />
                                       <a href="/product/rsistems-folding-stand-pos">
                                         RSistems POS cu suport pliabil
@@ -109,7 +109,7 @@ export default function CatSistemPos() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,rsistems-pos-aluminium-design" />
+                                      <link itemprop="url" href="/product/rsistems-pos-aluminium-design" />
                                       <meta itemprop="name" content="RSistems Aluminium POS – Premium Design" />
                                       <a href="/product/rsistems-pos-aluminium-design">
                                         RSistems Aluminium POS – Premium Design
@@ -155,7 +155,7 @@ export default function CatSistemPos() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,pos-terminal-rsistem-j4125" />
+                                      <link itemprop="url" href="/product/pos-terminal-rsistem-j4125" />
                                       <meta itemprop="name" content="POS terminal RSistem J4125" />
                                       <a href="/product/pos-terminal-rsistem-j4125">
                                         POS terminal RSistem J4125
@@ -201,7 +201,7 @@ export default function CatSistemPos() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,pos-terminal-beetle-ipos-plus-diebold-nixdorf" />
+                                      <link itemprop="url" href="/product/pos-terminal-beetle-ipos-plus-diebold-nixdorf" />
                                       <meta itemprop="name" content="POS terminal BEETLE/iPOS plus Diebold Nixdorf" />
                                       <a href="/product/pos-terminal-beetle-ipos-plus-diebold-nixdorf">
                                         POS terminal BEETLE/iPOS plus Diebold Nixdorf
@@ -247,7 +247,7 @@ export default function CatSistemPos() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,pos-terminal-rsistems-j1900" />
+                                      <link itemprop="url" href="/product/pos-terminal-rsistems-j1900" />
                                       <meta itemprop="name" content="POS terminal RSistems J1900" />
                                       <a href="/product/pos-terminal-rsistems-j1900">
                                         POS terminal RSistems J1900
@@ -293,7 +293,7 @@ export default function CatSistemPos() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,pos-terminal-pos-rs156-aw" />
+                                      <link itemprop="url" href="/product/pos-terminal-pos-rs156-aw" />
                                       <meta itemprop="name" content="POS terminal RSistems RS156-AW " />
                                       <a href="/product/pos-terminal-pos-rs156-aw">
                                         POS terminal RSistems RS156-AW 

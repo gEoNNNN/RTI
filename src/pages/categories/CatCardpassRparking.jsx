@@ -70,7 +70,7 @@ export default function CatCardpassRparking() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,terminal-de-intrare-cardpass-rparking" />
+                                      <link itemprop="url" href="/product/terminal-de-intrare-cardpass-rparking" />
                                       <meta itemprop="name" content="Terminal de Intrare CardPass RParking" />
                                       <a href="/product/terminal-de-intrare-cardpass-rparking">
                                         Terminal de Intrare CardPass RParking
@@ -109,7 +109,7 @@ export default function CatCardpassRparking() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,terminal-de-iesire-cardpass-rparking" />
+                                      <link itemprop="url" href="/product/terminal-de-iesire-cardpass-rparking" />
                                       <meta itemprop="name" content="Terminal de Ieșire CardPass RParking" />
                                       <a href="/product/terminal-de-iesire-cardpass-rparking">
                                         Terminal de Ieșire CardPass RParking

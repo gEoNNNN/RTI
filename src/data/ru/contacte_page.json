@@ -1,0 +1,61 @@
+{
+ "slug": "contacte",
+ "title": "контакты",
+ "metaTitle": "",
+ "widgets": [
+  {
+   "name": "Контакт Meta RUS - Selling",
+   "type": "widget-contact-meta",
+   "payload": {
+    "title": "Как вы нас найдете?",
+    "description": "Если вы хотите узнать больше о наших услугах и продуктах, вы можете связаться со службой поддержки клиентов по номерам указанным ниже или заполнить форму обратной связи и мы ответим на ваши запросы в кратчайшие сроки",
+    "layout": "SELLING",
+    "information": [
+     {
+      "title": "Главное управление",
+      "description": {
+       "text": "+373 22 81-58-29"
+      }
+     },
+     {
+      "title": "Адрес",
+      "description": {
+       "text": "п. Калаторилор 30, Кишинев, Молдова"
+      }
+     }
+    ],
+    "button": {
+     "text": "Посмотреть местоположение на карте",
+     "link": "https://www.google.com/maps/place/Plasma+RTI/@46.9996964,28.8989805,15z/data=!4m2!3m1!1s0x0:0x6c2b7d2dce546a6?sa=X&ved=2ahUKEwjWq6DPuszxAhXm_rsIHbwwA1IQ_BIwDnoECDoQBQ"
+    }
+   }
+  },
+  {
+   "name": "Контакт Meta RUS - Support",
+   "type": "widget-contact-meta",
+   "payload": {
+    "title": "Возникла проблема?",
+    "description": "Расскажите нам как можно подробнее о проблеме с которой сталкнулся ваш бизнес и мы поможем вам в кратчайшие сроки",
+    "layout": "SUPPORT",
+    "information": [
+     {
+      "title": "Сервисный центр",
+      "description": {
+       "text": "+373 22 89-08-38"
+      }
+     },
+     {
+      "title": "Адрес",
+      "description": {
+       "text": "п. Калаторилор 30, Кишинев, Молдова"
+      }
+     }
+    ],
+    "button": {
+     "text": "Посмотреть местоположение на карте",
+     "link": "https://www.google.com/maps/place/Plasma+RTI/@46.9996964,28.8989805,15z/data=!4m2!3m1!1s0x0:0x6c2b7d2dce546a6?sa=X&ved=2ahUKEwjWq6DPuszxAhXm_rsIHbwwA1IQ_BIwDnoECDoQBQ"
+    }
+   }
+  }
+ ]
+}

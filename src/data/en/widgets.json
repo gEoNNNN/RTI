@@ -1,0 +1,1088 @@
+[
+ {
+  "id": "623b37b89f9a3c00318c03e9",
+  "name": "Business Branch En Version",
+  "type": "business-branch-widget",
+  "payload": {
+   "title": "Professional equipment and business software solutions",
+   "description": "We optimize work, increase process speed and reduce costs",
+   "bgImage": {
+    "mimetype": "image/webp",
+    "path": "public/widgets/files/1732b203-5ec5-4efc-9b76-62b5e7b39cf6.webp"
+   },
+   "slides": [
+    {
+     "icon": {
+      "mimetype": "image/svg+xml",
+      "path": "public/widgets/files/e18c1485-3070-4a84-924f-1aeada68acab.svg"
+     },
+     "darkIcon": {
+      "mimetype": "image/svg+xml",
+      "path": "public/widgets/files/10fdfb29-3ba4-4f7b-b345-9b3acf46fada.svg"
+     },
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/a5ba53a1-8ed3-4106-a82d-7e8aab7fa3a2.png"
+     },
+     "label": "HoReCa",
+     "target": {
+      "text": "Vezi oferta",
+      "url": "/solutii-automatizare-horeca"
+     }
+    },
+    {
+     "icon": {
+      "mimetype": "image/svg+xml",
+      "path": "public/widgets/files/1877185b-8edc-4979-8b5f-fc4beeaef843.svg"
+     },
+     "darkIcon": {
+      "mimetype": "image/svg+xml",
+      "path": "public/widgets/files/9b3929d2-4db6-435a-a62f-f344ad8d8cbb.svg"
+     },
+     "image": {
+      "mimetype": "image/jpeg",
+      "path": "public/widgets/files/d87dfe9b-60dc-48cd-9789-40b3089ee0d8.jpg"
+     },
+     "label": "Retail",
+     "target": {
+      "text": "Vezi oferta",
+      "url": "/automatizare-retail"
+     }
+    },
+    {
+     "icon": {
+      "mimetype": "image/svg+xml",
+      "path": "public/widgets/files/cec19f3b-c2d0-4a9b-83e8-af64b3bafbf4.svg"
+     },
+     "darkIcon": {
+      "mimetype": "image/svg+xml",
+      "path": "public/widgets/files/459b6e99-e70b-4618-9cf3-3c847eab9aaa.svg"
+     },
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/ae5b84f9-2057-4a3d-a88b-a553b191be9b.png"
+     },
+     "label": "Parking systems",
+     "target": {
+      "text": "Vezi oferta",
+      "url": "/solutii-sisteme-parcare"
+     }
+    },
+    {
+     "icon": {
+      "mimetype": "image/svg+xml",
+      "path": "public/widgets/files/d79d5361-5a12-4eed-916e-16087e4babe1.svg"
+     },
+     "darkIcon": {
+      "mimetype": "image/svg+xml",
+      "path": "public/widgets/files/b178455a-0987-4a9f-8c91-2dd850383d31.svg"
+     },
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/a01b5171-3d6d-4dfd-beba-7fdaec739d2d.png"
+     },
+     "label": "Maintenance",
+     "target": {
+      "text": "Vezi oferta",
+      "url": "/contacte"
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "615ac73ff8c8c6003aa3e65d",
+  "name": "Widget - Recenzii Clienti ENG",
+  "type": "entrust-widget",
+  "payload": {
+   "title": "Over 19 years <br>of successful cooperation",
+   "description": "We make long and complex processes dozens of times simpler. Find out how RTI's services and equipment contribute to the proper functioning and development of business.",
+   "slides": [
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/d116688c-d12e-4783-9b58-a849f2522b1f.png"
+     },
+     "description": "We have had a beautiful collaboration with RTI for 10 years. During this period, we launched many projects, the last of which was Gourmet Fourchette. Our cooperation consists in the supply and installation of fiscal equipment, scales and IT networks. I confidently recommend RTI to all economic agents.",
+     "author": "Adrian Lazarenco",
+     "job": "CEO of the store network ",
+     "company": "Gourmet Fourchette",
+     "video": {
+      "url": "https://www.youtube.com/watch?v=uSTHbXbwI2I",
+      "image": {
+       "mimetype": "image/jpeg",
+       "path": "public/widgets/files/bcc09c58-95a5-4104-a005-a9f38015af18.jpg"
+      }
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/750454b5-1aee-4a9b-a5d9-dba1b215985d.png"
+     },
+     "description": "We have been working with RTI since the launch of the business. We are very pleased with our collaboration. I confidently recommend all companies operating in the field of restaurants and hotels use RTI services.",
+     "author": "Mihai Tanase",
+     "job": "CEO of ",
+     "company": "BERD'S Hotel",
+     "video": {
+      "url": "https://www.youtube.com/watch?v=DOvqtWMoZ_U",
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/8b6e26ad-8c98-46f7-b4bf-aa767dc93162.png"
+      }
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/4f6bf283-c608-426d-be9f-fbb72c2fd419.png"
+     },
+     "description": "Due to the business process management system implemented by the RTI company, which includes equipment and software, our pastry shop obtains the highest quality results in finance and management processes.",
+     "author": "Dmitrii Bucicov",
+     "job": "Co-founder of the ",
+     "company": "Covrigo pastry network",
+     "video": {
+      "url": "https://youtu.be/watch?v=M3LiHbD9uI4",
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/6c403583-6484-42cf-b46c-c27b6957b3d6.png"
+      }
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/webp",
+      "path": "public/widgets/files/6cb642f6-bc38-4b2b-867b-9ca89eef6a3b.webp"
+     },
+     "description": "Black Rabbit restaurant has chosen the iiko management solution because it is an all-in-one program that integrates sales, purchases and all reports into one system. All financial operations and accounting are centralized.",
+     "author": "Ecaterina Zidu",
+     "job": "Manager",
+     "company": "Black Rabbit Gastro-Burrow restaurant",
+     "video": {
+      "url": "https://www.youtube.com/watch?v=iUUP_nweJ5k",
+      "image": {
+       "mimetype": "image/jpeg",
+       "path": "public/widgets/files/799c8dc7-ea19-4e1b-a9da-4e74218d23a3.jpg"
+      }
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/webp",
+      "path": "public/widgets/files/2da0f73d-e4ba-416f-8e9f-7b60f2936b80.webp"
+     },
+     "description": "RTI has provided us with complete solutions to facilitate the management and control of the DRAFT brewery network. This allows us to be ready to respond to all changes and effectively manage the network remotely. I recommend all RTI services.",
+     "author": "Roman Zaitev",
+     "job": "Commercial Director",
+     "company": "Draft brewery network",
+     "video": {
+      "url": "https://www.youtube.com/watch?v=6hZerpOQGKw&t=5s",
+      "image": {
+       "mimetype": "image/png",
+       "path": "public/widgets/files/a1d6f64a-b962-4a51-988b-29f0e6bb9980.png"
+      }
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "615ad28bf8c8c6003aa3e65e",
+  "name": "Widget - Partners - Clienti - Pagina principala ENG",
+  "type": "partners-widget",
+  "payload": {
+   "label": "2000 торговых предприятий, магазинов розничной торговли и оптовой продажи",
+   "title": "600 successful companies <br> that have become loyal customers",
+   "target": {
+    "text": "View all",
+    "url": "/clienti"
+   },
+   "partners": [
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/923df563-9292-45f4-8ca2-bc76672f25d7.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/8191ebaa-0145-40ed-9c5f-005502db0753.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/4417eb7b-75db-466c-8fd0-93c6a82211cb.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/73823f52-2bae-48f2-b221-60995874c738.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/b6b0d9eb-3f68-4a6e-ab69-63e21a97ab2c.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/98f5b387-07df-4f3d-b9d8-21d7c0509e2e.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/9f7c9bec-e060-42bd-9650-6f7b75c76f8d.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/a4aceb6f-9394-47e4-bf52-3fd8778d3b3b.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/728ae716-2cc5-4582-a966-2056569103aa.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/96fbfa76-63e0-4935-9a7d-b8f089725395.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/c9a28e41-bf78-469b-bcd7-30bbb66c7104.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/51633daf-2931-4d34-9a6e-1929c86ebb44.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/117f3078-1272-4e62-b2d0-781209f56e46.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/a094458c-7850-4345-ba98-22430f0cc6ee.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/6bd229af-3f76-4bb3-beb4-ebe8dde9dc11.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/0608e6ce-9818-4b95-80e6-9d34148f3372.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/2ffeaa7c-3822-4314-89c4-af24823da895.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/48fbd913-034f-4fbf-a7a0-9a131523ec6d.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/748a78a5-ad03-46f0-a726-0bb029f6afc3.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/394a1213-f7d5-4a16-a089-b0e939b33045.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/webp",
+      "path": "public/widgets/files/2c624541-8e60-44f3-b9d4-ecd69aafd74c.webp"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/webp",
+      "path": "public/widgets/files/c4c284ac-f9b4-410d-9ecc-b673b05857b7.webp"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/1966f5af-fe34-4cbf-851f-07b5de8bc984.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/4c6d91b7-c92f-4245-acdf-db3966befc7c.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/7eb2cfbc-47cb-46fb-8187-0228cdcc3459.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/29361e86-c5f8-4faa-9bf3-8faaaabfb4ec.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/90d3de1d-0526-4933-8243-873c54dbe3fc.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/0330024f-35cd-452d-8fcb-3065f75192c2.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/51f9db0a-b606-4381-868d-1aecf6ff0449.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/a92356b0-14b9-4af0-9127-784e14cacfce.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/f555e11c-62a5-4a51-83d1-d364993081a8.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/e913c162-4539-44e3-8022-562ce5d8edc9.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/cbe383fe-95a9-49f5-a607-dfd697e5d888.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/adc39a5b-4ae0-440e-9dac-fde849568138.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/35ac133c-7a27-4cdf-a98e-47e4b58fca9f.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/5e080ec0-5e31-45ad-a135-7095e49a6f9b.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/288a2a9d-e628-4404-b0b1-57a0d741cbbb.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/a984310c-a0a9-4f92-b8dc-0d2b789914f9.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/87b9baeb-7145-423c-b0a2-430d36a81ea7.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/0e0086d8-4718-4189-ad94-b8e004817f8f.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/1ea844f2-d1a2-4c1d-9c26-b8722cea32b7.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/24c6062a-396e-40f0-844f-2a1fae66d37c.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/a72b4f41-d779-409c-b3a7-f7c03ef858f2.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/25247c9b-c216-47b4-9d32-89439c182d3e.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/cff06422-6c74-498a-97c2-dc4c61d79d1d.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/b9d28868-0f1f-4791-b2ec-9a24f07a8982.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/dc06984e-fdd5-4016-8810-b5435dcfab19.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/979c22e0-cd0c-4d58-b66f-01628cc31797.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/87b7342b-90ec-433a-8488-6254375f77e1.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/16da2017-da90-4e82-8818-1bc5c03e1e24.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/176d72c7-7256-4bab-a584-bdc45b199b65.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/0efc9cb9-d136-4d39-993e-b01def5ee413.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/3063abfc-30be-4c34-9e93-a958a57475bd.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/8198a649-af7b-480a-90a4-888ba69df439.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/ff52ee4c-6492-4ab6-a219-dad1df727d09.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/283eb1ca-a75c-457c-93c2-1b4f14aa57d0.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/719a1e52-850c-4d57-b64b-d6db5abd8669.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/a77bb49e-987d-4709-b10a-37070e6bbfc4.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/1cf4a5a6-1cc5-4f60-aa24-1908987902d0.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/2f2c62e9-06ab-4efe-8d94-5babf28c7374.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/fbd40c21-0d34-4b16-8af2-3d44e4f20726.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/f5be04b4-5919-4cf5-ba48-8a68729ef492.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/d05015d3-b936-456a-98c8-125dca506930.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/2453dfbc-c146-4c21-b0c4-d0f541dc5510.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/d7a7e6cc-9d47-4308-916a-582dac0666cb.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/4fc84779-4a74-4c69-bdf2-85803cb37769.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/1825a1dd-54bb-4f04-b27f-808c1851f62f.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/c443a3b0-22cf-4f80-b40a-4d758eb67b9a.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/b4c721e7-5b46-41b8-a024-b5bd7fc1b9a3.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/05566e92-3145-4e2e-9c19-ba7742b9ba03.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/3b4a3dd4-049f-4eee-b9ea-73521589482a.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/c5543ab6-bf56-4297-ac2a-e71be3d38315.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/756db144-de9e-465f-b6b8-b1b975cdf011.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/2d966d71-1291-44fb-9809-9240ee4875d5.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/140572f2-e83e-4f06-8024-aecca23368a1.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/fd229868-93f2-4181-ae37-356be5d4952c.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/8f1e745f-0130-461e-83fc-1eba1d299ae2.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/ad7165db-ed82-475e-a211-37d83d617eec.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/05c35c6a-bcb8-4c18-968c-37acb82acc4b.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/e14eadc9-e455-4d2c-81a3-fe6302d4e6bb.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/a852889f-6ff2-4c54-8db6-e477a34b3e4f.png"
+     }
+    },
+    {
+     "image": {
+      "mimetype": "image/png",
+      "path": "public/widgets/files/d0087178-26fc-4e9c-ba6b-c374b82e528e.png"
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "615ad600f8c8c6003aa3e65f",
+  "name": "Prima pagina - Avantajele companiei și soluții complexe - dual-widget ENG",
+  "type": "dual-widget",
+  "payload": {
+   "left": {
+    "widget_id": "615ad630f8c8c6003aa3e660",
+    "columns": 7,
+    "padding": {
+     "desktop": "76px 50px 20px 0",
+     "mobile": "0"
+    },
+    "content": {
+     "published": true,
+     "pages": [],
+     "_id": "615ad630f8c8c6003aa3e660",
+     "name": "Avantajele noastre prima pagina ENG",
+     "template": {
+      "_id": "5cff785ec8eb6d003169595d",
+      "name": "Advantages Widget",
+      "type": "advantages-widget",
+      "structure": {
+       "schema": {
+        "type": "object",
+        "properties": {
+         "title": {
+          "type": "string"
+         },
+         "label": {
+          "type": "string"
+         },
+         "advantages": {
+          "type": "array",
+          "items": {
+           "type": "object",
+           "properties": {
+            "title": {
+             "type": "string"
+            },
+            "description": {
+             "type": "string"
+            }
+           }
+          }
+         }
+        }
+       },
+       "layout": [
+        {
+         "key": "title",
+         "type": "text"
+        },
+        {
+         "key": "label",
+         "type": "text"
+        },
+        {
+         "key": "advantages",
+         "displayFlex": true,
+         "items": [
+          {
+           "key": "advantages[].title",
+           "type": "text"
+          },
+          {
+           "key": "advantages[].description",
+           "type": "textarea"
+          }
+         ]
+        }
+       ]
+      },
+      "createdAt": "2019-06-11T09:46:06.297Z",
+      "updatedAt": "2020-01-08T10:22:09.465Z",
+      "__v": 0,
+      "icon": "public/widget-templates/icons/c8787b77-7ea3-4329-910e-b8312320ee1e.png"
+     },
+     "payload": {
+      "title": "Company advantages",
+      "label": "We are open to collaboration with retail networks, fashion, restaurants, cafes, gas stations.",
+      "advantages": [
+       {
+        "title": "Individual<br>solutions",
+        "description": "We personally manage each project in accordance with the specifics of the business and in collaboration with clients."
+       },
+       {
+        "title": "High<br>quality",
+        "description": "We are the official distributor of equipment supplied through direct deliveries from global manufacturers."
+       },
+       {
+        "title": "Double<br>guarantee",
+        "description": "We offer technical support and a double guarantee on equipment and software solutions provided by us and the manufacturer."
+       },
+       {
+        "title": "Maintenance<br>service",
+        "description": "The authorized technical center offers maintenance service for the entire range of supplied products."
+       }
+      ]
+     },
+     "__v": 0,
+     "createdAt": "2021-10-04T10:23:44.926Z",
+     "updatedAt": "2022-08-02T14:03:07.706Z"
+    }
+   },
+   "right": {
+    "widget_id": "615ad652f8c8c6003aa3e661",
+    "columns": 5,
+    "content": {
+     "published": true,
+     "pages": [],
+     "_id": "615ad652f8c8c6003aa3e661",
+     "name": "Solutii complexe - RTI - versiunea Ro - info-widget ENG",
+     "template": {
+      "_id": "5cff76a3c8eb6d003169595c",
+      "name": "Info Widget",
+      "type": "info-widget",
+      "structure": {
+       "schema": {
+        "type": "object",
+        "properties": {
+         "title": {
+          "type": "string"
+         },
+         "description": {
+          "type": "string"
+         },
+         "media": {
+          "type": "array",
+          "items": {
+           "type": "object",
+           "properties": {
+            "image": {
+             "type": "object",
+             "properties": {
+              "mimetype": {
+               "type": "string"
+              },
+              "path": {
+               "type": "string"
+              }
+             }
+            }
+           }
+          }
+         },
+         "footer_item": {
+          "type": "array",
+          "items": {
+           "type": "object",
+           "properties": {
+            "image": {
+             "type": "object",
+             "properties": {
+              "mimetype": {
+               "type": "string"
+              },
+              "path": {
+               "type": "string"
+              }
+             }
+            },
+            "image_description": {
+             "type": "string"
+            }
+           }
+          }
+         }
+        }
+       },
+       "layout": [
+        {
+         "key": "title",
+         "type": "text"
+        },
+        {
+         "key": "description",
+         "type": "text"
+        },
+        {
+         "key": "media",
+         "displayFlex": true,
+         "items": [
+          {
+           "key": "media[].image",
+           "type": "file"
+          }
+         ]
+        },
+        {
+         "key": "footer_item",
+         "displayFlex": true,
+         "items": [
+          {
+           "key": "footer_item[].image",
+           "type": "file"
+          },
+          {
+           "key": "footer_item[].image_description",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      "createdAt": "2019-06-11T09:38:43.583Z",
+      "updatedAt": "2021-08-06T12:40:31.790Z",
+      "__v": 0,
+      "icon": "public/widget-templates/icons/aacc6047-a22c-4cee-a508-1498874c2eae.png"
+     },
+     "payload": {
+      "title": "We offer complex solutions for business automation",
+      "description": "RTI is a provider of services and equipment for business in the field of trade, manufacturing, industry, and food services. For 19 years, the company has provided over 200,000 pieces of equipment and served over 600 customers throughout Moldova.",
+      "media": [
+       {
+        "image": {
+         "mimetype": "image/png",
+         "path": "public/widgets/files/7b32afcf-dea8-4d41-bc88-5391636b6b66.png"
+        }
+       },
+       {
+        "image": {
+         "mimetype": "image/png",
+         "path": "public/widgets/files/45cf8bfb-3765-4ae7-8e5a-eece2be2cd77.png"
+        }
+       },
+       {
+        "image": {
+         "mimetype": "image/png",
+         "path": "public/widgets/files/7caaae18-fd63-4d1f-919c-606a244b6f36.png"
+        }
+       },
+       {
+        "image": {
+         "mimetype": "image/png",
+         "path": "public/widgets/files/2d372336-8358-45ad-99c9-8fa3793b8323.png"
+        }
+       },
+       {
+        "image": {
+         "mimetype": "image/svg+xml",
+         "path": "public/widgets/files/39a10696-8fce-4d86-a152-7385dcf62964.svg"
+        }
+       }
+      ],
+      "footer_item": [
+       {
+        "image": {
+         "mimetype": "image/png",
+         "path": "public/widgets/files/6c175f99-65dd-4f75-affb-606bdb69a9d3.png"
+        },
+        "image_description": "Leader in the production of video surveillance systems"
+       },
+       {
+        "image": {
+         "mimetype": "image/png",
+         "path": "public/widgets/files/da997fc2-cb36-4a5b-80a1-db329c3b8a85.png"
+        },
+        "image_description": "Modern software for business automation in the field of Retail"
+       },
+       {
+        "image": {
+         "mimetype": "image/png",
+         "path": "public/widgets/files/ba526ecc-e439-413f-9622-d1592831e610.png"
+        },
+        "image_description": "High performance scanning in a modern design"
+       },
+       {
+        "image": {
+         "mimetype": "image/png",
+         "path": "public/widgets/files/5766b1ef-ca14-4a6f-a89f-9807287a8509.png"
+        },
+        "image_description": "High quality sound without barriers"
+       },
+       {
+        "image": {
+         "mimetype": "image/png",
+         "path": "public/widgets/files/9225559b-b5c5-4397-b5fe-9ef6148b87ec.png"
+        },
+        "image_description": "Innovative solutions for surveillance and security"
+       },
+       {
+        "image": {
+         "mimetype": "image/png",
+         "path": "public/widgets/files/0a70d65f-ba2c-48ff-991c-f295b4312d21.png"
+        },
+        "image_description": "Professional restaurant management system"
+       },
+       {
+        "image": {
+         "mimetype": "image/png",
+         "path": "public/widgets/files/439d8203-9f84-41c0-944c-bcddfe3e9dc9.png"
+        },
+        "image_description": "Accurate visitor counting tool"
+       }
+      ]
+     },
+     "__v": 0,
+     "createdAt": "2021-10-04T10:24:18.617Z",
+     "updatedAt": "2022-04-11T11:23:08.323Z"
+    }
+   }
+  }
+ },
+ {
+  "id": "615b13e9f8c8c6003aa3e6e1",
+  "name": "Noutati - News widget ENG",
+  "type": "news-widget",
+  "payload": {
+   "title": "News and projects",
+   "description": "News, reviews and articles from industries such as retail, hospitality, production and security."
+  }
+ },
+ {
+  "id": "615b1411f8c8c6003aa3e6e2",
+  "name": "SEO-text Widget-5 ENG",
+  "type": "seo-text-widget",
+  "payload": {
+   "description": "<p><strong>Business organization and automation in Moldova.</strong></p><p>With the advancement of technology, more and more companies are deciding to automate their business. The range of opportunities in this field is expanding dynamically and modern and complex solutions are appearing on the market. Every year, the number of entrepreneurs with large and small businesses increases and they turn to us with requests for automation. After all, if you want to have a growing list of satisfied customers, then you need to focus on the changes in the work of your staff and improve them regularly. Business process automation in Chisinau is a fast and efficient method that will allow you to accelerate the development of a company and increase its profits. It is a very effective way to guide you on the path to expanding your understanding. It simplifies and speeds up customer contact and allows you to find new customers more easily and quickly.</p><p><strong>Our company offers you:</strong></p><ul><li>Production process automation services in Moldova, which help reduce costs, increase work efficiency and optimize all processes;</li><li>Business automation equipment, including printers, scanners, computers, scales, slicers, and everything else that will speed up work and make work easier for employees;</li><li>Business software in Chisinau - for any store, restaurant, or gas station;</li><li>Installation of automation equipment - our professional staff will do everything quickly and efficiently;</li></ul><p>With us, you can significantly improve your business and make it easier to implement a number of processes. More than 600 companies have trusted us and are now successfully developing in the Moldovan market, as well as abroad. We are the exclusive distributor of business process automation equipment in Moldova and offer a full range of development services.</p><p>But why use some sort of CRM system?</p><p><strong>What are the advantages of organizing production processes in Chisinau?</strong></p><p>It helps to analyze the ways and methods of attracting new customers and to determine the needs of the public. It also assesses the availability of potential customers to buy a product or use a service. Therefore, you need a CRM system for business automation in Moldova. Thanks to the ability to demonstrate all processes in the form of a chart, you can quickly and easily adjust the marketing strategies or financial costs needed to attract customers.</p><p><strong>The installation of CRM business system in Chisinau</strong> is available for any store, both large and small, as well as for private companies, restaurants, or cafes. To buy such a system is to allow it to grow and develop at a fast pace. The decision to buy equipment or software for automation in Moldova means that customer interaction is taking on a whole new level.</p><p><strong>Significant advantages of installing the program:</strong></p><ul><li>Increasing productivity and efficiency;</li><li>Improving customer service;</li><li>Increased work accuracy and tracking of all processes;</li></ul><p>We are always ready to be close to you and to support your growth and development in the Moldovan market.</p><p>RTI company - automation of business processes in Moldova</p>",
+   "rows": 14
+  }
+ },
+ {
+  "id": "601befef4adeb3002f08bdec",
+  "name": "Footer Widget EN - (subsolul paginii unde este meniul, contactele si adresa  )",
+  "type": "footer-widget",
+  "payload": {
+   "menu": [
+    {
+     "name": "Solutions",
+     "target": [
+      {
+       "name": "HoReCa automation",
+       "url": "/en/automatizare-restaurant"
+      },
+      {
+       "name": "Retail automation",
+       "url": "/en/automatizare-retail"
+      },
+      {
+       "name": "Video surveillance systems",
+       "url": "/en/supraveghere-video"
+      },
+      {
+       "name": "Parking systems",
+       "url": "/en/solutii-sisteme-parcare"
+      },
+      {
+       "name": "Digital signage",
+       "url": "/en/panouri-digitale"
+      }
+     ]
+    },
+    {
+     "name": "Company",
+     "target": [
+      {
+       "name": "About us",
+       "url": "/en/despre-noi"
+      },
+      {
+       "name": "Clients",
+       "url": "/en/clienti"
+      },
+      {
+       "name": "News",
+       "url": "/en/noutati"
+      }
+     ]
+    },
+    {
+     "name": "Contacts",
+     "target": [
+      {
+       "label": "Headquarters<br>",
+       "name": "+373 22 81-58-29",
+       "url": "+37322815829"
+      },
+      {
+       "label": "Service center<br>",
+       "name": "+373 22 89-08-38",
+       "url": "+37322890838"
+      },
+      {
+       "label": "Address<br>",
+       "name": "30 Calatorilor Ln. Chisinau, Moldova",
+       "url": "https://www.google.com/maps/dir/46.9860352,28.858927/46.9994699,28.8983216/@46.9993947,28.8986498,19.79z/data=!4m5!4m4!1m1!4e1!1m0!3e0"
+      }
+     ]
+    }
+   ]
+  }
+ }
+]

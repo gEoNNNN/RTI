@@ -70,7 +70,7 @@ export default function CatScanereDeMasa() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,scaner-incorporabil-datalogic-magellan-3450vsi" />
+                                      <link itemprop="url" href="/product/scaner-incorporabil-datalogic-magellan-3450vsi" />
                                       <meta itemprop="name" content="Scaner incorporabil Datalogic Magellan 3450VSi" />
                                       <a href="/product/scaner-incorporabil-datalogic-magellan-3450vsi">
                                         Scaner incorporabil Datalogic Magellan 3450VSi
@@ -116,7 +116,7 @@ export default function CatScanereDeMasa() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,scaner-incorporabil-datalogic-magellan-800i" />
+                                      <link itemprop="url" href="/product/scaner-incorporabil-datalogic-magellan-800i" />
                                       <meta itemprop="name" content="Scaner Datalogic Magellan 800I" />
                                       <a href="/product/scaner-incorporabil-datalogic-magellan-800i">
                                         Scaner Datalogic Magellan 800I
@@ -162,7 +162,7 @@ export default function CatScanereDeMasa() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,scannerul-de-bare-datalogic-magellan-3200vsi" />
+                                      <link itemprop="url" href="/product/scannerul-de-bare-datalogic-magellan-3200vsi" />
                                       <meta itemprop="name" content="Desktop scaner de coduri de bare Datalogic Magellan 3200VSi" />
                                       <a href="/product/scannerul-de-bare-datalogic-magellan-3200vsi">
                                         Desktop scaner de coduri de bare Datalogic
@@ -201,7 +201,7 @@ export default function CatScanereDeMasa() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,rscan-2d-scaner-stationar-1210" />
+                                      <link itemprop="url" href="/product/rscan-2d-scaner-stationar-1210" />
                                       <meta itemprop="name" content="RScan 2D Scaner stationar 1210" />
                                       <a href="/product/rscan-2d-scaner-stationar-1210">
                                         RScan 2D Scaner stationar 1210
@@ -255,7 +255,7 @@ export default function CatScanereDeMasa() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,scaner-incorporabil-datalogic-magellan-3300hsi" />
+                                      <link itemprop="url" href="/product/scaner-incorporabil-datalogic-magellan-3300hsi" />
                                       <meta itemprop="name" content="Scaner incorporabil Datalogic Magellan 3300HSi" />
                                       <a href="/product/scaner-incorporabil-datalogic-magellan-3300hsi">
                                         Scaner incorporabil Datalogic Magellan 3300HSi

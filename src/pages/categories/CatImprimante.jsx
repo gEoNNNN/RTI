@@ -124,7 +124,7 @@ export default function CatImprimante() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,imprimanta-de-etichete-citizen-cl-s321" />
+                                      <link itemprop="url" href="/product/imprimanta-de-etichete-citizen-cl-s321" />
                                       <meta itemprop="name" content="Imprimanta de etichete Citizen CL-S321" />
                                       <a href="/product/imprimanta-de-etichete-citizen-cl-s321">
                                         Imprimanta de etichete Citizen CL-S321
@@ -163,7 +163,7 @@ export default function CatImprimante() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,imprimanta-mobila-citizen-cmp-30ii" />
+                                      <link itemprop="url" href="/product/imprimanta-mobila-citizen-cmp-30ii" />
                                       <meta itemprop="name" content="Imprimanta mobila Citizen CMP-30II" />
                                       <a href="/product/imprimanta-mobila-citizen-cmp-30ii">
                                         Imprimanta mobila Citizen CMP-30II
@@ -202,7 +202,7 @@ export default function CatImprimante() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,imprimanta-portabila-citizen-cmp-40l" />
+                                      <link itemprop="url" href="/product/imprimanta-portabila-citizen-cmp-40l" />
                                       <meta itemprop="name" content="Imprimanta portabila Citizen CMP-40L" />
                                       <a href="/product/imprimanta-portabila-citizen-cmp-40l">
                                         Imprimanta portabila Citizen CMP-40L
@@ -241,7 +241,7 @@ export default function CatImprimante() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,imprimanta-industriala-citizen-cl-e720" />
+                                      <link itemprop="url" href="/product/imprimanta-industriala-citizen-cl-e720" />
                                       <meta itemprop="name" content="Imprimanta industriala Citizen CL-E720" />
                                       <a href="/product/imprimanta-industriala-citizen-cl-e720">
                                         Imprimanta industriala Citizen CL-E720
@@ -280,7 +280,7 @@ export default function CatImprimante() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,imprimanta-industriala-citizen-cl-s703" />
+                                      <link itemprop="url" href="/product/imprimanta-industriala-citizen-cl-s703" />
                                       <meta itemprop="name" content="Imprimanta industriala Citizen CL-S703" />
                                       <a href="/product/imprimanta-industriala-citizen-cl-s703">
                                         Imprimanta industriala Citizen CL-S703
@@ -319,7 +319,7 @@ export default function CatImprimante() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,imprimanta-termica-pos-citizen-ct-s310ii" />
+                                      <link itemprop="url" href="/product/imprimanta-termica-pos-citizen-ct-s310ii" />
                                       <meta itemprop="name" content="Imprimanta termica POS Citizen CT-S310II" />
                                       <a href="/product/imprimanta-termica-pos-citizen-ct-s310ii">
                                         Imprimanta termica POS Citizen CT-S310II
@@ -358,7 +358,7 @@ export default function CatImprimante() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,imprimanta-de-etichete-citizen-cl-e300" />
+                                      <link itemprop="url" href="/product/imprimanta-de-etichete-citizen-cl-e300" />
                                       <meta itemprop="name" content="Imprimanta de etichete Citizen CL-E300" />
                                       <a href="/product/imprimanta-de-etichete-citizen-cl-e300">
                                         Imprimanta de etichete Citizen CL-E300
@@ -397,7 +397,7 @@ export default function CatImprimante() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,imprimanta-industriala-citizen-cl-s521ii" />
+                                      <link itemprop="url" href="/product/imprimanta-industriala-citizen-cl-s521ii" />
                                       <meta itemprop="name" content="Imprimanta industriala desktop Citizen CL-S521II" />
                                       <a href="/product/imprimanta-industriala-citizen-cl-s521ii">
                                         Imprimanta industriala desktop Citizen CL-S521II
@@ -436,7 +436,7 @@ export default function CatImprimante() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,imprimanta-industriala-desktop-citizen-cl-s621ii" />
+                                      <link itemprop="url" href="/product/imprimanta-industriala-desktop-citizen-cl-s621ii" />
                                       <meta itemprop="name" content="Imprimanta industriala desktop Citizen CL-S621II" />
                                       <a href="/product/imprimanta-industriala-desktop-citizen-cl-s621ii">
                                         Imprimanta industriala desktop Citizen CL-S621II
@@ -475,7 +475,7 @@ export default function CatImprimante() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,imprimanta-portabila-citizen-cmp-20ii" />
+                                      <link itemprop="url" href="/product/imprimanta-portabila-citizen-cmp-20ii" />
                                       <meta itemprop="name" content="Imprimanta portabila Citizen CMP-20II" />
                                       <a href="/product/imprimanta-portabila-citizen-cmp-20ii">
                                         Imprimanta portabila Citizen CMP-20II
@@ -514,7 +514,7 @@ export default function CatImprimante() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,imprimanta-portabila-citizen-cmp-25l" />
+                                      <link itemprop="url" href="/product/imprimanta-portabila-citizen-cmp-25l" />
                                       <meta itemprop="name" content="Imprimanta portabila Citizen CMP-25L" />
                                       <a href="/product/imprimanta-portabila-citizen-cmp-25l">
                                         Imprimanta portabila Citizen CMP-25L
@@ -553,7 +553,7 @@ export default function CatImprimante() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,imprimanta-de-etichete-citizen-e321" />
+                                      <link itemprop="url" href="/product/imprimanta-de-etichete-citizen-e321" />
                                       <meta itemprop="name" content="Imprimanta de etichete Citizen CL- E321" />
                                       <a href="/product/imprimanta-de-etichete-citizen-e321">
                                         Imprimanta de etichete Citizen CL- E321
@@ -592,7 +592,7 @@ export default function CatImprimante() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,imprimanta-termica-citizen-ct-e651" />
+                                      <link itemprop="url" href="/product/imprimanta-termica-citizen-ct-e651" />
                                       <meta itemprop="name" content="Imprimanta termica Citizen CT-E651" />
                                       <a href="/product/imprimanta-termica-citizen-ct-e651">
                                         Imprimanta termica Citizen CT-E651
@@ -631,7 +631,7 @@ export default function CatImprimante() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,imprimanta-termica-pos-citizen-ct-e351" />
+                                      <link itemprop="url" href="/product/imprimanta-termica-pos-citizen-ct-e351" />
                                       <meta itemprop="name" content="Imprimanta termica POS Citizen CT-E351" />
                                       <a href="/product/imprimanta-termica-pos-citizen-ct-e351">
                                         Imprimanta termica POS Citizen CT-E351
@@ -670,7 +670,7 @@ export default function CatImprimante() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,imprimanta-portabila-zebra-qln" />
+                                      <link itemprop="url" href="/product/imprimanta-portabila-zebra-qln" />
                                       <meta itemprop="name" content="Imprimanta portabila Zebra QLn" />
                                       <a href="/product/imprimanta-portabila-zebra-qln">
                                         Imprimanta portabila Zebra QLn
@@ -709,7 +709,7 @@ export default function CatImprimante() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,rprinter-421-l" />
+                                      <link itemprop="url" href="/product/rprinter-421-l" />
                                       <meta itemprop="name" content="RPrinter 421 L" />
                                       <a href="/product/rprinter-421-l">
                                         RPrinter 421 L

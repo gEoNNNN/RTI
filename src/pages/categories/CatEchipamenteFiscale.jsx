@@ -81,7 +81,7 @@ export default function CatEchipamenteFiscale() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,Imprimanta%20fiscala%20RTI%205000%20INB" />
+                                      <link itemprop="url" href="/product/Imprimanta%20fiscala%20RTI%205000%20INB" />
                                       <meta itemprop="name" content="Echipament fiscal RTI 5000 INB" />
                                       <a href="/product/Imprimanta_20fiscala_20RTI_205000_20INB">
                                         Echipament fiscal RTI 5000 INB
@@ -120,7 +120,7 @@ export default function CatEchipamenteFiscale() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,imprimanta-fiscala-rti-7000-p" />
+                                      <link itemprop="url" href="/product/imprimanta-fiscala-rti-7000-p" />
                                       <meta itemprop="name" content="Echipament fiscal RTI 7000 P" />
                                       <a href="/product/imprimanta-fiscala-rti-7000-p">
                                         Echipament fiscal RTI 7000 P
@@ -159,7 +159,7 @@ export default function CatEchipamenteFiscale() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,imprimanta-fiscala-rti-5000-f" />
+                                      <link itemprop="url" href="/product/imprimanta-fiscala-rti-5000-f" />
                                       <meta itemprop="name" content="Echipament fiscal RTI 5000 F" />
                                       <a href="/product/imprimanta-fiscala-rti-5000-f">
                                         Echipament fiscal RTI 5000 F

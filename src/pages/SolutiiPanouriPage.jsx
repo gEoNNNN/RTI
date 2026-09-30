@@ -2,16 +2,11 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import { imgUrl } from '../data/helpers';
 import { Partners, richText } from './HomePage';
-import page from '../data/panouri_page.json';
+import pageRo from '../data/panouri_page.json';
+import pageRu from '../data/ru/panouri_page.json';
+import pageEn from '../data/en/panouri_page.json';
+import { useLang, useT, useTo, to, pick } from '../lang';
 
-const header = page['Widget Page Header Panouri digitale'] || {};
-const breadcrumbs = (page['Breadcrumbs Panouri digitale'] || {}).breadcrumbs || [];
-const dualW = page['Dual Widget Title - Panouri digitale'] || {};
-const leftTitle = (dualW.left && dualW.left.content && dualW.left.content.payload) || {};
-const rightDesc = (dualW.right && dualW.right.content && dualW.right.content.payload) || {};
-const leftPadding = (dualW.left && dualW.left.padding) || {};
-const solutions = (page['Widget Solution Business Branch-Panouri digitale'] || {}).slides || [];
-const partnersData = page['Widget - Partners - Clienti -Panouri digitale'] || {};
 
 function ChevronRight() {
   return (
@@ -22,6 +17,16 @@ function ChevronRight() {
 }
 
 export default function SolutiiPanouriPage() {
+  const lang = useLang();
+  const page = pick(lang, pageRo, pageRu, pageEn);
+  const header = page['Widget Page Header Panouri digitale'] || {};
+  const breadcrumbs = (page['Breadcrumbs Panouri digitale'] || {}).breadcrumbs || [];
+  const dualW = page['Dual Widget Title - Panouri digitale'] || {};
+  const solutions = (page['Widget Solution Business Branch-Panouri digitale'] || {}).slides || [];
+  const partnersData = page['Widget - Partners - Clienti -Panouri digitale'] || {};
+  const leftTitle = (dualW.left && dualW.left.content && dualW.left.content.payload) || {};
+  const rightDesc = (dualW.right && dualW.right.content && dualW.right.content.payload) || {};
+  const leftPadding = (dualW.left && dualW.left.padding) || {};
   return (
     <div className="site__body">
       <div

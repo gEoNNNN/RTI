@@ -70,7 +70,7 @@ export default function CatDetacher() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,detachers-d-001-d-002" />
+                                      <link itemprop="url" href="/product/detachers-d-001-d-002" />
                                       <meta itemprop="name" content="Detacher (R-001/ R-002)" />
                                       <a href="/product/detachers-d-001-d-002">
                                         Detacher (R-001/ R-002)
@@ -109,7 +109,7 @@ export default function CatDetacher() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,detachers-d-003" />
+                                      <link itemprop="url" href="/product/detachers-d-003" />
                                       <meta itemprop="name" content="Detacher (R-003)" />
                                       <a href="/product/detachers-d-003">
                                         Detacher (R-003)
@@ -148,7 +148,7 @@ export default function CatDetacher() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,detachers-model-d-005" />
+                                      <link itemprop="url" href="/product/detachers-model-d-005" />
                                       <meta itemprop="name" content="Detacher (R-005)" />
                                       <a href="/product/detachers-model-d-005">
                                         Detacher (R-005)
@@ -187,7 +187,7 @@ export default function CatDetacher() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,detachers-d-006" />
+                                      <link itemprop="url" href="/product/detachers-d-006" />
                                       <meta itemprop="name" content="Detacher (R-006)" />
                                       <a href="/product/detachers-d-006">
                                         Detacher (R-006)
@@ -226,7 +226,7 @@ export default function CatDetacher() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,detacher-d-0018" />
+                                      <link itemprop="url" href="/product/detacher-d-0018" />
                                       <meta itemprop="name" content="Detacher (R-0018)" />
                                       <a href="/product/detacher-d-0018">
                                         Detacher (R-0018)
@@ -265,7 +265,7 @@ export default function CatDetacher() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,detacher-d-021" />
+                                      <link itemprop="url" href="/product/detacher-d-021" />
                                       <meta itemprop="name" content="Detacher (R-021)" />
                                       <a href="/product/detacher-d-021">
                                         Detacher (R-021)
@@ -304,7 +304,7 @@ export default function CatDetacher() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,detacher-d-007" />
+                                      <link itemprop="url" href="/product/detacher-d-007" />
                                       <meta itemprop="name" content="Detacher (R-007)" />
                                       <a href="/product/detacher-d-007">
                                         Detacher (R-007)
@@ -343,7 +343,7 @@ export default function CatDetacher() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,tag-detacher-aed-001" />
+                                      <link itemprop="url" href="/product/tag-detacher-aed-001" />
                                       <meta itemprop="name" content="TAG Detacher (AER-001)" />
                                       <a href="/product/tag-detacher-aed-001">
                                         TAG Detacher (AER-001)
@@ -382,7 +382,7 @@ export default function CatDetacher() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,tag-detacher-aed-002" />
+                                      <link itemprop="url" href="/product/tag-detacher-aed-002" />
                                       <meta itemprop="name" content="TAG Detacher (AER-002)" />
                                       <a href="/product/tag-detacher-aed-002">
                                         TAG Detacher (AER-002)
@@ -421,7 +421,7 @@ export default function CatDetacher() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,tag-detacher-aed-004" />
+                                      <link itemprop="url" href="/product/tag-detacher-aed-004" />
                                       <meta itemprop="name" content="TAG Detacher (AER-004)" />
                                       <a href="/product/tag-detacher-aed-004">
                                         TAG Detacher (AER-004)
@@ -460,7 +460,7 @@ export default function CatDetacher() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,tag-detacher-ah-001" />
+                                      <link itemprop="url" href="/product/tag-detacher-ah-001" />
                                       <meta itemprop="name" content="TAG Detacher (AHR-001)" />
                                       <a href="/product/tag-detacher-ah-001">
                                         TAG Detacher (AHR-001)

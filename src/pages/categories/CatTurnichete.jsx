@@ -79,7 +79,7 @@ export default function CatTurnichete() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,turnichet-tripod-semi-automat-zento-cu-sistem-de-acces-rfid" />
+                                      <link itemprop="url" href="/product/turnichet-tripod-semi-automat-zento-cu-sistem-de-acces-rfid" />
                                       <meta itemprop="name" content="Turnichet tripod semi-automat cu sistem de acces RFID " />
                                       <a href="/product/turnichet-tripod-semi-automat-zento-cu-sistem-de-acces-rfid">
                                         Turnichet tripod semi-automat cu sistem de acces
@@ -118,7 +118,7 @@ export default function CatTurnichete() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,turnichet-exterior-zento-pentru-controlul-accesului-cu-recunoastere-automata-a-fetei" />
+                                      <link itemprop="url" href="/product/turnichet-exterior-zento-pentru-controlul-accesului-cu-recunoastere-automata-a-fetei" />
                                       <meta itemprop="name" content="Turnichet-tripod automat " />
                                       <a href="/product/turnichet-exterior-zento-pentru-controlul-accesului-cu-recunoastere-automata-a-fetei">
                                         Turnichet-tripod automat 
@@ -157,7 +157,7 @@ export default function CatTurnichete() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,poarta-automata-de-securitate-pentru-supermarket" />
+                                      <link itemprop="url" href="/product/poarta-automata-de-securitate-pentru-supermarket" />
                                       <meta itemprop="name" content="Turnichet tip poarta batanta, acces bidirectional" />
                                       <a href="/product/poarta-automata-de-securitate-pentru-supermarket">
                                         Turnichet tip poarta batanta, acces bidirectional
@@ -196,7 +196,7 @@ export default function CatTurnichete() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,turnichet-poarta-electronica-cu-cititor-de-carduri-pentru-oficii" />
+                                      <link itemprop="url" href="/product/turnichet-poarta-electronica-cu-cititor-de-carduri-pentru-oficii" />
                                       <meta itemprop="name" content="Turnichet-poarta electronica cu cititor de carduri pentru oficii" />
                                       <a href="/product/turnichet-poarta-electronica-cu-cititor-de-carduri-pentru-oficii">
                                         Turnichet-poarta electronica cu cititor de
@@ -235,7 +235,7 @@ export default function CatTurnichete() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,turnichet-cu-usi-retractabile" />
+                                      <link itemprop="url" href="/product/turnichet-cu-usi-retractabile" />
                                       <meta itemprop="name" content="Turnichet cu usi retractabile" />
                                       <a href="/product/turnichet-cu-usi-retractabile">
                                         Turnichet cu usi retractabile

@@ -2,7 +2,12 @@ import React from 'react';
 import { useParams } from 'react-router-dom';
 import NotFoundPage from './NotFoundPage';
 import GenericCategoryPage from './GenericCategoryPage';
-import categories from '../data/categories_full.json';
+import categoriesRo from '../data/categories_full.json';
+import categoriesRu from '../data/ru/categories_full.json';
+import categoriesEn from '../data/en/categories_full.json';
+import { categoryMap as categoryMapRu } from './categories/ru';
+import { categoryMap as categoryMapEn } from './categories/en';
+import { useLang, pick } from '../lang';
 import CatAccesoriiAntifurt from './categories/CatAccesoriiAntifurt';
 import CatAccesoriiAudio from './categories/CatAccesoriiAudio';
 import CatAccesoriiDeParcare from './categories/CatAccesoriiDeParcare';
@@ -105,9 +110,15 @@ const categoryMap = {
   'turnichete': CatTurnichete,
 };
 
+const MAPS = { ro: categoryMap, ru: categoryMapRu, en: categoryMapEn };
+const CATS = { ro: categoriesRo, ru: categoriesRu, en: categoriesEn };
+
 export default function CategoryPage() {
   const { slug } = useParams();
-  const Selected = slug && categoryMap[slug];
+  const lang = useLang();
+  const map = pick(lang, MAPS.ro, MAPS.ru, MAPS.en);
+  const categories = pick(lang, CATS.ro, CATS.ru, CATS.en);
+  const Selected = slug && map[slug];
   if (Selected) return <Selected />;
   if (slug && categories[slug]) return <GenericCategoryPage slug={slug} />;
   return <NotFoundPage />;

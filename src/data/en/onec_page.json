@@ -1,0 +1,116 @@
+{
+ "Page header widget 1C Soft": {
+  "title": "Software prices",
+  "bgImage": {
+   "mimetype": "image/png",
+   "path": "public/widgets/files/181e45e9-f758-4c3d-917b-c909b25b0ea4.png"
+  }
+ },
+ "Preturi soft 1c breadcumbs": {
+  "border": true,
+  "breadcrumbs": [
+   {
+    "title": "Main",
+    "link": "/"
+   },
+   {
+    "title": "1C software prices",
+    "link": "/"
+   }
+  ]
+ },
+ "1C price box widget": {
+  "title": "1C software",
+  "description": "A combination of the 1C platform and an application solution (Configuration), a product designed for enterprise automation.",
+  "disclaimer": "* The prices of the above packages are displayed in MDL and VAT included.",
+  "oneTimePayment": true,
+  "packages": [
+   {
+    "title": "1C:Accountancy",
+    "price": "7800 MDL",
+    "content": "<p>Designed for the automation of the accounting records, including for the preparation of the obligatory reports.</p>"
+   },
+   {
+    "title": "1C:Trade management",
+    "price": "11800 MDL",
+    "content": "<p>Solves in a complex and efficient way the tasks of management and operational records, including the analysis, and planning. </p>"
+   },
+   {
+    "title": "1C:Retail",
+    "price": "7800 MDL",
+    "content": "<p> Ensures the efficient registration of operations with goods in the section of groups of shops, warehouses, company's retail chains etc.</p>"
+   },
+   {
+    "title": "1C:Company management",
+    "price": "10500 MDL ",
+    "content": "<p> Especially designed for increasing the efficiency of the company's activity, thanks to a wide range of tools for eminent management.</p>"
+   }
+  ]
+ },
+ "Empty Space-1C-page": {
+  "height": {
+   "desktop": "70",
+   "mobile": "35"
+  }
+ },
+ "Title container 1C before feature items": {
+  "title": "Discover all the licenses included"
+ },
+ "Empty Space 1C after Title": {
+  "height": {
+   "desktop": "30",
+   "mobile": "20"
+  }
+ },
+ "Feature item with hover effect UP": {
+  "features": [
+   {
+    "numbers": "1",
+    "text": "Client license for 1 work place"
+   },
+   {
+    "numbers": "5",
+    "text": "Client license for 5 work places"
+   },
+   {
+    "numbers": "10",
+    "text": "Client license for 10 work places"
+   },
+   {
+    "numbers": "50",
+    "text": "Client licence for 50 work places"
+   },
+   {
+    "numbers": "100",
+    "text": "Client license for 100 work places"
+   },
+   {
+    "numbers": "x32",
+    "text": "Server license "
+   },
+   {
+    "numbers": "x64 x84",
+    "text": "Server license "
+   },
+   {
+    "numbers": "5",
+    "text": "Server MINI with 5 conections"
+   }
+  ]
+ },
+ "Empty Space after paragraph": {
+  "height": {
+   "desktop": "34",
+   "mobile": "34"
+  }
+ },
+ "Paragraph container 1C page after Title": {
+  "paragraph": "<p>Client licenses are used to expand the number of work seats. As well they give the user the right to work with any number of application solutions. In fact, they provide access to the 1C:Enterprise 8 platform, which is unified for all application solutions.</p>"
+ },
+ "Empty Space bottom": {
+  "height": {
+   "desktop": "50",
+   "mobile": "25"
+  }
+ }
+}

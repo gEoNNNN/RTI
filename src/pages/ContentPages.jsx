@@ -1,15 +1,28 @@
 import React from 'react';
 import { Link, useParams } from 'react-router-dom';
-import articles from '../data/articles.json';
-import widgets from '../data/widgets.json';
+import articlesRo from '../data/articles.json';
+import articlesRu from '../data/ru/articles.json';
+import articlesEn from '../data/en/articles.json';
+import widgetsRo from '../data/widgets.json';
+import widgetsRu from '../data/ru/widgets.json';
+import widgetsEn from '../data/en/widgets.json';
 import { imgUrl } from '../data/helpers';
+import { useLang, useT, useTo, pick } from '../lang';
 import { PageHeader, StaticPage } from './StaticPages';
 import NotFoundPage from './NotFoundPage';
 
+const ARTICLES = { ro: articlesRo, ru: articlesRu, en: articlesEn };
+const WIDGETS = { ro: widgetsRo, ru: widgetsRu, en: widgetsEn };
+
 export function NoutatiPage() {
+  const lang = useLang();
+  const t = useT();
+  const to = useTo();
+  const articles = pick(lang, ARTICLES.ro, ARTICLES.ru, ARTICLES.en);
+  const newsLabel = t('blog.categoryPage.title', 'Noutăți');
   return (
     <div className="site__body">
-      <PageHeader title="Noutăți" crumbs={[{ label: 'Noutăți' }]} />
+      <PageHeader title={newsLabel} crumbs={[{ label: newsLabel }]} />
       <div className="block">
         <div className="container" style={{ paddingTop: 30, paddingBottom: 60 }}>
           <div
@@ -22,7 +35,7 @@ export function NoutatiPage() {
             {articles.map((a) => (
               <Link
                 key={a.slug}
-                to={'/noutati/' + a.slug}
+                to={to('/noutati/' + a.slug)}
                 style={{
                   border: '1px solid #ececec',
                   borderRadius: 4,
@@ -42,7 +55,7 @@ export function NoutatiPage() {
                 </div>
                 <div style={{ padding: 16 }}>
                   <h3 style={{ fontSize: 16, margin: '0 0 8px', color: '#161616' }}>{a.title}</h3>
-                  {a.description && (
+                  {typeof a.description === 'string' && a.description && (
                     <p
                       style={{ fontSize: 14, color: '#6c757d', margin: 0 }}
                       dangerouslySetInnerHTML={{
@@ -62,11 +75,16 @@ export function NoutatiPage() {
 
 export function ArticlePage() {
   const { slug } = useParams();
+  const lang = useLang();
+  const t = useT();
+  const to = useTo();
+  const articles = pick(lang, ARTICLES.ro, ARTICLES.ru, ARTICLES.en);
   const article = articles.find((a) => a.slug === slug);
   if (!article) return <NotFoundPage />;
+  const newsLabel = t('blog.categoryPage.title', 'Noutăți');
   return (
     <div className="site__body">
-      <PageHeader title={article.title} crumbs={[{ label: 'Noutăți', to: '/noutati' }, { label: article.title }]} />
+      <PageHeader title={article.title} crumbs={[{ label: newsLabel, to: to('/noutati') }, { label: article.title }]} />
       <div className="block">
         <div className="container" style={{ paddingTop: 30, paddingBottom: 60 }}>
           <div style={{ maxWidth: 860, margin: '0 auto' }}>
@@ -190,15 +208,16 @@ export function PreturiPage({ soft }) {
   );
 }
 
-export function GenericPage({ title }) {
+export function GenericPage({ titleKey, title }) {
+  const t = useT();
+  const localized = titleKey ? t(titleKey, title) : title;
   return (
-    <StaticPage title={title} crumbs={[{ label: title }]}>
+    <StaticPage title={localized} crumbs={[{ label: localized }]}>
       <p>
-        Informațiile pentru această secțiune sunt în curs de actualizare. Pentru detalii, contactați
-        echipa RTI.
+        {t('global.pageInProgress', 'Informațiile pentru această secțiune sunt în curs de actualizare. Pentru detalii, contactați echipa RTI.')}
       </p>
       <p>
-        <Link to="/contacte" style={{ color: '#1976d2' }}>Contacte</Link> ·{' '}
+        <Link to="/contacte" style={{ color: '#1976d2' }}>{t('contacts.title', 'Contacte')}</Link> ·{' '}
         <a href="tel:+37369116121" style={{ color: '#1976d2' }}>+373 69 116 121</a>
       </p>
     </StaticPage>
@@ -206,11 +225,15 @@ export function GenericPage({ title }) {
 }
 
 export function ClientiPage() {
+  const lang = useLang();
+  const t = useT();
+  const widgets = pick(lang, WIDGETS.ro, WIDGETS.ru, WIDGETS.en);
   const pw = widgets.find((w) => w.type === 'partners-widget');
   const partners = (pw && pw.payload && pw.payload.partners) || [];
+  const title = t('contacts.breadcrumbs.clients', 'Clienți');
   return (
     <div className="site__body">
-      <PageHeader title="Clienți" crumbs={[{ label: 'Clienți' }]} />
+      <PageHeader title={title} crumbs={[{ label: title }]} />
       <div className="block">
         <div className="container" style={{ paddingTop: 30, paddingBottom: 60 }}>
           <div

@@ -70,7 +70,7 @@ export default function CatAnteneAntifurtRf() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,sistemul-antifurt-rguard-new-line-rf" />
+                                      <link itemprop="url" href="/product/sistemul-antifurt-rguard-new-line-rf" />
                                       <meta itemprop="name" content="Sistemul Antifurt RGuard New Line RF" />
                                       <a href="/product/sistemul-antifurt-rguard-new-line-rf">
                                         Sistemul Antifurt RGuard New Line RF
@@ -109,7 +109,7 @@ export default function CatAnteneAntifurtRf() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,rguard-new-line-rf-acryl-antenna" />
+                                      <link itemprop="url" href="/product/rguard-new-line-rf-acryl-antenna" />
                                       <meta itemprop="name" content="RGuard New Line RF Acryl Antenna" />
                                       <a href="/product/rguard-new-line-rf-acryl-antenna">
                                         RGuard New Line RF Acryl Antenna

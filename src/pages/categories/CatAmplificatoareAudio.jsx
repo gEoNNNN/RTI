@@ -70,7 +70,7 @@ export default function CatAmplificatoareAudio() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,amplificator-audio-apart-ma35" />
+                                      <link itemprop="url" href="/product/amplificator-audio-apart-ma35" />
                                       <meta itemprop="name" content="Amplificator audio Apart MA35" />
                                       <a href="/product/amplificator-audio-apart-ma35">
                                         Amplificator audio Apart MA35
@@ -109,7 +109,7 @@ export default function CatAmplificatoareAudio() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,amplificator-ma65" />
+                                      <link itemprop="url" href="/product/amplificator-ma65" />
                                       <meta itemprop="name" content="Amplificator MA65" />
                                       <a href="/product/amplificator-ma65">
                                         Amplificator MA65
@@ -148,7 +148,7 @@ export default function CatAmplificatoareAudio() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,amplificator-ma125" />
+                                      <link itemprop="url" href="/product/amplificator-ma125" />
                                       <meta itemprop="name" content="Amplificator MA125" />
                                       <a href="/product/amplificator-ma125">
                                         Amplificator MA125
@@ -187,7 +187,7 @@ export default function CatAmplificatoareAudio() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,amplificator-ma200" />
+                                      <link itemprop="url" href="/product/amplificator-ma200" />
                                       <meta itemprop="name" content="Amplificator APart MA200" />
                                       <a href="/product/amplificator-ma200">
                                         Amplificator APart MA200
@@ -226,7 +226,7 @@ export default function CatAmplificatoareAudio() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,amplificator-champ-3d" />
+                                      <link itemprop="url" href="/product/amplificator-champ-3d" />
                                       <meta itemprop="name" content="Amplificator APart CHAMP 3D" />
                                       <a href="/product/amplificator-champ-3d">
                                         Amplificator APart CHAMP 3D
@@ -265,7 +265,7 @@ export default function CatAmplificatoareAudio() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,amplificator-pa240p" />
+                                      <link itemprop="url" href="/product/amplificator-pa240p" />
                                       <meta itemprop="name" content="Amplificator profesional APart PA240P" />
                                       <a href="/product/amplificator-pa240p">
                                         Amplificator profesional APart PA240P

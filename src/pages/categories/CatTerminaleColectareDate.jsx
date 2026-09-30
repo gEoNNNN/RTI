@@ -103,7 +103,7 @@ export default function CatTerminaleColectareDate() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,terminal-mobil-datalogic-memor-1" />
+                                      <link itemprop="url" href="/product/terminal-mobil-datalogic-memor-1" />
                                       <meta itemprop="name" content="Terminal mobil Datalogic Memor 1" />
                                       <a href="/product/terminal-mobil-datalogic-memor-1">
                                         Terminal mobil Datalogic Memor 1
@@ -142,7 +142,7 @@ export default function CatTerminaleColectareDate() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,terminal-mobil-datalogic-memor-10" />
+                                      <link itemprop="url" href="/product/terminal-mobil-datalogic-memor-10" />
                                       <meta itemprop="name" content="Terminal mobil Datalogic Memor 10" />
                                       <a href="/product/terminal-mobil-datalogic-memor-10">
                                         Terminal mobil Datalogic Memor 10
@@ -181,7 +181,7 @@ export default function CatTerminaleColectareDate() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,terminal-mobil-datalogic-skorpiotm-x4" />
+                                      <link itemprop="url" href="/product/terminal-mobil-datalogic-skorpiotm-x4" />
                                       <meta itemprop="name" content="Terminal mobil Datalogic Skorpio™ X4" />
                                       <a href="/product/terminal-mobil-datalogic-skorpiotm-x4">
                                         Terminal mobil Datalogic Skorpio™ X4
@@ -220,7 +220,7 @@ export default function CatTerminaleColectareDate() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,terminal-mobil-datalogic-falcon-x4" />
+                                      <link itemprop="url" href="/product/terminal-mobil-datalogic-falcon-x4" />
                                       <meta itemprop="name" content="Terminal mobil Datalogic Falcon X4" />
                                       <a href="/product/terminal-mobil-datalogic-falcon-x4">
                                         Terminal mobil Datalogic Falcon X4
@@ -259,7 +259,7 @@ export default function CatTerminaleColectareDate() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,terminal-mobil-datalogic-memor-x3" />
+                                      <link itemprop="url" href="/product/terminal-mobil-datalogic-memor-x3" />
                                       <meta itemprop="name" content="Terminal mobil Datalogic Memor X3" />
                                       <a href="/product/terminal-mobil-datalogic-memor-x3">
                                         Terminal mobil Datalogic Memor X3
@@ -298,7 +298,7 @@ export default function CatTerminaleColectareDate() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,terminal-mobil-chainway-c6000" />
+                                      <link itemprop="url" href="/product/terminal-mobil-chainway-c6000" />
                                       <meta itemprop="name" content="Terminal mobil Chainway C6000 Android 10.0" />
                                       <a href="/product/terminal-mobil-chainway-c6000">
                                         Terminal mobil Chainway C6000 Android 10.0
@@ -337,7 +337,7 @@ export default function CatTerminaleColectareDate() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,terminal-mobil-chainway-c66" />
+                                      <link itemprop="url" href="/product/terminal-mobil-chainway-c66" />
                                       <meta itemprop="name" content="Terminal mobil Chainway C66 Android 9.0" />
                                       <a href="/product/terminal-mobil-chainway-c66">
                                         Terminal mobil Chainway C66 Android 9.0
@@ -376,7 +376,7 @@ export default function CatTerminaleColectareDate() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,terminal-mobil-chainway-c60-android-100" />
+                                      <link itemprop="url" href="/product/terminal-mobil-chainway-c60-android-100" />
                                       <meta itemprop="name" content="Terminal mobil Chainway C60 Android 10.0" />
                                       <a href="/product/terminal-mobil-chainway-c60-android-100">
                                         Terminal mobil Chainway C60 Android 10.0
@@ -415,7 +415,7 @@ export default function CatTerminaleColectareDate() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,terminal-mobil-chainway-c90-android-100" />
+                                      <link itemprop="url" href="/product/terminal-mobil-chainway-c90-android-100" />
                                       <meta itemprop="name" content="Terminal mobil Chainway C90 Android 10.0" />
                                       <a href="/product/terminal-mobil-chainway-c90-android-100">
                                         Terminal mobil Chainway C90 Android 10.0
@@ -454,7 +454,7 @@ export default function CatTerminaleColectareDate() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,terminal-mobil-chainway-c61-android-110" />
+                                      <link itemprop="url" href="/product/terminal-mobil-chainway-c61-android-110" />
                                       <meta itemprop="name" content="Terminal mobil Chainway C61 Android 11.0" />
                                       <a href="/product/terminal-mobil-chainway-c61-android-110">
                                         Terminal mobil Chainway C61 Android 11.0
@@ -493,7 +493,7 @@ export default function CatTerminaleColectareDate() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,calculatoare-mobile-cu-imprimanta-incorporata-c75" />
+                                      <link itemprop="url" href="/product/calculatoare-mobile-cu-imprimanta-incorporata-c75" />
                                       <meta itemprop="name" content="Terminal mobil Chainway C75 Android 11.0" />
                                       <a href="/product/calculatoare-mobile-cu-imprimanta-incorporata-c75">
                                         Terminal mobil Chainway C75 Android 11.0
@@ -532,7 +532,7 @@ export default function CatTerminaleColectareDate() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,terminal-mobil-chainway-mc62-android" />
+                                      <link itemprop="url" href="/product/terminal-mobil-chainway-mc62-android" />
                                       <meta itemprop="name" content="Terminal mobil Chainway MC62 Android " />
                                       <a href="/product/terminal-mobil-chainway-mc62-android">
                                         Terminal mobil Chainway MC62 Android 
@@ -571,7 +571,7 @@ export default function CatTerminaleColectareDate() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,terminal-mobil-chainway-mc50-android" />
+                                      <link itemprop="url" href="/product/terminal-mobil-chainway-mc50-android" />
                                       <meta itemprop="name" content="Terminal mobil Chainway MC50 Android " />
                                       <a href="/product/terminal-mobil-chainway-mc50-android">
                                         Terminal mobil Chainway MC50 Android 
@@ -617,7 +617,7 @@ export default function CatTerminaleColectareDate() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,terminal-mobil-chainway-mc21-android" />
+                                      <link itemprop="url" href="/product/terminal-mobil-chainway-mc21-android" />
                                       <meta itemprop="name" content="Terminal mobil Chainway MC21  Android" />
                                       <a href="/product/terminal-mobil-chainway-mc21-android">
                                         Terminal mobil Chainway MC21  Android
@@ -671,7 +671,7 @@ export default function CatTerminaleColectareDate() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,terminal-mobil-chainway-mc-95-android" />
+                                      <link itemprop="url" href="/product/terminal-mobil-chainway-mc-95-android" />
                                       <meta itemprop="name" content="Terminal mobil Chainway MC 95 Android" />
                                       <a href="/product/terminal-mobil-chainway-mc-95-android">
                                         Terminal mobil Chainway MC 95 Android
@@ -711,7 +711,7 @@ export default function CatTerminaleColectareDate() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,terminal-mobil-chainway-c71-android" />
+                                      <link itemprop="url" href="/product/terminal-mobil-chainway-c71-android" />
                                       <meta itemprop="name" content="Terminal mobil Chainway C71 Android" />
                                       <a href="/product/terminal-mobil-chainway-c71-android">
                                         Terminal mobil Chainway C71 Android

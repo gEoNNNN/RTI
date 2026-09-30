@@ -2,28 +2,12 @@ import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import { imgUrl } from '../data/helpers';
 import { BusinessBranch, richText } from './HomePage';
-import page from '../data/video_page.json';
+import pageRo from '../data/video_page.json';
+import pageRu from '../data/ru/video_page.json';
+import pageEn from '../data/en/video_page.json';
+import { useLang, useT, useTo, to, pick } from '../lang';
 
-const cover = page['Cover - Landing sisteme de supraveghere - Business Branch Widget-6'] || {};
-const breadcrumbs = (page['Breadcrumbs Solutii Sisteme video'] || {}).breadcrumbs || [];
-const dualW = page['Dual Widget-Sisteme Video'] || {};
-const leftTitle = (dualW.left && dualW.left.content && dualW.left.content.payload) || {};
-const rightDesc = (dualW.right && dualW.right.content && dualW.right.content.payload) || {};
-const leftPadding = (dualW.left && dualW.left.padding) || {};
-const solutions = (page['Widget Solution Sisteme video Business Branch-5'] || {}).slides || [];
-const menu = page['Menu - Landing sisteme de supraveghere - Widget Page Header-4'] || {};
-const redFeatures = page['Beneficii - Landing sisteme supraveghere - Widget Red Features-3'] || {};
-const banner1 = page['Detector mișcare - Landing sisteme supraveghere - Banner Widget-3'] || {};
-const textFeatures = page['Conectare wifi - Landing sisteme supraveghere - Text Features-5'] || {};
-const banner2 = page['Vedere nocturnă - Landing sisteme supraveghere - Banner Widget-3'] || {};
-const ip67 = page['Imagine IP67 - Landing supraveghere video - Widget Images-8'] || {};
-const dual2 = page['Servicii si suport - Landing supraveghere video -Dual Widget-9'] || {};
-const cta = page['Call to action - Landing supraveghere video - Widget Images-8'] || {};
-const seoDesc = page['Description Widget-5 RO'] || {};
 
-const advPayload = (dual2.left && dual2.left.content && dual2.left.content.payload) || {};
-const advPadding = (dual2.left && dual2.left.padding) || {};
-const rightImagesPayload = (dual2.right && dual2.right.content && dual2.right.content.payload) || {};
 
 // anchor targets for the SCROLL links of the menu widget (Domeniul, Beneficii, ...)
 const anchorFor = {
@@ -77,6 +61,7 @@ function Banner({ data }) {
 }
 
 function SeoText({ description }) {
+  const t = useT();
   const [expanded, setExpanded] = useState(false);
   return (
     <div className="container">
@@ -89,7 +74,7 @@ function SeoText({ description }) {
         </div>
         <div className="extend-button">
           <div className="button" onClick={() => setExpanded(!expanded)} style={{ cursor: 'pointer' }}>
-            <div>{expanded ? 'Restrange' : 'Extinde'}</div>
+            <div>{expanded ? t('SeoText.restrict', 'Restrange') : t('SeoText.expand', 'Extinde')}</div>
             <div className="seo-arrow" style={{ transform: expanded ? 'rotate(180deg)' : undefined }}></div>
           </div>
         </div>
@@ -99,6 +84,27 @@ function SeoText({ description }) {
 }
 
 export default function SupraveghereVideoPage() {
+  const lang = useLang();
+  const page = pick(lang, pageRo, pageRu, pageEn);
+  const cover = page['Cover - Landing sisteme de supraveghere - Business Branch Widget-6'] || {};
+  const breadcrumbs = (page['Breadcrumbs Solutii Sisteme video'] || {}).breadcrumbs || [];
+  const dualW = page['Dual Widget-Sisteme Video'] || {};
+  const solutions = (page['Widget Solution Sisteme video Business Branch-5'] || {}).slides || [];
+  const menu = page['Menu - Landing sisteme de supraveghere - Widget Page Header-4'] || {};
+  const redFeatures = page['Beneficii - Landing sisteme supraveghere - Widget Red Features-3'] || {};
+  const banner1 = page['Detector mișcare - Landing sisteme supraveghere - Banner Widget-3'] || {};
+  const textFeatures = page['Conectare wifi - Landing sisteme supraveghere - Text Features-5'] || {};
+  const banner2 = page['Vedere nocturnă - Landing sisteme supraveghere - Banner Widget-3'] || {};
+  const ip67 = page['Imagine IP67 - Landing supraveghere video - Widget Images-8'] || {};
+  const dual2 = page['Servicii si suport - Landing supraveghere video -Dual Widget-9'] || {};
+  const cta = page['Call to action - Landing supraveghere video - Widget Images-8'] || {};
+  const seoDesc = page['Description Widget-5 RO'] || {};
+  const leftTitle = (dualW.left && dualW.left.content && dualW.left.content.payload) || {};
+  const rightDesc = (dualW.right && dualW.right.content && dualW.right.content.payload) || {};
+  const leftPadding = (dualW.left && dualW.left.padding) || {};
+  const advPayload = (dual2.left && dual2.left.content && dual2.left.content.payload) || {};
+  const advPadding = (dual2.left && dual2.left.padding) || {};
+  const rightImagesPayload = (dual2.right && dual2.right.content && dual2.right.content.payload) || {};
   return (
     <div className="site__body">
       <BusinessBranch data={cover} />

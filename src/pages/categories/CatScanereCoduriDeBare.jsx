@@ -117,7 +117,7 @@ export default function CatScanereCoduriDeBare() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,scaner-incorporabil-datalogic-magellan-3450vsi" />
+                                      <link itemprop="url" href="/product/scaner-incorporabil-datalogic-magellan-3450vsi" />
                                       <meta itemprop="name" content="Scaner incorporabil Datalogic Magellan 3450VSi" />
                                       <a href="/product/scaner-incorporabil-datalogic-magellan-3450vsi">
                                         Scaner incorporabil Datalogic Magellan 3450VSi
@@ -163,7 +163,7 @@ export default function CatScanereCoduriDeBare() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,scaner-incorporabil-datalogic-magellan-800i" />
+                                      <link itemprop="url" href="/product/scaner-incorporabil-datalogic-magellan-800i" />
                                       <meta itemprop="name" content="Scaner Datalogic Magellan 800I" />
                                       <a href="/product/scaner-incorporabil-datalogic-magellan-800i">
                                         Scaner Datalogic Magellan 800I
@@ -209,7 +209,7 @@ export default function CatScanereCoduriDeBare() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,cititor-coduri-bare-2d-datalogic-quickscan-qd2430" />
+                                      <link itemprop="url" href="/product/cititor-coduri-bare-2d-datalogic-quickscan-qd2430" />
                                       <meta itemprop="name" content="Scaner coduri de bare 2D Datalogic QuickScan QD2430" />
                                       <a href="/product/cititor-coduri-bare-2d-datalogic-quickscan-qd2430">
                                         Scaner coduri de bare 2D Datalogic QuickScan
@@ -258,7 +258,7 @@ export default function CatScanereCoduriDeBare() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,scanner-de-masa-omnidirectional-datalogic-magellan-1500i" />
+                                      <link itemprop="url" href="/product/scanner-de-masa-omnidirectional-datalogic-magellan-1500i" />
                                       <meta itemprop="name" content="Scaner de masa omnidirectional Datalogic Magellan 1500i" />
                                       <a href="/product/scanner-de-masa-omnidirectional-datalogic-magellan-1500i">
                                         Scaner de masa omnidirectional Datalogic Magellan
@@ -297,7 +297,7 @@ export default function CatScanereCoduriDeBare() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,scannerul-de-bare-datalogic-magellan-3200vsi" />
+                                      <link itemprop="url" href="/product/scannerul-de-bare-datalogic-magellan-3200vsi" />
                                       <meta itemprop="name" content="Desktop scaner de coduri de bare Datalogic Magellan 3200VSi" />
                                       <a href="/product/scannerul-de-bare-datalogic-magellan-3200vsi">
                                         Desktop scaner de coduri de bare Datalogic
@@ -336,7 +336,7 @@ export default function CatScanereCoduriDeBare() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,scaner-coduri-de-bare-rsc-8410" />
+                                      <link itemprop="url" href="/product/scaner-coduri-de-bare-rsc-8410" />
                                       <meta itemprop="name" content="Scaner 2D coduri de bare wireless RScan RSC 8410" />
                                       <a href="/product/scaner-coduri-de-bare-rsc-8410">
                                         Scaner 2D coduri de bare wireless RScan RSC 8410
@@ -375,7 +375,7 @@ export default function CatScanereCoduriDeBare() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,scaner-coduri-de-bare-rsc-4300" />
+                                      <link itemprop="url" href="/product/scaner-coduri-de-bare-rsc-4300" />
                                       <meta itemprop="name" content="Scaner 1D coduri de bare manual RScan RSC 4300" />
                                       <a href="/product/scaner-coduri-de-bare-rsc-4300">
                                         Scaner 1D coduri de bare manual RScan RSC 4300
@@ -414,7 +414,7 @@ export default function CatScanereCoduriDeBare() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,scan-rsc-1105-2d" />
+                                      <link itemprop="url" href="/product/scan-rsc-1105-2d" />
                                       <meta itemprop="name" content="Scaner RSC 1105 2D" />
                                       <a href="/product/scan-rsc-1105-2d">
                                         Scaner RSC 1105 2D
@@ -460,7 +460,7 @@ export default function CatScanereCoduriDeBare() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,rscan-2d-scaner-stationar-1210" />
+                                      <link itemprop="url" href="/product/rscan-2d-scaner-stationar-1210" />
                                       <meta itemprop="name" content="RScan 2D Scaner stationar 1210" />
                                       <a href="/product/rscan-2d-scaner-stationar-1210">
                                         RScan 2D Scaner stationar 1210
@@ -506,7 +506,7 @@ export default function CatScanereCoduriDeBare() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,scaner-coduri-de-bare-rsc-2410" />
+                                      <link itemprop="url" href="/product/scaner-coduri-de-bare-rsc-2410" />
                                       <meta itemprop="name" content="Scaner 2D coduri de bare manual RScan RSC 2410" />
                                       <a href="/product/scaner-coduri-de-bare-rsc-2410">
                                         Scaner 2D coduri de bare manual RScan RSC 2410
@@ -545,7 +545,7 @@ export default function CatScanereCoduriDeBare() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,datalogic-quickscan-qm-2130" />
+                                      <link itemprop="url" href="/product/datalogic-quickscan-qm-2130" />
                                       <meta itemprop="name" content="Datalogic 1D  QuickScan QM 2130" />
                                       <a href="/product/datalogic-quickscan-qm-2130">
                                         Datalogic 1D  QuickScan QM 2130
@@ -588,7 +588,7 @@ export default function CatScanereCoduriDeBare() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,scaner-bi-optic-datalogic-magellan-9550i" />
+                                      <link itemprop="url" href="/product/scaner-bi-optic-datalogic-magellan-9550i" />
                                       <meta itemprop="name" content="Scaner Bi-optic Datalogic Magellan 9550i" />
                                       <a href="/product/scaner-bi-optic-datalogic-magellan-9550i">
                                         Scaner Bi-optic Datalogic Magellan 9550i
@@ -627,7 +627,7 @@ export default function CatScanereCoduriDeBare() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,datalogic-heron-hd3430" />
+                                      <link itemprop="url" href="/product/datalogic-heron-hd3430" />
                                       <meta itemprop="name" content="Scaner 1d,2D coduri de bare Datalogic Heron HD3430" />
                                       <a href="/product/datalogic-heron-hd3430">
                                         Scaner 1d,2D coduri de bare Datalogic Heron HD3430
@@ -670,7 +670,7 @@ export default function CatScanereCoduriDeBare() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,scaner-datalogic-quickscan-i-lite-qw2100" />
+                                      <link itemprop="url" href="/product/scaner-datalogic-quickscan-i-lite-qw2100" />
                                       <meta itemprop="name" content="Scaner 1D Datalogic QuickScan Lite QW2100" />
                                       <a href="/product/scaner-datalogic-quickscan-i-lite-qw2100">
                                         Scaner 1D Datalogic QuickScan Lite QW2100
@@ -719,7 +719,7 @@ export default function CatScanereCoduriDeBare() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,scaner-bioptic-datalogic-magellan-9800i" />
+                                      <link itemprop="url" href="/product/scaner-bioptic-datalogic-magellan-9800i" />
                                       <meta itemprop="name" content="Scaner Bi-optic Datalogic Magellan 9800i" />
                                       <a href="/product/scaner-bioptic-datalogic-magellan-9800i">
                                         Scaner Bi-optic Datalogic Magellan 9800i
@@ -768,7 +768,7 @@ export default function CatScanereCoduriDeBare() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,cititor-de-coduri-de-bare-datalogic-quickscan-qm-2130a" />
+                                      <link itemprop="url" href="/product/cititor-de-coduri-de-bare-datalogic-quickscan-qm-2130a" />
                                       <meta itemprop="name" content="Scaner 1D  de coduri de bare Datalogic QuickScan QM 2130a" />
                                       <a href="/product/cititor-de-coduri-de-bare-datalogic-quickscan-qm-2130a">
                                         Scaner 1D  de coduri de bare Datalogic QuickScan

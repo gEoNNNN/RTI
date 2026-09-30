@@ -70,7 +70,7 @@ export default function CatSafer() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,cosmetic-safer-s-023" />
+                                      <link itemprop="url" href="/product/cosmetic-safer-s-023" />
                                       <meta itemprop="name" content="Cosmetic Safer (RS-023)" />
                                       <a href="/product/cosmetic-safer-s-023">
                                         Cosmetic Safer (RS-023)
@@ -109,7 +109,7 @@ export default function CatSafer() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,cometic-safer-s-025" />
+                                      <link itemprop="url" href="/product/cometic-safer-s-025" />
                                       <meta itemprop="name" content="Cosmetic Safer (RS-025)" />
                                       <a href="/product/cometic-safer-s-025">
                                         Cosmetic Safer (RS-025)
@@ -148,7 +148,7 @@ export default function CatSafer() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,razor-safer-s-024" />
+                                      <link itemprop="url" href="/product/razor-safer-s-024" />
                                       <meta itemprop="name" content=" Razor Safer " />
                                       <a href="/product/razor-safer-s-024">
                                          Razor Safer 
@@ -187,7 +187,7 @@ export default function CatSafer() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,multifunction-safer" />
+                                      <link itemprop="url" href="/product/multifunction-safer" />
                                       <meta itemprop="name" content="Multifunction Safer" />
                                       <a href="/product/multifunction-safer">
                                         Multifunction Safer

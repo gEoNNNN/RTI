@@ -1,0 +1,61 @@
+{
+ "slug": "contacte",
+ "title": "",
+ "metaTitle": "",
+ "widgets": [
+  {
+   "name": "Contact Meta En - Selling",
+   "type": "widget-contact-meta",
+   "payload": {
+    "title": "How do you find us?",
+    "description": "In order to learn more about our services and products, please feel free to contact our customer support team or fill out the form and we will respond to your inquiries as soon as possible.",
+    "layout": "SELLING",
+    "information": [
+     {
+      "title": "Headquarters",
+      "description": {
+       "text": "+373 22 81-58-29"
+      }
+     },
+     {
+      "title": "Address",
+      "description": {
+       "text": "30 Calatorilor Ln. Chisinau, Moldova"
+      }
+     }
+    ],
+    "button": {
+     "text": "View location on map",
+     "link": "https://www.google.com/maps/place/Plasma+RTI/@46.9996964,28.8989805,15z/data=!4m2!3m1!1s0x0:0x6c2b7d2dce546a6?sa=X&ved=2ahUKEwjWq6DPuszxAhXm_rsIHbwwA1IQ_BIwDnoECDoQBQ"
+    }
+   }
+  },
+  {
+   "name": "Contact Meta En - Support",
+   "type": "widget-contact-meta",
+   "payload": {
+    "title": "Do you experience any issues?",
+    "description": "Tell us as much as you can about the problem your business is  facing and we'll get back to you as soon as possible.",
+    "layout": "SUPPORT",
+    "information": [
+     {
+      "title": "Service center ",
+      "description": {
+       "text": "+373 22 89-08-38"
+      }
+     },
+     {
+      "title": "Address",
+      "description": {
+       "text": "30 Calatorilor Ln. Chisinau, Moldova"
+      }
+     }
+    ],
+    "button": {
+     "text": "View location on map",
+     "link": "https://www.google.com/maps/place/Plasma+RTI/@46.9996964,28.8989805,15z/data=!4m2!3m1!1s0x0:0x6c2b7d2dce546a6?sa=X&ved=2ahUKEwjWq6DPuszxAhXm_rsIHbwwA1IQ_BIwDnoECDoQBQ"
+    }
+   }
+  }
+ ]
+}

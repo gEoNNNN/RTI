@@ -103,7 +103,7 @@ export default function CatCaseDeAutodeservire() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,casa-autodeservire-rsistems" />
+                                      <link itemprop="url" href="/product/casa-autodeservire-rsistems" />
                                       <meta itemprop="name" content="Casa autodeservire RSistems" />
                                       <a href="/product/casa-autodeservire-rsistems">
                                         Casa autodeservire RSistems
@@ -142,7 +142,7 @@ export default function CatCaseDeAutodeservire() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,casa-de-autodeservire-rsistems" />
+                                      <link itemprop="url" href="/product/casa-de-autodeservire-rsistems" />
                                       <meta itemprop="name" content="Casa autodeservire RSistems" />
                                       <a href="/product/casa-de-autodeservire-rsistems">
                                         Casa autodeservire RSistems
@@ -181,7 +181,7 @@ export default function CatCaseDeAutodeservire() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,casa-selfcheckout-beetleiscan" />
+                                      <link itemprop="url" href="/product/casa-selfcheckout-beetleiscan" />
                                       <meta itemprop="name" content="Casa autodeservire BEETLE/iSCAN Diebold Nixdorf" />
                                       <a href="/product/casa-selfcheckout-beetleiscan">
                                         Casa autodeservire BEETLE/iSCAN Diebold Nixdorf
@@ -220,7 +220,7 @@ export default function CatCaseDeAutodeservire() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,horeca-kiosk" />
+                                      <link itemprop="url" href="/product/horeca-kiosk" />
                                       <meta itemprop="name" content="HORECA KIOSK" />
                                       <a href="/product/horeca-kiosk">
                                         HORECA KIOSK
@@ -259,7 +259,7 @@ export default function CatCaseDeAutodeservire() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,retail-kiosk" />
+                                      <link itemprop="url" href="/product/retail-kiosk" />
                                       <meta itemprop="name" content="RETAIL KIOSK" />
                                       <a href="/product/retail-kiosk">
                                         RETAIL KIOSK
@@ -298,7 +298,7 @@ export default function CatCaseDeAutodeservire() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,horeca-kiosk-white" />
+                                      <link itemprop="url" href="/product/horeca-kiosk-white" />
                                       <meta itemprop="name" content="HORECA KIOSK alb" />
                                       <a href="/product/horeca-kiosk-white">
                                         HORECA KIOSK alb

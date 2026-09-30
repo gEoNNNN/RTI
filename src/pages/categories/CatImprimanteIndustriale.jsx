@@ -70,7 +70,7 @@ export default function CatImprimanteIndustriale() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,imprimanta-industriala-citizen-cl-e720" />
+                                      <link itemprop="url" href="/product/imprimanta-industriala-citizen-cl-e720" />
                                       <meta itemprop="name" content="Imprimanta industriala Citizen CL-E720" />
                                       <a href="/product/imprimanta-industriala-citizen-cl-e720">
                                         Imprimanta industriala Citizen CL-E720
@@ -109,7 +109,7 @@ export default function CatImprimanteIndustriale() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,imprimanta-industriala-citizen-cl-s703" />
+                                      <link itemprop="url" href="/product/imprimanta-industriala-citizen-cl-s703" />
                                       <meta itemprop="name" content="Imprimanta industriala Citizen CL-S703" />
                                       <a href="/product/imprimanta-industriala-citizen-cl-s703">
                                         Imprimanta industriala Citizen CL-S703
@@ -148,7 +148,7 @@ export default function CatImprimanteIndustriale() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,imprimanta-industriala-citizen-cl-s521ii" />
+                                      <link itemprop="url" href="/product/imprimanta-industriala-citizen-cl-s521ii" />
                                       <meta itemprop="name" content="Imprimanta industriala desktop Citizen CL-S521II" />
                                       <a href="/product/imprimanta-industriala-citizen-cl-s521ii">
                                         Imprimanta industriala desktop Citizen CL-S521II
@@ -187,7 +187,7 @@ export default function CatImprimanteIndustriale() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,imprimanta-industriala-desktop-citizen-cl-s621ii" />
+                                      <link itemprop="url" href="/product/imprimanta-industriala-desktop-citizen-cl-s621ii" />
                                       <meta itemprop="name" content="Imprimanta industriala desktop Citizen CL-S621II" />
                                       <a href="/product/imprimanta-industriala-desktop-citizen-cl-s621ii">
                                         Imprimanta industriala desktop Citizen CL-S621II
@@ -234,7 +234,7 @@ export default function CatImprimanteIndustriale() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,imprimanta-industriala-105slplus-zebra" />
+                                      <link itemprop="url" href="/product/imprimanta-industriala-105slplus-zebra" />
                                       <meta itemprop="name" content="Imprimanta industriala Zebra 105SL Plus" />
                                       <a href="/product/imprimanta-industriala-105slplus-zebra">
                                         Imprimanta industriala Zebra 105SL Plus
@@ -274,7 +274,7 @@ export default function CatImprimanteIndustriale() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,imprimanta-industriala-zebra-zm600" />
+                                      <link itemprop="url" href="/product/imprimanta-industriala-zebra-zm600" />
                                       <meta itemprop="name" content="Imprimanta industriala Zebra ZM600 " />
                                       <a href="/product/imprimanta-industriala-zebra-zm600">
                                         Imprimanta industriala Zebra ZM600 

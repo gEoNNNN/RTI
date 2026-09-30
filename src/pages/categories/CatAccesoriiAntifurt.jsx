@@ -79,7 +79,7 @@ export default function CatAccesoriiAntifurt() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,optical-tag-antifurt-o-001" />
+                                      <link itemprop="url" href="/product/optical-tag-antifurt-o-001" />
                                       <meta itemprop="name" content="Optical Tag (RO-001)" />
                                       <a href="/product/optical-tag-antifurt-o-001">
                                         Optical Tag (RO-001)
@@ -118,7 +118,7 @@ export default function CatAccesoriiAntifurt() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,hard-tag-antifurt-t-048" />
+                                      <link itemprop="url" href="/product/hard-tag-antifurt-t-048" />
                                       <meta itemprop="name" content="Hard Tag Antifurt (R-048)" />
                                       <a href="/product/hard-tag-antifurt-t-048">
                                         Hard Tag Antifurt (R-048)
@@ -157,7 +157,7 @@ export default function CatAccesoriiAntifurt() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,hard-tag-antifurt-t047-1" />
+                                      <link itemprop="url" href="/product/hard-tag-antifurt-t047-1" />
                                       <meta itemprop="name" content="Hard Tag Antifurt (R-047-1)" />
                                       <a href="/product/hard-tag-antifurt-t047-1">
                                         Hard Tag Antifurt (R-047-1)
@@ -196,7 +196,7 @@ export default function CatAccesoriiAntifurt() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,bottle-tag-b-001" />
+                                      <link itemprop="url" href="/product/bottle-tag-b-001" />
                                       <meta itemprop="name" content="Bottle Tag (R-001)" />
                                       <a href="/product/bottle-tag-b-001">
                                         Bottle Tag (R-001)
@@ -235,7 +235,7 @@ export default function CatAccesoriiAntifurt() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,bottle-cap-b-012" />
+                                      <link itemprop="url" href="/product/bottle-cap-b-012" />
                                       <meta itemprop="name" content="Bottle Cap (R-012)" />
                                       <a href="/product/bottle-cap-b-012">
                                         Bottle Cap (R-012)
@@ -274,7 +274,7 @@ export default function CatAccesoriiAntifurt() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,bottle-cap-b-011" />
+                                      <link itemprop="url" href="/product/bottle-cap-b-011" />
                                       <meta itemprop="name" content="Bottle Cap (R-011)" />
                                       <a href="/product/bottle-cap-b-011">
                                         Bottle Cap (R-011)
@@ -313,7 +313,7 @@ export default function CatAccesoriiAntifurt() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,bottle-cap-b-015" />
+                                      <link itemprop="url" href="/product/bottle-cap-b-015" />
                                       <meta itemprop="name" content="Bottle Cap (R-015)" />
                                       <a href="/product/bottle-cap-b-015">
                                         Bottle Cap (R-015)
@@ -352,7 +352,7 @@ export default function CatAccesoriiAntifurt() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,spider-tag" />
+                                      <link itemprop="url" href="/product/spider-tag" />
                                       <meta itemprop="name" content="Spider Tag " />
                                       <a href="/product/spider-tag">
                                         Spider Tag 
@@ -391,7 +391,7 @@ export default function CatAccesoriiAntifurt() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,bottle-tag-b-002" />
+                                      <link itemprop="url" href="/product/bottle-tag-b-002" />
                                       <meta itemprop="name" content="Bottle Tag (R-002)" />
                                       <a href="/product/bottle-tag-b-002">
                                         Bottle Tag (R-002)
@@ -430,7 +430,7 @@ export default function CatAccesoriiAntifurt() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,hard-tag-antifurt-t-006" />
+                                      <link itemprop="url" href="/product/hard-tag-antifurt-t-006" />
                                       <meta itemprop="name" content="Hard Tag Antifurt (R-006)" />
                                       <a href="/product/hard-tag-antifurt-t-006">
                                         Hard Tag Antifurt (R-006)
@@ -469,7 +469,7 @@ export default function CatAccesoriiAntifurt() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,dr-roll-barcode" />
+                                      <link itemprop="url" href="/product/dr-roll-barcode" />
                                       <meta itemprop="name" content="DR Roll Barcode" />
                                       <a href="/product/dr-roll-barcode">
                                         DR Roll Barcode
@@ -508,7 +508,7 @@ export default function CatAccesoriiAntifurt() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,dr-sheet-barcoder" />
+                                      <link itemprop="url" href="/product/dr-sheet-barcoder" />
                                       <meta itemprop="name" content="DR Sheet Barcoder" />
                                       <a href="/product/dr-sheet-barcoder">
                                         DR Sheet Barcoder
@@ -547,7 +547,7 @@ export default function CatAccesoriiAntifurt() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,rf-label-3030" />
+                                      <link itemprop="url" href="/product/rf-label-3030" />
                                       <meta itemprop="name" content="RF Label 30*30" />
                                       <a href="/product/rf-label-3030">
                                         RF Label 30*30
@@ -586,7 +586,7 @@ export default function CatAccesoriiAntifurt() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,rf-label-4040" />
+                                      <link itemprop="url" href="/product/rf-label-4040" />
                                       <meta itemprop="name" content="RF Label 40*40" />
                                       <a href="/product/rf-label-4040">
                                         RF Label 40*40
@@ -625,7 +625,7 @@ export default function CatAccesoriiAntifurt() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,hard-tag-antifurt-t-047" />
+                                      <link itemprop="url" href="/product/hard-tag-antifurt-t-047" />
                                       <meta itemprop="name" content="Hard Tag Antifurt (R-047)" />
                                       <a href="/product/hard-tag-antifurt-t-047">
                                         Hard Tag Antifurt (R-047)
@@ -664,7 +664,7 @@ export default function CatAccesoriiAntifurt() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,hard-tag-antifurt-t-067" />
+                                      <link itemprop="url" href="/product/hard-tag-antifurt-t-067" />
                                       <meta itemprop="name" content="Hard Tag Antifurt (R-067)" />
                                       <a href="/product/hard-tag-antifurt-t-067">
                                         Hard Tag Antifurt (R-067)

@@ -1,13 +1,18 @@
 import React from 'react';
 import { imgUrl } from '../data/helpers';
 import { Partners, richText } from './HomePage';
-import page from '../data/consult_page.json';
+import pageRo from '../data/consult_page.json';
+import pageRu from '../data/ru/consult_page.json';
+import pageEn from '../data/en/consult_page.json';
+import { useLang, useT, useTo, to, pick } from '../lang';
 
-const header = page.widgets[0].payload || {};
-const paragraph = (page.widgets[2].payload || {}).paragraph || '';
-const partners = page.widgets[3].payload || {};
 
 export default function ConsultPage() {
+  const lang = useLang();
+  const page = pick(lang, pageRo, pageRu, pageEn);
+  const header = page.widgets[0].payload || {};
+  const paragraph = (page.widgets[2].payload || {}).paragraph || '';
+  const partners = page.widgets[3].payload || {};
   return (
     <div className="site__body">
       {/* widget-1: page header */}

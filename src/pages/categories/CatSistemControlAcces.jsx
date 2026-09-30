@@ -131,7 +131,7 @@ export default function CatSistemControlAcces() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,buton-de-iesire-nf-10" />
+                                      <link itemprop="url" href="/product/buton-de-iesire-nf-10" />
                                       <meta itemprop="name" content="Buton de iesire NF-10" />
                                       <a href="/product/buton-de-iesire-nf-10">
                                         Buton de iesire NF-10
@@ -170,7 +170,7 @@ export default function CatSistemControlAcces() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,proximity-cheie-em-03-2" />
+                                      <link itemprop="url" href="/product/proximity-cheie-em-03-2" />
                                       <meta itemprop="name" content="Cheie de proximitate (breloc) EM-03-2" />
                                       <a href="/product/proximity-cheie-em-03-2">
                                         Cheie de proximitate (breloc) EM-03-2
@@ -209,7 +209,7 @@ export default function CatSistemControlAcces() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,proximity-card-em-01a" />
+                                      <link itemprop="url" href="/product/proximity-card-em-01a" />
                                       <meta itemprop="name" content="Proximity card EM-01A" />
                                       <a href="/product/proximity-card-em-01a">
                                         Proximity card EM-01A
@@ -248,7 +248,7 @@ export default function CatSistemControlAcces() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,proximity-card-mf-02a" />
+                                      <link itemprop="url" href="/product/proximity-card-mf-02a" />
                                       <meta itemprop="name" content="Proximity Card MF-02A" />
                                       <a href="/product/proximity-card-mf-02a">
                                         Proximity Card MF-02A
@@ -287,7 +287,7 @@ export default function CatSistemControlAcces() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,exit-button-nf-30-push-button" />
+                                      <link itemprop="url" href="/product/exit-button-nf-30-push-button" />
                                       <meta itemprop="name" content="Buton de iesire NF-30" />
                                       <a href="/product/exit-button-nf-30-push-button">
                                         Buton de iesire NF-30
@@ -326,7 +326,7 @@ export default function CatSistemControlAcces() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,rfid-colector-de-date-125-khz-model-matrix-ii-eh" />
+                                      <link itemprop="url" href="/product/rfid-colector-de-date-125-khz-model-matrix-ii-eh" />
                                       <meta itemprop="name" content="Cititor RFID Matrix-II EH 125 kHz" />
                                       <a href="/product/rfid-colector-de-date-125-khz-model-matrix-ii-eh">
                                         Cititor RFID Matrix-II EH 125 kHz
@@ -365,7 +365,7 @@ export default function CatSistemControlAcces() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,rfid-colector-datelor-1356-mhz-i-125-khz-model-z-2-usb" />
+                                      <link itemprop="url" href="/product/rfid-colector-datelor-1356-mhz-i-125-khz-model-z-2-usb" />
                                       <meta itemprop="name" content="Cititor RFID Z-2 USB 13,56 MHz si 125 kHz" />
                                       <a href="/product/rfid-colector-datelor-1356-mhz-i-125-khz-model-z-2-usb">
                                         Cititor RFID Z-2 USB 13,56 MHz si 125 kHz
@@ -404,7 +404,7 @@ export default function CatSistemControlAcces() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,rfid-colector-de-date-1356-khz-model-matrix-ii-mf-i" />
+                                      <link itemprop="url" href="/product/rfid-colector-de-date-1356-khz-model-matrix-ii-mf-i" />
                                       <meta itemprop="name" content="Cititor RFID Matrix-II MF 13,56 MHz" />
                                       <a href="/product/rfid-colector-de-date-1356-khz-model-matrix-ii-mf-i">
                                         Cititor RFID Matrix-II MF 13,56 MHz
@@ -443,7 +443,7 @@ export default function CatSistemControlAcces() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,dispozitiv-multifunctional-adaptor-cititor-codificator-model-rf-1996" />
+                                      <link itemprop="url" href="/product/dispozitiv-multifunctional-adaptor-cititor-codificator-model-rf-1996" />
                                       <meta itemprop="name" content="Dispozitiv multifunctional RF-1996" />
                                       <a href="/product/dispozitiv-multifunctional-adaptor-cititor-codificator-model-rf-1996">
                                         Dispozitiv multifunctional RF-1996
@@ -482,7 +482,7 @@ export default function CatSistemControlAcces() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,cititor-de-carduri-proximity-kr200" />
+                                      <link itemprop="url" href="/product/cititor-de-carduri-proximity-kr200" />
                                       <meta itemprop="name" content="Cititor de carduri Proximity KR200" />
                                       <a href="/product/cititor-de-carduri-proximity-kr200">
                                         Cititor de carduri Proximity KR200
@@ -521,7 +521,7 @@ export default function CatSistemControlAcces() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,cititor-de-carduri-proximity-kr1000-raza-lunga" />
+                                      <link itemprop="url" href="/product/cititor-de-carduri-proximity-kr1000-raza-lunga" />
                                       <meta itemprop="name" content="Cititor de carduri raza lunga Proximity KR1000 " />
                                       <a href="/product/cititor-de-carduri-proximity-kr1000-raza-lunga">
                                         Cititor de carduri raza lunga Proximity KR1000 
@@ -560,7 +560,7 @@ export default function CatSistemControlAcces() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,cititor-de-proximitate-kr702em-touchscreen" />
+                                      <link itemprop="url" href="/product/cititor-de-proximitate-kr702em-touchscreen" />
                                       <meta itemprop="name" content="Cititor KR702E/M cu taste tactile" />
                                       <a href="/product/cititor-de-proximitate-kr702em-touchscreen">
                                         Cititor KR702E/M cu taste tactile
@@ -599,7 +599,7 @@ export default function CatSistemControlAcces() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,colector-de-date-mifare-model-sp-z-2mf" />
+                                      <link itemprop="url" href="/product/colector-de-date-mifare-model-sp-z-2mf" />
                                       <meta itemprop="name" content="Colector date Mifare СP-Z 2MF" />
                                       <a href="/product/colector-de-date-mifare-model-sp-z-2mf">
                                         Colector date Mifare СP-Z 2MF
@@ -638,7 +638,7 @@ export default function CatSistemControlAcces() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,proximity-card-reader-nk-rf202" />
+                                      <link itemprop="url" href="/product/proximity-card-reader-nk-rf202" />
                                       <meta itemprop="name" content="Cititor Proximity NK-RF202" />
                                       <a href="/product/proximity-card-reader-nk-rf202">
                                         Cititor Proximity NK-RF202
@@ -677,7 +677,7 @@ export default function CatSistemControlAcces() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,cititor-de-card-zkteco-zkteco-cr20-cu-interfata-usb" />
+                                      <link itemprop="url" href="/product/cititor-de-card-zkteco-zkteco-cr20-cu-interfata-usb" />
                                       <meta itemprop="name" content="Cititor card ZKTeco CR20 cu interfata USB" />
                                       <a href="/product/cititor-de-card-zkteco-zkteco-cr20-cu-interfata-usb">
                                         Cititor card ZKTeco CR20 cu interfata USB
@@ -716,7 +716,7 @@ export default function CatSistemControlAcces() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,statie-intercom" />
+                                      <link itemprop="url" href="/product/statie-intercom" />
                                       <meta itemprop="name" content="Statie intercom" />
                                       <a href="/product/statie-intercom">
                                         Statie intercom

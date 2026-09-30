@@ -70,7 +70,7 @@ export default function CatDibal900() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,cintar-suspendat-dibal-serie-900" />
+                                      <link itemprop="url" href="/product/cintar-suspendat-dibal-serie-900" />
                                       <meta itemprop="name" content="Cantar suspendat Dibal serie 900" />
                                       <a href="/product/cintar-suspendat-dibal-serie-900">
                                         Cantar suspendat Dibal serie 900
@@ -109,7 +109,7 @@ export default function CatDibal900() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,cantar-dibal-serie-900-double-display" />
+                                      <link itemprop="url" href="/product/cantar-dibal-serie-900-double-display" />
                                       <meta itemprop="name" content="Cantar Dibal serie 900 double display" />
                                       <a href="/product/cantar-dibal-serie-900-double-display">
                                         Cantar Dibal serie 900 double display

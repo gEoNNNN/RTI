@@ -70,7 +70,7 @@ export default function CatImprimanteDeEtichete() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,imprimanta-de-etichete-citizen-cl-s321" />
+                                      <link itemprop="url" href="/product/imprimanta-de-etichete-citizen-cl-s321" />
                                       <meta itemprop="name" content="Imprimanta de etichete Citizen CL-S321" />
                                       <a href="/product/imprimanta-de-etichete-citizen-cl-s321">
                                         Imprimanta de etichete Citizen CL-S321
@@ -109,7 +109,7 @@ export default function CatImprimanteDeEtichete() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,imprimanta-de-etichete-citizen-cl-e300" />
+                                      <link itemprop="url" href="/product/imprimanta-de-etichete-citizen-cl-e300" />
                                       <meta itemprop="name" content="Imprimanta de etichete Citizen CL-E300" />
                                       <a href="/product/imprimanta-de-etichete-citizen-cl-e300">
                                         Imprimanta de etichete Citizen CL-E300
@@ -148,7 +148,7 @@ export default function CatImprimanteDeEtichete() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,imprimanta-de-etichete-citizen-e321" />
+                                      <link itemprop="url" href="/product/imprimanta-de-etichete-citizen-e321" />
                                       <meta itemprop="name" content="Imprimanta de etichete Citizen CL- E321" />
                                       <a href="/product/imprimanta-de-etichete-citizen-e321">
                                         Imprimanta de etichete Citizen CL- E321
@@ -195,7 +195,7 @@ export default function CatImprimanteDeEtichete() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,imprimanta-desktop-zebra-zd620" />
+                                      <link itemprop="url" href="/product/imprimanta-desktop-zebra-zd620" />
                                       <meta itemprop="name" content=" Imprimanta desktop Zebra ZD620" />
                                       <a href="/product/imprimanta-desktop-zebra-zd620">
                                          Imprimanta desktop Zebra ZD620
@@ -235,7 +235,7 @@ export default function CatImprimanteDeEtichete() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,imprmanta-desktop-zebra-zd420d" />
+                                      <link itemprop="url" href="/product/imprmanta-desktop-zebra-zd420d" />
                                       <meta itemprop="name" content="Imprimanta desktop Zebra ZD420" />
                                       <a href="/product/imprmanta-desktop-zebra-zd420d">
                                         Imprimanta desktop Zebra ZD420
@@ -275,7 +275,7 @@ export default function CatImprimanteDeEtichete() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,imprimanta-cu-etichetatre-zebra-zd200" />
+                                      <link itemprop="url" href="/product/imprimanta-cu-etichetatre-zebra-zd200" />
                                       <meta itemprop="name" content="Imprimanta de etichete Zebra ZD200" />
                                       <a href="/product/imprimanta-cu-etichetatre-zebra-zd200">
                                         Imprimanta de etichete Zebra ZD200
@@ -315,7 +315,7 @@ export default function CatImprimanteDeEtichete() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,imprimanta-termica-zebra-zd500" />
+                                      <link itemprop="url" href="/product/imprimanta-termica-zebra-zd500" />
                                       <meta itemprop="name" content="Imprimanta termica Zebra ZD500" />
                                       <a href="/product/imprimanta-termica-zebra-zd500">
                                         Imprimanta termica Zebra ZD500

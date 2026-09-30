@@ -70,7 +70,7 @@ export default function CatImprimantePortabile() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,imprimanta-mobila-citizen-cmp-30ii" />
+                                      <link itemprop="url" href="/product/imprimanta-mobila-citizen-cmp-30ii" />
                                       <meta itemprop="name" content="Imprimanta mobila Citizen CMP-30II" />
                                       <a href="/product/imprimanta-mobila-citizen-cmp-30ii">
                                         Imprimanta mobila Citizen CMP-30II
@@ -109,7 +109,7 @@ export default function CatImprimantePortabile() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,imprimanta-portabila-citizen-cmp-40l" />
+                                      <link itemprop="url" href="/product/imprimanta-portabila-citizen-cmp-40l" />
                                       <meta itemprop="name" content="Imprimanta portabila Citizen CMP-40L" />
                                       <a href="/product/imprimanta-portabila-citizen-cmp-40l">
                                         Imprimanta portabila Citizen CMP-40L
@@ -148,7 +148,7 @@ export default function CatImprimantePortabile() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,imprimanta-portabila-citizen-cmp-20ii" />
+                                      <link itemprop="url" href="/product/imprimanta-portabila-citizen-cmp-20ii" />
                                       <meta itemprop="name" content="Imprimanta portabila Citizen CMP-20II" />
                                       <a href="/product/imprimanta-portabila-citizen-cmp-20ii">
                                         Imprimanta portabila Citizen CMP-20II
@@ -187,7 +187,7 @@ export default function CatImprimantePortabile() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,imprimanta-portabila-citizen-cmp-25l" />
+                                      <link itemprop="url" href="/product/imprimanta-portabila-citizen-cmp-25l" />
                                       <meta itemprop="name" content="Imprimanta portabila Citizen CMP-25L" />
                                       <a href="/product/imprimanta-portabila-citizen-cmp-25l">
                                         Imprimanta portabila Citizen CMP-25L
@@ -226,7 +226,7 @@ export default function CatImprimantePortabile() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,imprimanta-portabila-zebra-qln" />
+                                      <link itemprop="url" href="/product/imprimanta-portabila-zebra-qln" />
                                       <meta itemprop="name" content="Imprimanta portabila Zebra QLn" />
                                       <a href="/product/imprimanta-portabila-zebra-qln">
                                         Imprimanta portabila Zebra QLn
@@ -273,7 +273,7 @@ export default function CatImprimantePortabile() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,imprimanta-portabila-zebra-ql320" />
+                                      <link itemprop="url" href="/product/imprimanta-portabila-zebra-ql320" />
                                       <meta itemprop="name" content="Imprimanta portabila ZEBRA QL320" />
                                       <a href="/product/imprimanta-portabila-zebra-ql320">
                                         Imprimanta portabila ZEBRA QL320
@@ -313,7 +313,7 @@ export default function CatImprimantePortabile() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,imprimanta-portabila-zebra-mz" />
+                                      <link itemprop="url" href="/product/imprimanta-portabila-zebra-mz" />
                                       <meta itemprop="name" content="Imprimanta portabila Zebra MZ 220 " />
                                       <a href="/product/imprimanta-portabila-zebra-mz">
                                         Imprimanta portabila Zebra MZ 220 

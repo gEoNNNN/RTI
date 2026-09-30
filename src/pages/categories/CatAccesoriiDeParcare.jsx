@@ -70,7 +70,7 @@ export default function CatAccesoriiDeParcare() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,blocator-de-parcare-inteligent-pshare-n01ru" />
+                                      <link itemprop="url" href="/product/blocator-de-parcare-inteligent-pshare-n01ru" />
                                       <meta itemprop="name" content=" Blocator de Parcare Inteligent - Rparking Lock" />
                                       <a href="/product/blocator-de-parcare-inteligent-pshare-n01ru">
                                          Blocator de Parcare Inteligent - Rparking Lock

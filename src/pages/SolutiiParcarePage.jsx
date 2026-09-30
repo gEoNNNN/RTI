@@ -2,16 +2,11 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import { imgUrl } from '../data/helpers';
 import { BusinessBranch, Partners, richText } from './HomePage';
-import page from '../data/parcare_page.json';
+import pageRo from '../data/parcare_page.json';
+import pageRu from '../data/ru/parcare_page.json';
+import pageEn from '../data/en/parcare_page.json';
+import { useLang, useT, useTo, to, pick } from '../lang';
 
-const hero = page['Widget Page Header Automatizare PARCARE - RO'] || {};
-const breadcrumbs = (page['Breadcrumbs Solutii Sisteme de parcare'] || {}).breadcrumbs || [];
-const dualW = page['Dual Widget Title - Sisteme parcare'] || {};
-const leftTitle = (dualW.left && dualW.left.content && dualW.left.content.payload) || {};
-const rightDesc = (dualW.right && dualW.right.content && dualW.right.content.payload) || {};
-const leftPadding = (dualW.left && dualW.left.padding) || {};
-const solutions = (page['Widget Solution Unde poate fi instalat?'] || {}).slides || [];
-const partnersData = page['Partners Widget-Sisteme de parcare'] || {};
 
 function ChevronRight() {
   return (
@@ -22,6 +17,16 @@ function ChevronRight() {
 }
 
 export default function SolutiiParcarePage() {
+  const lang = useLang();
+  const page = pick(lang, pageRo, pageRu, pageEn);
+  const hero = page['Widget Page Header Automatizare PARCARE - RO'] || {};
+  const breadcrumbs = (page['Breadcrumbs Solutii Sisteme de parcare'] || {}).breadcrumbs || [];
+  const dualW = page['Dual Widget Title - Sisteme parcare'] || {};
+  const solutions = (page['Widget Solution Unde poate fi instalat?'] || {}).slides || [];
+  const partnersData = page['Partners Widget-Sisteme de parcare'] || {};
+  const leftTitle = (dualW.left && dualW.left.content && dualW.left.content.payload) || {};
+  const rightDesc = (dualW.right && dualW.right.content && dualW.right.content.payload) || {};
+  const leftPadding = (dualW.left && dualW.left.padding) || {};
   return (
     <div className="site__body">
       <BusinessBranch data={hero} />

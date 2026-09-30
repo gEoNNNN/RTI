@@ -1,0 +1,451 @@
+{
+ "Widget Page Header Automatizare Horeca": {
+  "title": "Автоматизация HoReCa",
+  "description": "Эффективные решения для цифровизации и автоматизации процессов в сфере HoReCa, которые помогают лучше организовать работу, сократить количество ошибок и сэкономить время при управлении заказами, запасами, закупками и взаимоотношениями с клиентами.",
+  "bgImage": {
+   "mimetype": "image/webp",
+   "path": "public/widgets/files/51f5d7ce-2eae-4656-84ba-37eb36c4c452.webp"
+  },
+  "slides": [
+   {
+    "icon": {
+     "mimetype": "image/svg+xml",
+     "path": "public/widgets/files/de4cef07-4be1-4416-8d03-f55eef6cee80.svg"
+    },
+    "darkIcon": {
+     "mimetype": "image/svg+xml",
+     "path": "public/widgets/files/3de99b0b-afcf-48dd-bd11-66dffee29e4c.svg"
+    },
+    "image": {
+     "mimetype": "image/webp",
+     "path": "public/widgets/files/1bb8e33a-ada3-4db6-bebc-2e152e7ad9bb.webp"
+    },
+    "class": "Автоматизация розничной торговли",
+    "label": "Автоматизация розничной торговли",
+    "target": {
+     "text": "Автоматизация розничной торговли",
+     "url": "ru/automatizarea-magazinelor-si-retelelor-de-vanzare-cu-amanuntul"
+    }
+   },
+   {
+    "icon": {
+     "mimetype": "image/svg+xml",
+     "path": "public/widgets/files/42cb33fe-8a21-4229-a627-db96dc9b0150.svg"
+    },
+    "darkIcon": {
+     "mimetype": "image/svg+xml",
+     "path": "public/widgets/files/4ec4006f-0bd9-4b74-a08d-e3a3bb249bf7.svg"
+    },
+    "image": {
+     "mimetype": "image/jpeg",
+     "path": "public/widgets/files/5a814aef-d50d-4b7a-b782-cef773f3b4ab.jpeg"
+    },
+    "class": "Системы видеонаблюдения",
+    "label": "Системы видеонаблюдения",
+    "target": {
+     "text": "Системы видеонаблюдения",
+     "url": "ru/instalarea-sistemelor-de-supraveghere-video-pentru-casa-si-afacere"
+    }
+   },
+   {
+    "icon": {
+     "mimetype": "image/svg+xml",
+     "path": "public/widgets/files/860a9b4b-c867-4c19-adf6-708e9de7be69.svg"
+    },
+    "darkIcon": {
+     "mimetype": "image/svg+xml",
+     "path": "public/widgets/files/8bef85ff-b731-4471-a215-2114fe566155.svg"
+    },
+    "image": {
+     "mimetype": "image/webp",
+     "path": "public/widgets/files/6d85dd55-0eb1-4bac-870a-c32f739dc8b8.webp"
+    },
+    "class": "Парковочные системы",
+    "label": "Парковочные системы",
+    "target": {
+     "text": "Парковочные системы",
+     "url": "ru/solutii-sisteme-parcare"
+    }
+   },
+   {
+    "icon": {
+     "mimetype": "image/svg+xml",
+     "path": "public/widgets/files/895f1458-2620-433c-8074-c907efa54e88.svg"
+    },
+    "darkIcon": {
+     "mimetype": "image/svg+xml",
+     "path": "public/widgets/files/1fad8af9-1081-41ec-b700-1319c985f215.svg"
+    },
+    "image": {
+     "mimetype": "image/webp",
+     "path": "public/widgets/files/0067ca63-5340-4448-b0b4-891c741977db.webp"
+    },
+    "class": "Цифровые вывески",
+    "label": "Цифровые вывески",
+    "target": {
+     "text": "Цифровые вывески",
+     "url": "ru/panouri-digitale"
+    }
+   }
+  ]
+ },
+ "Breadcrumbs Automatizare Horeca": {
+  "border": true,
+  "breadcrumbs": [
+   {
+    "title": "Главная",
+    "link": "/"
+   },
+   {
+    "title": "Решения"
+   },
+   {
+    "title": "Автоматизация HoReCa",
+    "link": "/solutii-automatizare-horeca"
+   }
+  ]
+ },
+ "Empty Space-30-0-BG": {
+  "showBackground": true,
+  "height": {
+   "desktop": "30",
+   "mobile": "0"
+  }
+ },
+ "Dual Widget Title - Automatizare Horeca": {
+  "showBackground": true,
+  "left": {
+   "widget_id": "624ab64e9f9a3c00318c07f8",
+   "columns": 2,
+   "padding": {
+    "desktop": "0 100px 0 0",
+    "mobile": "0 30px 0 0"
+   },
+   "content": {
+    "published": true,
+    "pages": [],
+    "_id": "624ab64e9f9a3c00318c07f8",
+    "name": "Title Widget Automatizare Horeca RU",
+    "template": {
+     "_id": "5e25c84aab98870031ec4474",
+     "name": "Title",
+     "type": "title-widget",
+     "structure": {
+      "schema": {
+       "type": "object",
+       "properties": {
+        "title": {
+         "type": "string"
+        },
+        "maxWidth": {
+         "type": "string"
+        },
+        "background": {
+         "type": "string"
+        }
+       }
+      },
+      "layout": [
+       {
+        "key": "title",
+        "type": "html"
+       },
+       {
+        "key": "maxWidth",
+        "title": "Max With (px)",
+        "type": "number"
+       },
+       {
+        "key": "background",
+        "title": "Background",
+        "type": "string"
+       }
+      ]
+     },
+     "createdAt": "2020-01-20T15:33:30.474Z",
+     "updatedAt": "2021-03-24T21:06:23.692Z",
+     "__v": 0,
+     "icon": "public/widget-templates/icons/24d45201-05d3-458e-9d4e-6427283bc052.png"
+    },
+    "payload": {
+     "title": "<h2>Виды бизнеса, подходящие для автоматизации</h2>",
+     "maxWidth": "700"
+    },
+    "__v": 0,
+    "createdAt": "2022-04-04T09:11:42.385Z",
+    "updatedAt": "2026-06-24T12:11:03.418Z"
+   }
+  },
+  "right": {
+   "widget_id": "624ab6829f9a3c00318c07f9",
+   "columns": 2,
+   "content": {
+    "published": true,
+    "pages": [],
+    "_id": "624ab6829f9a3c00318c07f9",
+    "name": "Description widget Automatizare Horeca RU",
+    "template": {
+     "_id": "5cffa869c8eb6d0031695963",
+     "name": "Description Widget",
+     "type": "description-widget",
+     "structure": {
+      "schema": {
+       "type": "object",
+       "properties": {
+        "label": {
+         "type": "string"
+        },
+        "description": {
+         "type": "string"
+        },
+        "rows": {
+         "type": "number"
+        }
+       }
+      },
+      "layout": [
+       {
+        "key": "label",
+        "type": "text"
+       },
+       {
+        "key": "description",
+        "type": "html"
+       },
+       {
+        "key": "rows",
+        "title": "Maximum rows (enter the number)",
+        "type": "number"
+       }
+      ]
+     },
+     "createdAt": "2019-06-11T13:11:05.559Z",
+     "updatedAt": "2021-04-29T10:08:58.875Z",
+     "__v": 0,
+     "icon": "public/widget-templates/icons/b0b9c260-22fa-4e05-92e6-ea32ede21cec.png"
+    },
+    "payload": {
+     "description": "<p>Это идеальное решение для упрощения всех процессов управления бизнесом, таких как закупки, управленческий/складской учёты, взаимоотношения с клиентами и поставщиками и т. д.&nbsp;</p>"
+    },
+    "__v": 0,
+    "createdAt": "2022-04-04T09:12:34.468Z",
+    "updatedAt": "2022-06-20T14:23:37.727Z"
+   }
+  }
+ },
+ "Widget Solution Business Branch-5": {
+  "slides": [
+   {
+    "image": {
+     "mimetype": "image/jpeg",
+     "path": "public/widgets/files/79e1307c-4a3a-435d-bdb4-65a514cf4014.jpg"
+    },
+    "class": "1",
+    "label": "Ресторан",
+    "target": {
+     "url": "ru/solutii-horeca-restaurant"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/jpeg",
+     "path": "public/widgets/files/50db06cc-2b3a-4932-ae70-d99f3771dc03.jpg"
+    },
+    "class": "1",
+    "label": "Kафе",
+    "target": {
+     "url": "ru/solutii-horeca-cafenea"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/jpeg",
+     "path": "public/widgets/files/2d7eb7b2-eb55-44d3-85f9-1914b9a63cee.jpg"
+    },
+    "label": "Бар",
+    "target": {
+     "url": "ru/solutii-horeca-bar"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/jpeg",
+     "path": "public/widgets/files/fadbe38a-f2ce-4cc4-bf9c-6eb05deec9a6.jpg"
+    },
+    "label": "Фастфуд",
+    "target": {
+     "url": "ru/solutii-automatizare-fast-food"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/jpeg",
+     "path": "public/widgets/files/a9456d1a-008f-480b-a2e1-2748de4d79e2.jpg"
+    },
+    "label": "Зал для мероприятий",
+    "target": {
+     "url": "ru/solutii-horeca-sala-de-evenimente"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/jpeg",
+     "path": "public/widgets/files/3cb7b99d-af30-4d8d-9c2e-0ae8f834b0a8.jpg"
+    },
+    "label": "Доставка",
+    "target": {
+     "url": "ru/solutii-horeca-livrare"
+    }
+   }
+  ]
+ },
+ "Empty Space-103": {
+  "showBackground": true,
+  "height": {
+   "desktop": "80",
+   "mobile": "50"
+  }
+ },
+ "Widget - Partners - Clienti - Automatizarea Horeca": {
+  "label": "2000 торговых предприятий, магазинов розничной торговли и оптовой продажи",
+  "title": "Более 600 успешных компаний<br>ставших постоянными клиентами",
+  "target": {
+   "text": "Посмотреть все",
+   "url": "/clienti"
+  },
+  "partners": [
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/cd0a29e7-c8d2-418b-b19d-078c8b330a44.png"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/38dd4388-72e2-47cb-bb02-43f28a3644bf.png"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/85774388-41ad-49a8-ad93-5f494c0c74aa.png"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/svg+xml",
+     "path": "public/widgets/files/97893cc4-f43b-4ca6-a1d1-599386b8e4c2.svg"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/f521d3b4-ab84-4e63-bf22-59e593a3e4d7.png"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/webp",
+     "path": "public/widgets/files/06903ca0-cf5a-4c9c-84ca-887ffd720ca1.webp"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/a094458c-7850-4345-ba98-22430f0cc6ee.png"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/webp",
+     "path": "public/widgets/files/93593ea7-b18b-4370-9cec-3b80fccde46f.webp"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/9d42a271-7b9f-4362-ab08-17c44026f3a4.png"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/394a1213-f7d5-4a16-a089-b0e939b33045.png"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/96863202-1aee-4e77-a504-2028ba2c2a6f.png"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/1e874be4-c9e4-42b5-94b6-0684305240d9.png"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/webp",
+     "path": "public/widgets/files/df18b443-fb9e-4785-9ba4-d3e9c25fdf07.webp"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/a30c1e5c-6ca2-49d3-88db-6de9506ca2a5.png"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/551d851d-1a71-4b1b-8cfe-bdc1f792e6f4.png"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/webp",
+     "path": "public/widgets/files/10538b3e-e6c0-4317-8adf-6777fbb01b44.webp"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/webp",
+     "path": "public/widgets/files/db30c763-b522-4d84-83d6-960fc91e4a2c.webp"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/webp",
+     "path": "public/widgets/files/a13090a4-731a-4441-bc49-7515b4dc39ae.webp"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/73a45b15-a324-4ef7-8cee-e33645f5ec1a.png"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/1fcf6900-698e-42db-9188-3ad8cbf8be6f.png"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/625057af-81ce-4aa0-8f46-49cf3746fa19.png"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/a48542c6-1563-4479-8027-c3f30498517e.png"
+    }
+   }
+  ]
+ }
+}

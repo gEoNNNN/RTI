@@ -2,12 +2,11 @@ import React, { useState } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
 import { imgUrl } from '../data/helpers';
 import { richText } from './HomePage';
-import page from '../data/syrve_page.json';
+import pageRo from '../data/syrve_page.json';
+import pageRu from '../data/ru/syrve_page.json';
+import pageEn from '../data/en/syrve_page.json';
+import { useLang, useT, useTo, to, pick } from '../lang';
 
-const header = page['Widget Page Header-3 Romana'] || {};
-const breadcrumbs = (page['Breadcrumbs-Preturi Syrve - RO'] || {}).breadcrumbs || [];
-const pricing = page['Pachete soft Syrve - Landing software Syrve - Widget Pricing Box'] || {};
-const solutions = page['Caracteristici pachete iiko - Landing software iiko - package-solutions English'] || {};
 
 export function scrollToWidget(value) {
   const el = document.getElementById('widget-' + value);
@@ -42,6 +41,8 @@ function SolutionValue({ value }) {
 
 export function PricingBox({ data }) {
   const navigate = useNavigate();
+  const lang = useLang();
+  const t = useT();
   const many = (data.packages || []).length > 3;
   return (
     <div className="widget-pricing-box">
@@ -62,13 +63,13 @@ export function PricingBox({ data }) {
               <div className={'package' + (many ? ' package-width' : '')}>
                 <div className="title" dangerouslySetInnerHTML={{ __html: richText(p.title) }} />
                 <div className={'description' + (p.description ? ' available' : '')} dangerouslySetInnerHTML={{ __html: richText(p.description) }} />
-                <div className="box" tabIndex={0} onClick={() => navigate('/contacte')}>
+                <div className="box" tabIndex={0} onClick={() => navigate(to('/contacte', lang))}>
                   <div className="pricing">
                     <div className={'price' + (data.oneTimePayment ? ' onetime-payment' : '')} dangerouslySetInnerHTML={{ __html: richText(p.price) }} />
                     {!data.oneTimePayment && <div className="time">/</div>}
                   </div>
                   <div className="content" dangerouslySetInnerHTML={{ __html: richText(p.content) }} />
-                  <a className="button"> Comanda</a>
+                  <a className="button"> {t('widgets.packages.orderNow', 'Comanda')}</a>
                 </div>
               </div>
             </div>
@@ -144,6 +145,12 @@ function PackageSolutions({ data }) {
 }
 
 export default function SyrvePricingPage() {
+  const lang = useLang();
+  const page = pick(lang, pageRo, pageRu, pageEn);
+  const header = page['Widget Page Header-3 Romana'] || {};
+  const breadcrumbs = (page['Breadcrumbs-Preturi Syrve - RO'] || {}).breadcrumbs || [];
+  const pricing = page['Pachete soft Syrve - Landing software Syrve - Widget Pricing Box'] || {};
+  const solutions = page['Caracteristici pachete iiko - Landing software iiko - package-solutions English'] || {};
   return (
     <div className="site__body">
       {/* 1 — page header with scroll links */}

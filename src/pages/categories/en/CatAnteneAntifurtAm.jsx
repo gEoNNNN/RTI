@@ -1,0 +1,232 @@
+import React from 'react';
+import { Link } from 'react-router-dom';
+
+export default function CatAnteneAntifurtAm() {
+  return (
+    <div className="site__body">
+      <app-product-category>
+      <app-product-category>
+        <div className="header">
+          <app-page-header>
+            <div className="page-header product-category bg-image" style={{ backgroundImage: 'url("/images/default-bg-category.b1c93.png")' }}>
+              <div className="overlay" style={{ background: 'transparent' }}></div>
+              <div id="links" className="page-header__container container">
+                <div className="page-header__title">
+                  <h1>
+                    AM Anti-theft Antennas
+                  </h1>
+                </div>
+              </div>
+            </div>
+          </app-page-header>
+          <div className="background-gradient">
+            <div className="container"></div>
+          </div>
+          <app-page-header>
+            <div className="page-header" style={{ backgroundImage: 'url()' }}>
+              <div className="overlay" style={{ background: 'transparent' }}></div>
+              <div id="links" className="page-header__container container"></div>
+            </div>
+            <div className="bottom-breadcrumbs">
+              <div className="container">
+                <nav ariaLabel="breadcrumb">
+                  <ul className="breadcrumb">
+                    <li className="bc-item">
+                      <a href="/en/">
+                        Главная
+                      </a>
+                      <fa-icon size="1" className="ng-fa-icon bc-arrow">
+                        <svg role="img" ariaHidden="true" focusable="false" data-prefix="fas" data-icon="chevron-right" className="svg-inline--fa fa-chevron-right fa-w-10 fa-1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512">
+                          <path fill="currentColor" d="M285.476 272.971L91.132 467.314c-9.373 9.373-24.569 9.373-33.941 0l-22.667-22.667c-9.357-9.357-9.375-24.522-.04-33.901L188.505 256 34.484 101.255c-9.335-9.379-9.317-24.544.04-33.901l22.667-22.667c9.373-9.373 24.569-9.373 33.941 0L285.475 239.03c9.373 9.372 9.373 24.568.001 33.941z"></path>
+                        </svg>
+                      </fa-icon>
+                    </li>
+                    <li aria-current="page" className="bc-item active">
+                      AM Anti-theft Antennas
+                    </li>
+                  </ul>
+                </nav>
+              </div>
+            </div>
+          </app-page-header>
+        </div>
+        <div className="page full-background">
+          <div className="container">
+            <div className="shop-layout shop-layout--sidebar--start">
+              <div className="shop-layout__content full-width">
+                <div className="block">
+                  <products-view offcanvas="mobile">
+                    <div className="products-view">
+                      <div className="products-view__list products-list">
+                        <div className="row">
+                          <div className="col-md-4 col-sm-6 pb-30 col-lg-3">
+                            <app-product-card>
+                              <div className="product-card">
+                                <div itemscope="" className="product-card__image">
+                                  <a href="/en/product/sistemul-antifurt-rguard-new-line-am">
+                                    <img src="/images/c4a9d7f9-c36d-4ba4-b3c6-f0e3d7d72178.png" alt="RGuard New Line AM Security Gate System" loading="lazy" />
+                                  </a>
+                                </div>
+                                <div className="product-card-box-meta">
+                                  <div itemscope="" className="product-name">
+                                    <div className="product-card__name">
+                                      <link itemprop="url" href="/en/product/sistemul-antifurt-rguard-new-line-am" />
+                                      <meta itemprop="name" content="RGuard New Line AM Security Gate System" />
+                                      <a href="/en/product/sistemul-antifurt-rguard-new-line-am">
+                                        RGuard New Line AM Security Gate System
+                                      </a>
+                                    </div>
+                                  </div>
+                                  <div className="product-card-footer">
+                                    <div className="left">
+                                      <meta itemprop="price" content="" />
+                                      <meta itemprop="priceCurrency" content="" />
+                                      <meta itemprop="sku" content="" />
+                                      <product-price-view>
+                                        <div className="priceBox small">
+                                          <div className="no-price"></div>
+                                        </div>
+                                      </product-price-view>
+                                    </div>
+                                    <div className="right">
+                                      <div className="right-body">
+                                        <img src="/images/shopping-bag.e9efb.svg" alt="" />
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </app-product-card>
+                          </div>
+                          <div className="col-md-4 col-sm-6 pb-30 col-lg-3">
+                            <app-product-card>
+                              <div className="product-card">
+                                <div itemscope="" className="product-card__image">
+                                  <a href="/en/product/antene-antifurt-sensormatic-ultra-exit">
+                                    <img src="/images/4cb68656-11aa-47a7-831e-75547d356f93.png" alt="Sensormatic Ultra Exit anti-theft antennas" loading="lazy" />
+                                  </a>
+                                </div>
+                                <div className="product-card-box-meta">
+                                  <div itemscope="" className="product-name">
+                                    <div className="product-card__name">
+                                      <link itemprop="url" href="/en/product/antene-antifurt-sensormatic-ultra-exit" />
+                                      <meta itemprop="name" content="Sensormatic Ultra Exit anti-theft antennas" />
+                                      <a href="/en/product/antene-antifurt-sensormatic-ultra-exit">
+                                        Sensormatic Ultra Exit anti-theft antennas
+                                      </a>
+                                    </div>
+                                  </div>
+                                  <div className="product-card-footer">
+                                    <div className="left">
+                                      <meta itemprop="price" content="" />
+                                      <meta itemprop="priceCurrency" content="" />
+                                      <meta itemprop="sku" content="" />
+                                      <product-price-view>
+                                        <div className="priceBox small">
+                                          <div className="no-price"></div>
+                                        </div>
+                                      </product-price-view>
+                                    </div>
+                                    <div className="right">
+                                      <div className="right-body">
+                                        <img src="/images/shopping-bag.e9efb.svg" alt="" />
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </app-product-card>
+                          </div>
+                          <div className="col-md-4 col-sm-6 pb-30 col-lg-3">
+                            <app-product-card>
+                              <div className="product-card">
+                                <div itemscope="" className="product-card__image">
+                                  <a href="/en/product/antene-antifurt-sensormatic-ultra-post">
+                                    <img src="/images/406c21d0-d704-42ea-8d0f-818125c448db.png" alt="Sensormatic Ultra Post anti-theft antennas" loading="lazy" />
+                                  </a>
+                                </div>
+                                <div className="product-card-box-meta">
+                                  <div itemscope="" className="product-name">
+                                    <div className="product-card__name">
+                                      <link itemprop="url" href="/en/product/antene-antifurt-sensormatic-ultra-post" />
+                                      <meta itemprop="name" content="Sensormatic Ultra Post anti-theft antennas" />
+                                      <a href="/en/product/antene-antifurt-sensormatic-ultra-post">
+                                        Sensormatic Ultra Post anti-theft antennas
+                                      </a>
+                                    </div>
+                                  </div>
+                                  <div className="product-card-footer">
+                                    <div className="left">
+                                      <meta itemprop="price" content="" />
+                                      <meta itemprop="priceCurrency" content="" />
+                                      <meta itemprop="sku" content="" />
+                                      <product-price-view>
+                                        <div className="priceBox small">
+                                          <div className="no-price"></div>
+                                        </div>
+                                      </product-price-view>
+                                    </div>
+                                    <div className="right">
+                                      <div className="right-body">
+                                        <img src="/images/shopping-bag.e9efb.svg" alt="" />
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </app-product-card>
+                          </div>
+                          <div className="col-md-4 col-sm-6 pb-30 col-lg-3">
+                            <app-product-card>
+                              <div className="product-card">
+                                <div itemscope="" className="product-card__image">
+                                  <a href="/en/product/rguard-new-line-am-acryl-antenna">
+                                    <img src="/images/b37194d5-2524-4949-a709-f8467d614923.png" alt="RGuard New Line AM Acryl Antenna" loading="lazy" />
+                                  </a>
+                                </div>
+                                <div className="product-card-box-meta">
+                                  <div itemscope="" className="product-name">
+                                    <div className="product-card__name">
+                                      <link itemprop="url" href="/en/product/rguard-new-line-am-acryl-antenna" />
+                                      <meta itemprop="name" content="RGuard New Line AM Acryl Antenna" />
+                                      <a href="/en/product/rguard-new-line-am-acryl-antenna">
+                                        RGuard New Line AM Acryl Antenna
+                                      </a>
+                                    </div>
+                                  </div>
+                                  <div className="product-card-footer">
+                                    <div className="left">
+                                      <meta itemprop="price" content="" />
+                                      <meta itemprop="priceCurrency" content="" />
+                                      <meta itemprop="sku" content="" />
+                                      <product-price-view>
+                                        <div className="priceBox small">
+                                          <div className="no-price"></div>
+                                        </div>
+                                      </product-price-view>
+                                    </div>
+                                    <div className="right">
+                                      <div className="right-body">
+                                        <img src="/images/shopping-bag.e9efb.svg" alt="" />
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </app-product-card>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="products-view__pagination"></div>
+                    </div>
+                  </products-view>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </app-product-category>
+      </app-product-category>
+    </div>
+  );
+}

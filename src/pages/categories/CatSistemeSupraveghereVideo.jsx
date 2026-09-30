@@ -117,7 +117,7 @@ export default function CatSistemeSupraveghereVideo() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,camera-video-ip-interior-tip-fisheye-uniview-ipc814sr-dvpf16-4mp" />
+                                      <link itemprop="url" href="/product/camera-video-ip-interior-tip-fisheye-uniview-ipc814sr-dvpf16-4mp" />
                                       <meta itemprop="name" content="IP camera video Fisheye Uniview IPC814SR-DVPF16 4MP" />
                                       <a href="/product/camera-video-ip-interior-tip-fisheye-uniview-ipc814sr-dvpf16-4mp">
                                         IP camera video Fisheye Uniview IPC814SR-DVPF16
@@ -156,7 +156,7 @@ export default function CatSistemeSupraveghereVideo() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,camera-ip-interior-uniview-ipc314sr-dvpf36-4mp-vandal-resistant" />
+                                      <link itemprop="url" href="/product/camera-ip-interior-uniview-ipc314sr-dvpf36-4mp-vandal-resistant" />
                                       <meta itemprop="name" content="Camera IP Uniview IPC314SR-DVPF36 4MP " />
                                       <a href="/product/camera-ip-interior-uniview-ipc314sr-dvpf36-4mp-vandal-resistant">
                                         Camera IP Uniview IPC314SR-DVPF36 4MP 
@@ -195,7 +195,7 @@ export default function CatSistemeSupraveghereVideo() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,camera-supraveghere-ip-uniview-ipc2122sr3-pf60-2-mp" />
+                                      <link itemprop="url" href="/product/camera-supraveghere-ip-uniview-ipc2122sr3-pf60-2-mp" />
                                       <meta itemprop="name" content="Camera IP Uniview IPC2122SR3-PF60 2 MP" />
                                       <a href="/product/camera-supraveghere-ip-uniview-ipc2122sr3-pf60-2-mp">
                                         Camera IP Uniview IPC2122SR3-PF60 2 MP
@@ -234,7 +234,7 @@ export default function CatSistemeSupraveghereVideo() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,camera-ip-uniview-ipc2128sr3-dpf40-8mp" />
+                                      <link itemprop="url" href="/product/camera-ip-uniview-ipc2128sr3-dpf40-8mp" />
                                       <meta itemprop="name" content="Camera IP Uniview IPC2128SR3-DPF40 8MP" />
                                       <a href="/product/camera-ip-uniview-ipc2128sr3-dpf40-8mp">
                                         Camera IP Uniview IPC2128SR3-DPF40 8MP
@@ -273,7 +273,7 @@ export default function CatSistemeSupraveghereVideo() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,camera-ip-uniview-ipc2222sr5-upf40-b-2-mp" />
+                                      <link itemprop="url" href="/product/camera-ip-uniview-ipc2222sr5-upf40-b-2-mp" />
                                       <meta itemprop="name" content="Camera IP Uniview IPC2222SR5-UPF40-B 2 MP" />
                                       <a href="/product/camera-ip-uniview-ipc2222sr5-upf40-b-2-mp">
                                         Camera IP Uniview IPC2222SR5-UPF40-B 2 MP
@@ -312,7 +312,7 @@ export default function CatSistemeSupraveghereVideo() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,camera-ip-uniview-ipc2224sr5-dpf40-b-4mp" />
+                                      <link itemprop="url" href="/product/camera-ip-uniview-ipc2224sr5-dpf40-b-4mp" />
                                       <meta itemprop="name" content="Camera IP Uniview IPC2224SR5-DPF40-B 4MP" />
                                       <a href="/product/camera-ip-uniview-ipc2224sr5-dpf40-b-4mp">
                                         Camera IP Uniview IPC2224SR5-DPF40-B 4MP
@@ -351,7 +351,7 @@ export default function CatSistemeSupraveghereVideo() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,camera-ip-uniview-ipc2324ebr-dpz28-4mp" />
+                                      <link itemprop="url" href="/product/camera-ip-uniview-ipc2324ebr-dpz28-4mp" />
                                       <meta itemprop="name" content="Camera IP Uniview IPC2324EBR-DPZ28 4MP" />
                                       <a href="/product/camera-ip-uniview-ipc2324ebr-dpz28-4mp">
                                         Camera IP Uniview IPC2324EBR-DPZ28 4MP
@@ -390,7 +390,7 @@ export default function CatSistemeSupraveghereVideo() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,camera-ip-uniview-ipc242e-ir-in-2mp" />
+                                      <link itemprop="url" href="/product/camera-ip-uniview-ipc242e-ir-in-2mp" />
                                       <meta itemprop="name" content="Camera IP Uniview IPC242E-IR-IN 2MP" />
                                       <a href="/product/camera-ip-uniview-ipc242e-ir-in-2mp">
                                         Camera IP Uniview IPC242E-IR-IN 2MP
@@ -429,7 +429,7 @@ export default function CatSistemeSupraveghereVideo() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,camera-ip-uniview-ipc314sr-dvpf36-4mp-vandal-resistant" />
+                                      <link itemprop="url" href="/product/camera-ip-uniview-ipc314sr-dvpf36-4mp-vandal-resistant" />
                                       <meta itemprop="name" content="Camera IP Uniview IPC314SR-DVPF36 4MP" />
                                       <a href="/product/camera-ip-uniview-ipc314sr-dvpf36-4mp-vandal-resistant">
                                         Camera IP Uniview IPC314SR-DVPF36 4MP
@@ -468,7 +468,7 @@ export default function CatSistemeSupraveghereVideo() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,camera-ip-uniview-ipc322sr3-dvpf40-c-2mp-vandal-resistant" />
+                                      <link itemprop="url" href="/product/camera-ip-uniview-ipc322sr3-dvpf40-c-2mp-vandal-resistant" />
                                       <meta itemprop="name" content="Camera IP Uniview IPC322SR3-DVPF40-C 2MP" />
                                       <a href="/product/camera-ip-uniview-ipc322sr3-dvpf40-c-2mp-vandal-resistant">
                                         Camera IP Uniview IPC322SR3-DVPF40-C 2MP
@@ -507,7 +507,7 @@ export default function CatSistemeSupraveghereVideo() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,camera-ip-uniview-ipc322sr3-dvspf28-b-2mp-vandal-resistant" />
+                                      <link itemprop="url" href="/product/camera-ip-uniview-ipc322sr3-dvspf28-b-2mp-vandal-resistant" />
                                       <meta itemprop="name" content="Camera IP Uniview IPC322SR3-DVSPF28-B 2MP " />
                                       <a href="/product/camera-ip-uniview-ipc322sr3-dvspf28-b-2mp-vandal-resistant">
                                         Camera IP Uniview IPC322SR3-DVSPF28-B 2MP 
@@ -546,7 +546,7 @@ export default function CatSistemeSupraveghereVideo() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,camera-ip-uniview-ipc3614sr3-dpf28-4mp-fixed-dome-network" />
+                                      <link itemprop="url" href="/product/camera-ip-uniview-ipc3614sr3-dpf28-4mp-fixed-dome-network" />
                                       <meta itemprop="name" content="Camera IP Uniview IPC3614SR3-DPF28 4MP" />
                                       <a href="/product/camera-ip-uniview-ipc3614sr3-dpf28-4mp-fixed-dome-network">
                                         Camera IP Uniview IPC3614SR3-DPF28 4MP
@@ -585,7 +585,7 @@ export default function CatSistemeSupraveghereVideo() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,camera-ip-uniview-ptz-ipc6253sr-x33-3mp-33x" />
+                                      <link itemprop="url" href="/product/camera-ip-uniview-ptz-ipc6253sr-x33-3mp-33x" />
                                       <meta itemprop="name" content="Camera IP Uniview PTZ IPC6253SR-X33 3MP" />
                                       <a href="/product/camera-ip-uniview-ptz-ipc6253sr-x33-3mp-33x">
                                         Camera IP Uniview PTZ IPC6253SR-X33 3MP
@@ -624,7 +624,7 @@ export default function CatSistemeSupraveghereVideo() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,camera-ip-uniview-ptz-ipc6852sr-x44u-2mp-44x" />
+                                      <link itemprop="url" href="/product/camera-ip-uniview-ptz-ipc6852sr-x44u-2mp-44x" />
                                       <meta itemprop="name" content="Camera IP Uniview PTZ IPC6852SR-X44U 2MP" />
                                       <a href="/product/camera-ip-uniview-ptz-ipc6852sr-x44u-2mp-44x">
                                         Camera IP Uniview PTZ IPC6852SR-X44U 2MP
@@ -663,7 +663,7 @@ export default function CatSistemeSupraveghereVideo() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,camera-ip-uniview-uniview-ipc6248sr-x22-4k-ultra-4mp" />
+                                      <link itemprop="url" href="/product/camera-ip-uniview-uniview-ipc6248sr-x22-4k-ultra-4mp" />
                                       <meta itemprop="name" content="Camera IP Uniview Uniview IPC6248SR-X22, 4K Ultra 4MP" />
                                       <a href="/product/camera-ip-uniview-uniview-ipc6248sr-x22-4k-ultra-4mp">
                                         Camera IP Uniview Uniview IPC6248SR-X22, 4K Ultra
@@ -702,7 +702,7 @@ export default function CatSistemeSupraveghereVideo() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,camera-uniview-ipc2124sr3-dpf36-4-mpx" />
+                                      <link itemprop="url" href="/product/camera-uniview-ipc2124sr3-dpf36-4-mpx" />
                                       <meta itemprop="name" content="Camera Uniview IPC2124SR3-DPF36 4MP" />
                                       <a href="/product/camera-uniview-ipc2124sr3-dpf36-4-mpx">
                                         Camera Uniview IPC2124SR3-DPF36 4MP

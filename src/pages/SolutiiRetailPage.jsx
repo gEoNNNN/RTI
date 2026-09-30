@@ -2,20 +2,11 @@ import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import { imgUrl } from '../data/helpers';
 import { BusinessBranch, richText } from './HomePage';
-import page from '../data/retail_page.json';
+import pageRo from '../data/retail_page.json';
+import pageRu from '../data/ru/retail_page.json';
+import pageEn from '../data/en/retail_page.json';
+import { useLang, useT, useTo, to, pick } from '../lang';
 
-const hero = page['Widget Page Header Automatizare RETAIL - RO'] || {};
-const breadcrumbs = (page['Breadcrumbs Automatizare Retail'] || {}).breadcrumbs || [];
-const dualW = page['Dual Widget Title - Automatizare Retail'] || {};
-const leftTitle = (dualW.left && dualW.left.content && dualW.left.content.payload) || {};
-const rightDesc = (dualW.right && dualW.right.content && dualW.right.content.payload) || {};
-const leftPadding = (dualW.left && dualW.left.padding) || {};
-const solutions = (page['Widget Solution Retail Business Branch-5'] || {}).slides || [];
-const entrustP = page['Descriere - Automatizare Retail New - Entrust Widget-0'] || {};
-const redFeatures = page['Funcționalitățile REM - Automatizare Retail New - Widget Red Features-3'] || {};
-const textFeatures = page['REM Beneficii - IMAGE+TEXT -  Ro Text Features'] || {};
-const automatization = page['Complecte produse - Automatizare Retail - Widget Categorii produse'] || {};
-const seoDesc = page['Description Widget-4 RO - Landing automatizarea magazinelor - Descriere SEO'] || {};
 
 function ChevronRight() {
   return (
@@ -26,6 +17,7 @@ function ChevronRight() {
 }
 
 function SeoText({ description }) {
+  const t = useT();
   const [expanded, setExpanded] = useState(false);
   return (
     <div className="container">
@@ -38,7 +30,7 @@ function SeoText({ description }) {
         </div>
         <div className="extend-button">
           <div className="button" onClick={() => setExpanded(!expanded)} style={{ cursor: 'pointer' }}>
-            <div>{expanded ? 'Restrange' : 'Extinde'}</div>
+            <div>{expanded ? t('SeoText.restrict', 'Restrange') : t('SeoText.expand', 'Extinde')}</div>
             <div className="seo-arrow" style={{ transform: expanded ? 'rotate(180deg)' : undefined }}></div>
           </div>
         </div>
@@ -48,6 +40,21 @@ function SeoText({ description }) {
 }
 
 export default function SolutiiRetailPage() {
+  const lang = useLang();
+  const t = useT();
+  const page = pick(lang, pageRo, pageRu, pageEn);
+  const hero = page['Widget Page Header Automatizare RETAIL - RO'] || {};
+  const breadcrumbs = (page['Breadcrumbs Automatizare Retail'] || {}).breadcrumbs || [];
+  const dualW = page['Dual Widget Title - Automatizare Retail'] || {};
+  const solutions = (page['Widget Solution Retail Business Branch-5'] || {}).slides || [];
+  const entrustP = page['Descriere - Automatizare Retail New - Entrust Widget-0'] || {};
+  const redFeatures = page['Funcționalitățile REM - Automatizare Retail New - Widget Red Features-3'] || {};
+  const textFeatures = page['REM Beneficii - IMAGE+TEXT -  Ro Text Features'] || {};
+  const automatization = page['Complecte produse - Automatizare Retail - Widget Categorii produse'] || {};
+  const seoDesc = page['Description Widget-4 RO - Landing automatizarea magazinelor - Descriere SEO'] || {};
+  const leftTitle = (dualW.left && dualW.left.content && dualW.left.content.payload) || {};
+  const rightDesc = (dualW.right && dualW.right.content && dualW.right.content.payload) || {};
+  const leftPadding = (dualW.left && dualW.left.padding) || {};
   return (
     <div className="site__body">
       <BusinessBranch data={hero} />
@@ -226,8 +233,8 @@ export default function SolutiiRetailPage() {
                   <h4 className="productItemTitle">{p.title}</h4>
                   <p className="description">{p.description}</p>
                   {p.target && p.target.url && (
-                    <Link className="btn btn-primary btn-sm" to={p.target.url.startsWith('/') ? p.target.url : '/' + p.target.url}>
-                      Mai multe
+                    <Link className="btn btn-primary btn-sm" to={to(p.target.url.startsWith('/') ? p.target.url : '/' + p.target.url, lang)}>
+                      {t('blog.categoryPage.loadMore', 'Mai multe')}
                     </Link>
                   )}
                 </div>

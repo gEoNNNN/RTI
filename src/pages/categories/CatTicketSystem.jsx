@@ -70,7 +70,7 @@ export default function CatTicketSystem() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,terminal-de-intrare" />
+                                      <link itemprop="url" href="/product/terminal-de-intrare" />
                                       <meta itemprop="name" content="Terminal de Intrare Ticket System" />
                                       <a href="/product/terminal-de-intrare">
                                         Terminal de Intrare Ticket System
@@ -109,7 +109,7 @@ export default function CatTicketSystem() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,terminal-de-iesire-ticket-system" />
+                                      <link itemprop="url" href="/product/terminal-de-iesire-ticket-system" />
                                       <meta itemprop="name" content="Terminal de Ieșire Ticket System" />
                                       <a href="/product/terminal-de-iesire-ticket-system">
                                         Terminal de Ieșire Ticket System

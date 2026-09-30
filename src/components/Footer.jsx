@@ -1,9 +1,11 @@
-import React from 'react';
-import { Link } from 'react-router-dom';
-import widgets from '../data/widgets.json';
+import React, { useState, useEffect, useRef } from 'react';
+import { Link, useLocation, useNavigate } from 'react-router-dom';
+import widgetsRo from '../data/widgets.json';
+import widgetsRu from '../data/ru/widgets.json';
+import widgetsEn from '../data/en/widgets.json';
+import { useLang, useT, to, pick } from '../lang';
 
-const footerWidget = widgets.find((w) => w.type === 'footer-widget');
-const footerMenu = (footerWidget && footerWidget.payload && footerWidget.payload.menu) || [];
+const WIDGETS = { ro: widgetsRo, ru: widgetsRu, en: widgetsEn };
 
 function decodeEntities(s) {
   if (!s) return '';
@@ -14,16 +16,81 @@ function decodeEntities(s) {
     .replace(/&amp;/g, '&');
 }
 
-function FooterMenu() {
+const LANG_ITEMS = [
+  { code: 'ro', label: 'Română' },
+  { code: 'ru', label: 'Русский' },
+  { code: 'en', label: 'English' },
+];
+
+function FooterLangSwitch() {
+  const lang = useLang();
+  const location = useLocation();
+  const navigate = useNavigate();
+  const [opened, setOpened] = useState(false);
+  const ref = useRef(null);
+
+  useEffect(() => {
+    if (!opened) return;
+    const onDown = (e) => {
+      if (ref.current && !ref.current.contains(e.target)) setOpened(false);
+    };
+    document.addEventListener('mousedown', onDown);
+    return () => document.removeEventListener('mousedown', onDown);
+  }, [opened]);
+
+  const switchTo = (code) => {
+    setOpened(false);
+    if (code === lang) return;
+    const rest = location.pathname.replace(/^\/(ru|en)(?=\/|$)/, '') || '/';
+    navigate(to(rest, code));
+  };
+  return (
+    <app-language-switch>
+      <div className="language-switch" ref={ref}>
+        <div className="switcher top">
+          <div appdropdown="topbar-dropdown--opened" className={'topbar-dropdown' + (opened ? ' topbar-dropdown--opened' : '')}>
+            <span className="icon planet">
+              <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M7.99992 14.6666C11.6818 14.6666 14.6666 11.6818 14.6666 7.99992C14.6666 4.31802 11.6818 1.33325 7.99992 1.33325C4.31802 1.33325 1.33325 4.31802 1.33325 7.99992C1.33325 11.6818 4.31802 14.6666 7.99992 14.6666Z" stroke="#737373" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" />
+                <path d="M1.33325 8H14.6666" stroke="#737373" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" />
+                <path d="M7.99992 1.33325C9.66744 3.15882 10.6151 5.52794 10.6666 7.99992C10.6151 10.4719 9.66744 12.841 7.99992 14.6666C6.3324 12.841 5.38475 10.4719 5.33325 7.99992C5.38475 5.52794 6.3324 3.15882 7.99992 1.33325V1.33325Z" stroke="#737373" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" />
+              </svg>
+            </span>
+            <button type="button" className="topbar-dropdown__btn ng-star-inserted" onClick={() => setOpened((o) => !o)}>
+              <span className="current-language"> {lang} </span>
+              <span className="arrow-icon ng-star-inserted">
+                <svg role="img" ariaHidden="true" focusable="false" data-prefix="fas" data-icon="chevron-down" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" className="fa-chevron-down fa-w-14">
+                  <path fill="currentColor" d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z" />
+                </svg>
+              </span>
+            </button>
+            <div className="topbar-dropdown__body">
+              <div className="language-items">
+                {LANG_ITEMS.map((l) => (
+                  <div key={l.code} className="language-item ng-star-inserted" onClick={() => switchTo(l.code)} style={{ cursor: 'pointer' }}>
+                    <span> {l.label} </span>
+                  </div>
+                ))}
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </app-language-switch>
+  );
+}
+
+function FooterMenu({ menu }) {
+  const lang = useLang();
   return (
     <div className="menu-container">
-      {footerMenu.map((col, i) => (
+      {menu.map((col, i) => (
         <div className="f-links" key={i}>
           <h4>{col.name}</h4>
           <ul>
             {col.target.map((t, j) => (
               <li key={j}>
-                <a href={t.url}>
+                <a href={t.url && t.url.startsWith('/') ? to(t.url, lang) : t.url}>
                   {t.label && (
                     <span className="f-label" dangerouslySetInnerHTML={{ __html: decodeEntities(t.label) }} />
                   )}
@@ -39,6 +106,12 @@ function FooterMenu() {
 }
 
 export default function Footer() {
+  const lang = useLang();
+  const t = useT();
+  const widgets = pick(lang, WIDGETS.ro, WIDGETS.ru, WIDGETS.en);
+  const footerWidget = widgets.find((w) => w.type === 'footer-widget');
+  const footerMenu = (footerWidget && footerWidget.payload && footerWidget.payload.menu) || [];
+
   return (
     <footer className="site__footer">
       <app-footer>
@@ -52,21 +125,19 @@ export default function Footer() {
                       <div className="logo">
                         <app-logo type="footer">
                           <div className="logo footer">
-                            <a href="/">
+                            <a href={to('/', lang)}>
                               <img alt="Logoul companiei RTI" src="/images/Big-Logo.24063.svg" className="ng-star-inserted" />
                             </a>
                           </div>
                         </app-logo>
                       </div>
-                      <div className="description">
-                         RTI marca a companiei Plasma RTI SRL 
-                      </div>
+                      <div className="description"> {t('footer.description')} </div>
                     </div>
                   </div>
                 </div>
                 <div className="col-lg-9">
                   <div className="right">
-                    <FooterMenu />
+                    <FooterMenu menu={footerMenu} />
                   </div>
                 </div>
               </div>
@@ -77,15 +148,13 @@ export default function Footer() {
                   <div className="logo">
                     <app-logo type="footer">
                       <div className="logo footer">
-                        <a href="/">
+                        <a href={to('/', lang)}>
                           <img alt="Logoul companiei RTI" src="/images/Big-Logo.24063.svg" className="ng-star-inserted" />
                         </a>
                       </div>
                     </app-logo>
                   </div>
-                  <div className="description">
-                     RTI marca a companiei Plasma RTI SRL 
-                  </div>
+                  <div className="description"> {t('footer.description')} </div>
                 </div>
               </div>
               <div className="right">
@@ -134,62 +203,19 @@ export default function Footer() {
                 </div>
                 <div className="grey-line margin"></div>
                 <div className="terms">
-                  <a href="/politica-de-confidentialitate">
-                    Politica de confidențialitate
+                  <a href={to('/politica-de-confidentialitate', lang)}>
+                    {t('footer.policyPrivacy', 'Politica de confidențialitate')}
                   </a>
                 </div>
                 <div className="grey-line margin desktop"></div>
                 <div className="terms">
-                  <a href="/termeni-si-conditii">
-                    Termeni și condiții
+                  <a href={to('/termeni-si-conditii', lang)}>
+                    {t('footer.termsAndCond', 'Termeni și condiții')}
                   </a>
                 </div>
                 <div className="grey-line margin desktop"></div>
                 <div className="language-switch desktop">
-                  <app-language-switch>
-                    <div className="language-switch">
-                      <div className="switcher top">
-                        <div appdropdown="topbar-dropdown--opened" className="topbar-dropdown">
-                          <span className="icon planet">
-                            <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-                              <path d="M7.99992 14.6666C11.6818 14.6666 14.6666 11.6818 14.6666 7.99992C14.6666 4.31802 11.6818 1.33325 7.99992 1.33325C4.31802 1.33325 1.33325 4.31802 1.33325 7.99992C1.33325 11.6818 4.31802 14.6666 7.99992 14.6666Z" stroke="#737373" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"></path>
-                              <path d="M1.33325 8H14.6666" stroke="#737373" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"></path>
-                              <path d="M7.99992 1.33325C9.66744 3.15882 10.6151 5.52794 10.6666 7.99992C10.6151 10.4719 9.66744 12.841 7.99992 14.6666C6.3324 12.841 5.38475 10.4719 5.33325 7.99992C5.38475 5.52794 6.3324 3.15882 7.99992 1.33325V1.33325Z" stroke="#737373" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"></path>
-                            </svg>
-                          </span>
-                          <button type="button" className="topbar-dropdown__btn ng-star-inserted">
-                            <span className="current-language">
-                               ro 
-                            </span>
-                            <span className="arrow-icon ng-star-inserted">
-                              <svg role="img" ariaHidden="true" focusable="false" data-prefix="fas" data-icon="chevron-down" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" className="fa-chevron-down fa-w-14">
-                                <path fill="currentColor" d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"></path>
-                              </svg>
-                            </span>
-                          </button>
-                          <div className="topbar-dropdown__body">
-                            <div className="language-items">
-                              <div className="language-item ng-star-inserted">
-                                <span>
-                                   Română
-                                </span>
-                              </div>
-                              <div className="language-item ng-star-inserted">
-                                <span>
-                                   Русский
-                                </span>
-                              </div>
-                              <div className="language-item ng-star-inserted">
-                                <span>
-                                   English
-                                </span>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </app-language-switch>
+                  <FooterLangSwitch />
                 </div>
                 <div className="grey-line margin"></div>
               </div>

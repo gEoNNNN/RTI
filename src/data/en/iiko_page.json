@@ -1,0 +1,2416 @@
+{
+ "Tipuri afaceri - Landing software iiko - Business Branch Ro - versimea 2": {
+  "title": "Sistem profesional de gestiune pentru restaurant, cafenea, fast-food și bar",
+  "description": "iiko – este o soluție software completă prin care obțineți control total asupra\nrestaurantului Dvs. Fie că aveți un local mic sau un lanț național.\nSoft-ul integrează module și instrumente care interconectează toate\nprocesele de business într-un sistem unic de gestiune",
+  "bgImage": {
+   "mimetype": "image/jpeg",
+   "path": "public/widgets/files/c0136e4d-50b3-4bf0-a598-32ad0becbd63.jpg"
+  },
+  "slides": [
+   {
+    "icon": {
+     "mimetype": "image/svg+xml",
+     "path": "public/widgets/files/540e8b15-1c98-48e2-8197-b16f6d0dca9c.svg"
+    },
+    "darkIcon": {
+     "mimetype": "image/svg+xml",
+     "path": "public/widgets/files/5cb21cd2-a671-443b-9207-8310d206236e.svg"
+    },
+    "image": {
+     "mimetype": "image/webp",
+     "path": "public/widgets/files/4749a5dd-1997-494d-b288-7d125bab89db.webp"
+    },
+    "label": "Echipamente și seturi",
+    "target": {
+     "text": "Prețuri / pachete",
+     "url": "price-iiko"
+    }
+   },
+   {
+    "icon": {
+     "mimetype": "image/svg+xml",
+     "path": "public/widgets/files/9efdb8e2-ce40-4131-b91b-d0b5532e2d5f.svg"
+    },
+    "darkIcon": {
+     "mimetype": "image/svg+xml",
+     "path": "public/widgets/files/70c60ac5-2e2d-4094-a72e-8c3719226cbd.svg"
+    },
+    "image": {
+     "mimetype": "image/webp",
+     "path": "public/widgets/files/9fbddf97-2d57-4339-835b-629fd4aa1de8.webp"
+    },
+    "label": "Servicii și instruire",
+    "target": {
+     "text": "Servicii și instruire",
+     "url": "servicii-mentenanta-restaurant"
+    }
+   },
+   {
+    "icon": {
+     "mimetype": "image/svg+xml",
+     "path": "public/widgets/files/a2deaba2-5987-47cc-8df8-4e881b428079.svg"
+    },
+    "darkIcon": {
+     "mimetype": "image/svg+xml",
+     "path": "public/widgets/files/38200620-66a0-4996-a0b1-aa34909e2abc.svg"
+    },
+    "image": {
+     "mimetype": "image/webp",
+     "path": "public/widgets/files/75fba8dc-459d-4d3e-bd72-2ccf76e5c717.webp"
+    },
+    "label": "Echipamente",
+    "target": {
+     "text": "Echipamente"
+    }
+   }
+  ]
+ },
+ "Video - Automaizare restaurant Ro - Entrust Widget-8": {
+  "title": "Control total al restaurantului",
+  "description": "iiko este un soft de gestiune și vanzare dedicat industriei Horeca",
+  "slides": [
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/f47ee086-c107-4cbf-8c33-d1a1b69c926a.png"
+    },
+    "description": "Programul facilitează operațiunile într-o anumită ordine, asigură o planificare eficientă și monitorizează toate locațiile Dvs. furnizând date reale pentru analiză. Nu aveți nevoie de un computer de birou – toate instrumentele necesare sunt disponibile online în contul personal.",
+    "author": "iiko Business Partner",
+    "company": "RTI",
+    "video": {
+     "url": "\"DYXvNUpUR-Q\"",
+     "image": {
+      "mimetype": "image/jpeg",
+      "path": "public/widgets/files/26788bc9-f539-433c-b99b-bc08e6460232.jpg"
+     }
+    }
+   }
+  ]
+ },
+ "Funcționalități - RED FEATURES - Automaitzare restarunta Ro - Widget Red Features": {
+  "title": "Modulele iiko interconectează toata structura afacerii într-un sistem unic de gestiune",
+  "backgroundColor": "linear-gradient(rgb(124 0 0) 0px, rgb(169 0 0) 100%);",
+  "information": [
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/85a508f1-f1c9-42e3-bf98-172b680bd88c.png"
+    },
+    "title": "Rezervări",
+    "description": "Controlul rezervărilor vă oferă mai multă libertate. La rezervarea meselor se alege locul și ora potrivită, iar înregistrarea în jurnal a informațiilor și a preferințelor clienților vă permite să oferiți acestora experiențe personalizate.",
+    "icon": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/2a4c41d7-1b85-4ea7-a1ab-20ef1c41d9a8.png"
+    }
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/d6b5a76e-a289-4503-8a5f-971f77c2a587.png"
+    },
+    "title": "Managementul clienţilor",
+    "description": "Cu iiko știți CE și CÂND comandă clienții, în dependență de aceasta optimizați lanțul de aprovizionare și stocurile. Iar cu sistemul de loiallitate, veți putea oferi o combinație unică de avantaje pentru fidelizarea clienților."
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/f39b0fd1-c775-4c1a-9d5d-abb3e0cb94a0.png"
+    },
+    "title": "Previziune",
+    "description": "O previziune corectă a vânzărilor oferă posibilitate de a aloca timpul necesar fiecărei operațiuni. Astfel are loc reducerea riscurilor legate de evenimente. Se diminuează suprasolicitările resimţite de către ospătari."
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/ac8f99cd-5e36-44ce-8711-2966b801b3e7.png"
+    },
+    "title": "Angajați",
+    "description": "Programul înregistrează evidența clară a orelor efectiv lucrate de personal și formează un raport detaliat. În baza acestuia puteți construi scheme motivaționale pentru fiecare angajat."
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/f0d3c435-7e24-41d8-9ea9-bf4535c89c70.png"
+    },
+    "title": "Bucătărie",
+    "description": "O bucătărie mai eficientă și rapidă. Programul vă oferă instrumente de control al performanței în ceea ce priveste eficiența bucătarilor, timpul de pregătire a alimentelor și calitatea servirii clienților."
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/25bc9448-620c-488d-b28e-45d1f26292b0.png"
+    },
+    "title": "Stocurilor",
+    "description": "Sistemul ajută restaurantele să știe CE și CÂT să comande, CÂND să comande și UNDE să stocheze produsele, obținându-se astfel un echilibru perfect între profitabilitate și calitate."
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/6cfce9bd-f8ff-4a1f-b960-8eb16be3e16e.png"
+    },
+    "title": "Finanțe",
+    "description": "Dispuneți de rapoarte financiare atât pentru o singură locație, cât și pentru o rețea națională. Softul oferă posibilitatea de a proiecta bugete lunare și anuale pentru monitorizarea performanțelor afacerii."
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/a89d715a-be15-48ec-8085-7c8f0708e62f.png"
+    },
+    "title": "Livrarea comenzilor",
+    "description": "iiko este o soluție multifuncțională care organizează eficient procesul de livrare. Clienții pot urmări în timp real etapele executării comenzilor, iar cu ajutorul unei hărți interactive pot vizualiza traseul de livrare."
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/83f12018-d81b-405c-880e-52108f3cc462.png"
+    },
+    "title": "Raportare și Analiză",
+    "description": "iko generează statistici și rapoarte referitoare la evoluția afacerii, resursele alocate, venit și indicatorii de perfomanță (KPI). Iar aplicația mobilă permite accesarea datelor din smartphone (iOS/Android)."
+   }
+  ]
+ },
+ "iiko interfata de vanzare - iiko - BG GREY - Automatizare restaurant - Widget 2 ": {
+  "background": {
+   "value": "null"
+  },
+  "padding": "40px 0",
+  "widgets": [
+   {
+    "widget_id": "5ee3f9b710a64600397f33d4",
+    "content": {
+     "_id": "5ee3f9b710a64600397f33d4",
+     "published": true,
+     "pages": [],
+     "name": "Dual Widget - iiko pe interfata vanzare",
+     "template": {
+      "_id": "5cff74dcc8eb6d003169595b",
+      "name": "Dual Widget",
+      "type": "dual-widget",
+      "structure": {
+       "schema": {
+        "type": "object",
+        "properties": {
+         "showBackground": {
+          "type": "boolean"
+         },
+         "left": {
+          "type": "object",
+          "properties": {
+           "widget_id": {
+            "type": "string"
+           },
+           "columns": {
+            "type": "number"
+           },
+           "padding": {
+            "type": "object",
+            "properties": {
+             "desktop": {
+              "type": "string"
+             },
+             "mobile": {
+              "type": "string"
+             }
+            }
+           },
+           "align": {
+            "type": "object",
+            "properties": {
+             "value": {
+              "type": "string"
+             },
+             "name": {
+              "type": "string"
+             }
+            }
+           }
+          }
+         },
+         "right": {
+          "type": "object",
+          "properties": {
+           "widget_id": {
+            "type": "string"
+           },
+           "columns": {
+            "type": "number"
+           },
+           "padding": {
+            "type": "object",
+            "properties": {
+             "desktop": {
+              "type": "string"
+             },
+             "mobile": {
+              "type": "string"
+             }
+            }
+           },
+           "align": {
+            "type": "object",
+            "properties": {
+             "value": {
+              "type": "string"
+             },
+             "name": {
+              "type": "string"
+             }
+            }
+           }
+          }
+         }
+        }
+       },
+       "layout": [
+        {
+         "title": "Left Widget"
+        },
+        {
+         "key": "left.widget_id",
+         "type": "text"
+        },
+        {
+         "key": "left.columns",
+         "type": "text"
+        },
+        {
+         "key": "left.padding.desktop",
+         "type": "text",
+         "title": "Padding (desktop)"
+        },
+        {
+         "key": "left.padding.mobile",
+         "type": "text",
+         "title": "Padding (mobile)"
+        },
+        {
+         "key": "left.align.value",
+         "title": "Align Content",
+         "type": "select",
+         "titleMap": [
+          {
+           "value": "flex-start",
+           "name": "Top"
+          },
+          {
+           "value": "center",
+           "name": "Center"
+          },
+          {
+           "value": "flex-end",
+           "name": "Bottom"
+          }
+         ]
+        },
+        {
+         "title": "Right Widget"
+        },
+        {
+         "key": "right.widget_id",
+         "type": "text"
+        },
+        {
+         "key": "right.columns",
+         "type": "text"
+        },
+        {
+         "key": "right.padding.desktop",
+         "type": "text",
+         "title": "Padding (desktop)"
+        },
+        {
+         "key": "right.padding.mobile",
+         "type": "text",
+         "title": "Padding (mobile)"
+        },
+        {
+         "key": "right.align.value",
+         "title": "Align Content",
+         "type": "select",
+         "titleMap": [
+          {
+           "value": "flex-start",
+           "name": "Top"
+          },
+          {
+           "value": "center",
+           "name": "Center"
+          },
+          {
+           "value": "flex-end",
+           "name": "Bottom"
+          }
+         ]
+        },
+        {
+         "key": "showBackground",
+         "title": " Show background",
+         "type": "checkbox"
+        }
+       ]
+      },
+      "createdAt": "2019-06-11T09:31:08.688Z",
+      "updatedAt": "2022-03-17T14:07:54.736Z",
+      "__v": 0,
+      "icon": "public/widget-templates/icons/a6e42088-2f7b-446d-9f91-708e235b808b.png"
+     },
+     "payload": {
+      "left": {
+       "widget_id": "5ee3f86410a64600397f33d2",
+       "columns": 1,
+       "align": {
+        "value": "null"
+       },
+       "content": {
+        "published": true,
+        "pages": [],
+        "_id": "5ee3f86410a64600397f33d2",
+        "name": "Descriere interfata iiko - Landing software iikoDescription Features iiko - ",
+        "template": {
+         "_id": "5e5930cc75f9bc00315f3d61",
+         "name": "Title Description Feature",
+         "type": "title-description-feature-widget",
+         "structure": {
+          "schema": {
+           "type": "object",
+           "properties": {
+            "title": {
+             "type": "string"
+            },
+            "button": {
+             "type": "object",
+             "properties": {
+              "button_text": {
+               "type": "string"
+              },
+              "button_link": {
+               "type": "string"
+              }
+             }
+            },
+            "features": {
+             "type": "array",
+             "items": {
+              "type": "object",
+              "properties": {
+               "title": {
+                "type": "string"
+               },
+               "description": {
+                "type": "string"
+               }
+              }
+             }
+            }
+           }
+          },
+          "layout": [
+           {
+            "key": "title",
+            "type": "text"
+           },
+           {
+            "key": "features",
+            "displayFlex": true,
+            "items": [
+             {
+              "key": "features[].title",
+              "type": "text"
+             },
+             {
+              "key": "features[].description",
+              "type": "text"
+             }
+            ]
+           },
+           {
+            "key": "button.button_text",
+            "type": "text"
+           },
+           {
+            "key": "button.button_link",
+            "type": "text"
+           }
+          ]
+         },
+         "createdAt": "2020-02-28T15:25:00.158Z",
+         "updatedAt": "2021-03-24T21:58:27.522Z",
+         "__v": 0,
+         "icon": "public/widget-templates/icons/4a60fac7-c488-4076-9f73-d154be69ee2b.png"
+        },
+        "payload": {
+         "title": "Interfață de vânzare ",
+         "features": [
+          {
+           "title": "1. ARANJAMENT DE MESE PRE-SETAT",
+           "description": "Organizați evenimente private cu rearanjarea meselor. Puteti salva setup-uri de sală predefinite. Zi de naștere, nuntă, petrecere, conferință, etc"
+          },
+          {
+           "title": "2. ELEMENTE ȘI MENU CONFIGURABILE",
+           "description": "Puteți modifica, separa sau grupa orice element afișat pe ecran. Orice buton din menu poate fi personalizat și ordonat după cerințele utilizatorului"
+          },
+          {
+           "title": "3. COMBINAȚII DE PRODUSE",
+           "description": "Creați seturi cu diferite feluri de mâncare, iar iiko va avea grijă ca personalul Dvs. să le vândă mai des. Veți avea statistici detaliate privind vânzările produselor "
+          },
+          {
+           "title": "4.  SUGESTII PENTRU CASIER ȘI OSPĂTAR",
+           "description": "Stimularea vânzărilor prin utilizarea tehnicilor Cross selling și Up selling. Utilizarea tehnicilor Cross selling și Up selling crește vânzările cu 30%"
+          },
+          {
+           "title": "5. EDITARE REȚETE DIRECT DIN POS",
+           "description": "Clientul dorește o pizza personalizată? Puteți edita rețeta direct în POS. Aveți la îndemână totul pentru a satisface dorințele clienților"
+          },
+          {
+           "title": "6. GESTIONAREA ELECTRONICĂ A COMENZILOR",
+           "description": "Imediat după ce comanda a fost preluată, ea este trimisă la bucătărie. Când comanda este gata, personalul stabilește starea comenzii ca fiind executată"
+          }
+         ]
+        },
+        "__v": 0,
+        "createdAt": "2020-06-12T21:49:24.753Z",
+        "updatedAt": "2026-06-18T13:42:54.447Z"
+       }
+      },
+      "right": {
+       "widget_id": "5ee3fe3110a64600397f33d5",
+       "columns": 1,
+       "padding": {
+        "desktop": "0px 50px 0px",
+        "mobile": "20px 0 0 0"
+       },
+       "align": {
+        "value": "null"
+       },
+       "content": {
+        "published": true,
+        "pages": [],
+        "_id": "5ee3fe3110a64600397f33d5",
+        "name": "Imagini interfata vanzare iiko",
+        "template": {
+         "_id": "5e25bb80ab98870031ec4470",
+         "name": "Widget Template - Images",
+         "type": "widget-images",
+         "structure": {
+          "schema": {
+           "type": "object",
+           "properties": {
+            "images": {
+             "type": "array",
+             "items": {
+              "type": "object",
+              "properties": {
+               "image": {
+                "type": "object",
+                "properties": {
+                 "mimetype": {
+                  "type": "string"
+                 },
+                 "path": {
+                  "type": "string"
+                 }
+                }
+               },
+               "imageUrl": {
+                "type": "string",
+                "default": "javascript:void(0)"
+               },
+               "imageTitle": {
+                "type": "string"
+               },
+               "order": {
+                "type": "number",
+                "default": 1000000
+               }
+              }
+             }
+            },
+            "layout": {
+             "type": "object",
+             "properties": {
+              "value": {
+               "type": "string"
+              },
+              "name": {
+               "type": "string"
+              }
+             }
+            },
+            "columns": {
+             "type": "number"
+            },
+            "showViewAll": {
+             "type": "boolean"
+            },
+            "showLoadMore": {
+             "type": "boolean"
+            },
+            "showImageUrl": {
+             "type": "boolean"
+            },
+            "limit": {
+             "type": "number"
+            },
+            "link": {
+             "type": "string"
+            },
+            "padding": {
+             "type": "string"
+            },
+            "imageHeight": {
+             "type": "string"
+            },
+            "overlay": {
+             "type": "object",
+             "properties": {
+              "value": {
+               "type": "string"
+              },
+              "name": {
+               "type": "string"
+              }
+             }
+            }
+           }
+          },
+          "layout": [
+           {
+            "key": "images",
+            "displayFlex": true,
+            "items": [
+             {
+              "key": "images[]",
+              "displayFlex": true,
+              "items": [
+               {
+                "key": "images[].image",
+                "type": "file"
+               },
+               {
+                "key": "images[].imageUrl",
+                "type": "string"
+               },
+               {
+                "key": "images[].imageTitle",
+                "type": "string"
+               },
+               {
+                "key": "images[].order",
+                "type": "number"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "key": "limit",
+            "type": "number",
+            "title": "Limit Images (leave empty for no limit)"
+           },
+           {
+            "key": "showViewAll",
+            "type": "radio",
+            "title": "Activează butonul Vezi toate"
+           },
+           {
+            "key": "showLoadMore",
+            "type": "radio",
+            "title": "Activează butonul Mai multe"
+           },
+           {
+            "key": "link",
+            "type": "text",
+            "title": "Link pentru butonul Vezi toate"
+           },
+           {
+            "key": "showImageUrl",
+            "type": "checkbox",
+            "title": " Vizualizare in carduri"
+           },
+           {
+            "key": "padding",
+            "type": "text",
+            "title": "Button (link) Padding"
+           },
+           {
+            "key": "overlay.value",
+            "title": "Overlay",
+            "type": "select",
+            "titleMap": [
+             {
+              "value": "white",
+              "name": "White"
+             },
+             {
+              "value": "grey",
+              "name": "Grey"
+             }
+            ]
+           },
+           {
+            "key": "layout.value",
+            "title": "Layout",
+            "type": "select",
+            "titleMap": [
+             {
+              "value": "flex",
+              "name": "Flex"
+             },
+             {
+              "value": "columns",
+              "name": "Columns"
+             }
+            ]
+           },
+           {
+            "key": "columns",
+            "title": "Columns per row",
+            "type": "number",
+            "condition": "layout.value"
+           },
+           {
+            "key": "imageHeight",
+            "title": "Maximum Image Height",
+            "type": "number",
+            "condition": "layout.value"
+           }
+          ]
+         },
+         "createdAt": "2020-01-20T14:38:56.730Z",
+         "updatedAt": "2026-06-19T11:42:14.944Z",
+         "__v": 0,
+         "icon": "public/widget-templates/icons/7dc13a4b-21dc-486d-b2ea-a31e522efc9f.png"
+        },
+        "payload": {
+         "images": [
+          {
+           "image": {
+            "mimetype": "image/png",
+            "path": "public/widgets/files/b0a2316e-3813-4b5d-9bc0-cc6f56143f1b.png"
+           },
+           "imageUrl": "javascript:void(0)",
+           "order": 1000000
+          },
+          {
+           "image": {
+            "mimetype": "image/png",
+            "path": "public/widgets/files/26ca4050-c97d-400c-a3b2-1cf97abe1809.png"
+           },
+           "imageUrl": "javascript:void(0)",
+           "order": 1000000
+          },
+          {
+           "image": {
+            "mimetype": "image/png",
+            "path": "public/widgets/files/2e6374d8-f40c-48d3-bf8e-cea82a9de0a1.png"
+           },
+           "imageUrl": "javascript:void(0)",
+           "order": 1000000
+          },
+          {
+           "image": {
+            "mimetype": "image/png",
+            "path": "public/widgets/files/377a8491-a70f-4b9c-96e4-560dcba70741.png"
+           },
+           "imageUrl": "javascript:void(0)",
+           "order": 1000000
+          }
+         ],
+         "layout": {
+          "value": "columns"
+         },
+         "columns": 1,
+         "showViewAll": false,
+         "showLoadMore": false,
+         "limit": 4,
+         "imageHeight": "600",
+         "overlay": {
+          "value": "null"
+         }
+        },
+        "__v": 0,
+        "createdAt": "2020-06-12T22:14:09.830Z",
+        "updatedAt": "2026-06-19T11:51:53.114Z"
+       }
+      }
+     },
+     "__v": 0,
+     "createdAt": "2020-06-12T21:55:03.882Z",
+     "updatedAt": "2021-05-27T14:09:36.361Z"
+    }
+   }
+  ]
+ },
+ "Empty Space-32-20": {
+  "height": {
+   "desktop": "32",
+   "mobile": "20"
+  }
+ },
+ "iiko interfata de gestiune - iiko - BG GREY - Automatizare restaurant - Widget 3 ": {
+  "background": {
+   "value": "null"
+  },
+  "padding": "40px 0",
+  "widgets": [
+   {
+    "widget_id": "5ee5191d10a64600397f33d7",
+    "content": {
+     "_id": "5ee5191d10a64600397f33d7",
+     "published": true,
+     "pages": [],
+     "name": "Dual Widget - iiko pe interfata gestiune",
+     "template": {
+      "_id": "5cff74dcc8eb6d003169595b",
+      "name": "Dual Widget",
+      "type": "dual-widget",
+      "structure": {
+       "schema": {
+        "type": "object",
+        "properties": {
+         "showBackground": {
+          "type": "boolean"
+         },
+         "left": {
+          "type": "object",
+          "properties": {
+           "widget_id": {
+            "type": "string"
+           },
+           "columns": {
+            "type": "number"
+           },
+           "padding": {
+            "type": "object",
+            "properties": {
+             "desktop": {
+              "type": "string"
+             },
+             "mobile": {
+              "type": "string"
+             }
+            }
+           },
+           "align": {
+            "type": "object",
+            "properties": {
+             "value": {
+              "type": "string"
+             },
+             "name": {
+              "type": "string"
+             }
+            }
+           }
+          }
+         },
+         "right": {
+          "type": "object",
+          "properties": {
+           "widget_id": {
+            "type": "string"
+           },
+           "columns": {
+            "type": "number"
+           },
+           "padding": {
+            "type": "object",
+            "properties": {
+             "desktop": {
+              "type": "string"
+             },
+             "mobile": {
+              "type": "string"
+             }
+            }
+           },
+           "align": {
+            "type": "object",
+            "properties": {
+             "value": {
+              "type": "string"
+             },
+             "name": {
+              "type": "string"
+             }
+            }
+           }
+          }
+         }
+        }
+       },
+       "layout": [
+        {
+         "title": "Left Widget"
+        },
+        {
+         "key": "left.widget_id",
+         "type": "text"
+        },
+        {
+         "key": "left.columns",
+         "type": "text"
+        },
+        {
+         "key": "left.padding.desktop",
+         "type": "text",
+         "title": "Padding (desktop)"
+        },
+        {
+         "key": "left.padding.mobile",
+         "type": "text",
+         "title": "Padding (mobile)"
+        },
+        {
+         "key": "left.align.value",
+         "title": "Align Content",
+         "type": "select",
+         "titleMap": [
+          {
+           "value": "flex-start",
+           "name": "Top"
+          },
+          {
+           "value": "center",
+           "name": "Center"
+          },
+          {
+           "value": "flex-end",
+           "name": "Bottom"
+          }
+         ]
+        },
+        {
+         "title": "Right Widget"
+        },
+        {
+         "key": "right.widget_id",
+         "type": "text"
+        },
+        {
+         "key": "right.columns",
+         "type": "text"
+        },
+        {
+         "key": "right.padding.desktop",
+         "type": "text",
+         "title": "Padding (desktop)"
+        },
+        {
+         "key": "right.padding.mobile",
+         "type": "text",
+         "title": "Padding (mobile)"
+        },
+        {
+         "key": "right.align.value",
+         "title": "Align Content",
+         "type": "select",
+         "titleMap": [
+          {
+           "value": "flex-start",
+           "name": "Top"
+          },
+          {
+           "value": "center",
+           "name": "Center"
+          },
+          {
+           "value": "flex-end",
+           "name": "Bottom"
+          }
+         ]
+        },
+        {
+         "key": "showBackground",
+         "title": " Show background",
+         "type": "checkbox"
+        }
+       ]
+      },
+      "createdAt": "2019-06-11T09:31:08.688Z",
+      "updatedAt": "2022-03-17T14:07:54.736Z",
+      "__v": 0,
+      "icon": "public/widget-templates/icons/a6e42088-2f7b-446d-9f91-708e235b808b.png"
+     },
+     "payload": {
+      "left": {
+       "widget_id": "5ee527b310a64600397f33d9",
+       "columns": 1,
+       "padding": {
+        "desktop": "0px 50px 0px",
+        "mobile": "20px 0 0 0"
+       },
+       "align": {
+        "value": "null"
+       },
+       "content": {
+        "published": true,
+        "pages": [],
+        "_id": "5ee527b310a64600397f33d9",
+        "name": "Imagini interfata gestiune iiko",
+        "template": {
+         "_id": "5e25bb80ab98870031ec4470",
+         "name": "Widget Template - Images",
+         "type": "widget-images",
+         "structure": {
+          "schema": {
+           "type": "object",
+           "properties": {
+            "images": {
+             "type": "array",
+             "items": {
+              "type": "object",
+              "properties": {
+               "image": {
+                "type": "object",
+                "properties": {
+                 "mimetype": {
+                  "type": "string"
+                 },
+                 "path": {
+                  "type": "string"
+                 }
+                }
+               },
+               "imageUrl": {
+                "type": "string",
+                "default": "javascript:void(0)"
+               },
+               "imageTitle": {
+                "type": "string"
+               },
+               "order": {
+                "type": "number",
+                "default": 1000000
+               }
+              }
+             }
+            },
+            "layout": {
+             "type": "object",
+             "properties": {
+              "value": {
+               "type": "string"
+              },
+              "name": {
+               "type": "string"
+              }
+             }
+            },
+            "columns": {
+             "type": "number"
+            },
+            "showViewAll": {
+             "type": "boolean"
+            },
+            "showLoadMore": {
+             "type": "boolean"
+            },
+            "showImageUrl": {
+             "type": "boolean"
+            },
+            "limit": {
+             "type": "number"
+            },
+            "link": {
+             "type": "string"
+            },
+            "padding": {
+             "type": "string"
+            },
+            "imageHeight": {
+             "type": "string"
+            },
+            "overlay": {
+             "type": "object",
+             "properties": {
+              "value": {
+               "type": "string"
+              },
+              "name": {
+               "type": "string"
+              }
+             }
+            }
+           }
+          },
+          "layout": [
+           {
+            "key": "images",
+            "displayFlex": true,
+            "items": [
+             {
+              "key": "images[]",
+              "displayFlex": true,
+              "items": [
+               {
+                "key": "images[].image",
+                "type": "file"
+               },
+               {
+                "key": "images[].imageUrl",
+                "type": "string"
+               },
+               {
+                "key": "images[].imageTitle",
+                "type": "string"
+               },
+               {
+                "key": "images[].order",
+                "type": "number"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "key": "limit",
+            "type": "number",
+            "title": "Limit Images (leave empty for no limit)"
+           },
+           {
+            "key": "showViewAll",
+            "type": "radio",
+            "title": "Activează butonul Vezi toate"
+           },
+           {
+            "key": "showLoadMore",
+            "type": "radio",
+            "title": "Activează butonul Mai multe"
+           },
+           {
+            "key": "link",
+            "type": "text",
+            "title": "Link pentru butonul Vezi toate"
+           },
+           {
+            "key": "showImageUrl",
+            "type": "checkbox",
+            "title": " Vizualizare in carduri"
+           },
+           {
+            "key": "padding",
+            "type": "text",
+            "title": "Button (link) Padding"
+           },
+           {
+            "key": "overlay.value",
+            "title": "Overlay",
+            "type": "select",
+            "titleMap": [
+             {
+              "value": "white",
+              "name": "White"
+             },
+             {
+              "value": "grey",
+              "name": "Grey"
+             }
+            ]
+           },
+           {
+            "key": "layout.value",
+            "title": "Layout",
+            "type": "select",
+            "titleMap": [
+             {
+              "value": "flex",
+              "name": "Flex"
+             },
+             {
+              "value": "columns",
+              "name": "Columns"
+             }
+            ]
+           },
+           {
+            "key": "columns",
+            "title": "Columns per row",
+            "type": "number",
+            "condition": "layout.value"
+           },
+           {
+            "key": "imageHeight",
+            "title": "Maximum Image Height",
+            "type": "number",
+            "condition": "layout.value"
+           }
+          ]
+         },
+         "createdAt": "2020-01-20T14:38:56.730Z",
+         "updatedAt": "2026-06-19T11:42:14.944Z",
+         "__v": 0,
+         "icon": "public/widget-templates/icons/7dc13a4b-21dc-486d-b2ea-a31e522efc9f.png"
+        },
+        "payload": {
+         "images": [
+          {
+           "image": {
+            "mimetype": "image/png",
+            "path": "public/widgets/files/6cc696e7-c4e9-4a2f-9403-4842eedf55d2.png"
+           },
+           "imageUrl": "javascript:void(0)",
+           "order": 1000000
+          },
+          {
+           "image": {
+            "mimetype": "image/png",
+            "path": "public/widgets/files/c19559fb-64e3-414b-894c-3e4526af302a.png"
+           },
+           "imageUrl": "javascript:void(0)",
+           "order": 1000000
+          },
+          {
+           "image": {
+            "mimetype": "image/png",
+            "path": "public/widgets/files/f2c9e23b-d9f4-4f03-be09-0e018fd76ec0.png"
+           },
+           "imageUrl": "javascript:void(0)",
+           "order": 1000000
+          },
+          {
+           "image": {
+            "mimetype": "image/png",
+            "path": "public/widgets/files/8fa81900-96dc-45be-8e35-636a71b320d7.png"
+           },
+           "imageUrl": "javascript:void(0)",
+           "order": 1000000
+          }
+         ],
+         "layout": {
+          "value": "columns"
+         },
+         "columns": 1,
+         "limit": 4,
+         "imageHeight": "400",
+         "overlay": {
+          "value": "null"
+         }
+        },
+        "__v": 0,
+        "createdAt": "2020-06-13T19:23:31.099Z",
+        "updatedAt": "2026-06-19T11:57:14.617Z"
+       }
+      },
+      "right": {
+       "widget_id": "5ee5194310a64600397f33d8",
+       "columns": 1,
+       "align": {
+        "value": "null"
+       },
+       "content": {
+        "published": true,
+        "pages": [],
+        "_id": "5ee5194310a64600397f33d8",
+        "name": "Descriere interfata gestiune iiko - Landing software iikoDescription Features iiko - ",
+        "template": {
+         "_id": "5e5930cc75f9bc00315f3d61",
+         "name": "Title Description Feature",
+         "type": "title-description-feature-widget",
+         "structure": {
+          "schema": {
+           "type": "object",
+           "properties": {
+            "title": {
+             "type": "string"
+            },
+            "button": {
+             "type": "object",
+             "properties": {
+              "button_text": {
+               "type": "string"
+              },
+              "button_link": {
+               "type": "string"
+              }
+             }
+            },
+            "features": {
+             "type": "array",
+             "items": {
+              "type": "object",
+              "properties": {
+               "title": {
+                "type": "string"
+               },
+               "description": {
+                "type": "string"
+               }
+              }
+             }
+            }
+           }
+          },
+          "layout": [
+           {
+            "key": "title",
+            "type": "text"
+           },
+           {
+            "key": "features",
+            "displayFlex": true,
+            "items": [
+             {
+              "key": "features[].title",
+              "type": "text"
+             },
+             {
+              "key": "features[].description",
+              "type": "text"
+             }
+            ]
+           },
+           {
+            "key": "button.button_text",
+            "type": "text"
+           },
+           {
+            "key": "button.button_link",
+            "type": "text"
+           }
+          ]
+         },
+         "createdAt": "2020-02-28T15:25:00.158Z",
+         "updatedAt": "2021-03-24T21:58:27.522Z",
+         "__v": 0,
+         "icon": "public/widget-templates/icons/4a60fac7-c488-4076-9f73-d154be69ee2b.png"
+        },
+        "payload": {
+         "title": "Interfață de gestiune",
+         "features": [
+          {
+           "title": "1. ANALIZĂ DETALIATĂ A ACTIVITĂȚII",
+           "description": "Monitorizați în timp real toată informația privind activitățile magazinului pe compartimente și indicatori de performanță"
+          },
+          {
+           "title": "2. GESTIUNEA STOCURILOR",
+           "description": "Evidența cantităților de materii prime, consumabile, semifabricate, obiective de inventar, produse reziduale și finite, mărfuri și ambalaje"
+          },
+          {
+           "title": "3. GESTIONAREA CONTRACTELOR CU FURNIZORII",
+           "description": "Evidența contractelor cu detaliere pe furnizori, produse, prețuri și termen de valabilitate a contractelor"
+          },
+          {
+           "title": "4. GESTIONAREA PREȚURILOR",
+           "description": "Evidența prețurilor cu posibilitate de ajustare a acestora în regim oline"
+          },
+          {
+           "title": "5. GESTIUNEA PROCESULUI DE PRODUCERE",
+           "description": "Toate fișelor produselor sunt înregistrate în sistem și permit gestionarea materiilor prime pentru prepararea acestora"
+          },
+          {
+           "title": "6. ANALIZA VÂNZĂRILOR ÎN FUNCȚIE DE ZONA MAGAZIN",
+           "description": "Analiza vânzărilor pe perioade / magazin / casă sau vânzător "
+          }
+         ]
+        },
+        "__v": 0,
+        "createdAt": "2020-06-13T18:21:55.453Z",
+        "updatedAt": "2021-05-27T14:01:42.553Z"
+       }
+      }
+     },
+     "__v": 0,
+     "createdAt": "2020-06-13T18:21:17.503Z",
+     "updatedAt": "2021-05-27T14:09:30.842Z"
+    }
+   }
+  ]
+ },
+ "iiko cloud + MENU - Widget Header-1": {
+  "title": "MENIU iiko pe bază de cloud oferă 100% protecție și rapiditate",
+  "overlay": "linear-gradient(0deg, rgb(0, 0, 0) 0%, rgba(0, 0, 0, 0) 108.24%)",
+  "bgImage": {
+   "mimetype": "image/png",
+   "path": "public/widgets/files/abca4c22-24b9-427c-b694-a6421c9bd941.png"
+  },
+  "links": [
+   {
+    "name": "Ce este iiko",
+    "value": "2",
+    "type": "SCROLL"
+   },
+   {
+    "name": "Beneficii",
+    "value": "3",
+    "type": "SCROLL"
+   },
+   {
+    "name": "Funcții",
+    "value": "4",
+    "type": "SCROLL"
+   },
+   {
+    "name": "Soluții",
+    "value": "5",
+    "type": "SCROLL"
+   },
+   {
+    "name": "Hardware",
+    "value": "11",
+    "type": "SCROLL"
+   },
+   {
+    "name": "Cum lucrăm",
+    "value": "12",
+    "type": "SCROLL"
+   },
+   {
+    "name": "Clienți",
+    "value": "14",
+    "type": "SCROLL"
+   }
+  ]
+ },
+ "Ecran de bucatarie - iiko - BG GREY - Automatizare restaurant - Widget 2 ": {
+  "background": {
+   "value": "null"
+  },
+  "widgets": [
+   {
+    "widget_id": "5ede5eafb86d6b002e4336ed",
+    "content": {
+     "_id": "5ede5eafb86d6b002e4336ed",
+     "published": true,
+     "pages": [],
+     "name": "Dual Widget - Ecran de bucatarie",
+     "template": {
+      "_id": "5cff74dcc8eb6d003169595b",
+      "name": "Dual Widget",
+      "type": "dual-widget",
+      "structure": {
+       "schema": {
+        "type": "object",
+        "properties": {
+         "showBackground": {
+          "type": "boolean"
+         },
+         "left": {
+          "type": "object",
+          "properties": {
+           "widget_id": {
+            "type": "string"
+           },
+           "columns": {
+            "type": "number"
+           },
+           "padding": {
+            "type": "object",
+            "properties": {
+             "desktop": {
+              "type": "string"
+             },
+             "mobile": {
+              "type": "string"
+             }
+            }
+           },
+           "align": {
+            "type": "object",
+            "properties": {
+             "value": {
+              "type": "string"
+             },
+             "name": {
+              "type": "string"
+             }
+            }
+           }
+          }
+         },
+         "right": {
+          "type": "object",
+          "properties": {
+           "widget_id": {
+            "type": "string"
+           },
+           "columns": {
+            "type": "number"
+           },
+           "padding": {
+            "type": "object",
+            "properties": {
+             "desktop": {
+              "type": "string"
+             },
+             "mobile": {
+              "type": "string"
+             }
+            }
+           },
+           "align": {
+            "type": "object",
+            "properties": {
+             "value": {
+              "type": "string"
+             },
+             "name": {
+              "type": "string"
+             }
+            }
+           }
+          }
+         }
+        }
+       },
+       "layout": [
+        {
+         "title": "Left Widget"
+        },
+        {
+         "key": "left.widget_id",
+         "type": "text"
+        },
+        {
+         "key": "left.columns",
+         "type": "text"
+        },
+        {
+         "key": "left.padding.desktop",
+         "type": "text",
+         "title": "Padding (desktop)"
+        },
+        {
+         "key": "left.padding.mobile",
+         "type": "text",
+         "title": "Padding (mobile)"
+        },
+        {
+         "key": "left.align.value",
+         "title": "Align Content",
+         "type": "select",
+         "titleMap": [
+          {
+           "value": "flex-start",
+           "name": "Top"
+          },
+          {
+           "value": "center",
+           "name": "Center"
+          },
+          {
+           "value": "flex-end",
+           "name": "Bottom"
+          }
+         ]
+        },
+        {
+         "title": "Right Widget"
+        },
+        {
+         "key": "right.widget_id",
+         "type": "text"
+        },
+        {
+         "key": "right.columns",
+         "type": "text"
+        },
+        {
+         "key": "right.padding.desktop",
+         "type": "text",
+         "title": "Padding (desktop)"
+        },
+        {
+         "key": "right.padding.mobile",
+         "type": "text",
+         "title": "Padding (mobile)"
+        },
+        {
+         "key": "right.align.value",
+         "title": "Align Content",
+         "type": "select",
+         "titleMap": [
+          {
+           "value": "flex-start",
+           "name": "Top"
+          },
+          {
+           "value": "center",
+           "name": "Center"
+          },
+          {
+           "value": "flex-end",
+           "name": "Bottom"
+          }
+         ]
+        },
+        {
+         "key": "showBackground",
+         "title": " Show background",
+         "type": "checkbox"
+        }
+       ]
+      },
+      "createdAt": "2019-06-11T09:31:08.688Z",
+      "updatedAt": "2022-03-17T14:07:54.736Z",
+      "__v": 0,
+      "icon": "public/widget-templates/icons/a6e42088-2f7b-446d-9f91-708e235b808b.png"
+     },
+     "payload": {
+      "left": {
+       "widget_id": "5ede6325b86d6b002e4336ef",
+       "columns": 1,
+       "padding": {
+        "desktop": "120px 0px 0px",
+        "mobile": "10px 0 0 0"
+       },
+       "align": {
+        "value": "null"
+       },
+       "content": {
+        "published": true,
+        "pages": [],
+        "_id": "5ede6325b86d6b002e4336ef",
+        "name": "Menu electronic - iiko Foto Slider 2",
+        "template": {
+         "_id": "5e58f25e12a6980031c26a6d",
+         "name": "Images Slider",
+         "type": "slider-images",
+         "structure": {
+          "schema": {
+           "type": "object",
+           "properties": {
+            "images": {
+             "type": "array",
+             "items": {
+              "type": "object",
+              "properties": {
+               "image": {
+                "type": "object",
+                "properties": {
+                 "mimetype": {
+                  "type": "string"
+                 },
+                 "path": {
+                  "type": "string"
+                 }
+                }
+               }
+              }
+             }
+            }
+           }
+          },
+          "layout": [
+           {
+            "key": "images",
+            "displayFlex": true,
+            "items": [
+             {
+              "key": "images[]",
+              "displayFlex": true,
+              "items": [
+               {
+                "key": "images[].image",
+                "type": "file"
+               }
+              ]
+             }
+            ]
+           }
+          ]
+         },
+         "createdAt": "2020-02-28T10:58:38.466Z",
+         "updatedAt": "2021-03-24T21:06:52.213Z",
+         "__v": 0,
+         "icon": "public/widget-templates/icons/ca3f3f2c-264c-470a-8620-11ebff463c4c.png"
+        },
+        "payload": {
+         "images": [
+          {
+           "image": {
+            "mimetype": "image/png",
+            "path": "public/widgets/files/9eb8f37d-172e-4cad-81c1-f38d6dd59be6.png"
+           }
+          }
+         ]
+        },
+        "__v": 0,
+        "createdAt": "2020-06-08T16:11:17.392Z",
+        "updatedAt": "2021-05-27T13:30:02.124Z"
+       }
+      },
+      "right": {
+       "widget_id": "5ede5f14b86d6b002e4336ee",
+       "columns": 1,
+       "align": {
+        "value": "null"
+       },
+       "content": {
+        "published": true,
+        "pages": [],
+        "_id": "5ede5f14b86d6b002e4336ee",
+        "name": "Menu electronic - iiko Ro Acordion 2",
+        "template": {
+         "_id": "5e59015712a6980031c26b65",
+         "name": "Accordion Widget",
+         "type": "widget-accordion",
+         "structure": {
+          "schema": {
+           "type": "object",
+           "properties": {
+            "title": {
+             "type": "string"
+            },
+            "description": {
+             "type": "string"
+            },
+            "button": {
+             "type": "object",
+             "properties": {
+              "button_text": {
+               "type": "string"
+              },
+              "button_link": {
+               "type": "string"
+              }
+             }
+            },
+            "accordions": {
+             "type": "array",
+             "items": {
+              "type": "object",
+              "properties": {
+               "header": {
+                "type": "string"
+               },
+               "description": {
+                "type": "string"
+               }
+              }
+             }
+            }
+           }
+          },
+          "layout": [
+           {
+            "key": "title",
+            "type": "text"
+           },
+           {
+            "key": "description",
+            "type": "text"
+           },
+           {
+            "key": "accordions",
+            "displayFlex": true,
+            "items": [
+             {
+              "key": "accordions[].header",
+              "type": "text"
+             },
+             {
+              "key": "accordions[].description",
+              "type": "text"
+             }
+            ]
+           },
+           {
+            "key": "button.button_text",
+            "type": "text"
+           },
+           {
+            "key": "button.button_link",
+            "type": "text"
+           }
+          ]
+         },
+         "createdAt": "2020-02-28T12:02:31.326Z",
+         "updatedAt": "2021-03-24T22:26:01.019Z",
+         "__v": 0,
+         "icon": "public/widget-templates/icons/06ba8d01-3a31-4a63-852e-288c256c7ce4.png"
+        },
+        "payload": {
+         "title": "Gestiunea bucatariei",
+         "description": "Avertizare vizuala si sonora pe ecranul bucatarului in momentul in care apare o comanda noua, posibilitatea vizualizarii comenzilor in diferite tipuri de afisari, produse, feluri de mancare, rute de livrare, zone ale bucatariei, ingrediente, stocuri etc. Utilizand acest modul, bucatarul va avea o evidenta mult mai clara asupra comenzilor, avand posibilitatea de a modifica starea fiecareia: in asteptare, in lucru, finalizata, iar ospatarul va fi informat in momentul finalizarii comenzii.",
+         "button": {
+          "button_text": "Mai multe",
+          "button_link": "/iiko-sistem-de-gestiune-pentru-restaurant-bar-si-cafenea"
+         },
+         "accordions": [
+          {
+           "header": "Ordinea comenzilor",
+           "description": "Fiecare comandă este afișată într-un bloc separat. Antetul conține informațiile despre comandă și este colorat în funcție de starea comenzii."
+          },
+          {
+           "header": "Statut separat pentru bucate",
+           "description": "Daca ati intarziat cu unele bucate - le puteti trimite pe cele care se pot servi imediat."
+          },
+          {
+           "header": "Evidenta costului produselor utilizate",
+           "description": "Raport retete de bucatarie cu vizualizarea costurilor de productie aferente materiei prime si adaosul practicat."
+          },
+          {
+           "header": "Afisarea stocului de produse disponibil",
+           "description": "Vizualizare necesar de materie prima in vederea aprovizionarii pentru un eveniment planificat."
+          }
+         ]
+        },
+        "__v": 0,
+        "createdAt": "2020-06-08T15:53:56.276Z",
+        "updatedAt": "2021-04-09T05:53:25.551Z"
+       }
+      }
+     },
+     "__v": 0,
+     "createdAt": "2020-06-08T15:52:15.851Z",
+     "updatedAt": "2021-04-07T11:48:39.436Z"
+    }
+   }
+  ]
+ },
+ "Empty Space-45-0.": {
+  "height": {
+   "desktop": "40",
+   "mobile": "0"
+  }
+ },
+ "Echipament - IMAGE+TEXT -  Ro Text Features": {
+  "title": "Veți avea nevoie de cele mai bune echipamente",
+  "image": {
+   "mimetype": "image/png",
+   "path": "public/widgets/files/bda5308d-98c7-44cf-b368-0c56e268c1d3.png"
+  },
+  "button": {
+   "button_text": "Află mai multe",
+   "button_link": "/contacte"
+  },
+  "features": [
+   {
+    "text": "Hardware proiectat special pentru HoReCa cu funcționalitate specifică și interfață gândită pentru utilizatorii din domeniu - soluțiile RTI sunt unice la fel ca afacerea ta"
+   },
+   {
+    "text": "Există posibilitatea integrării cu numeroase alte soluții software și hardware: contabilitate, producție, gestiune, management hotelier sau sisteme de supraveghere video, procesare automata cash, sisteme digitale de plată și multe altele."
+   },
+   {
+    "text": "Este posibilă conectarea echipamentelor periferice uzuale: imprimantă de secție, cântar, sistem de dozare băuturi, cash management, cititor carduri, afișaj client, scaner, sisteme de supraveghere video și altele."
+   },
+   {
+    "text": "Produsele noastre sunt disponibile în toată lumea printr-o rețea de parteneri specializați și calificați cu experiență vastă în domeniu. <br> Acest lucru vă garantează soluții personalizate și suport de încredere online sau în teren, reducând la minim perioadele de avarie, ce pot fi foarte costisitoare!"
+   }
+  ]
+ },
+ "Servicii si suport - Landing iiko -Dual Widget-9": {
+  "left": {
+   "widget_id": "5ed9e3e4b86d6b002e433562",
+   "columns": 7,
+   "padding": {
+    "desktop": "10px 50px 20px 0",
+    "mobile": "0"
+   },
+   "content": {
+    "published": true,
+    "pages": [],
+    "_id": "5ed9e3e4b86d6b002e433562",
+    "name": "Serviciile noastre",
+    "template": {
+     "_id": "5cff785ec8eb6d003169595d",
+     "name": "Advantages Widget",
+     "type": "advantages-widget",
+     "structure": {
+      "schema": {
+       "type": "object",
+       "properties": {
+        "title": {
+         "type": "string"
+        },
+        "label": {
+         "type": "string"
+        },
+        "advantages": {
+         "type": "array",
+         "items": {
+          "type": "object",
+          "properties": {
+           "title": {
+            "type": "string"
+           },
+           "description": {
+            "type": "string"
+           }
+          }
+         }
+        }
+       }
+      },
+      "layout": [
+       {
+        "key": "title",
+        "type": "text"
+       },
+       {
+        "key": "label",
+        "type": "text"
+       },
+       {
+        "key": "advantages",
+        "displayFlex": true,
+        "items": [
+         {
+          "key": "advantages[].title",
+          "type": "text"
+         },
+         {
+          "key": "advantages[].description",
+          "type": "textarea"
+         }
+        ]
+       }
+      ]
+     },
+     "createdAt": "2019-06-11T09:46:06.297Z",
+     "updatedAt": "2020-01-08T10:22:09.465Z",
+     "__v": 0,
+     "icon": "public/widget-templates/icons/c8787b77-7ea3-4329-910e-b8312320ee1e.png"
+    },
+    "payload": {
+     "title": "Proiect la cheie în 4 pasi ",
+     "advantages": [
+      {
+       "title": "Configurare si programare ",
+       "description": "Alegem solutii individuale afacerii Dvs., totul la pachet, preconfigurat si testat"
+      },
+      {
+       "title": "Punere in functiune ",
+       "description": "Suntem distribuitor exclusiv al echipamentelor, oferim garanție pana la 3 ani"
+      },
+      {
+       "title": "Training profesional ",
+       "description": "Instruim gratuit personalul si oferim suport pentru configurări legate de soft"
+      },
+      {
+       "title": "Suport tehnic si consultanta",
+       "description": "Departamentul tehnic autorizat va ofera asistenta si support remote pentru orice intrebari"
+      }
+     ]
+    },
+    "__v": 0,
+    "createdAt": "2020-06-05T06:19:16.338Z",
+    "updatedAt": "2021-05-27T13:32:41.276Z"
+   }
+  },
+  "right": {
+   "widget_id": "5f5e62dac77b52003955b507",
+   "columns": 5,
+   "content": {
+    "published": true,
+    "pages": [],
+    "_id": "5f5e62dac77b52003955b507",
+    "name": "Imagine suport tehnic iiko",
+    "template": {
+     "_id": "5e25bb80ab98870031ec4470",
+     "name": "Widget Template - Images",
+     "type": "widget-images",
+     "structure": {
+      "schema": {
+       "type": "object",
+       "properties": {
+        "images": {
+         "type": "array",
+         "items": {
+          "type": "object",
+          "properties": {
+           "image": {
+            "type": "object",
+            "properties": {
+             "mimetype": {
+              "type": "string"
+             },
+             "path": {
+              "type": "string"
+             }
+            }
+           },
+           "imageUrl": {
+            "type": "string",
+            "default": "javascript:void(0)"
+           },
+           "imageTitle": {
+            "type": "string"
+           },
+           "order": {
+            "type": "number",
+            "default": 1000000
+           }
+          }
+         }
+        },
+        "layout": {
+         "type": "object",
+         "properties": {
+          "value": {
+           "type": "string"
+          },
+          "name": {
+           "type": "string"
+          }
+         }
+        },
+        "columns": {
+         "type": "number"
+        },
+        "showViewAll": {
+         "type": "boolean"
+        },
+        "showLoadMore": {
+         "type": "boolean"
+        },
+        "showImageUrl": {
+         "type": "boolean"
+        },
+        "limit": {
+         "type": "number"
+        },
+        "link": {
+         "type": "string"
+        },
+        "padding": {
+         "type": "string"
+        },
+        "imageHeight": {
+         "type": "string"
+        },
+        "overlay": {
+         "type": "object",
+         "properties": {
+          "value": {
+           "type": "string"
+          },
+          "name": {
+           "type": "string"
+          }
+         }
+        }
+       }
+      },
+      "layout": [
+       {
+        "key": "images",
+        "displayFlex": true,
+        "items": [
+         {
+          "key": "images[]",
+          "displayFlex": true,
+          "items": [
+           {
+            "key": "images[].image",
+            "type": "file"
+           },
+           {
+            "key": "images[].imageUrl",
+            "type": "string"
+           },
+           {
+            "key": "images[].imageTitle",
+            "type": "string"
+           },
+           {
+            "key": "images[].order",
+            "type": "number"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "key": "limit",
+        "type": "number",
+        "title": "Limit Images (leave empty for no limit)"
+       },
+       {
+        "key": "showViewAll",
+        "type": "radio",
+        "title": "Activează butonul Vezi toate"
+       },
+       {
+        "key": "showLoadMore",
+        "type": "radio",
+        "title": "Activează butonul Mai multe"
+       },
+       {
+        "key": "link",
+        "type": "text",
+        "title": "Link pentru butonul Vezi toate"
+       },
+       {
+        "key": "showImageUrl",
+        "type": "checkbox",
+        "title": " Vizualizare in carduri"
+       },
+       {
+        "key": "padding",
+        "type": "text",
+        "title": "Button (link) Padding"
+       },
+       {
+        "key": "overlay.value",
+        "title": "Overlay",
+        "type": "select",
+        "titleMap": [
+         {
+          "value": "white",
+          "name": "White"
+         },
+         {
+          "value": "grey",
+          "name": "Grey"
+         }
+        ]
+       },
+       {
+        "key": "layout.value",
+        "title": "Layout",
+        "type": "select",
+        "titleMap": [
+         {
+          "value": "flex",
+          "name": "Flex"
+         },
+         {
+          "value": "columns",
+          "name": "Columns"
+         }
+        ]
+       },
+       {
+        "key": "columns",
+        "title": "Columns per row",
+        "type": "number",
+        "condition": "layout.value"
+       },
+       {
+        "key": "imageHeight",
+        "title": "Maximum Image Height",
+        "type": "number",
+        "condition": "layout.value"
+       }
+      ]
+     },
+     "createdAt": "2020-01-20T14:38:56.730Z",
+     "updatedAt": "2026-06-19T11:42:14.944Z",
+     "__v": 0,
+     "icon": "public/widget-templates/icons/7dc13a4b-21dc-486d-b2ea-a31e522efc9f.png"
+    },
+    "payload": {
+     "images": [
+      {
+       "image": {
+        "mimetype": "image/jpeg",
+        "path": "public/widgets/files/61bd6427-e8a2-47e4-bf57-a907cefd842f.jpg"
+       }
+      }
+     ],
+     "layout": {
+      "value": "columns"
+     },
+     "columns": 1,
+     "imageHeight": "1200",
+     "overlay": {
+      "value": "null"
+     }
+    },
+    "__v": 0,
+    "createdAt": "2020-09-13T18:20:10.319Z",
+    "updatedAt": "2020-09-13T18:21:23.959Z"
+   }
+  }
+ },
+ "Empty Space-10-10": {
+  "height": {
+   "desktop": "10",
+   "mobile": "10"
+  }
+ },
+ "Titlu si descriere clientii HORECA DUAL - Landing Horeca": {
+  "left": {
+   "widget_id": "5f5f082ac77b52003955b51a",
+   "columns": 2,
+   "padding": {
+    "desktop": "0 100px 0 0",
+    "mobile": "0 0 30px 0"
+   },
+   "content": {
+    "published": true,
+    "pages": [],
+    "_id": "5f5f082ac77b52003955b51a",
+    "name": "TITLE PARTNERS RO - Landing Horeca",
+    "template": {
+     "_id": "5e25c84aab98870031ec4474",
+     "name": "Title",
+     "type": "title-widget",
+     "structure": {
+      "schema": {
+       "type": "object",
+       "properties": {
+        "title": {
+         "type": "string"
+        },
+        "maxWidth": {
+         "type": "string"
+        },
+        "background": {
+         "type": "string"
+        }
+       }
+      },
+      "layout": [
+       {
+        "key": "title",
+        "type": "html"
+       },
+       {
+        "key": "maxWidth",
+        "title": "Max With (px)",
+        "type": "number"
+       },
+       {
+        "key": "background",
+        "title": "Background",
+        "type": "string"
+       }
+      ]
+     },
+     "createdAt": "2020-01-20T15:33:30.474Z",
+     "updatedAt": "2021-03-24T21:06:23.692Z",
+     "__v": 0,
+     "icon": "public/widget-templates/icons/24d45201-05d3-458e-9d4e-6427283bc052.png"
+    },
+    "payload": {
+     "title": "<h1>Peste 600 de intreprinderi comerciale, magazine cu amanuntul si angrosisti</h1>",
+     "maxWidth": "700"
+    },
+    "__v": 0,
+    "createdAt": "2020-09-14T06:05:30.351Z",
+    "updatedAt": "2022-04-08T13:37:17.179Z"
+   }
+  },
+  "right": {
+   "widget_id": "5f5f0845c77b52003955b51b",
+   "columns": 1,
+   "align": {
+    "value": "flex-end"
+   },
+   "content": {
+    "published": true,
+    "pages": [],
+    "_id": "5f5f0845c77b52003955b51b",
+    "name": "DESCRIPTION PARTNERS RO - Landing Horeca",
+    "template": {
+     "_id": "5cffa869c8eb6d0031695963",
+     "name": "Description Widget",
+     "type": "description-widget",
+     "structure": {
+      "schema": {
+       "type": "object",
+       "properties": {
+        "label": {
+         "type": "string"
+        },
+        "description": {
+         "type": "string"
+        },
+        "rows": {
+         "type": "number"
+        }
+       }
+      },
+      "layout": [
+       {
+        "key": "label",
+        "type": "text"
+       },
+       {
+        "key": "description",
+        "type": "html"
+       },
+       {
+        "key": "rows",
+        "title": "Maximum rows (enter the number)",
+        "type": "number"
+       }
+      ]
+     },
+     "createdAt": "2019-06-11T13:11:05.559Z",
+     "updatedAt": "2021-04-29T10:08:58.875Z",
+     "__v": 0,
+     "icon": "public/widget-templates/icons/b0b9c260-22fa-4e05-92e6-ea32ede21cec.png"
+    },
+    "payload": {
+     "description": "<p>Clientii RTI beneficiaza de conditii individuale de cooperare, asistenta tehnica si informationala.</p>",
+     "rows": 3
+    },
+    "__v": 0,
+    "createdAt": "2020-09-14T06:05:57.014Z",
+    "updatedAt": "2022-04-08T20:20:47.089Z"
+   }
+  }
+ },
+ "LOGO CLIENTI PARTENERI RO - Automatizare restaurant ": {
+  "images": [
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/b664f544-5e56-4f0b-a0be-5c6eaeaec0e5.png"
+    },
+    "imageUrl": "javascript:void(0)",
+    "order": 1000000
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/9f792f5f-af4c-4084-a432-3f3a5a39d062.png"
+    },
+    "imageUrl": "javascript:void(0)",
+    "order": 1000000
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/c7a79169-c112-4dc8-a076-b581687e20dd.png"
+    },
+    "imageUrl": "javascript:void(0)",
+    "order": 1000000
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/351baed9-c59d-48f3-8e64-b2ace3460131.png"
+    },
+    "imageUrl": "javascript:void(0)",
+    "order": 1000000
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/52ad84e8-9a25-4644-af60-b6fdc49c1530.png"
+    },
+    "imageUrl": "javascript:void(0)",
+    "order": 1000000
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/f9ce1baf-7750-4804-8203-304f5ab68813.png"
+    },
+    "imageUrl": "javascript:void(0)",
+    "order": 1000000
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/886942fe-c210-4a76-95e9-49977d804b45.png"
+    },
+    "imageUrl": "javascript:void(0)",
+    "order": 1000000
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/3e0f190b-0350-459e-835f-3afafdd9fed2.png"
+    },
+    "imageUrl": "javascript:void(0)",
+    "order": 1000000
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/7bbd37da-2524-4a5e-8f5a-6582d1601cad.png"
+    },
+    "imageUrl": "javascript:void(0)",
+    "order": 1000000
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/4953588b-2fd7-4ce4-bba2-42a0c75616d6.png"
+    },
+    "imageUrl": "javascript:void(0)",
+    "order": 1000000
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/cb235d48-ecc5-4639-8c77-b4e4b652f80f.png"
+    },
+    "imageUrl": "javascript:void(0)",
+    "order": 1000000
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/3606eb19-c9ee-40c1-a910-c7f782b0361e.png"
+    },
+    "imageUrl": "javascript:void(0)",
+    "order": 1000000
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/c2848d74-0ae9-4cd8-a0e1-87d84c30f0c9.png"
+    },
+    "imageUrl": "javascript:void(0)",
+    "order": 1000000
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/4e6043bd-0b26-43ea-98db-f2423a7d8d94.png"
+    },
+    "imageUrl": "javascript:void(0)",
+    "order": 1000000
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/e5123641-6def-4b7e-87ba-bb74bceb0c4a.png"
+    },
+    "imageUrl": "javascript:void(0)",
+    "order": 1000000
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/757fa8ea-35db-41d6-9c87-b853b1ac218b.png"
+    },
+    "imageUrl": "javascript:void(0)",
+    "order": 1000000
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/5a538171-bdb6-4980-81a9-ba76ef5ec3ef.png"
+    },
+    "imageUrl": "javascript:void(0)",
+    "order": 1000000
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/cd0ea634-d886-479a-88b4-5d325c45bb46.png"
+    },
+    "imageUrl": "javascript:void(0)",
+    "order": 1000000
+   },
+   {
+    "image": {
+     "mimetype": "image/png",
+     "path": "public/widgets/files/7eac0cea-58c0-4fa4-bfd9-e1d2890e0a4a.png"
+    },
+    "imageUrl": "javascript:void(0)",
+    "order": 1000000
+   }
+  ],
+  "layout": {
+   "value": "columns"
+  },
+  "columns": 5,
+  "showViewAll": true,
+  "limit": 15,
+  "link": "/partners",
+  "padding": "40px 0 0 0",
+  "imageHeight": "100",
+  "overlay": {
+   "value": "white"
+  }
+ }
+}

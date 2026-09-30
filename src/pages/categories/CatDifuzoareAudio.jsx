@@ -70,7 +70,7 @@ export default function CatDifuzoareAudio() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,boxa-de-tavan-apart-cm3t" />
+                                      <link itemprop="url" href="/product/boxa-de-tavan-apart-cm3t" />
                                       <meta itemprop="name" content="Boxa de tavan RSound CM3T" />
                                       <a href="/product/boxa-de-tavan-apart-cm3t">
                                         Boxa de tavan RSound CM3T
@@ -109,7 +109,7 @@ export default function CatDifuzoareAudio() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,boxa-de-tavan-apart-cm4t" />
+                                      <link itemprop="url" href="/product/boxa-de-tavan-apart-cm4t" />
                                       <meta itemprop="name" content="Boxa de tavan RSound CM4T" />
                                       <a href="/product/boxa-de-tavan-apart-cm4t">
                                         Boxa de tavan RSound CM4T
@@ -148,7 +148,7 @@ export default function CatDifuzoareAudio() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,boxa-de-tavan-apart-cm6t" />
+                                      <link itemprop="url" href="/product/boxa-de-tavan-apart-cm6t" />
                                       <meta itemprop="name" content="Boxa de tavan RSound CM6T" />
                                       <a href="/product/boxa-de-tavan-apart-cm6t">
                                         Boxa de tavan RSound CM6T
@@ -187,7 +187,7 @@ export default function CatDifuzoareAudio() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,boxa-de-tavan-apart-cm20t" />
+                                      <link itemprop="url" href="/product/boxa-de-tavan-apart-cm20t" />
                                       <meta itemprop="name" content="Boxa de tavan RSound-CM20T" />
                                       <a href="/product/boxa-de-tavan-apart-cm20t">
                                         Boxa de tavan RSound-CM20T
@@ -226,7 +226,7 @@ export default function CatDifuzoareAudio() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,difuzor-de-gradina-apart-rock-20" />
+                                      <link itemprop="url" href="/product/difuzor-de-gradina-apart-rock-20" />
                                       <meta itemprop="name" content="Difuzor decorativ APart Rock20" />
                                       <a href="/product/difuzor-de-gradina-apart-rock-20">
                                         Difuzor decorativ APart Rock20
@@ -265,7 +265,7 @@ export default function CatDifuzoareAudio() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,difuzor-de-gradina-apart-rock-608" />
+                                      <link itemprop="url" href="/product/difuzor-de-gradina-apart-rock-608" />
                                       <meta itemprop="name" content="Difuzor decorativ APart Rock608" />
                                       <a href="/product/difuzor-de-gradina-apart-rock-608">
                                         Difuzor decorativ APart Rock608
@@ -304,7 +304,7 @@ export default function CatDifuzoareAudio() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,difuzor-de-exterior-apart-sph16" />
+                                      <link itemprop="url" href="/product/difuzor-de-exterior-apart-sph16" />
                                       <meta itemprop="name" content="Difuzor suspendat APart SPH16" />
                                       <a href="/product/difuzor-de-exterior-apart-sph16">
                                         Difuzor suspendat APart SPH16
@@ -343,7 +343,7 @@ export default function CatDifuzoareAudio() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,difuzor-de-exterior-apart-sph20" />
+                                      <link itemprop="url" href="/product/difuzor-de-exterior-apart-sph20" />
                                       <meta itemprop="name" content="Difuzor suspendat APart SPH20" />
                                       <a href="/product/difuzor-de-exterior-apart-sph20">
                                         Difuzor suspendat APart SPH20
@@ -382,7 +382,7 @@ export default function CatDifuzoareAudio() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,audio-difuzor-de-perete-rsound-ms35" />
+                                      <link itemprop="url" href="/product/audio-difuzor-de-perete-rsound-ms35" />
                                       <meta itemprop="name" content="Audio difuzor de perete RSound MS35" />
                                       <a href="/product/audio-difuzor-de-perete-rsound-ms35">
                                         Audio difuzor de perete RSound MS35

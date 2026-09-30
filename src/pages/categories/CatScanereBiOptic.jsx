@@ -70,7 +70,7 @@ export default function CatScanereBiOptic() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,scaner-bi-optic-datalogic-magellan-9550i" />
+                                      <link itemprop="url" href="/product/scaner-bi-optic-datalogic-magellan-9550i" />
                                       <meta itemprop="name" content="Scaner Bi-optic Datalogic Magellan 9550i" />
                                       <a href="/product/scaner-bi-optic-datalogic-magellan-9550i">
                                         Scaner Bi-optic Datalogic Magellan 9550i
@@ -109,7 +109,7 @@ export default function CatScanereBiOptic() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,scaner-bioptic-datalogic-magellan-9800i" />
+                                      <link itemprop="url" href="/product/scaner-bioptic-datalogic-magellan-9800i" />
                                       <meta itemprop="name" content="Scaner Bi-optic Datalogic Magellan 9800i" />
                                       <a href="/product/scaner-bioptic-datalogic-magellan-9800i">
                                         Scaner Bi-optic Datalogic Magellan 9800i

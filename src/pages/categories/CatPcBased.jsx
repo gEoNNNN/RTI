@@ -70,7 +70,7 @@ export default function CatPcBased() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,cantar-dibal-self-service-serie-500" />
+                                      <link itemprop="url" href="/product/cantar-dibal-self-service-serie-500" />
                                       <meta itemprop="name" content="Cantar Dibal self-service serie 500" />
                                       <a href="/product/cantar-dibal-self-service-serie-500">
                                         Cantar Dibal self-service serie 500
@@ -109,7 +109,7 @@ export default function CatPcBased() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,cantar-cu-autodeservire-dibal-cs-1100-w-pc-based-cu-eticheta" />
+                                      <link itemprop="url" href="/product/cantar-cu-autodeservire-dibal-cs-1100-w-pc-based-cu-eticheta" />
                                       <meta itemprop="name" content="Cantar cu autodeservire PC Based Dibal CS-1100 W cu eticheta " />
                                       <a href="/product/cantar-cu-autodeservire-dibal-cs-1100-w-pc-based-cu-eticheta">
                                         Cantar cu autodeservire PC Based Dibal CS-1100 W
@@ -148,7 +148,7 @@ export default function CatPcBased() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,pc-scales-cs-2200-series-self-service-totem-dibal" />
+                                      <link itemprop="url" href="/product/pc-scales-cs-2200-series-self-service-totem-dibal" />
                                       <meta itemprop="name" content="PC SCALES CS-2200  series Self-Service Totem  Dibal" />
                                       <a href="/product/pc-scales-cs-2200-series-self-service-totem-dibal">
                                         PC SCALES CS-2200  series Self-Service Totem 
@@ -194,7 +194,7 @@ export default function CatPcBased() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,cintar-dibal-autoservire-serie-900" />
+                                      <link itemprop="url" href="/product/cintar-dibal-autoservire-serie-900" />
                                       <meta itemprop="name" content="Cantar Dibal autoservire serie 900" />
                                       <a href="/product/cintar-dibal-autoservire-serie-900">
                                         Cantar Dibal autoservire serie 900

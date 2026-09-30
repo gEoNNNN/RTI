@@ -124,7 +124,7 @@ export default function CatEchipamenteDeParcare() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,bariere" />
+                                      <link itemprop="url" href="/product/bariere" />
                                       <meta itemprop="name" content="Bariera Automata RParking" />
                                       <a href="/product/bariere">
                                         Bariera Automata RParking
@@ -163,7 +163,7 @@ export default function CatEchipamenteDeParcare() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,terminal-de-intrare" />
+                                      <link itemprop="url" href="/product/terminal-de-intrare" />
                                       <meta itemprop="name" content="Terminal de Intrare Ticket System" />
                                       <a href="/product/terminal-de-intrare">
                                         Terminal de Intrare Ticket System
@@ -202,7 +202,7 @@ export default function CatEchipamenteDeParcare() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,terminal-de-plata-automata" />
+                                      <link itemprop="url" href="/product/terminal-de-plata-automata" />
                                       <meta itemprop="name" content="Terminal de Plata Automată " />
                                       <a href="/product/terminal-de-plata-automata">
                                         Terminal de Plata Automată 
@@ -241,7 +241,7 @@ export default function CatEchipamenteDeParcare() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,terminal-de-intrare-cardpass-rparking" />
+                                      <link itemprop="url" href="/product/terminal-de-intrare-cardpass-rparking" />
                                       <meta itemprop="name" content="Terminal de Intrare CardPass RParking" />
                                       <a href="/product/terminal-de-intrare-cardpass-rparking">
                                         Terminal de Intrare CardPass RParking
@@ -280,7 +280,7 @@ export default function CatEchipamenteDeParcare() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,terminal-de-iesire-cardpass-rparking" />
+                                      <link itemprop="url" href="/product/terminal-de-iesire-cardpass-rparking" />
                                       <meta itemprop="name" content="Terminal de Ieșire CardPass RParking" />
                                       <a href="/product/terminal-de-iesire-cardpass-rparking">
                                         Terminal de Ieșire CardPass RParking
@@ -319,7 +319,7 @@ export default function CatEchipamenteDeParcare() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,terminal-de-iesire-ticket-system" />
+                                      <link itemprop="url" href="/product/terminal-de-iesire-ticket-system" />
                                       <meta itemprop="name" content="Terminal de Ieșire Ticket System" />
                                       <a href="/product/terminal-de-iesire-ticket-system">
                                         Terminal de Ieșire Ticket System
@@ -358,7 +358,7 @@ export default function CatEchipamenteDeParcare() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,terminal-de-plata-generatia-2" />
+                                      <link itemprop="url" href="/product/terminal-de-plata-generatia-2" />
                                       <meta itemprop="name" content="Terminal de Plată Generația 2" />
                                       <a href="/product/terminal-de-plata-generatia-2">
                                         Terminal de Plată Generația 2
@@ -397,7 +397,7 @@ export default function CatEchipamenteDeParcare() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,blocator-de-parcare-inteligent-pshare-n01ru" />
+                                      <link itemprop="url" href="/product/blocator-de-parcare-inteligent-pshare-n01ru" />
                                       <meta itemprop="name" content=" Blocator de Parcare Inteligent - Rparking Lock" />
                                       <a href="/product/blocator-de-parcare-inteligent-pshare-n01ru">
                                          Blocator de Parcare Inteligent - Rparking Lock
@@ -443,7 +443,7 @@ export default function CatEchipamenteDeParcare() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,detachers-universal" />
+                                      <link itemprop="url" href="/product/detachers-universal" />
                                       <meta itemprop="name" content="Bariera Automată RParking PRO" />
                                       <a href="/product/detachers-universal">
                                         Bariera Automată RParking PRO

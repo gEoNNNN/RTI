@@ -2,20 +2,13 @@ import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import { imgUrl } from '../data/helpers';
 import { richText } from './HomePage';
-import page from '../data/despre_page.json';
+import pageRo from '../data/despre_page.json';
+import pageRu from '../data/ru/despre_page.json';
+import pageEn from '../data/en/despre_page.json';
+import { useLang, useT, useTo, to, pick } from '../lang';
 
-const header = page[0].payload || {};
-const breadcrumbs = (page[1].payload || {}).breadcrumbs || [];
-const nested = page[2].nested || [];
-const clientsDual = page[4];
-const logos = page[5].payload || {};
 
 // nested widgets inside .background.grey-right (widget-3)
-const nTitleDual = nested[1]; // dual: title + short description
-const nLongDesc = nested[3].payload || {}; // company description + links
-const nAwards = nested[5].payload || {}; // certificates grid
-const nVideoDual = nested[7]; // dual: video + user quote
-const nRed = nested[9].payload || {}; // red features "Succesul nostru e in cifre"
 
 const ytId = (url) => {
   const m = /[?&]v=([^&]+)/.exec(url || '') || /youtu\.be\/([^?&]+)/.exec(url || '');
@@ -149,6 +142,19 @@ function ImgLink({ url, children }) {
 }
 
 export default function AboutPage() {
+  const lang = useLang();
+  const page = pick(lang, pageRo, pageRu, pageEn);
+  const header = page[0].payload || {};
+  const breadcrumbs = (page[1].payload || {}).breadcrumbs || [];
+  const nested = page[2].nested || [];
+  const clientsDual = page[4];
+  const logos = page[5].payload || {};
+  const nestedDuals = nested.filter((w) => w && w.type === 'dual-widget');
+  const nTitleDual = nestedDuals[0] || {}; // dual: title + short description
+  const nLongDesc = (nested.find((w) => w && w.type === 'description-widget') || {}).payload || {}; // company description + links
+  const nAwards = (nested.find((w) => w && w.type === 'widget-images') || {}).payload || {}; // certificates grid
+  const nVideoDual = nestedDuals[1] || {}; // dual: video + user quote
+  const nRed = (nested.find((w) => w && w.type === 'widget-red-features') || {}).payload || {}; // red features "Succesul nostru e in cifre"
   return (
     <div className="site__body about-page">
       {/* widget-1: page header */}

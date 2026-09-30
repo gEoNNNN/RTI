@@ -70,7 +70,7 @@ export default function CatTerminaleDatalogic() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,terminal-mobil-datalogic-memor-1" />
+                                      <link itemprop="url" href="/product/terminal-mobil-datalogic-memor-1" />
                                       <meta itemprop="name" content="Terminal mobil Datalogic Memor 1" />
                                       <a href="/product/terminal-mobil-datalogic-memor-1">
                                         Terminal mobil Datalogic Memor 1
@@ -109,7 +109,7 @@ export default function CatTerminaleDatalogic() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,terminal-mobil-datalogic-memor-10" />
+                                      <link itemprop="url" href="/product/terminal-mobil-datalogic-memor-10" />
                                       <meta itemprop="name" content="Terminal mobil Datalogic Memor 10" />
                                       <a href="/product/terminal-mobil-datalogic-memor-10">
                                         Terminal mobil Datalogic Memor 10
@@ -148,7 +148,7 @@ export default function CatTerminaleDatalogic() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,terminal-mobil-datalogic-skorpiotm-x4" />
+                                      <link itemprop="url" href="/product/terminal-mobil-datalogic-skorpiotm-x4" />
                                       <meta itemprop="name" content="Terminal mobil Datalogic Skorpio™ X4" />
                                       <a href="/product/terminal-mobil-datalogic-skorpiotm-x4">
                                         Terminal mobil Datalogic Skorpio™ X4
@@ -187,7 +187,7 @@ export default function CatTerminaleDatalogic() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,terminal-mobil-datalogic-falcon-x4" />
+                                      <link itemprop="url" href="/product/terminal-mobil-datalogic-falcon-x4" />
                                       <meta itemprop="name" content="Terminal mobil Datalogic Falcon X4" />
                                       <a href="/product/terminal-mobil-datalogic-falcon-x4">
                                         Terminal mobil Datalogic Falcon X4
@@ -226,7 +226,7 @@ export default function CatTerminaleDatalogic() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,terminal-mobil-datalogic-memor-x3" />
+                                      <link itemprop="url" href="/product/terminal-mobil-datalogic-memor-x3" />
                                       <meta itemprop="name" content="Terminal mobil Datalogic Memor X3" />
                                       <a href="/product/terminal-mobil-datalogic-memor-x3">
                                         Terminal mobil Datalogic Memor X3

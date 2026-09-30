@@ -29,9 +29,25 @@ import OneCPricingPage from './pages/OneCPricingPage';
 import AboutPage from './pages/AboutPage';
 import ConsultPage from './pages/ConsultPage';
 import ContactPage from './pages/ContactPage';
+import { to, langFromPath, useLang } from './lang';
 import CatSolutiiRetail from './pages/categories/CatSolutiiRetail';
 import CatEchipamenteDeParcare from './pages/categories/CatEchipamenteDeParcare';
 import CatSistemeSupraveghereVideo from './pages/categories/CatSistemeSupraveghereVideo';
+
+const DOCUMENT_TITLES = {
+  ro: 'Organizarea si automatizarea afacerilor in Moldova | Grupul de companii RTI',
+  ru: 'Организация и автоматизация бизнес процессов в Молдове | Группа компаний RTI',
+  en: 'Business organization and automation in Moldova | Группа компаний RTI',
+};
+
+function DocumentMeta() {
+  const lang = useLang();
+  useEffect(() => {
+    document.title = DOCUMENT_TITLES[lang] || DOCUMENT_TITLES.ro;
+    document.documentElement.lang = lang;
+  }, [lang]);
+  return null;
+}
 
 function ScrollToTop() {
   const { pathname } = useLocation();
@@ -43,6 +59,7 @@ function ScrollToTop() {
 
 function LinkInterceptor() {
   const navigate = useNavigate();
+  const { pathname } = useLocation();
 
   useEffect(() => {
     function handleClick(e) {
@@ -59,15 +76,58 @@ function LinkInterceptor() {
         !e.shiftKey
       ) {
         e.preventDefault();
-        navigate(href);
+        navigate(to(href, langFromPath(pathname)));
       }
     }
     document.addEventListener('click', handleClick);
     return () => document.removeEventListener('click', handleClick);
-  }, [navigate]);
+  }, [navigate, pathname]);
 
   return null;
 }
+
+// [path, element] pairs — rendered once per language prefix ('', '/ru', '/en').
+// Components detect the active language from the URL via useLang().
+const ROUTES = [
+  ['/', <HomePage />],
+  ['/index', <HomePage />],
+
+  /* All 49 imported category pages */
+  ['/category/:slug', <CategoryPage />],
+  ['/category/:parent/:slug', <CategoryPage />],
+
+  /* Product detail pages */
+  ['/product/:slug', <ProductPage />],
+
+  /* News */
+  ['/noutati', <NoutatiPage />],
+  ['/noutati/:slug', <ArticlePage />],
+
+  /* Content pages */
+  ['/contacte', <ContactPage />],
+  ['/despre-noi', <AboutPage />],
+  ['/consultation-free', <ConsultPage />],
+  ['/preturi-soft-syrve', <SyrvePricingPage />],
+  ['/preturi-soft-1c', <OneCPricingPage />],
+
+  /* Solution pages mapped to matching imported categories */
+  ['/solutii-automatizare-horeca', <SolutiiHorecaPage />],
+  ['/automatizare-retail', <CatSolutiiRetail />],
+  ['/automatizarea-magazinelor-si-retelelor-de-vanzare-cu-amanuntul', <SolutiiRetailPage />],
+  ['/solutii-sisteme-parcare', <SolutiiParcarePage />],
+  ['/supraveghere-video', <CatSistemeSupraveghereVideo />],
+  ['/instalarea-sistemelor-de-supraveghere-video-pentru-casa-si-afacere', <SupraveghereVideoPage />],
+
+  /* Remaining informational pages */
+  ['/panouri-digitale', <SolutiiPanouriPage />],
+  ['/iiko-soft-de-gestiune-horeca', <IikoPage />],
+  ['/politica-de-confidentialitate', <GenericPage titleKey="footer.policyPrivacy" title="Politica de confidențialitate" />],
+  ['/termeni-si-conditii', <GenericPage titleKey="footer.termsAndCond" title="Termeni și condiții" />],
+  ['/account/profilul-meu', <GenericPage titleKey="account.global.login" title="Profilul meu" />],
+  ['/clienti', <ClientiPage />],
+];
+
+const LANG_PREFIXES = ['', '/ru', '/en'];
 
 export default function App() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
@@ -76,53 +136,16 @@ export default function App() {
     <BrowserRouter>
       <ScrollToTop />
       <LinkInterceptor />
+      <DocumentMeta />
       <div className="site">
         <MobileMenu isOpen={mobileMenuOpen} onClose={() => setMobileMenuOpen(false)} />
         <Header onOpenMobileMenu={() => setMobileMenuOpen(true)} />
         <Routes>
-          <Route path="/" element={<HomePage />} />
-          <Route path="/index" element={<HomePage />} />
-
-          {/* All 49 imported category pages */}
-          <Route path="/category/:slug" element={<CategoryPage />} />
-          <Route path="/category/:parent/:slug" element={<CategoryPage />} />
-
-          {/* Product detail pages */}
-          <Route path="/product/:slug" element={<ProductPage />} />
-
-          {/* News */}
-          <Route path="/noutati" element={<NoutatiPage />} />
-          <Route path="/noutati/:slug" element={<ArticlePage />} />
-
-          {/* Content pages */}
-          <Route path="/contacte" element={<ContactPage />} />
-          <Route path="/despre-noi" element={<AboutPage />} />
-          <Route path="/consultation-free" element={<ConsultPage />} />
-          <Route path="/preturi-soft-syrve" element={<SyrvePricingPage />} />
-          <Route path="/preturi-soft-1c" element={<OneCPricingPage />} />
-
-          {/* Solution pages mapped to matching imported categories */}
-          <Route path="/solutii-automatizare-horeca" element={<SolutiiHorecaPage />} />
-          <Route path="/automatizare-retail" element={<CatSolutiiRetail />} />
-          <Route
-            path="/automatizarea-magazinelor-si-retelelor-de-vanzare-cu-amanuntul"
-            element={<SolutiiRetailPage />}
-          />
-          <Route path="/solutii-sisteme-parcare" element={<SolutiiParcarePage />} />
-          <Route path="/supraveghere-video" element={<CatSistemeSupraveghereVideo />} />
-          <Route
-            path="/instalarea-sistemelor-de-supraveghere-video-pentru-casa-si-afacere"
-            element={<SupraveghereVideoPage />}
-          />
-
-          {/* Remaining informational pages */}
-          <Route path="/panouri-digitale" element={<SolutiiPanouriPage />} />
-          <Route path="/iiko-soft-de-gestiune-horeca" element={<IikoPage />} />
-          <Route path="/politica-de-confidentialitate" element={<GenericPage title="Politica de confidențialitate" />} />
-          <Route path="/termeni-si-conditii" element={<GenericPage title="Termeni și condiții" />} />
-          <Route path="/account/profilul-meu" element={<GenericPage title="Profilul meu" />} />
-          <Route path="/clienti" element={<ClientiPage />} />
-
+          {LANG_PREFIXES.map((prefix) =>
+            ROUTES.map(([path, element], i) => (
+              <Route key={(prefix || 'ro') + i} path={prefix + (path === '/' ? '' : path) || '/'} element={element} />
+            ))
+          )}
           <Route path="*" element={<NotFoundPage />} />
         </Routes>
         <Footer />

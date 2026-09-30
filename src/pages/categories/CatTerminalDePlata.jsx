@@ -70,7 +70,7 @@ export default function CatTerminalDePlata() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,terminal-de-plata-automata" />
+                                      <link itemprop="url" href="/product/terminal-de-plata-automata" />
                                       <meta itemprop="name" content="Terminal de Plata Automată " />
                                       <a href="/product/terminal-de-plata-automata">
                                         Terminal de Plata Automată 
@@ -109,7 +109,7 @@ export default function CatTerminalDePlata() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,terminal-de-plata-generatia-2" />
+                                      <link itemprop="url" href="/product/terminal-de-plata-generatia-2" />
                                       <meta itemprop="name" content="Terminal de Plată Generația 2" />
                                       <a href="/product/terminal-de-plata-generatia-2">
                                         Terminal de Plată Generația 2

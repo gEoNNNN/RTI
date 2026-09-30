@@ -110,7 +110,7 @@ export default function CatSistemeAudio() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,boxa-de-tavan-apart-cm3t" />
+                                      <link itemprop="url" href="/product/boxa-de-tavan-apart-cm3t" />
                                       <meta itemprop="name" content="Boxa de tavan RSound CM3T" />
                                       <a href="/product/boxa-de-tavan-apart-cm3t">
                                         Boxa de tavan RSound CM3T
@@ -149,7 +149,7 @@ export default function CatSistemeAudio() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,boxa-de-tavan-apart-cm4t" />
+                                      <link itemprop="url" href="/product/boxa-de-tavan-apart-cm4t" />
                                       <meta itemprop="name" content="Boxa de tavan RSound CM4T" />
                                       <a href="/product/boxa-de-tavan-apart-cm4t">
                                         Boxa de tavan RSound CM4T
@@ -188,7 +188,7 @@ export default function CatSistemeAudio() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,boxa-de-tavan-apart-cm6t" />
+                                      <link itemprop="url" href="/product/boxa-de-tavan-apart-cm6t" />
                                       <meta itemprop="name" content="Boxa de tavan RSound CM6T" />
                                       <a href="/product/boxa-de-tavan-apart-cm6t">
                                         Boxa de tavan RSound CM6T
@@ -227,7 +227,7 @@ export default function CatSistemeAudio() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,boxa-de-tavan-apart-cm20t" />
+                                      <link itemprop="url" href="/product/boxa-de-tavan-apart-cm20t" />
                                       <meta itemprop="name" content="Boxa de tavan RSound-CM20T" />
                                       <a href="/product/boxa-de-tavan-apart-cm20t">
                                         Boxa de tavan RSound-CM20T
@@ -266,7 +266,7 @@ export default function CatSistemeAudio() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,amplificator-audio-apart-ma35" />
+                                      <link itemprop="url" href="/product/amplificator-audio-apart-ma35" />
                                       <meta itemprop="name" content="Amplificator audio Apart MA35" />
                                       <a href="/product/amplificator-audio-apart-ma35">
                                         Amplificator audio Apart MA35
@@ -305,7 +305,7 @@ export default function CatSistemeAudio() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,difuzor-de-gradina-apart-rock-20" />
+                                      <link itemprop="url" href="/product/difuzor-de-gradina-apart-rock-20" />
                                       <meta itemprop="name" content="Difuzor decorativ APart Rock20" />
                                       <a href="/product/difuzor-de-gradina-apart-rock-20">
                                         Difuzor decorativ APart Rock20
@@ -344,7 +344,7 @@ export default function CatSistemeAudio() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,difuzor-de-gradina-apart-rock-608" />
+                                      <link itemprop="url" href="/product/difuzor-de-gradina-apart-rock-608" />
                                       <meta itemprop="name" content="Difuzor decorativ APart Rock608" />
                                       <a href="/product/difuzor-de-gradina-apart-rock-608">
                                         Difuzor decorativ APart Rock608
@@ -383,7 +383,7 @@ export default function CatSistemeAudio() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,difuzor-de-exterior-apart-sph16" />
+                                      <link itemprop="url" href="/product/difuzor-de-exterior-apart-sph16" />
                                       <meta itemprop="name" content="Difuzor suspendat APart SPH16" />
                                       <a href="/product/difuzor-de-exterior-apart-sph16">
                                         Difuzor suspendat APart SPH16
@@ -422,7 +422,7 @@ export default function CatSistemeAudio() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,difuzor-de-exterior-apart-sph20" />
+                                      <link itemprop="url" href="/product/difuzor-de-exterior-apart-sph20" />
                                       <meta itemprop="name" content="Difuzor suspendat APart SPH20" />
                                       <a href="/product/difuzor-de-exterior-apart-sph20">
                                         Difuzor suspendat APart SPH20
@@ -461,7 +461,7 @@ export default function CatSistemeAudio() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,amplificator-ma65" />
+                                      <link itemprop="url" href="/product/amplificator-ma65" />
                                       <meta itemprop="name" content="Amplificator MA65" />
                                       <a href="/product/amplificator-ma65">
                                         Amplificator MA65
@@ -500,7 +500,7 @@ export default function CatSistemeAudio() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,amplificator-ma125" />
+                                      <link itemprop="url" href="/product/amplificator-ma125" />
                                       <meta itemprop="name" content="Amplificator MA125" />
                                       <a href="/product/amplificator-ma125">
                                         Amplificator MA125
@@ -539,7 +539,7 @@ export default function CatSistemeAudio() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,amplificator-ma200" />
+                                      <link itemprop="url" href="/product/amplificator-ma200" />
                                       <meta itemprop="name" content="Amplificator APart MA200" />
                                       <a href="/product/amplificator-ma200">
                                         Amplificator APart MA200
@@ -578,7 +578,7 @@ export default function CatSistemeAudio() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,amplificator-champ-3d" />
+                                      <link itemprop="url" href="/product/amplificator-champ-3d" />
                                       <meta itemprop="name" content="Amplificator APart CHAMP 3D" />
                                       <a href="/product/amplificator-champ-3d">
                                         Amplificator APart CHAMP 3D
@@ -617,7 +617,7 @@ export default function CatSistemeAudio() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,amplificator-pa240p" />
+                                      <link itemprop="url" href="/product/amplificator-pa240p" />
                                       <meta itemprop="name" content="Amplificator profesional APart PA240P" />
                                       <a href="/product/amplificator-pa240p">
                                         Amplificator profesional APart PA240P
@@ -656,7 +656,7 @@ export default function CatSistemeAudio() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,microfon-de-masa-itc-t-621a" />
+                                      <link itemprop="url" href="/product/microfon-de-masa-itc-t-621a" />
                                       <meta itemprop="name" content="Microfon de masa ITC T-621A" />
                                       <a href="/product/microfon-de-masa-itc-t-621a">
                                         Microfon de masa ITC T-621A
@@ -695,7 +695,7 @@ export default function CatSistemeAudio() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,potentiometru-volum-itc-t-673-30w" />
+                                      <link itemprop="url" href="/product/potentiometru-volum-itc-t-673-30w" />
                                       <meta itemprop="name" content="Potentiometru volum ITC T-673 30W" />
                                       <a href="/product/potentiometru-volum-itc-t-673-30w">
                                         Potentiometru volum ITC T-673 30W

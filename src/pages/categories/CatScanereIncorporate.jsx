@@ -70,7 +70,7 @@ export default function CatScanereIncorporate() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,scan-rsc-1105-2d" />
+                                      <link itemprop="url" href="/product/scan-rsc-1105-2d" />
                                       <meta itemprop="name" content="Scaner RSC 1105 2D" />
                                       <a href="/product/scan-rsc-1105-2d">
                                         Scaner RSC 1105 2D

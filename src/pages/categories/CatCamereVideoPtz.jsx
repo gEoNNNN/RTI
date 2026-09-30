@@ -70,7 +70,7 @@ export default function CatCamereVideoPtz() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,camera-ip-uniview-ptz-ipc6852sr-x44u-2mp-44x" />
+                                      <link itemprop="url" href="/product/camera-ip-uniview-ptz-ipc6852sr-x44u-2mp-44x" />
                                       <meta itemprop="name" content="Camera IP Uniview PTZ IPC6852SR-X44U 2MP" />
                                       <a href="/product/camera-ip-uniview-ptz-ipc6852sr-x44u-2mp-44x">
                                         Camera IP Uniview PTZ IPC6852SR-X44U 2MP
@@ -109,7 +109,7 @@ export default function CatCamereVideoPtz() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,camera-ip-uniview-uniview-ipc6248sr-x22-4k-ultra-4mp" />
+                                      <link itemprop="url" href="/product/camera-ip-uniview-uniview-ipc6248sr-x22-4k-ultra-4mp" />
                                       <meta itemprop="name" content="Camera IP Uniview Uniview IPC6248SR-X22, 4K Ultra 4MP" />
                                       <a href="/product/camera-ip-uniview-uniview-ipc6248sr-x22-4k-ultra-4mp">
                                         Camera IP Uniview Uniview IPC6248SR-X22, 4K Ultra
@@ -148,7 +148,7 @@ export default function CatCamereVideoPtz() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,camera-ip-uniview-uniview-ipc6222er-x20-2mp" />
+                                      <link itemprop="url" href="/product/camera-ip-uniview-uniview-ipc6222er-x20-2mp" />
                                       <meta itemprop="name" content="Camera IP Uniview Uniview IPC6222ER-X20 2MP" />
                                       <a href="/product/camera-ip-uniview-uniview-ipc6222er-x20-2mp">
                                         Camera IP Uniview Uniview IPC6222ER-X20 2MP
@@ -187,7 +187,7 @@ export default function CatCamereVideoPtz() {
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
                                     <div className="product-card__name">
-                                      <link itemprop="url" href="//product,camera-ip-uniview-uniview-ipc6242sr-x33g-ia-2mp" />
+                                      <link itemprop="url" href="/product/camera-ip-uniview-uniview-ipc6242sr-x33g-ia-2mp" />
                                       <meta itemprop="name" content="Camera IP Uniview Uniview IPC6242SR-X33G-IA 2MP" />
                                       <a href="/product/camera-ip-uniview-uniview-ipc6242sr-x33g-ia-2mp">
                                         Camera IP Uniview Uniview IPC6242SR-X33G-IA 2MP

@@ -1,0 +1,596 @@
+{
+ "SeoText": {
+  "expand": "Расширить",
+  "restrict": "Скрыть"
+ },
+ "seoKeyWords": {
+  "title": "Группа компаний RTI",
+  "description": "Группа компаний RTI – это сплоченный коллектив, более 15 лет, занимающийся комплексной автоматизацией бизнес-процессов предприятий."
+ },
+ "header": {
+  "megaMenu": "Товары",
+  "title": "Оборудование и программное обеспечение для бизнеса",
+  "inMoldova": "в Молдове",
+  "subtitle": "Автоматизация самых сложных процессов и операций",
+  "searchComponent": {
+   "placeholder": "Введите ключевое слово или модель"
+  }
+ },
+ "menu": {
+  "dashboard": "Dashboard",
+  "my.account": "Мой аккаунт",
+  "order.history": "История заказов",
+  "addresses": "Адреса доставки",
+  "password": "Пароль",
+  "logout": "Выйти",
+  "login": "Авторизоваться"
+ },
+ "notFound": {
+  "title": "Ошибка 404",
+  "subtitle": "Страница не найдена",
+  "description": "Похоже, мы не можем найти страницу, которую вы ищете.",
+  "descriptionTwo": "Попробуйте воспользоваться поиском.",
+  "search": "Поиск",
+  "searchPage": "Поиск страницы",
+  "tryFirstPage": "Или перейдите на домашнюю страницу, чтобы начать.",
+  "toFirstPage": "Перейти на главную страницу",
+  "goBack": "Назад"
+ },
+ "comingSoon": {
+  "title": "Скоро",
+  "subtitle": "Страница находится в разработке",
+  "description": "На данный момент вносятся улучшения в обслуживание ваших запросов, и мы скоро вернемся."
+ },
+ "contacts": {
+  "breadcrumbs": {
+   "home": "Главная",
+   "contacts": "Контакты",
+   "clients": "Клиенты"
+  },
+  "header": {
+   "selling": "Заявка на продажу",
+   "support": "Нужна помощь ?"
+  },
+  "title": "Контакты",
+  "leaveMessage": "Оставьте нам сообщение",
+  "completeForm": "Заполните форму",
+  "completeRegisterForm": "",
+  "completeLoginForm": "",
+  "name": "Имя",
+  "email": "Адрес электронной почты",
+  "phone": "Номер телефона",
+  "company": "Название Компаний",
+  "message": "Сообщение",
+  "sendMessage": "Отправить",
+  "success": "Сообщение было успешно доставлено",
+  "error": "Сообщение не было доставлено.",
+  "reason": "Причина обращения",
+  "checkEmail": "Перейдите на электронную почту, чтобы подтвердить регистрацию"
+ },
+ "cart": {
+  "breadcrumbs": {
+   "home": "Главная",
+   "shoppingCart": "Корзина покупок"
+  },
+  "addedToCart": "Продукт <span>{{title}}</span> был добавлен в корзину.",
+  "title": "Корзина покупок",
+  "image": "Изображение",
+  "continue": "Продолжать",
+  "cartTools": "Инструменты корзины",
+  "checkout": "Купить",
+  "total": "Общий",
+  "subtotal": "Промежуточный итог",
+  "emptyCart": "Ваша корзина пуста",
+  "articleRemainInCart": "Вещи остаются в корзине в течение 60 минут, потом они будут переведены в ваши сохранёные вещи.",
+  "connectToBuy": "Войдите чтобы вы видели вещи и могли сделать покупки!",
+  "connect": "Войти",
+  "weAccept": "Мы принимаем",
+  "table": {
+   "image": "Изображение",
+   "title": "Название",
+   "price": "Цена",
+   "quantity": "Количество",
+   "total": "Итог"
+  },
+  "viewCart": "Корзина",
+  "articles": " статьи",
+  "quantity": "Количество: "
+ },
+ "checkout": {
+  "breadcrumbs": {
+   "home": "Главная",
+   "shoppingCart": "Корзина покупок"
+  },
+  "global": {
+   "buy": "Купить",
+   "billingDetails": "Детали оплаты",
+   "firstName": "Фамилия",
+   "lastName": "Имя",
+   "country": "Страна",
+   "city": "Горад",
+   "address": "Адрес",
+   "postCode": "Почтовый индекс",
+   "email": "Адрес электронной почты",
+   "phone": "Номер телефона",
+   "createAccount": "Создать аккаунт?",
+   "shippingDetails": "Детали доставки",
+   "shipToDifferentAddress": "Доставка по другому адресу?",
+   "yourOrder": "Ваш заказ.",
+   "product": "Продукт",
+   "total": "Итог",
+   "readTerms": "Я прочитал и согласен с условиями использования",
+   "terms": "условия использования",
+   "finishOrder": "Завершить заказ",
+   "login": "Вход",
+   "register": "Регистрация",
+   "needToLogin": "Вы должны войти в систему, чтобы завершить покупку!",
+   "successfulCheckout": "Заказ был успешно выполнен.",
+   "errorCheckout": "Заказ не был успешно выполнен"
+  }
+ },
+ "categoryPage": {
+  "sidebar": {
+   "latestProducts": "Последние продукты"
+  },
+  "view": {
+   "show": "Показанны",
+   "of": "из",
+   "products": "Все"
+  },
+  "sort": {
+   "sortBy": "Сортировать",
+   "default": "По умолчанию",
+   "byAlphabet": "(А-З)",
+   "show": "Показать"
+  }
+ },
+ "product": {
+  "price": "Цена",
+  "specification": "Технические характеристики",
+  "inStock": "В наличии",
+  "outOfStock": "Распродано",
+  "quantity": "Количество",
+  "availability": "Доступность",
+  "addToCart": "Добавить в корзину",
+  "noPriceText": {
+   "text": "Сделать предзаказ в один  ",
+   "button": "клик"
+  },
+  "viewAll": "Посмотреть все",
+  "meta": {
+   "description": "Описание",
+   "characteristic": "Характеристики",
+   "files": "Документ"
+  },
+  "facilities": {
+   "title": "Удобства"
+  },
+  "documentation": {
+   "title": "Документация"
+  }
+ },
+ "filter": {
+  "filter": "фильтровать",
+  "reset": "сброс",
+  "filters": "фильтры"
+ },
+ "global": {
+  "askForPrice": "Узнать цену",
+  "message": "Сообщение",
+  "title": "Rti",
+  "browsehappy": "Ваш браузер <strong>устарел</strong>. Пожалуйста <a href=\"http://browsehappy.com/?locale=ru\">обновите ваш браузер</a>.",
+  "menu": {
+   "home": "Главная",
+   "entities": {
+    "main": "Сущности",
+    "bankAccount": "Банковский счет",
+    "label": "Этикетка",
+    "operation": "Ооперация"
+   },
+   "account": {
+    "main": "Профиль",
+    "settings": "Настройки",
+    "password": "Пароль",
+    "sessions": "Сессии",
+    "login": "Войти",
+    "logout": "Выйти",
+    "register": "Зарегистрироваться"
+   },
+   "admin": {
+    "main": "Администрирование",
+    "userManagement": "Управление пользователями",
+    "tracker": "Трекер польз.",
+    "metrics": "Метрики",
+    "health": "Состояние",
+    "configuration": "Настройки",
+    "logs": "Логи",
+    "audits": "Аудит",
+    "apidocs": "API",
+    "database": "База данных"
+   },
+   "services": {
+    "main": "Услуги"
+   },
+   "articles": {
+    "main": "Cтатья"
+   },
+   "language": "Язык"
+  },
+  "form": {
+   "username.label": "Логин",
+   "username.placeholder": "Ваш логин",
+   "currentpassword.label": "Текущий пароль",
+   "currentpassword.placeholder": "Текущий пароль",
+   "newpassword.label": "Новый пароль",
+   "newpassword.placeholder": "Новый пароль",
+   "confirmpassword.label": "Подтверждение нового пароля",
+   "confirmpassword.placeholder": "Подтвердите новый пароль",
+   "email.label": "Email",
+   "email.placeholder": "Ваш email"
+  },
+  "messages": {
+   "info": {
+    "authenticated": {
+     "prefix": "Если вы хотите ",
+     "link": "авторизироваться",
+     "suffix": ", вы можете попробовать аккаунты по умолчанию:<br/>- Администратор (логин=\"admin\" и пароль=\"admin\") <br/>- Пользователь (логин=\"user\" и пароль=\"user\")."
+    },
+    "register": {
+     "noaccount": "У вас нет аккаунта?",
+     "link": "Создать новый аккаунт"
+    }
+   },
+   "error": {
+    "dontmatch": "Пароль и его подтверждение не совпадают!"
+   },
+   "validate": {
+    "newpassword": {
+     "required": "Пароль должен быть указан.",
+     "minlength": "Длина пароля должна быть хотя-бы 4 символов",
+     "maxlength": "Пароль не может быть длиннее чем 50 символов",
+     "strength": "Сложность пароля:"
+    },
+    "confirmpassword": {
+     "required": "подтверждение пароля должно быть указано.",
+     "minlength": "Длина подтверждения пароля должна быть хотя-бы 4 символов",
+     "maxlength": "Подтверждение пароля не может быть больше чем 50 символов"
+    },
+    "email": {
+     "required": "Email должен быть указан.",
+     "invalid": "Email не верен.",
+     "minlength": "Длина email должна быть хотя-бы 5 символов",
+     "maxlength": "Email не может быть длиннее чем 50 символов"
+    }
+   }
+  },
+  "field": {
+   "id": "ID"
+  },
+  "ribbon": {
+   "dev": "Разработка"
+  },
+  "item-count": "{{first}} - {{second}} из {{total}}"
+ },
+ "entity": {
+  "action": {
+   "addblob": "Добавить двоичный объект",
+   "addimage": "Добавить изображение",
+   "back": "Назад",
+   "cancel": "Отмена",
+   "delete": "Удалить",
+   "edit": "Изменить",
+   "open": "Открыть",
+   "save": "Сохранить",
+   "view": "Просмотр"
+  },
+  "detail": {
+   "field": "Поле",
+   "value": "Значение"
+  },
+  "delete": {
+   "title": "Подтвердите операцию удаления"
+  },
+  "validation": {
+   "required": "Это поле обязательно к заполнению.",
+   "minlength": "Это поле является обязательным, по крайней мере {{min}} символов.",
+   "maxlength": "Это поле не может быть длинее, чем {{max}} символов.",
+   "min": "Это поле должно быть больше, чем {{min}}.",
+   "max": "Это поле не может быть больше, чем {{max}}.",
+   "minbytes": "Это поле должно быть больше, чем {{min}} байтов.",
+   "maxbytes": "Это поле не может быть больше, чем {{max}} байтов.",
+   "pattern": "Это поле должно следовать модели {{pattern}}.",
+   "number": "Это поле должно быть число.",
+   "datetimelocal": "Это поле должно быть дата и время."
+  }
+ },
+ "error": {
+  "internalServerError": "Внутренняя ошибка сервера",
+  "server.not.reachable": "Сервер не доступен",
+  "url.not.found": "Не найдено",
+  "NotNull": "Поле {{fieldName}} не может быть пустым!",
+  "Size": "Поле {{fieldName}} не отвечает требованиям мин/макс.го размера!",
+  "userexists": "Имя пользователя уже используется!",
+  "emailexists": "Эл. почта уже используется!!",
+  "idexists": "Новый {{entityName}} не может иметь данный ID",
+  "idnull": "Неверный ID",
+  "title": "Ошибка!",
+  "http": {
+   "400": "Bad request.",
+   "401": "Неверный адрес электронной почты или пароль.",
+   "403": "Вы не авторизованы для доступа к странице",
+   "404": "Страница не существует",
+   "405": "The HTTP verb you used is not supported for this URL.",
+   "500": "Internal server error.",
+   "1": "Корзина не найдена или недоступна",
+   "2": "Пользователь не существует или не найден",
+   "3": "Этот адрес электронной почты уже был использован",
+   "4": "Корзина уже была назначена указанному пользователю",
+   "5": "Пользователь с электронной почтой уже активирован",
+   "6": "Пользователь с таким токеном сброса не существует",
+   "7": "Время для сброса пароля истекло",
+   "8": "Количество продукции превышено",
+   "9": "У вас нет доступа к этой корзине",
+   "10": "Корзина уже заказана",
+   "11": "Неверный адрес электронной почты или пароль",
+   "12": "Текущий пользователь не активен, проверьте электронную почту"
+  },
+  "concurrencyFailure": "Another user modified this data at the same time as you. Your changes were rejected.",
+  "validation": "Validation error on the server."
+ },
+ "footer": {
+  "description": "",
+  "termsAndCond": "Условия и соглашения",
+  "policyPrivacy": "Политика конфиденциальности",
+  "contactUs": {
+   "title": "Связаться с Нами",
+   "description": "Группа компаний RTI – это сплоченный коллектив, более 15 лет, занимающийся комплексной автоматизацией бизнес-процессов предприятий.",
+   "address": "переул. Кэлэторилор д. 30, Кишинев, Молдова",
+   "email": "office_rti@rti.md",
+   "phones": "Тел: +373 (69) 116121 / Факс: +373 (22) 815830"
+  },
+  "information": {
+   "title": "Информация",
+   "equipment": "Echipament",
+   "softwareSolutions": "Оборудование",
+   "solutions": "Решения",
+   "aboutUs": "О нас",
+   "contacts": "Контакты",
+   "policyPrivacy": "Политика конфиденциальности"
+  },
+  "myAccount": {
+   "title": "Мой аккаунт"
+  },
+  "newsletter": {
+   "title": "Новостная рассылка",
+   "email": "Адрес электронной почты",
+   "subscribe": "Подписываться"
+  },
+  "socialNetworks": {
+   "description": "Следите за нами в "
+  }
+ },
+ "login": {
+  "title": "Авторизация",
+  "form": {
+   "password": "Пароль",
+   "password.placeholder": "Ваш пароль",
+   "rememberme": "Входить автоматически",
+   "button": "Войти"
+  },
+  "messages": {
+   "error": {
+    "authentication": "<strong>Не удалось войти!</strong> Пожалуйста, проверьте ваши учетные данные и попробуйте еще раз."
+   }
+  },
+  "password": {
+   "forgot": "Вы забыли ваш пароль?"
+  }
+ },
+ "widgets": {
+  "packages": {
+   "orderNow": "Заказать"
+  },
+  "relatedNews": {
+   "title": "Рекомендуемые товары"
+  },
+  "newsletterSubscribe": {
+   "subscribe": "Подписатся",
+   "emailField.placeholder": "Введите почтовый адрес",
+   "firstName.placeholder": "Введите ваше имя",
+   "success": "Успешная подписка.",
+   "error": "Неверный адрес электронной почты.",
+   "acceptTerms": "Я согласен с политикой конфиденциальности."
+  },
+  "newsCategories": {
+   "all": "Все"
+  },
+  "newsItem": {
+   "readMore": "Читать дальше"
+  }
+ },
+ "searchPage": {
+  "title": "Результат поиска для: "
+ },
+ "account": {
+  "routes": {
+   "title": "Навигация",
+   "dashboard": "Dashboard",
+   "myAccount": "Мой профиль",
+   "editProfile": "Редактировать профиль",
+   "orderHistory": "История заказов",
+   "addresses": "Адресса",
+   "logout": "Выйти"
+  },
+  "text": {
+   "login": {
+    "greeting": "Добро пожаловать!",
+    "description": "Если у вас есть аккаунт, вы можете войти используя ваш e-mail и пароль"
+   },
+   "register": {
+    "greeting": "Еще нет учетной записи?",
+    "description": "Если у вас нет учетной записи, вы можете зарегистрироваться заполнив все поля формы регистрации."
+   }
+  },
+  "global": {
+   "firstName": "Фамилия",
+   "lastName": "Имя",
+   "email": "Адрес электронной почты",
+   "phoneNumber": "Номер телефона",
+   "country": "Страна",
+   "city": "Город",
+   "address": "Адрес",
+   "zipCode": "Почтовый индекс",
+   "floor": "Этаж",
+   "apartment": "Номер квартиры",
+   "interphone": "Домафон",
+   "login": "Войти",
+   "password": "Пароль",
+   "rememberMe": "Запомни меня!",
+   "forgottenPassword": "Забыли пароль?",
+   "repeatPassword": "Повторите пароль",
+   "register": "Регистрация",
+   "min&max": "Поле должно содержать не менее {{min}} символ(ов) и максимум {{max}} символ(ов)",
+   "lettersPattern": "Поле должно содержать только буквы",
+   "invalidEmail": "Адрес электронной почты недействителен",
+   "requiredField": "Поле не может быть пустым",
+   "minLength": "Поле должно содержать не менее {{min}} символ(ов)",
+   "differentPassword": "Пароли не совпадают",
+   "editProfile": "Редактировать профиль",
+   "defaultAddress": "Активный адрес",
+   "recentOrders": "Недавние заказы",
+   "loginWarning": "Вы должны войти в систему",
+   "save": "Сохранить",
+   "optional": "Необязательное поле",
+   "fixedLength": "Поле должно содержать {{characters}} символ(ов)",
+   "invalidCode": "Неверный почтовый индекс",
+   "editAddress": "Изменить адрес",
+   "numberPatter": "Поле должно содержать только цифры",
+   "resetPassword": "Сброс пароля",
+   "reset": "Сброс",
+   "resetSuccess": "Пароль успешно сброшен",
+   "resetError": "Пароль не был сброшен",
+   "activate": "Активировать",
+   "logOutConfirm": "Вы уверены, что хотите войти?",
+   "send": "Отправить",
+   "modalName": "Имя",
+   "modalPhone": "Номер телефона",
+   "modalEmail": "Адрес электронной почты",
+   "modalMessage": "Сообщение"
+  },
+  "login": {
+   "title": "Войти"
+  },
+  "register": {
+   "title": "Регистрация",
+   "createdSuccess": "Профиль успешно создан",
+   "createdError": "Профиль не был создан",
+   "accept": "Я согласен с RTI",
+   "terms": "условиями соглашения"
+  },
+  "dashboard": {
+   "order": "Заказ",
+   "date": "Дата",
+   "status": "Статус",
+   "total": "Общий"
+  },
+  "orders": {
+   "title": "История заказов",
+   "noOrders": "Вы ничего не заказывали"
+  },
+  "addresses": {
+   "addNew": "Новый адрес",
+   "edit": "Редактировать",
+   "remove": "Удалить",
+   "noAddresses": "Адреса доставки не добавлены"
+  },
+  "address": {
+   "new": {
+    "title": "Добавить новый адрес",
+    "addedSuccess": "Адрес успешно был добавлен",
+    "addedError": "Адрес не был добавлен"
+   },
+   "edit": {
+    "title": "Изменить адрес",
+    "editedSuccess": "Адрес был успешно изменен",
+    "editedError": "Адрес не был изменен",
+    "floorPattern": "Поле должно содержать только цифры",
+    "phonePattern": "Поле должно содержать только цифры"
+   },
+   "remove": {
+    "title": "Вы уверены, что хотите удалить адрес?",
+    "yes": "Да",
+    "no": "Нет"
+   }
+  },
+  "resetPassword": {
+   "title": "Сброс пароля",
+   "reset": "Сброс",
+   "resetSuccess": "Ссылка на страницу сброса была отправлена на ваш адрес электронной почты",
+   "resetError": "Сбой сброса пароля",
+   "text": "Введите почту от вашего аккаонта и мы пошлём вам дальнейшие инструкций по почте, чтобы вы сбпросили ваш пароль"
+  }
+ },
+ "blog": {
+  "breadcrumbs": {
+   "home": "Главная",
+   "blog": "Новости"
+  },
+  "categoryPage": {
+   "title": "Новости",
+   "noArticles": "Нет статей",
+   "loadMore": "Показать ещё"
+  },
+  "categoryBadge": {
+   "noCategory": "Без категории"
+  },
+  "blogSearchWidget": {
+   "searchPlaceholder": "Поиск статей"
+  },
+  "aboutBlogWidget": {
+   "title": "О блоге",
+   "description": "О описание"
+  },
+  "categoriesWidget": {
+   "title": "Категории"
+  },
+  "latestPostsWidget": {
+   "title": "Последние статьи"
+  },
+  "newsletterWidget": {
+   "title": "Подписаться на рассылку",
+   "description": "Описание",
+   "email": "Адрес электронной почты",
+   "subscribe": "Подписаться"
+  },
+  "tagsWidget": {
+   "title": "Теги"
+  },
+  "article": {
+   "readMore": "Развернуть",
+   "readLess": "Свернуть"
+  },
+  "searchPage": {
+   "title": "Статьи найдены по: "
+  }
+ },
+ "clientsPage": {
+  "category": {
+   "all": {
+    "name": "All",
+    "title": "Все"
+   },
+   "foodRetail": {
+    "name": "RETAIL",
+    "title": "Продуктовый ритейл"
+   },
+   "nonFoodRetail": {
+    "name": "NONFOODRETAIL",
+    "title": "Непродовольственный ритейл"
+   },
+   "horeca": {
+    "name": "HORECA",
+    "title": "HoReCa"
+   }
+  }
+ }
+}

@@ -1,0 +1,453 @@
+{
+ "Widget Page Header-3 Romana": {
+  "title": "Цены ПО",
+  "bgImage": {
+   "mimetype": "image/jpeg",
+   "path": "public/widgets/files/116aac82-4b84-4aaf-a83d-16283717a5b9.jpg"
+  },
+  "links": [
+   {
+    "name": "Цены",
+    "value": "2",
+    "type": "SCROLL"
+   },
+   {
+    "name": "Возможности",
+    "value": "3",
+    "type": "SCROLL"
+   }
+  ]
+ },
+ "Breadcrumbs-Preturi Syrve - RO": {
+  "border": true,
+  "breadcrumbs": [
+   {
+    "title": "Главная",
+    "link": "/"
+   },
+   {
+    "title": "Цены ПО Syrve",
+    "link": "/"
+   }
+  ]
+ },
+ "Pachete soft Syrve - Landing software Syrve - Widget Pricing Box": {
+  "title": "Программное<br> обеспечениe Syrve",
+  "description": "Спецсистема планирования ресурсов предприятия, предназначенная для автоматизации учета в ресторане, баре, кафе и службе доставки готовых блюд.",
+  "disclaimer": "Цены, указанные в вышеуказанных пакетах, указаны в EURO ах без НДС.",
+  "packages": [
+   {
+    "title": "Basic",
+    "description": "Приложение для малого бизнеса",
+    "price": "39 ЕВРО/месяц",
+    "content": "<ul>\n<li>Техническая поддержка уровня BASIC </li>\n<li>Цена за точку продажи POS*</li>\n</ul>"
+   },
+   {
+    "title": "Professional",
+    "description": "Расширенные функции для ресторанов",
+    "price": "59 ЕВРО/месяц",
+    "content": "<ul>\n<li>Техническая поддержка уровня BASIC </li>\n<li>Цена за точку продажи POS*</li>\n</ul>"
+   },
+   {
+    "title": "Enterprise",
+    "description": "Для крупных ресторанных сетей ",
+    "price": "89 ЕВРО /месяц",
+    "content": "<ul>\n<li>Техническая поддержка уровня BASIC</li>\n<li>Цена за точку продажи POS*</li>\n</ul>"
+   }
+  ]
+ },
+ "Caracteristici pachete iiko - Landing software iiko - package-solutions English": {
+  "title": "Откройте для себя все включенные решения",
+  "packageContent": "Содержание пакетов",
+  "seeAll": "Открыть",
+  "basic": "Basic",
+  "pro": "Professional",
+  "enterprise": "Enterprise",
+  "solutions": [
+   {
+    "title": "Базовый функционал системы",
+    "basic": "1",
+    "pro": "1",
+    "enterprise": "1",
+    "additional_solutions": [
+     {
+      "title": "Интуитивный интерфейс кассового места (POS)",
+      "basic": "1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Схема зала",
+      "basic": "1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Разделение счета",
+      "basic": "1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Интеграция банковского терминала",
+      "basic": "-1",
+      "pro": "-1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Печать по местам приготовления и управление процессами на кухне",
+      "basic": "1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Приложение для мобильных телефонов",
+      "basic": "$10 /месяц<br> за устройство",
+      "pro": "$10 /месяц<br> за устройство",
+      "enterprise": "$10 /месяц<br> за устройство"
+     }
+    ]
+   },
+   {
+    "title": "Меню и цены",
+    "basic": "0",
+    "pro": "1",
+    "enterprise": "1",
+    "additional_solutions": [
+     {
+      "title": "Создание базового меню",
+      "basic": "1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Технологические карты",
+      "basic": "by RTI",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Управление меню",
+      "basic": "-1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Ценовые категории",
+      "basic": "-1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Планирование меню",
+      "basic": "-1",
+      "pro": "1",
+      "enterprise": "1"
+     }
+    ]
+   },
+   {
+    "title": "Управление сетью ресторанов ",
+    "basic": "0",
+    "pro": "1",
+    "enterprise": "1",
+    "additional_solutions": [
+     {
+      "title": "Аналитика в режиме реального времени",
+      "basic": "1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Разделение цен по каждому ресторану",
+      "basic": "-1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Перемещение товаров между ресторанами",
+      "basic": "-1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Централизованное производство и логистика",
+      "basic": "-1",
+      "pro": "1",
+      "enterprise": "1"
+     }
+    ]
+   },
+   {
+    "title": "Расширенные возможности для ресторана",
+    "basic": "-1",
+    "pro": "1",
+    "enterprise": "1",
+    "additional_solutions": [
+     {
+      "title": "Оплата талонами",
+      "basic": "-1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Кухонный экран ",
+      "basic": "-1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Подключение весового оборудования",
+      "basic": "-1",
+      "pro": "1",
+      "enterprise": "1"
+     }
+    ]
+   },
+   {
+    "title": "Доставка и замовывоз",
+    "basic": "0",
+    "pro": "0",
+    "enterprise": "1",
+    "additional_solutions": [
+     {
+      "title": "Централизованное принятие заказов",
+      "basic": "-1",
+      "pro": "-1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Интеграция с интеграторами доставки ",
+      "basic": "-1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Принятие заказов на кассе",
+      "basic": "-1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Подключение IP телефонии",
+      "basic": "-1",
+      "pro": "-1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Логистика курьера и мониторинг заказа",
+      "basic": "-1",
+      "pro": "-1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Отправка SMS клиентам",
+      "basic": "-1",
+      "pro": "-1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Подключение API",
+      "basic": "-1",
+      "pro": "-1",
+      "enterprise": "1"
+     }
+    ]
+   },
+   {
+    "title": "Программа лояльности",
+    "basic": "0",
+    "pro": "0",
+    "enterprise": "1",
+    "additional_solutions": [
+     {
+      "title": "Бонусная программа ",
+      "basic": "1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Программа \"Карта на Входе\"",
+      "basic": "1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Создание различных программ лояльности",
+      "basic": "-1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Комбо-меню",
+      "basic": "-1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Введение еmail маркетинга",
+      "basic": "-1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Loyality API",
+      "basic": "-1",
+      "pro": "-1",
+      "enterprise": "1"
+     }
+    ]
+   },
+   {
+    "title": "Инвентаризация и закупки",
+    "basic": "0",
+    "pro": "0",
+    "enterprise": "1",
+    "additional_solutions": [
+     {
+      "title": "Мобильная инвентаризация  ",
+      "basic": "1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Автозаказ товара",
+      "basic": "1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Дополнительная функциональность, (учет складских запасов при помощи мобильной инвентаризации)",
+      "basic": "-1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Создание нескольких складов подразделений ",
+      "basic": "-1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "API инвентаризация ",
+      "basic": "-1",
+      "pro": "-1",
+      "enterprise": "1"
+     }
+    ]
+   },
+   {
+    "title": "Сотрудники ",
+    "basic": "0",
+    "pro": "0",
+    "enterprise": "1",
+    "additional_solutions": [
+     {
+      "title": "Управление персоналом ",
+      "basic": "1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Создание расписание сотрудников ",
+      "basic": "1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Управление рабочим временим сотрудников ",
+      "basic": "1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Личная страница сотрудников ",
+      "basic": "1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Лучшие продажи по сотрудникам ",
+      "basic": "1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Создание мотивационных программ ",
+      "basic": "-1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Внутренний чат между сотрудниками ",
+      "basic": "-1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "API",
+      "basic": "-1",
+      "pro": "-1",
+      "enterprise": "1"
+     }
+    ]
+   },
+   {
+    "title": "Аналитика и отчеты ",
+    "basic": "0",
+    "pro": "0",
+    "enterprise": "1",
+    "additional_solutions": [
+     {
+      "title": "Прогноз продаж ",
+      "basic": "1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Выявление лидеров по продажам ",
+      "basic": "1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Настраиваемые отчеты основанные на KPI",
+      "basic": "1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Отчеты о прибыли и убытках (P&L)",
+      "basic": "1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Интеграция бухгалтерии ",
+      "basic": "1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Конструктор отчетов ",
+      "basic": "-1",
+      "pro": "1",
+      "enterprise": "1"
+     },
+     {
+      "title": "Отчетность на мобильном телефоне",
+      "basic": "-1",
+      "pro": "-1",
+      "enterprise": "1"
+     },
+     {
+      "title": "API отчеты",
+      "basic": "-1",
+      "pro": "-1",
+      "enterprise": "1"
+     }
+    ]
+   }
+  ]
+ }
+}

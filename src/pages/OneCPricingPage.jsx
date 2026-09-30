@@ -3,18 +3,11 @@ import { Link } from 'react-router-dom';
 import { imgUrl } from '../data/helpers';
 import { richText } from './HomePage';
 import { PricingBox, ChevronRight } from './SyrvePricingPage';
-import page from '../data/onec_page.json';
+import pageRo from '../data/onec_page.json';
+import pageRu from '../data/ru/onec_page.json';
+import pageEn from '../data/en/onec_page.json';
+import { useLang, useT, useTo, to, pick } from '../lang';
 
-const header = page['Page header widget 1C Soft'] || {};
-const breadcrumbs = (page['Preturi soft 1c breadcumbs'] || {}).breadcrumbs || [];
-const pricing = page['1C price box widget'] || {};
-const esAfterPricing = (page['Empty Space-1C-page'] || {}).height || {};
-const containerTitle = page['Title container 1C before feature items'] || {};
-const esAfterTitle = (page['Empty Space 1C after Title'] || {}).height || {};
-const features = page['Feature item with hover effect UP'] || {};
-const esAfterParagraph = (page['Empty Space after paragraph'] || {}).height || {};
-const paragraph = page['Paragraph container 1C page after Title'] || {};
-const esBottom = (page['Empty Space bottom'] || {}).height || {};
 
 function EmptySpace({ h, id }) {
   return (
@@ -26,6 +19,18 @@ function EmptySpace({ h, id }) {
 }
 
 export default function OneCPricingPage() {
+  const lang = useLang();
+  const page = pick(lang, pageRo, pageRu, pageEn);
+  const header = page['Page header widget 1C Soft'] || {};
+  const breadcrumbs = (page['Preturi soft 1c breadcumbs'] || {}).breadcrumbs || [];
+  const pricing = page['1C price box widget'] || {};
+  const esAfterPricing = (page['Empty Space-1C-page'] || {}).height || {};
+  const containerTitle = page['Title container 1C before feature items'] || {};
+  const esAfterTitle = (page['Empty Space 1C after Title'] || {}).height || {};
+  const features = page['Feature item with hover effect UP'] || {};
+  const esAfterParagraph = (page['Empty Space after paragraph'] || {}).height || {};
+  const paragraph = page['Paragraph container 1C page after Title'] || {};
+  const esBottom = (page['Empty Space bottom'] || {}).height || {};
   return (
     <div className="site__body">
       {/* 1 — page header (no links) */}
