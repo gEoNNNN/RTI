@@ -204,7 +204,7 @@ export default function Footer() {
               <div className="left">
                 <div className="copyright">
                   <a href="">
-                    Copyright © 2003-2021 Plasma RTI SRL
+                    Copyright © 2003-2026 Plasma RTI SRL
                   </a>
                 </div>
                 <div className="grey-line margin"></div>

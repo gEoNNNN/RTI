@@ -73,6 +73,18 @@ a:hover {
   .site__footer .links-component .links-list { flex: 4; }
 }
 
+/* Selector collisions: extracted rules lost their Angular component scoping,
+   so bare selectors leak across components.
+   - .footer .top{50px/32px padding} was hitting .language-switch .switcher.top
+     ("top" = dropdown opens upward) making the footer bar 113px tall.
+   - sticky-menu's bare .grey-line.margin{margin:0} overrode the footer's 30px. */
+.footer .switcher.top { padding: 0; }
+.footer .bottom .grey-line { border-left: 1px solid #e1e1e1; border-right: none; height: 30px; }
+.footer .bottom .grey-line.margin { margin: 0 30px; }
+@media (max-width: 767px) {
+  .footer .bottom .grey-line.margin { margin: 0 14px; }
+}
+
 /* ==== Navbar icon + layout hardening ==== */
 .nav-links__item .item-icon {
   display: inline-flex;
