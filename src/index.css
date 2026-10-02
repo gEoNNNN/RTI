@@ -65,6 +65,7 @@ a:hover {
 .entrustSlider .slideContent .left-side .meta .descriptionBox {
   display: block !important;
   -webkit-line-clamp: unset !important;
+  line-clamp: unset !important;
   text-overflow: clip;
   max-height: 165px;
   overflow: hidden;
