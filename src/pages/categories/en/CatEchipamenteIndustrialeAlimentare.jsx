@@ -1,0 +1,756 @@
+import React from 'react';
+import { Link } from 'react-router-dom';
+
+export default function CatEchipamenteIndustrialeAlimentare() {
+  return (
+    <div className="site__body">
+      <app-product-category>
+      <app-product-category>
+        <div className="header">
+          <app-page-header>
+            <div className="page-header product-category bg-image" style={{ backgroundImage: 'url("/images/9fc35fac-0240-4b90-8647-2d42f629ce09.jpg")' }}>
+              <div className="overlay" style={{ background: 'transparent' }}></div>
+              <div id="links" className="page-header__container container">
+                <div className="page-header__title">
+                  <h1>
+                    Food industrial equipment
+                  </h1>
+                </div>
+              </div>
+            </div>
+          </app-page-header>
+          <div className="background-gradient">
+            <div className="container">
+              <div className="subcategories">
+                <div className="box-margin">
+                  <a className="subCategory-card subCategory-card-all active" href="/en/category/echipamente-industriale-alimentare">
+                    <div className="subCategory-title">
+                      Все
+                    </div>
+                  </a>
+                </div>
+                <div className="box-margin">
+                  <a routerlinkactive="active" className="subCategory-card" href="/en/category/echipamente-industriale-alimentare/feliatoare-manuale">
+                    <div className="subCategory-title">
+                      Manual slicing machine 
+                    </div>
+                  </a>
+                </div>
+                <div className="box-margin">
+                  <a routerlinkactive="active" className="subCategory-card" href="/en/category/echipamente-industriale-alimentare/feliatoare-automatesemi-automate">
+                    <div className="subCategory-title">
+                      Automatic slicing machine
+                    </div>
+                  </a>
+                </div>
+                <div className="box-margin">
+                  <a routerlinkactive="active" className="subCategory-card" href="/en/category/echipamente-industriale-alimentare/masini-automate-de-etichetare">
+                    <div className="subCategory-title">
+                      Automatic labeling machine
+                    </div>
+                  </a>
+                </div>
+                <div className="box-margin">
+                  <a routerlinkactive="active" className="subCategory-card" href="/en/category/echipamente-industriale-alimentare/detectoare-industriale-de-metale">
+                    <div className="subCategory-title">
+                      Industrial metal detectors
+                    </div>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <app-page-header>
+            <div className="page-header" style={{ backgroundImage: 'url()' }}>
+              <div className="overlay" style={{ background: 'transparent' }}></div>
+              <div id="links" className="page-header__container container"></div>
+            </div>
+            <div className="bottom-breadcrumbs">
+              <div className="container">
+                <nav ariaLabel="breadcrumb">
+                  <ul className="breadcrumb">
+                    <li className="bc-item">
+                      <a href="/en/">
+                        Главная
+                      </a>
+                      <fa-icon size="1" className="ng-fa-icon bc-arrow">
+                        <svg role="img" ariaHidden="true" focusable="false" data-prefix="fas" data-icon="chevron-right" className="svg-inline--fa fa-chevron-right fa-w-10 fa-1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512">
+                          <path fill="currentColor" d="M285.476 272.971L91.132 467.314c-9.373 9.373-24.569 9.373-33.941 0l-22.667-22.667c-9.357-9.357-9.375-24.522-.04-33.901L188.505 256 34.484 101.255c-9.335-9.379-9.317-24.544.04-33.901l22.667-22.667c9.373-9.373 24.569-9.373 33.941 0L285.475 239.03c9.373 9.372 9.373 24.568.001 33.941z"></path>
+                        </svg>
+                      </fa-icon>
+                    </li>
+                    <li aria-current="page" className="bc-item active">
+                      Food industrial equipment
+                    </li>
+                  </ul>
+                </nav>
+              </div>
+            </div>
+          </app-page-header>
+        </div>
+        <div className="page full-background">
+          <app-page-subheader>
+            <div className="container">
+              <div className="page-subheader">
+                <h2>
+                  Все
+                </h2>
+              </div>
+            </div>
+          </app-page-subheader>
+          <div className="container">
+            <div className="shop-layout shop-layout--sidebar--start">
+              <div className="shop-layout__content full-width">
+                <div className="block">
+                  <products-view offcanvas="mobile">
+                    <div className="products-view">
+                      <div className="products-view__list products-list">
+                        <div className="row">
+                          <div className="col-md-4 col-sm-6 pb-30 col-lg-3">
+                            <app-product-card>
+                              <div className="product-card">
+                                <div itemscope="" className="product-card__image">
+                                  <a href="/en/product/feliator-graef-euro-1920" style={{backgroundImage: "url('/images/0eba5773-d8f4-4121-afda-890a88913264.jpg')"}}></a>
+                                </div>
+                                <div className="product-card-box-meta">
+                                  <div itemscope="" className="product-name">
+                                    <div className="product-card__name">
+                                      <link itemprop="url" href="/en/product/feliator-graef-euro-1920" />
+                                      <meta itemprop="name" content="Slicer GRAEF EURO 1920" />
+                                      <a href="/en/product/feliator-graef-euro-1920">
+                                        Slicer GRAEF EURO 1920
+                                      </a>
+                                    </div>
+                                  </div>
+                                  <div className="product-card-footer">
+                                    <div className="left">
+                                      <meta itemprop="price" content="" />
+                                      <meta itemprop="priceCurrency" content="" />
+                                      <meta itemprop="sku" content="" />
+                                      <product-price-view>
+                                        <div className="priceBox small">
+                                          <div className="no-price"></div>
+                                        </div>
+                                      </product-price-view>
+                                    </div>
+                                    <div className="right">
+                                      <div className="right-body">
+                                        <img src="/images/shopping-bag.e9efb.svg" alt="" />
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </app-product-card>
+                          </div>
+                          <div className="col-md-4 col-sm-6 pb-30 col-lg-3">
+                            <app-product-card>
+                              <div className="product-card">
+                                <div itemscope="" className="product-card__image">
+                                  <a href="/en/product/feliator-graef-euro-2550" style={{backgroundImage: "url('/images/bbc9d17d-4d86-40fd-bb30-6dffe25b6d50.jpg')"}}></a>
+                                </div>
+                                <div className="product-card-box-meta">
+                                  <div itemscope="" className="product-name">
+                                    <div className="product-card__name">
+                                      <link itemprop="url" href="/en/product/feliator-graef-euro-2550" />
+                                      <meta itemprop="name" content="Slicer GRAEF EURO 2550" />
+                                      <a href="/en/product/feliator-graef-euro-2550">
+                                        Slicer GRAEF EURO 2550
+                                      </a>
+                                    </div>
+                                  </div>
+                                  <div className="product-card-footer">
+                                    <div className="left">
+                                      <meta itemprop="price" content="" />
+                                      <meta itemprop="priceCurrency" content="" />
+                                      <meta itemprop="sku" content="" />
+                                      <product-price-view>
+                                        <div className="priceBox small">
+                                          <div className="no-price"></div>
+                                        </div>
+                                      </product-price-view>
+                                    </div>
+                                    <div className="right">
+                                      <div className="right-body">
+                                        <img src="/images/shopping-bag.e9efb.svg" alt="" />
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </app-product-card>
+                          </div>
+                          <div className="col-md-4 col-sm-6 pb-30 col-lg-3">
+                            <app-product-card>
+                              <div className="product-card">
+                                <div itemscope="" className="product-card__image">
+                                  <a href="/en/product/feliator-graef-profi-euro-2560" style={{backgroundImage: "url('/images/b64cb6dc-9bde-4bf0-a5cb-a42a47a296ad.jpg')"}}></a>
+                                </div>
+                                <div className="product-card-box-meta">
+                                  <div itemscope="" className="product-name">
+                                    <div className="product-card__name">
+                                      <link itemprop="url" href="/en/product/feliator-graef-profi-euro-2560" />
+                                      <meta itemprop="name" content="Slicer GRAEF Profi EURO 2560" />
+                                      <a href="/en/product/feliator-graef-profi-euro-2560">
+                                        Slicer GRAEF Profi EURO 2560
+                                      </a>
+                                    </div>
+                                  </div>
+                                  <div className="product-card-footer">
+                                    <div className="left">
+                                      <meta itemprop="price" content="" />
+                                      <meta itemprop="priceCurrency" content="" />
+                                      <meta itemprop="sku" content="" />
+                                      <product-price-view>
+                                        <div className="priceBox small">
+                                          <div className="no-price"></div>
+                                        </div>
+                                      </product-price-view>
+                                    </div>
+                                    <div className="right">
+                                      <div className="right-body">
+                                        <img src="/images/shopping-bag.e9efb.svg" alt="" />
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </app-product-card>
+                          </div>
+                          <div className="col-md-4 col-sm-6 pb-30 col-lg-3">
+                            <app-product-card>
+                              <div className="product-card">
+                                <div itemscope="" className="product-card__image">
+                                  <a href="/en/product/feliator-graef-master-euro-2720" style={{backgroundImage: "url('/images/a55ee048-a72a-4c3a-ae96-425077a91864.jpg')"}}></a>
+                                </div>
+                                <div className="product-card-box-meta">
+                                  <div itemscope="" className="product-name">
+                                    <div className="product-card__name">
+                                      <link itemprop="url" href="/en/product/feliator-graef-master-euro-2720" />
+                                      <meta itemprop="name" content="Slicer GRAEF Master EURO 2720" />
+                                      <a href="/en/product/feliator-graef-master-euro-2720">
+                                        Slicer GRAEF Master EURO 2720
+                                      </a>
+                                    </div>
+                                  </div>
+                                  <div className="product-card-footer">
+                                    <div className="left">
+                                      <meta itemprop="price" content="" />
+                                      <meta itemprop="priceCurrency" content="" />
+                                      <meta itemprop="sku" content="" />
+                                      <product-price-view>
+                                        <div className="priceBox small">
+                                          <div className="no-price"></div>
+                                        </div>
+                                      </product-price-view>
+                                    </div>
+                                    <div className="right">
+                                      <div className="right-body">
+                                        <img src="/images/shopping-bag.e9efb.svg" alt="" />
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </app-product-card>
+                          </div>
+                          <div className="col-md-4 col-sm-6 pb-30 col-lg-3">
+                            <app-product-card>
+                              <div className="product-card">
+                                <div itemscope="" className="product-card__image">
+                                  <a href="/en/product/feliator-graef-profi-euro-3000" style={{backgroundImage: "url('/images/674aec6e-eaa7-4d3b-84bd-cefdd9c06515.jpg')"}}></a>
+                                </div>
+                                <div className="product-card-box-meta">
+                                  <div itemscope="" className="product-name">
+                                    <div className="product-card__name">
+                                      <link itemprop="url" href="/en/product/feliator-graef-profi-euro-3000" />
+                                      <meta itemprop="name" content="Slicer GRAEF Profi EURO 3000" />
+                                      <a href="/en/product/feliator-graef-profi-euro-3000">
+                                        Slicer GRAEF Profi EURO 3000
+                                      </a>
+                                    </div>
+                                  </div>
+                                  <div className="product-card-footer">
+                                    <div className="left">
+                                      <meta itemprop="price" content="" />
+                                      <meta itemprop="priceCurrency" content="" />
+                                      <meta itemprop="sku" content="" />
+                                      <product-price-view>
+                                        <div className="priceBox small">
+                                          <div className="no-price"></div>
+                                        </div>
+                                      </product-price-view>
+                                    </div>
+                                    <div className="right">
+                                      <div className="right-body">
+                                        <img src="/images/shopping-bag.e9efb.svg" alt="" />
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </app-product-card>
+                          </div>
+                          <div className="col-md-4 col-sm-6 pb-30 col-lg-3">
+                            <app-product-card>
+                              <div className="product-card">
+                                <div itemscope="" className="product-card__image">
+                                  <a href="/en/product/feliator-graef-euro-3020" style={{backgroundImage: "url('/images/cee7a0f2-6d12-4562-82b5-2ac6aa3a53e7.jpg')"}}></a>
+                                </div>
+                                <div className="product-card-box-meta">
+                                  <div itemscope="" className="product-name">
+                                    <div className="product-card__name">
+                                      <link itemprop="url" href="/en/product/feliator-graef-euro-3020" />
+                                      <meta itemprop="name" content="Slicer GRAEF EURO 3020" />
+                                      <a href="/en/product/feliator-graef-euro-3020">
+                                        Slicer GRAEF EURO 3020
+                                      </a>
+                                    </div>
+                                  </div>
+                                  <div className="product-card-footer">
+                                    <div className="left">
+                                      <meta itemprop="price" content="" />
+                                      <meta itemprop="priceCurrency" content="" />
+                                      <meta itemprop="sku" content="" />
+                                      <product-price-view>
+                                        <div className="priceBox small">
+                                          <div className="no-price"></div>
+                                        </div>
+                                      </product-price-view>
+                                    </div>
+                                    <div className="right">
+                                      <div className="right-body">
+                                        <img src="/images/shopping-bag.e9efb.svg" alt="" />
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </app-product-card>
+                          </div>
+                          <div className="col-md-4 col-sm-6 pb-30 col-lg-3">
+                            <app-product-card>
+                              <div className="product-card">
+                                <div itemscope="" className="product-card__image">
+                                  <a href="/en/product/feliator-graef-euro-3060" style={{backgroundImage: "url('/images/5440feb7-a469-48e3-b60c-e407b2f1feed.jpg')"}}></a>
+                                </div>
+                                <div className="product-card-box-meta">
+                                  <div itemscope="" className="product-name">
+                                    <div className="product-card__name">
+                                      <link itemprop="url" href="/en/product/feliator-graef-euro-3060" />
+                                      <meta itemprop="name" content="Slicer GRAEF EURO 3060" />
+                                      <a href="/en/product/feliator-graef-euro-3060">
+                                        Slicer GRAEF EURO 3060
+                                      </a>
+                                    </div>
+                                  </div>
+                                  <div className="product-card-footer">
+                                    <div className="left">
+                                      <meta itemprop="price" content="" />
+                                      <meta itemprop="priceCurrency" content="" />
+                                      <meta itemprop="sku" content="" />
+                                      <product-price-view>
+                                        <div className="priceBox small">
+                                          <div className="no-price"></div>
+                                        </div>
+                                      </product-price-view>
+                                    </div>
+                                    <div className="right">
+                                      <div className="right-body">
+                                        <img src="/images/shopping-bag.e9efb.svg" alt="" />
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </app-product-card>
+                          </div>
+                          <div className="col-md-4 col-sm-6 pb-30 col-lg-3">
+                            <app-product-card>
+                              <div className="product-card">
+                                <div itemscope="" className="product-card__image">
+                                  <a href="/en/product/feliator-graef-euro-3310" style={{backgroundImage: "url('/images/5d38c11c-3f63-4696-9f29-12a11f01b9bb.png')"}}></a>
+                                </div>
+                                <div className="product-card-box-meta">
+                                  <div itemscope="" className="product-name">
+                                    <div className="product-card__name">
+                                      <link itemprop="url" href="/en/product/feliator-graef-euro-3310" />
+                                      <meta itemprop="name" content="Slicer GRAEF EURO 3310" />
+                                      <a href="/en/product/feliator-graef-euro-3310">
+                                        Slicer GRAEF EURO 3310
+                                      </a>
+                                    </div>
+                                  </div>
+                                  <div className="product-card-footer">
+                                    <div className="left">
+                                      <meta itemprop="price" content="" />
+                                      <meta itemprop="priceCurrency" content="" />
+                                      <meta itemprop="sku" content="" />
+                                      <product-price-view>
+                                        <div className="priceBox small">
+                                          <div className="no-price"></div>
+                                        </div>
+                                      </product-price-view>
+                                    </div>
+                                    <div className="right">
+                                      <div className="right-body">
+                                        <img src="/images/shopping-bag.e9efb.svg" alt="" />
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </app-product-card>
+                          </div>
+                          <div className="col-md-4 col-sm-6 pb-30 col-lg-3">
+                            <app-product-card>
+                              <div className="product-card">
+                                <div itemscope="" className="product-card__image">
+                                  <a href="/en/product/feliator-graef-euro-3370" style={{backgroundImage: "url('/images/380b9119-1898-4a40-b5a9-12e3141e8598.jpg')"}}></a>
+                                </div>
+                                <div className="product-card-box-meta">
+                                  <div itemscope="" className="product-name">
+                                    <div className="product-card__name">
+                                      <link itemprop="url" href="/en/product/feliator-graef-euro-3370" />
+                                      <meta itemprop="name" content="Slicer GRAEF EURO 3370" />
+                                      <a href="/en/product/feliator-graef-euro-3370">
+                                        Slicer GRAEF EURO 3370
+                                      </a>
+                                    </div>
+                                  </div>
+                                  <div className="product-card-footer">
+                                    <div className="left">
+                                      <meta itemprop="price" content="" />
+                                      <meta itemprop="priceCurrency" content="" />
+                                      <meta itemprop="sku" content="" />
+                                      <product-price-view>
+                                        <div className="priceBox small">
+                                          <div className="no-price"></div>
+                                        </div>
+                                      </product-price-view>
+                                    </div>
+                                    <div className="right">
+                                      <div className="right-body">
+                                        <img src="/images/shopping-bag.e9efb.svg" alt="" />
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </app-product-card>
+                          </div>
+                          <div className="col-md-4 col-sm-6 pb-30 col-lg-3">
+                            <app-product-card>
+                              <div className="product-card">
+                                <div itemscope="" className="product-card__image">
+                                  <a href="/en/product/feliator-graef-va-802" style={{backgroundImage: "url('/images/b57f8dc6-2d2f-4d4e-a137-2aa58ed5dd1e.jpg')"}}></a>
+                                </div>
+                                <div className="product-card-box-meta">
+                                  <div itemscope="" className="product-name">
+                                    <div className="product-card__name">
+                                      <link itemprop="url" href="/en/product/feliator-graef-va-802" />
+                                      <meta itemprop="name" content="Slicer GRAEF VA 802" />
+                                      <a href="/en/product/feliator-graef-va-802">
+                                        Slicer GRAEF VA 802
+                                      </a>
+                                    </div>
+                                  </div>
+                                  <div className="product-card-footer">
+                                    <div className="left">
+                                      <meta itemprop="price" content="" />
+                                      <meta itemprop="priceCurrency" content="" />
+                                      <meta itemprop="sku" content="" />
+                                      <product-price-view>
+                                        <div className="priceBox small">
+                                          <div className="no-price"></div>
+                                        </div>
+                                      </product-price-view>
+                                    </div>
+                                    <div className="right">
+                                      <div className="right-body">
+                                        <img src="/images/shopping-bag.e9efb.svg" alt="" />
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </app-product-card>
+                          </div>
+                          <div className="col-md-4 col-sm-6 pb-30 col-lg-3">
+                            <app-product-card>
+                              <div className="product-card">
+                                <div itemscope="" className="product-card__image">
+                                  <a href="/en/product/detector-de-metale-dibal-mds-5700" style={{backgroundImage: "url('/images/11406a06-342f-4a68-bc49-52c63bf5ff69.png')"}}></a>
+                                </div>
+                                <div className="product-card-box-meta">
+                                  <div itemscope="" className="product-name">
+                                    <div className="product-card__name">
+                                      <link itemprop="url" href="/en/product/detector-de-metale-dibal-mds-5700" />
+                                      <meta itemprop="name" content="Dibal MDS-5700 metal detector" />
+                                      <a href="/en/product/detector-de-metale-dibal-mds-5700">
+                                        Dibal MDS-5700 metal detector
+                                      </a>
+                                    </div>
+                                  </div>
+                                  <div className="product-card-footer">
+                                    <div className="left">
+                                      <meta itemprop="price" content="" />
+                                      <meta itemprop="priceCurrency" content="" />
+                                      <meta itemprop="sku" content="" />
+                                      <product-price-view>
+                                        <div className="priceBox small">
+                                          <div className="no-price"></div>
+                                        </div>
+                                      </product-price-view>
+                                    </div>
+                                    <div className="right">
+                                      <div className="right-body">
+                                        <img src="/images/shopping-bag.e9efb.svg" alt="" />
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </app-product-card>
+                          </div>
+                          <div className="col-md-4 col-sm-6 pb-30 col-lg-3">
+                            <app-product-card>
+                              <div className="product-card">
+                                <div itemscope="" className="product-card__image">
+                                  <a href="/en/product/detector-de-metale-dibal-md-5700" style={{backgroundImage: "url('/images/ace134a1-7980-44d0-bfc2-116133725be8.png')"}}></a>
+                                </div>
+                                <div className="product-card-box-meta">
+                                  <div itemscope="" className="product-name">
+                                    <div className="product-card__name">
+                                      <link itemprop="url" href="/en/product/detector-de-metale-dibal-md-5700" />
+                                      <meta itemprop="name" content="Dibal MD-5700 metal detector" />
+                                      <a href="/en/product/detector-de-metale-dibal-md-5700">
+                                        Dibal MD-5700 metal detector
+                                      </a>
+                                    </div>
+                                  </div>
+                                  <div className="product-card-footer">
+                                    <div className="left">
+                                      <meta itemprop="price" content="" />
+                                      <meta itemprop="priceCurrency" content="" />
+                                      <meta itemprop="sku" content="" />
+                                      <product-price-view>
+                                        <div className="priceBox small">
+                                          <div className="no-price"></div>
+                                        </div>
+                                      </product-price-view>
+                                    </div>
+                                    <div className="right">
+                                      <div className="right-body">
+                                        <img src="/images/shopping-bag.e9efb.svg" alt="" />
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </app-product-card>
+                          </div>
+                          <div className="col-md-4 col-sm-6 pb-30 col-lg-3">
+                            <app-product-card>
+                              <div className="product-card">
+                                <div itemscope="" className="product-card__image">
+                                  <a href="/en/product/dibal-la-4500-series-automatic-labelling-machine" style={{backgroundImage: "url('/images/8045a163-ddf4-4a86-85a3-520ed19ad7cc.png')"}}></a>
+                                </div>
+                                <div className="product-card-box-meta">
+                                  <div itemscope="" className="product-name">
+                                    <div className="product-card__name">
+                                      <link itemprop="url" href="/en/product/dibal-la-4500-series-automatic-labelling-machine" />
+                                      <meta itemprop="name" content="Dibal LA 4500 series automatic labelling machine" />
+                                      <a href="/en/product/dibal-la-4500-series-automatic-labelling-machine">
+                                        Dibal LA 4500 series automatic labelling machine
+                                      </a>
+                                    </div>
+                                  </div>
+                                  <div className="product-card-footer">
+                                    <div className="left">
+                                      <meta itemprop="price" content="" />
+                                      <meta itemprop="priceCurrency" content="" />
+                                      <meta itemprop="sku" content="" />
+                                      <product-price-view>
+                                        <div className="priceBox small">
+                                          <div className="no-price"></div>
+                                        </div>
+                                      </product-price-view>
+                                    </div>
+                                    <div className="right">
+                                      <div className="right-body">
+                                        <img src="/images/shopping-bag.e9efb.svg" alt="" />
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </app-product-card>
+                          </div>
+                          <div className="col-md-4 col-sm-6 pb-30 col-lg-3">
+                            <app-product-card>
+                              <div className="product-card">
+                                <div itemscope="" className="product-card__image">
+                                  <a href="/en/product/feliator-graef-euro-2500" style={{backgroundImage: "url('/images/b9db16fe-63c0-4d18-9654-2c861153ffd7.jpg')"}}></a>
+                                </div>
+                                <div className="product-card-box-meta">
+                                  <div itemscope="" className="product-name">
+                                    <div className="product-card__name">
+                                      <link itemprop="url" href="/en/product/feliator-graef-euro-2500" />
+                                      <meta itemprop="name" content="Slicer GRAEF EURO 2500 " />
+                                      <a href="/en/product/feliator-graef-euro-2500">
+                                        Slicer GRAEF EURO 2500 
+                                      </a>
+                                    </div>
+                                  </div>
+                                  <div className="product-card-footer">
+                                    <div className="left">
+                                      <meta itemprop="price" content="" />
+                                      <meta itemprop="priceCurrency" content="" />
+                                      <meta itemprop="sku" content="" />
+                                      <product-price-view>
+                                        <div className="priceBox small">
+                                          <div className="no-price"></div>
+                                        </div>
+                                      </product-price-view>
+                                    </div>
+                                    <div className="right">
+                                      <div className="right-body">
+                                        <img src="/images/shopping-bag.e9efb.svg" alt="" />
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </app-product-card>
+                          </div>
+                          <div className="col-md-4 col-sm-6 pb-30 col-lg-3">
+                            <app-product-card>
+                              <div className="product-card">
+                                <div itemscope="" className="product-card__image">
+                                  <a href="/en/product/feliator-graef-va-806-fb" style={{backgroundImage: "url('/images/c7a42f5b-3346-4809-b1d4-a5e36752b533.jpg')"}}></a>
+                                </div>
+                                <div className="product-card-box-meta">
+                                  <div itemscope="" className="product-name">
+                                    <div className="product-card__name">
+                                      <link itemprop="url" href="/en/product/feliator-graef-va-806-fb" />
+                                      <meta itemprop="name" content="Automatic slicer GRAEF VA 806 FB" />
+                                      <a href="/en/product/feliator-graef-va-806-fb">
+                                        Automatic slicer GRAEF VA 806 FB
+                                      </a>
+                                    </div>
+                                  </div>
+                                  <div className="product-card-footer">
+                                    <div className="left">
+                                      <meta itemprop="price" content="" />
+                                      <meta itemprop="priceCurrency" content="" />
+                                      <meta itemprop="sku" content="" />
+                                      <product-price-view>
+                                        <div className="priceBox small">
+                                          <div className="no-price"></div>
+                                        </div>
+                                      </product-price-view>
+                                    </div>
+                                    <div className="right">
+                                      <div className="right-body">
+                                        <img src="/images/shopping-bag.e9efb.svg" alt="" />
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </app-product-card>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="products-view__pagination"></div>
+                    </div>
+                  </products-view>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="container">
+          <app-seo-text>
+            <div className="seo-text" style={{ borderTop: 'none' }}>
+              <div className="seo-content expand">
+                <div className="bg-gradient"></div>
+                <div>
+                  <p>
+                    <strong>
+                      Industrial equipment for business automation in Moldova
+                    </strong>
+                  </p>
+                  <p>
+                    <br />
+                  </p>
+                  <p>
+                    Industrial equipment for automation in Chisinau is modern digital and analog devices that are designed to improve the efficiency of the enterprise. The main purpose of such industrial equipment is to optimize the costs of managing business processes.
+                  </p>
+                  <p>
+                    <br />
+                  </p>
+                  <p>
+                    Our company offers metal detectors for the food industry in Moldova, for plastic production and non-food liquids. Therefore, competent automation allows you to effectively control, operate and monitor the operation of equipment, and also increases cost and production efficiency.
+                  </p>
+                  <p>
+                    <br />
+                  </p>
+                  <p>
+                    Industrial metal detectors in Chisinau are designed to detect metal parts in various environments or products. Therefore food metal detectors can be used for more than just food production. Despite their name, they are actively used in:
+                  </p>
+                  <p>
+                    <br />
+                  </p>
+                  <p>
+                    the pharmaceutical industry and the production of medicines;
+                  </p>
+                  <p>
+                    mining industry;
+                  </p>
+                  <p>
+                    woodworking industry;
+                  </p>
+                  <p>
+                    textile industry.
+                  </p>
+                  <p>
+                    Also, our company offers industrial equipment for labels in Moldova - these are professional printers that can work at large industrial facilities - warehouses, and logistics centers, as well as at manufacturing, industrial, trade, and transport enterprises. Production equipment for label printing in Chisinau is characterized by reliability, durability, high printing speed, and high image clarity.
+                  </p>
+                  <p>
+                    <br />
+                  </p>
+                  <p>
+                    The final type of model should be chosen based on your goals, objectives, required productivity, print settings, consumables used - print format, roll diameters, resolution, and so on. Therefore, our company also presents automatic equipment for labels in Moldova.
+                  </p>
+                  <p>
+                    <br />
+                  </p>
+                  <p>
+                    For more than 18 years, we have been helping small and large business owners achieve their most ambitious goals. We are waiting for you so that you can buy production equipment for store automation in Chisinau, as well as other equipment for your business from the best manufacturers. You can also choose from our catalog of wireless and fiscal equipment.
+                  </p>
+                  <p>
+                    <br />
+                  </p>
+                  <p>
+                    Company RTI - Automation of business processes in Moldova
+                  </p>
+                </div>
+              </div>
+              <div className="extend-button">
+                <div className="button">
+                  <div>
+                     Expand 
+                  </div>
+                  <div className="seo-arrow"></div>
+                </div>
+              </div>
+            </div>
+          </app-seo-text>
+        </div>
+      </app-product-category>
+      </app-product-category>
+    </div>
+  );
+}

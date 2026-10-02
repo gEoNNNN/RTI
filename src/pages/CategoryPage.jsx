@@ -11,6 +11,12 @@ import { childMap as childMapRo } from './categories/children';
 import { childMap as childMapRu } from './categories/ru/children';
 import { childMap as childMapEn } from './categories/en/children';
 import { useLang, pick } from '../lang';
+import CatEchipamentPrimireemitereNumerar from './categories/CatEchipamentPrimireemitereNumerar';
+import CatEchipamenteIndustrialeAlimentare from './categories/CatEchipamenteIndustrialeAlimentare';
+import CatEchipamenteWireless from './categories/CatEchipamenteWireless';
+import CatSistemeAntiincendiu from './categories/CatSistemeAntiincendiu';
+import CatConsumabile from './categories/CatConsumabile';
+import CatSudareCuFibreOptice from './categories/CatSudareCuFibreOptice';
 import CatAccesoriiAntifurt from './categories/CatAccesoriiAntifurt';
 import CatAccesoriiAudio from './categories/CatAccesoriiAudio';
 import CatAccesoriiDeParcare from './categories/CatAccesoriiDeParcare';
@@ -62,6 +68,12 @@ import CatTicketSystem from './categories/CatTicketSystem';
 import CatTurnichete from './categories/CatTurnichete';
 
 const categoryMap = {
+  'echipament-primireemitere-numerar': CatEchipamentPrimireemitereNumerar,
+  'echipamente-industriale-alimentare': CatEchipamenteIndustrialeAlimentare,
+  'echipamente-wireless': CatEchipamenteWireless,
+  'sisteme-antiincendiu': CatSistemeAntiincendiu,
+  'consumabile': CatConsumabile,
+  'sudare-cu-fibre-optice': CatSudareCuFibreOptice,
   'accesorii-antifurt': CatAccesoriiAntifurt,
   'accesorii-audio': CatAccesoriiAudio,
   'accesorii-de-parcare': CatAccesoriiDeParcare,

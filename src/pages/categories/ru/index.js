@@ -1,3 +1,9 @@
+import CatEchipamentPrimireemitereNumerar from './CatEchipamentPrimireemitereNumerar';
+import CatEchipamenteIndustrialeAlimentare from './CatEchipamenteIndustrialeAlimentare';
+import CatEchipamenteWireless from './CatEchipamenteWireless';
+import CatSistemeAntiincendiu from './CatSistemeAntiincendiu';
+import CatConsumabile from './CatConsumabile';
+import CatSudareCuFibreOptice from './CatSudareCuFibreOptice';
 import CatAccesoriiAntifurt from './CatAccesoriiAntifurt';
 import CatAccesoriiAudio from './CatAccesoriiAudio';
 import CatAccesoriiDeParcare from './CatAccesoriiDeParcare';
@@ -49,6 +55,12 @@ import CatTicketSystem from './CatTicketSystem';
 import CatTurnichete from './CatTurnichete';
 
 export const categoryMap = {
+  'echipament-primireemitere-numerar': CatEchipamentPrimireemitereNumerar,
+  'echipamente-industriale-alimentare': CatEchipamenteIndustrialeAlimentare,
+  'echipamente-wireless': CatEchipamenteWireless,
+  'sisteme-antiincendiu': CatSistemeAntiincendiu,
+  'consumabile': CatConsumabile,
+  'sudare-cu-fibre-optice': CatSudareCuFibreOptice,
   'accesorii-antifurt': CatAccesoriiAntifurt,
   'accesorii-audio': CatAccesoriiAudio,
   'accesorii-de-parcare': CatAccesoriiDeParcare,
