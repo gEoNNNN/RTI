@@ -53,8 +53,10 @@ a:hover {
 .departments__links .icon { width: 20px; height: 20px; display: inline-flex; align-items: center; flex: none; }
 .departments__links .icon img { max-width: 20px !important; max-height: 20px !important; }
 .departments__links .icon img.active { display: none !important; }
-.departments__links .departments__item:hover .icon img.active { display: inline-block !important; }
-.departments__links .departments__item:hover .icon img.inactive { display: none !important; }
+.departments__links .departments__item:hover .icon img.active,
+.departments__links .departments__item.active .icon img.active { display: inline-block !important; }
+.departments__links .departments__item:hover .icon img.inactive,
+.departments__links .departments__item.active .icon img.inactive { display: none !important; }
 
 /* Mega-menu subcategory icons */
 .departments__menu .menu .list a img.icon { width: 30px !important; height: 30px !important; object-fit: contain; flex: none; }
