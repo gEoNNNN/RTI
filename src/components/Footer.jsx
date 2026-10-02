@@ -85,9 +85,15 @@ function FooterMenu({ menu }) {
   return (
     <div className="menu-container">
       {menu.map((col, i) => (
-        <div className="f-links" key={i}>
-          <h4>{col.name}</h4>
-          <ul>
+        <div className="links-component" key={i}>
+          <div className="header">
+            <img alt="Footer links column icon" className="desktop" src="/images/red-leave.e9efb.svg" />
+            <h2 className="title">{col.name}</h2>
+          </div>
+          <div className="between mobile">
+            <img alt="Footer links column icon" src="/images/red-leave.e9efb.svg" />
+          </div>
+          <ul className="links-list">
             {col.target.map((t, j) => (
               <li key={j}>
                 <a href={t.url && t.url.startsWith('/') ? to(t.url, lang) : t.url}>
