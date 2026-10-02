@@ -28,6 +28,22 @@ a:hover {
 }
 
 
+/* Font Awesome SVG sizing — extracted styles lost these base rules,
+   so fa-* icons rendered at container width (giant chevrons) */
+.svg-inline--fa {
+  display: inline-block;
+  font-size: inherit;
+  height: 1em;
+  overflow: visible;
+  vertical-align: -0.125em;
+}
+.svg-inline--fa.fa-w-10 { width: 0.625em; }
+.svg-inline--fa.fa-w-11 { width: 0.6875em; }
+.svg-inline--fa.fa-w-12 { width: 0.75em; }
+.svg-inline--fa.fa-w-14 { width: 0.875em; }
+.svg-inline--fa.fa-w-16 { width: 1em; }
+.svg-inline--fa.fa-lg { font-size: 1.33333em; line-height: 0.75em; vertical-align: -0.0667em; }
+
 /* ==== Navbar icon + layout hardening ==== */
 .nav-links__item .item-icon {
   display: inline-flex;
@@ -63,8 +79,8 @@ a:hover {
 .departments__links .departments__item:hover .icon img.inactive,
 .departments__links .departments__item.active .icon img.inactive { display: none !important; }
 
-/* Mega-menu subcategory icons */
-.departments__menu .menu .list a img.icon { width: 30px !important; height: 30px !important; object-fit: contain; flex: none; }
+/* Mega-menu subcategory icons — live shows 100x100 thumbnails */
+.departments__menu .menu .list a img.icon { width: 100px; height: 100px; object-fit: contain; flex: none; margin: 10px 15px 10px 0; }
 
 /* Entrust slider — text was collapsed by -webkit-box/line-clamp combo */
 .entrustSlider .slideContent .left-side .meta .descriptionBox {
