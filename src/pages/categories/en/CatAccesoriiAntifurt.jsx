@@ -72,9 +72,7 @@ export default function CatAccesoriiAntifurt() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/optical-tag-antifurt-o-001">
-                                    <img src="/images/1471aae5-a724-474b-bcf3-fec64e36ad7b.png" alt="Optical Tag (RO-001)" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/optical-tag-antifurt-o-001" style={{backgroundImage: "url('/images/1471aae5-a724-474b-bcf3-fec64e36ad7b.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -111,9 +109,7 @@ export default function CatAccesoriiAntifurt() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/hard-tag-antifurt-t-048">
-                                    <img src="/images/48867ddb-625a-4aad-ae87-eb31c1044c11.png" alt="Anti-theft Hard Tag (R-048)" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/hard-tag-antifurt-t-048" style={{backgroundImage: "url('/images/48867ddb-625a-4aad-ae87-eb31c1044c11.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -150,9 +146,7 @@ export default function CatAccesoriiAntifurt() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/hard-tag-antifurt-t047-1">
-                                    <img src="/images/ba80948a-1f61-4729-8ebb-3605a4af2ba0.png" alt="Anti-theft Hard Tag (R-047-1)" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/hard-tag-antifurt-t047-1" style={{backgroundImage: "url('/images/ba80948a-1f61-4729-8ebb-3605a4af2ba0.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -189,9 +183,7 @@ export default function CatAccesoriiAntifurt() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/bottle-tag-b-001">
-                                    <img src="/images/e676f61c-1d79-41e6-b773-cfbe8dca09bf.png" alt="Bottle Tag (R-001)" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/bottle-tag-b-001" style={{backgroundImage: "url('/images/e676f61c-1d79-41e6-b773-cfbe8dca09bf.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -228,9 +220,7 @@ export default function CatAccesoriiAntifurt() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/bottle-cap-b-012">
-                                    <img src="/images/57a9414c-f574-4062-8eaf-38e6c94a9a81.png" alt="Bottle Cap (R-012)" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/bottle-cap-b-012" style={{backgroundImage: "url('/images/57a9414c-f574-4062-8eaf-38e6c94a9a81.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -267,9 +257,7 @@ export default function CatAccesoriiAntifurt() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/bottle-cap-b-011">
-                                    <img src="/images/b466e55b-2d55-4c19-bb17-2ee8a7865a73.png" alt="Bottle Cap (R-011)" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/bottle-cap-b-011" style={{backgroundImage: "url('/images/b466e55b-2d55-4c19-bb17-2ee8a7865a73.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -306,9 +294,7 @@ export default function CatAccesoriiAntifurt() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/bottle-cap-b-015">
-                                    <img src="/images/8c6d8f9a-f563-4dfa-aead-244d5318f165.png" alt="Bottle Cap (R-015)" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/bottle-cap-b-015" style={{backgroundImage: "url('/images/8c6d8f9a-f563-4dfa-aead-244d5318f165.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -345,9 +331,7 @@ export default function CatAccesoriiAntifurt() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/spider-tag">
-                                    <img src="/images/6af7c28a-4047-4272-a572-6b860cc662d3.png" alt="Spider Tag " loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/spider-tag" style={{backgroundImage: "url('/images/6af7c28a-4047-4272-a572-6b860cc662d3.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -384,9 +368,7 @@ export default function CatAccesoriiAntifurt() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/bottle-tag-b-002">
-                                    <img src="/images/3fe64a17-8333-4a9d-be45-9b9ad86fe1aa.png" alt="Bottle Tag (R-002)" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/bottle-tag-b-002" style={{backgroundImage: "url('/images/3fe64a17-8333-4a9d-be45-9b9ad86fe1aa.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -423,9 +405,7 @@ export default function CatAccesoriiAntifurt() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/hard-tag-antifurt-t-006">
-                                    <img src="/images/749430aa-4050-4c38-a8cc-63853a329439.png" alt="Anti-Theft Hard Tag (R-006)" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/hard-tag-antifurt-t-006" style={{backgroundImage: "url('/images/749430aa-4050-4c38-a8cc-63853a329439.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -462,9 +442,7 @@ export default function CatAccesoriiAntifurt() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/dr-roll-barcode">
-                                    <img src="/images/dd6fe6d2-145a-4a0f-9d42-ec4d8cbd4cc3.png" alt="DR Roll Barcode" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/dr-roll-barcode" style={{backgroundImage: "url('/images/dd6fe6d2-145a-4a0f-9d42-ec4d8cbd4cc3.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -501,9 +479,7 @@ export default function CatAccesoriiAntifurt() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/dr-sheet-barcoder">
-                                    <img src="/images/c3df952f-f85f-4c97-9d64-a246e71465b2.png" alt="DR Sheet Barcoder" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/dr-sheet-barcoder" style={{backgroundImage: "url('/images/c3df952f-f85f-4c97-9d64-a246e71465b2.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -540,9 +516,7 @@ export default function CatAccesoriiAntifurt() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/rf-label-3030">
-                                    <img src="/images/6e28625b-d27a-4236-9166-9deb5b1af647.png" alt="RF Label 30*30" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/rf-label-3030" style={{backgroundImage: "url('/images/6e28625b-d27a-4236-9166-9deb5b1af647.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -579,9 +553,7 @@ export default function CatAccesoriiAntifurt() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/rf-label-4040">
-                                    <img src="/images/c3c9473e-64f8-4b12-bcd2-f9fd5e86a7b7.png" alt="RF Label 40*40" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/rf-label-4040" style={{backgroundImage: "url('/images/c3c9473e-64f8-4b12-bcd2-f9fd5e86a7b7.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -618,9 +590,7 @@ export default function CatAccesoriiAntifurt() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/hard-tag-antifurt-t-047">
-                                    <img src="/images/e2e01725-98d6-42ee-b440-6a77be952f76.png" alt="Anti-theft Hard Tag (R-047)" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/hard-tag-antifurt-t-047" style={{backgroundImage: "url('/images/e2e01725-98d6-42ee-b440-6a77be952f76.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -657,9 +627,7 @@ export default function CatAccesoriiAntifurt() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/hard-tag-antifurt-t-067">
-                                    <img src="/images/0c29af93-7dff-4181-ba4c-26f42041fb68.png" alt="Anti-theft Hard Tag (R-067)" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/hard-tag-antifurt-t-067" style={{backgroundImage: "url('/images/0c29af93-7dff-4181-ba4c-26f42041fb68.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">

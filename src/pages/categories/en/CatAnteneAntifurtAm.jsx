@@ -63,9 +63,7 @@ export default function CatAnteneAntifurtAm() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/sistemul-antifurt-rguard-new-line-am">
-                                    <img src="/images/c4a9d7f9-c36d-4ba4-b3c6-f0e3d7d72178.png" alt="RGuard New Line AM Security Gate System" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/sistemul-antifurt-rguard-new-line-am" style={{backgroundImage: "url('/images/c4a9d7f9-c36d-4ba4-b3c6-f0e3d7d72178.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -102,9 +100,7 @@ export default function CatAnteneAntifurtAm() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/antene-antifurt-sensormatic-ultra-exit">
-                                    <img src="/images/4cb68656-11aa-47a7-831e-75547d356f93.png" alt="Sensormatic Ultra Exit anti-theft antennas" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/antene-antifurt-sensormatic-ultra-exit" style={{backgroundImage: "url('/images/4cb68656-11aa-47a7-831e-75547d356f93.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -141,9 +137,7 @@ export default function CatAnteneAntifurtAm() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/antene-antifurt-sensormatic-ultra-post">
-                                    <img src="/images/406c21d0-d704-42ea-8d0f-818125c448db.png" alt="Sensormatic Ultra Post anti-theft antennas" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/antene-antifurt-sensormatic-ultra-post" style={{backgroundImage: "url('/images/406c21d0-d704-42ea-8d0f-818125c448db.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -180,9 +174,7 @@ export default function CatAnteneAntifurtAm() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/rguard-new-line-am-acryl-antenna">
-                                    <img src="/images/b37194d5-2524-4949-a709-f8467d614923.png" alt="RGuard New Line AM Acryl Antenna" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/rguard-new-line-am-acryl-antenna" style={{backgroundImage: "url('/images/b37194d5-2524-4949-a709-f8467d614923.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">

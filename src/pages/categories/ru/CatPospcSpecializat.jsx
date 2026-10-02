@@ -96,9 +96,7 @@ export default function CatPospcSpecializat() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/rsistems-folding-stand-pos">
-                                    <img src="/images/244a8eaf-dc87-40be-a4e3-3d9f81958861.png" alt="RSistems POS со складной подставкой" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/rsistems-folding-stand-pos" style={{backgroundImage: "url('/images/244a8eaf-dc87-40be-a4e3-3d9f81958861.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -135,9 +133,7 @@ export default function CatPospcSpecializat() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/rsistems-pos-aluminium-design">
-                                    <img src="/images/a9b782f4-35c7-4d6b-8c77-71f70fd6d3ca.jpg" alt="RSistems POS Aluminium Design" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/rsistems-pos-aluminium-design" style={{backgroundImage: "url('/images/a9b782f4-35c7-4d6b-8c77-71f70fd6d3ca.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -158,7 +154,7 @@ export default function CatPospcSpecializat() {
                                         <div className="priceBox small">
                                           <div className="no-price">
                                             <div className="text">
-                                               Сделать предзаказ в один   
+                                               Сделать предзаказ в один{' '}
                                               <span>
                                                 клик
                                               </span>
@@ -181,9 +177,7 @@ export default function CatPospcSpecializat() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/monitor-pentru-clienti-fec">
-                                    <img src="/images/3c3dc223-85a2-4836-ae58-1289d584e6f6.jpg" alt="POS дисплей покупателя FEC AM-1008W" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/monitor-pentru-clienti-fec" style={{backgroundImage: "url('/images/3c3dc223-85a2-4836-ae58-1289d584e6f6.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -220,9 +214,7 @@ export default function CatPospcSpecializat() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/pos-terminal-rsistem-j4125">
-                                    <img src="/images/754832b6-66c4-4d6c-a067-1207fb8e5a63.jpg" alt="POS терминал RSistems J4125" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/pos-terminal-rsistem-j4125" style={{backgroundImage: "url('/images/754832b6-66c4-4d6c-a067-1207fb8e5a63.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -243,7 +235,7 @@ export default function CatPospcSpecializat() {
                                         <div className="priceBox small">
                                           <div className="no-price">
                                             <div className="text">
-                                               Сделать предзаказ в один   
+                                               Сделать предзаказ в один{' '}
                                               <span>
                                                 клик
                                               </span>
@@ -266,9 +258,7 @@ export default function CatPospcSpecializat() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/tableta-rs-wt-101-all-in-one-specializat-101-windows">
-                                    <img src="/images/b1cb0b7e-3c85-41f2-8c31-86737983edaa.jpg" alt="Специализированный планшет Windows RS - WT All-in-one" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/tableta-rs-wt-101-all-in-one-specializat-101-windows" style={{backgroundImage: "url('/images/b1cb0b7e-3c85-41f2-8c31-86737983edaa.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -289,7 +279,7 @@ export default function CatPospcSpecializat() {
                                         <div className="priceBox small">
                                           <div className="no-price">
                                             <div className="text">
-                                               Сделать предзаказ в один   
+                                               Сделать предзаказ в один{' '}
                                               <span>
                                                 клик
                                               </span>
@@ -312,9 +302,7 @@ export default function CatPospcSpecializat() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/pos-terminal-beetle-ipos-plus-diebold-nixdorf">
-                                    <img src="/images/f95d0359-5ffa-4dfe-9f3e-3b6c420f7e54.jpg" alt="POS терминал BEETLE/iPOS plus Diebold Nixdorf" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/pos-terminal-beetle-ipos-plus-diebold-nixdorf" style={{backgroundImage: "url('/images/f95d0359-5ffa-4dfe-9f3e-3b6c420f7e54.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -335,7 +323,7 @@ export default function CatPospcSpecializat() {
                                         <div className="priceBox small">
                                           <div className="no-price">
                                             <div className="text">
-                                               Сделать предзаказ в один   
+                                               Сделать предзаказ в один{' '}
                                               <span>
                                                 клик
                                               </span>
@@ -358,9 +346,7 @@ export default function CatPospcSpecializat() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/pos-terminal-rsistems-j1900">
-                                    <img src="/images/f720f9ed-6f8d-4968-bf3a-0a30186ca955.jpg" alt="POS терминал RSistems J1900" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/pos-terminal-rsistems-j1900" style={{backgroundImage: "url('/images/f720f9ed-6f8d-4968-bf3a-0a30186ca955.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -381,7 +367,7 @@ export default function CatPospcSpecializat() {
                                         <div className="priceBox small">
                                           <div className="no-price">
                                             <div className="text">
-                                               Сделать предзаказ в один   
+                                               Сделать предзаказ в один{' '}
                                               <span>
                                                 клик
                                               </span>
@@ -404,9 +390,7 @@ export default function CatPospcSpecializat() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/pos-terminal-pos-rs156-aw">
-                                    <img src="/images/c1be0217-86b7-40f7-8b29-b59f540c81ab.jpg" alt="POS терминал RSistems RS156-AW " loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/pos-terminal-pos-rs156-aw" style={{backgroundImage: "url('/images/c1be0217-86b7-40f7-8b29-b59f540c81ab.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -427,7 +411,7 @@ export default function CatPospcSpecializat() {
                                         <div className="priceBox small">
                                           <div className="no-price">
                                             <div className="text">
-                                               Сделать предзаказ в один   
+                                               Сделать предзаказ в один{' '}
                                               <span>
                                                 клик
                                               </span>
@@ -450,9 +434,7 @@ export default function CatPospcSpecializat() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/sertar-de-bani-hs-410a">
-                                    <img src="/images/d8470884-9571-4160-ac7d-f261dbe26604.jpg" alt="Денежный ящик HS-410A горизонтальный" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/sertar-de-bani-hs-410a" style={{backgroundImage: "url('/images/d8470884-9571-4160-ac7d-f261dbe26604.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -473,7 +455,7 @@ export default function CatPospcSpecializat() {
                                         <div className="priceBox small">
                                           <div className="no-price">
                                             <div className="text">
-                                               Сделать предзаказ в один   
+                                               Сделать предзаказ в один{' '}
                                               <span>
                                                 клик
                                               </span>
@@ -499,9 +481,7 @@ export default function CatPospcSpecializat() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/sertar-de-bani-hs-170">
-                                    <img src="/images/c0bd21f0-3c69-4b18-b6a7-080a6e1eedf0.jpg" alt="Денежный ящик HS-170 вертикальный" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/sertar-de-bani-hs-170" style={{backgroundImage: "url('/images/c0bd21f0-3c69-4b18-b6a7-080a6e1eedf0.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -522,7 +502,7 @@ export default function CatPospcSpecializat() {
                                         <div className="priceBox small">
                                           <div className="no-price">
                                             <div className="text">
-                                               Сделать предзаказ в один   
+                                               Сделать предзаказ в один{' '}
                                               <span>
                                                 клик
                                               </span>

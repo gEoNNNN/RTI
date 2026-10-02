@@ -63,9 +63,7 @@ export default function CatAccesoriiDeParcare() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/blocator-de-parcare-inteligent-pshare-n01ru">
-                                    <img src="/images/e0c3a866-bfe3-4a30-96c3-2d11be5ddbc3.png" alt="Умный парковочный блокиратор - Rparking Lock" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/blocator-de-parcare-inteligent-pshare-n01ru" style={{backgroundImage: "url('/images/e0c3a866-bfe3-4a30-96c3-2d11be5ddbc3.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -86,7 +84,7 @@ export default function CatAccesoriiDeParcare() {
                                         <div className="priceBox small">
                                           <div className="no-price">
                                             <div className="text">
-                                               Сделать предзаказ в один   
+                                               Сделать предзаказ в один{' '}
                                               <span>
                                                 клик
                                               </span>

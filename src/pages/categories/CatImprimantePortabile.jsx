@@ -63,9 +63,7 @@ export default function CatImprimantePortabile() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/imprimanta-mobila-citizen-cmp-30ii">
-                                    <img src="/images/a537cb7f-626a-400c-ba3f-9f806f315290.png" alt="Imprimanta mobila Citizen CMP-30II" loading="lazy" />
-                                  </a>
+                                  <a href="/product/imprimanta-mobila-citizen-cmp-30ii" style={{backgroundImage: "url('/images/a537cb7f-626a-400c-ba3f-9f806f315290.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -102,9 +100,7 @@ export default function CatImprimantePortabile() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/imprimanta-portabila-citizen-cmp-40l">
-                                    <img src="/images/e7995221-4144-41fc-8a4d-175223c31409.png" alt="Imprimanta portabila Citizen CMP-40L" loading="lazy" />
-                                  </a>
+                                  <a href="/product/imprimanta-portabila-citizen-cmp-40l" style={{backgroundImage: "url('/images/e7995221-4144-41fc-8a4d-175223c31409.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -141,9 +137,7 @@ export default function CatImprimantePortabile() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/imprimanta-portabila-citizen-cmp-20ii">
-                                    <img src="/images/85d0986b-9b0e-4664-883c-0b26bcae9217.png" alt="Imprimanta portabila Citizen CMP-20II" loading="lazy" />
-                                  </a>
+                                  <a href="/product/imprimanta-portabila-citizen-cmp-20ii" style={{backgroundImage: "url('/images/85d0986b-9b0e-4664-883c-0b26bcae9217.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -180,9 +174,7 @@ export default function CatImprimantePortabile() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/imprimanta-portabila-citizen-cmp-25l">
-                                    <img src="/images/eca638e8-7626-4100-b297-01bd2827ae2a.png" alt="Imprimanta portabila Citizen CMP-25L" loading="lazy" />
-                                  </a>
+                                  <a href="/product/imprimanta-portabila-citizen-cmp-25l" style={{backgroundImage: "url('/images/eca638e8-7626-4100-b297-01bd2827ae2a.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -219,9 +211,7 @@ export default function CatImprimantePortabile() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/imprimanta-portabila-zebra-qln">
-                                    <img src="/images/f2ea6e75-d599-4909-ba2b-600f7c61c1f7.png" alt="Imprimanta portabila Zebra QLn" loading="lazy" />
-                                  </a>
+                                  <a href="/product/imprimanta-portabila-zebra-qln" style={{backgroundImage: "url('/images/f2ea6e75-d599-4909-ba2b-600f7c61c1f7.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -266,9 +256,7 @@ export default function CatImprimantePortabile() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/imprimanta-portabila-zebra-ql320">
-                                    <img src="/images/7af82841-84c1-4ba3-a406-bac003095825.jpg" alt="Imprimanta portabila ZEBRA QL320" loading="lazy" />
-                                  </a>
+                                  <a href="/product/imprimanta-portabila-zebra-ql320" style={{backgroundImage: "url('/images/7af82841-84c1-4ba3-a406-bac003095825.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -306,9 +294,7 @@ export default function CatImprimantePortabile() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/imprimanta-portabila-zebra-mz">
-                                    <img src="/images/0ee4eca7-51c2-44ae-a050-cbcfcee6cbe2.jpg" alt="Imprimanta portabila Zebra MZ 220 " loading="lazy" />
-                                  </a>
+                                  <a href="/product/imprimanta-portabila-zebra-mz" style={{backgroundImage: "url('/images/0ee4eca7-51c2-44ae-a050-cbcfcee6cbe2.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">

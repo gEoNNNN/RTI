@@ -117,9 +117,7 @@ export default function CatEchipamenteDeParcare() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/bariere">
-                                    <img src="/images/b22edda6-6536-4a86-ba8e-b0f2b5c38b05.png" alt="Автоматический шлагбаум RParking" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/bariere" style={{backgroundImage: "url('/images/b22edda6-6536-4a86-ba8e-b0f2b5c38b05.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -156,9 +154,7 @@ export default function CatEchipamenteDeParcare() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/terminal-de-intrare">
-                                    <img src="/images/e88c868c-3455-42dd-9b27-8c64b28df132.png" alt="Входная стойка Ticket System" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/terminal-de-intrare" style={{backgroundImage: "url('/images/e88c868c-3455-42dd-9b27-8c64b28df132.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -195,9 +191,7 @@ export default function CatEchipamenteDeParcare() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/terminal-de-plata-automata">
-                                    <img src="/images/2ae38ef6-a292-45f6-8083-20696600e018.png" alt="Автоматический платежный терминал" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/terminal-de-plata-automata" style={{backgroundImage: "url('/images/2ae38ef6-a292-45f6-8083-20696600e018.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -234,9 +228,7 @@ export default function CatEchipamenteDeParcare() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/terminal-de-intrare-cardpass-rparking">
-                                    <img src="/images/8bd092e8-b035-48e9-ad2c-f46bd226c567.png" alt="Терминал въезда CardPass RParking" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/terminal-de-intrare-cardpass-rparking" style={{backgroundImage: "url('/images/8bd092e8-b035-48e9-ad2c-f46bd226c567.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -273,9 +265,7 @@ export default function CatEchipamenteDeParcare() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/terminal-de-iesire-cardpass-rparking">
-                                    <img src="/images/ae8fa814-897e-48e0-821a-7ec3894f913b.png" alt="Терминал выезда CardPass RParking" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/terminal-de-iesire-cardpass-rparking" style={{backgroundImage: "url('/images/ae8fa814-897e-48e0-821a-7ec3894f913b.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -312,9 +302,7 @@ export default function CatEchipamenteDeParcare() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/terminal-de-iesire-ticket-system">
-                                    <img src="/images/a6d1a89d-3c44-4d98-a5dc-2f6c29bfc39b.png" alt="Терминал выезда Ticket System" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/terminal-de-iesire-ticket-system" style={{backgroundImage: "url('/images/a6d1a89d-3c44-4d98-a5dc-2f6c29bfc39b.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -351,9 +339,7 @@ export default function CatEchipamenteDeParcare() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/terminal-de-plata-generatia-2">
-                                    <img src="/images/017fcb38-b3d4-4533-9820-09e944dbc7e3.png" alt="Платёжный Терминал Второго Поколения" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/terminal-de-plata-generatia-2" style={{backgroundImage: "url('/images/017fcb38-b3d4-4533-9820-09e944dbc7e3.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -390,9 +376,7 @@ export default function CatEchipamenteDeParcare() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/blocator-de-parcare-inteligent-pshare-n01ru">
-                                    <img src="/images/e0c3a866-bfe3-4a30-96c3-2d11be5ddbc3.png" alt="Умный парковочный блокиратор - Rparking Lock" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/blocator-de-parcare-inteligent-pshare-n01ru" style={{backgroundImage: "url('/images/e0c3a866-bfe3-4a30-96c3-2d11be5ddbc3.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -413,7 +397,7 @@ export default function CatEchipamenteDeParcare() {
                                         <div className="priceBox small">
                                           <div className="no-price">
                                             <div className="text">
-                                               Сделать предзаказ в один   
+                                               Сделать предзаказ в один{' '}
                                               <span>
                                                 клик
                                               </span>
@@ -436,9 +420,7 @@ export default function CatEchipamenteDeParcare() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/detachers-universal">
-                                    <img src="/images/0d0c9a93-e741-4b34-b354-ad2ee782b7f6.png" alt="Автоматический шлагбаум RParking PRO" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/detachers-universal" style={{backgroundImage: "url('/images/0d0c9a93-e741-4b34-b354-ad2ee782b7f6.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">

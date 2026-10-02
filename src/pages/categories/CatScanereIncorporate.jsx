@@ -63,9 +63,7 @@ export default function CatScanereIncorporate() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/scan-rsc-1105-2d">
-                                    <img src="/images/6277c6db-337a-4d5c-a29a-0a18e7f365c7.png" alt="Scaner RSC 1105 2D" loading="lazy" />
-                                  </a>
+                                  <a href="/product/scan-rsc-1105-2d" style={{backgroundImage: "url('/images/6277c6db-337a-4d5c-a29a-0a18e7f365c7.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -86,7 +84,7 @@ export default function CatScanereIncorporate() {
                                         <div className="priceBox small">
                                           <div className="no-price">
                                             <div className="text">
-                                               Pre-comanda intr-un   
+                                               Pre-comanda intr-un{' '}
                                               <span>
                                                 click
                                               </span>

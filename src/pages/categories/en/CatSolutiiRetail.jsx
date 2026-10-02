@@ -63,9 +63,7 @@ export default function CatSolutiiRetail() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/casa-autodeservire-rsistems">
-                                    <img src="/images/4cf04b84-6031-42d6-87af-771c9e9c80a9.jpg" alt="RSistems self-checkout kiosk" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/casa-autodeservire-rsistems" style={{backgroundImage: "url('/images/4cf04b84-6031-42d6-87af-771c9e9c80a9.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -102,9 +100,7 @@ export default function CatSolutiiRetail() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/casa-selfcheckout-beetleiscan">
-                                    <img src="/images/26c6cce5-260b-4db5-9e11-69e70ae143b1.jpg" alt="Kiosk self-checkout/self-service Diebold Nixdorf BEETLE/iSCAN" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/casa-selfcheckout-beetleiscan" style={{backgroundImage: "url('/images/26c6cce5-260b-4db5-9e11-69e70ae143b1.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -141,9 +137,7 @@ export default function CatSolutiiRetail() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/retail-kiosk">
-                                    <img src="/images/bf66146e-0c34-4396-ada5-c19012fdba84.jpg" alt="RETAIL KIOSK" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/retail-kiosk" style={{backgroundImage: "url('/images/bf66146e-0c34-4396-ada5-c19012fdba84.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">

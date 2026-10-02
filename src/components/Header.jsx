@@ -8,6 +8,105 @@ import categoriesRu from '../data/ru/categories_full.json';
 import categoriesEn from '../data/en/categories_full.json';
 import { imgUrl } from '../data/helpers';
 import { useLang, useT, to, pick, langFromPath } from '../lang';
+import { getCart, cartCount, onCartChange, removeFromCart } from '../cart';
+
+function CartIndicator() {
+  const lang = useLang();
+  const t = useT();
+  const navigate = useNavigate();
+  const [items, setItems] = useState(getCart());
+  const [opened, setOpened] = useState(false);
+  const ref = useRef(null);
+
+  useEffect(() => onCartChange(() => setItems(getCart())), []);
+
+  useEffect(() => {
+    if (!opened) return;
+    const onDown = (e) => {
+      if (ref.current && !ref.current.contains(e.target)) setOpened(false);
+    };
+    document.addEventListener('mousedown', onDown);
+    return () => document.removeEventListener('mousedown', onDown);
+  }, [opened]);
+
+  const count = items.reduce((n, i) => n + i.quantity, 0);
+
+  return (
+    <app-view-cart>
+      <div className="header-cart">
+        <div
+          ref={ref}
+          appdropdown="indicator--opened"
+          className={'indicator indicator--trigger--click' + (opened ? ' indicator--opened' : '')}
+        >
+          <button className="indicator__button" tabIndex="0" onClick={() => setOpened((o) => !o)}>
+            <span className="indicator__area">
+              <CartIcon />
+              <span className="indicator__value"> {count} </span>
+            </span>
+            <span className="text-cart ng-star-inserted"> {t('cart.viewCart', 'Cos')} </span>
+          </button>
+          <div className="indicator__dropdown">
+            <app-header-dropcart>
+              <div className="dropcart" style={{ display: opened ? 'block' : 'none' }}>
+                <div className="cart-header">
+                  <div className="cart-header-text">
+                    <span className="cart-title">{t('cart.viewCart', 'Cos')}</span>
+                    <span className="products-count">
+                      {count}
+                      {t('cart.articles', ' articole')}
+                    </span>
+                  </div>
+                </div>
+                <div className="dropcart__products-list">
+                  {items.map((item) => (
+                    <div key={item.slug} className="dropcart__product">
+                      <div className="dropcart__product-info">
+                        {item.image && (
+                          <img src={item.image} alt={item.title} style={{ width: 60, objectFit: 'contain' }} />
+                        )}
+                        <div className="dropcart__product-meta">
+                          <div className="dropcart__product-meta-description">
+                            <a
+                              href={to('/product/' + item.slug, lang)}
+                              onClick={(e) => {
+                                e.preventDefault();
+                                setOpened(false);
+                                navigate(to('/product/' + item.slug, lang));
+                              }}
+                            >
+                              {item.title}
+                            </a>
+                            <div className="dropcart__product-quantity">
+                              {t('cart.quantity', 'Cantitate: ')}
+                              {item.quantity}
+                            </div>
+                          </div>
+                          <div
+                            className="dropcart__product-remove"
+                            style={{ cursor: 'pointer' }}
+                            onClick={() => removeFromCart(item.slug)}
+                          >
+                            ×
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  ))}
+                  {items.length === 0 && (
+                    <div style={{ padding: '20px 0', color: '#737373', fontSize: 14 }}>
+                      {t('cart.emptyCart', 'Cosul dvs. este gol')}
+                    </div>
+                  )}
+                </div>
+              </div>
+            </app-header-dropcart>
+          </div>
+        </div>
+      </div>
+    </app-view-cart>
+  );
+}
 
 const NAV = { ro: navMenuRo, ru: navMenuRu, en: navMenuEn };
 const CATS = { ro: categoriesRo, ru: categoriesRu, en: categoriesEn };
@@ -331,24 +430,7 @@ export default function Header({ onOpenMobileMenu }) {
                       <LanguageSwitch />
                     </div>
                     <div className="cart mobile-button-nav">
-                      <app-view-cart>
-                        <div className="header-cart">
-                          <div appdropdown="indicator--opened" className="indicator indicator--trigger--click">
-                            <button className="indicator__button" tabIndex="0">
-                              <span className="indicator__area">
-                                <CartIcon />
-                                <span className="indicator__value"> 0 </span>
-                              </span>
-                              <span className="text-cart ng-star-inserted"> {t('cart.viewCart', 'Cos')} </span>
-                            </button>
-                            <div className="indicator__dropdown">
-                              <app-header-dropcart>
-                                <div className="dropcart" style={{ display: 'none' }}></div>
-                              </app-header-dropcart>
-                            </div>
-                          </div>
-                        </div>
-                      </app-view-cart>
+                      <CartIndicator />
                     </div>
                     <div className="user mobile-button-nav">
                       <app-account-button>
@@ -438,24 +520,7 @@ export default function Header({ onOpenMobileMenu }) {
                         <div className="grey-line margin"></div>
                         <LanguageSwitch />
                         <div className="grey-line margin"></div>
-                        <app-view-cart>
-                          <div className="header-cart">
-                            <div appdropdown="indicator--opened" className="indicator indicator--trigger--click">
-                              <button className="indicator__button" tabIndex="0">
-                                <span className="indicator__area">
-                                  <CartIcon />
-                                  <span className="indicator__value"> 0 </span>
-                                </span>
-                                <span className="text-cart ng-star-inserted"> {t('cart.viewCart', 'Cos')} </span>
-                              </button>
-                              <div className="indicator__dropdown">
-                                <app-header-dropcart>
-                                  <div className="dropcart" style={{ display: 'none' }}></div>
-                                </app-header-dropcart>
-                              </div>
-                            </div>
-                          </div>
-                        </app-view-cart>
+                        <CartIndicator />
                         <div className="grey-line margin"></div>
                         <div className="account-btn">
                           <app-account-button>

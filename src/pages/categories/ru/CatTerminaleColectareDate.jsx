@@ -96,9 +96,7 @@ export default function CatTerminaleColectareDate() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/terminal-mobil-datalogic-memor-1">
-                                    <img src="/images/73c199ca-98e4-408a-9448-adbd393b912e.png" alt="Сенсорный терминал сбора данных Datalogic Memor 1 " loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/terminal-mobil-datalogic-memor-1" style={{backgroundImage: "url('/images/73c199ca-98e4-408a-9448-adbd393b912e.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -135,9 +133,7 @@ export default function CatTerminaleColectareDate() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/terminal-mobil-datalogic-memor-10">
-                                    <img src="/images/d1df4bc8-1661-4ab5-b3c5-9bbcb202f23a.png" alt="Сенсорный терминал сбора данных Datalogic Memor 10" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/terminal-mobil-datalogic-memor-10" style={{backgroundImage: "url('/images/d1df4bc8-1661-4ab5-b3c5-9bbcb202f23a.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -174,9 +170,7 @@ export default function CatTerminaleColectareDate() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/terminal-mobil-datalogic-skorpiotm-x4">
-                                    <img src="/images/66a43319-8bb1-40b8-89e4-0f603c214da5.png" alt="Терминал сбора данных Datalogic Skorpio™ X4" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/terminal-mobil-datalogic-skorpiotm-x4" style={{backgroundImage: "url('/images/66a43319-8bb1-40b8-89e4-0f603c214da5.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -213,9 +207,7 @@ export default function CatTerminaleColectareDate() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/terminal-mobil-datalogic-falcon-x4">
-                                    <img src="/images/bb56212f-3d36-4843-b56d-188dc1d25eb4.png" alt="Терминал сбора данных Datalogic Falcon X4" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/terminal-mobil-datalogic-falcon-x4" style={{backgroundImage: "url('/images/bb56212f-3d36-4843-b56d-188dc1d25eb4.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -252,9 +244,7 @@ export default function CatTerminaleColectareDate() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/terminal-mobil-datalogic-memor-x3">
-                                    <img src="/images/65186b85-e574-4945-bf7d-55e1800b4fac.png" alt="Терминал сбора данных Datalogic MEMOR X3" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/terminal-mobil-datalogic-memor-x3" style={{backgroundImage: "url('/images/65186b85-e574-4945-bf7d-55e1800b4fac.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -291,9 +281,7 @@ export default function CatTerminaleColectareDate() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/terminal-mobil-chainway-c6000">
-                                    <img src="/images/81db7872-9214-4a9c-b8c2-32e8904e5cb6.png" alt="ТСД Chainway C6000 Android 10.0" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/terminal-mobil-chainway-c6000" style={{backgroundImage: "url('/images/81db7872-9214-4a9c-b8c2-32e8904e5cb6.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -330,9 +318,7 @@ export default function CatTerminaleColectareDate() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/terminal-mobil-chainway-c66">
-                                    <img src="/images/75b731aa-8987-4fd6-b270-445e32437517.png" alt="TCД Chainway C66 Android 9.0" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/terminal-mobil-chainway-c66" style={{backgroundImage: "url('/images/75b731aa-8987-4fd6-b270-445e32437517.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -369,9 +355,7 @@ export default function CatTerminaleColectareDate() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/terminal-mobil-chainway-c60-android-100">
-                                    <img src="/images/fa3c22ca-9112-40c3-872d-a71608902ffa.png" alt="ТСД Chainway C60 Android 10.0 " loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/terminal-mobil-chainway-c60-android-100" style={{backgroundImage: "url('/images/fa3c22ca-9112-40c3-872d-a71608902ffa.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -408,9 +392,7 @@ export default function CatTerminaleColectareDate() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/terminal-mobil-chainway-c90-android-100">
-                                    <img src="/images/b3858acd-70f2-4f09-b688-753fed9b2e84.png" alt="ТСД Chainway C90 Android 10.0" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/terminal-mobil-chainway-c90-android-100" style={{backgroundImage: "url('/images/b3858acd-70f2-4f09-b688-753fed9b2e84.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -447,9 +429,7 @@ export default function CatTerminaleColectareDate() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/terminal-mobil-chainway-c61-android-110">
-                                    <img src="/images/1703f291-dc22-4557-b829-189be80c0225.png" alt="ТСД Chainway C61 Android 11.0" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/terminal-mobil-chainway-c61-android-110" style={{backgroundImage: "url('/images/1703f291-dc22-4557-b829-189be80c0225.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -486,9 +466,7 @@ export default function CatTerminaleColectareDate() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/calculatoare-mobile-cu-imprimanta-incorporata-c75">
-                                    <img src="/images/a1d739e9-ab60-4937-b58f-0b35e29c8025.png" alt="TCD Chainway C75  Android 11.0" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/calculatoare-mobile-cu-imprimanta-incorporata-c75" style={{backgroundImage: "url('/images/a1d739e9-ab60-4937-b58f-0b35e29c8025.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -525,9 +503,7 @@ export default function CatTerminaleColectareDate() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/terminal-mobil-chainway-mc62-android">
-                                    <img src="/images/f2f8e72f-f3d7-4e94-875c-a83e41f3f7b1.png" alt="ТСД Chainway MC62 Android 13.0" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/terminal-mobil-chainway-mc62-android" style={{backgroundImage: "url('/images/f2f8e72f-f3d7-4e94-875c-a83e41f3f7b1.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -564,9 +540,7 @@ export default function CatTerminaleColectareDate() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/terminal-mobil-chainway-mc50-android">
-                                    <img src="/images/d42d5681-1845-4566-8b89-afb8e66edfb2.png" alt="ТСД Chainway MC50 Android 12.0" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/terminal-mobil-chainway-mc50-android" style={{backgroundImage: "url('/images/d42d5681-1845-4566-8b89-afb8e66edfb2.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -587,7 +561,7 @@ export default function CatTerminaleColectareDate() {
                                         <div className="priceBox small">
                                           <div className="no-price">
                                             <div className="text">
-                                               Сделать предзаказ в один   
+                                               Сделать предзаказ в один{' '}
                                               <span>
                                                 клик
                                               </span>
@@ -610,9 +584,7 @@ export default function CatTerminaleColectareDate() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/terminal-mobil-chainway-mc21-android">
-                                    <img src="/images/c9b5ac24-253f-4b92-bda4-c09198079818.png" alt="ТСД Chainway MC21 Android" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/terminal-mobil-chainway-mc21-android" style={{backgroundImage: "url('/images/c9b5ac24-253f-4b92-bda4-c09198079818.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -633,7 +605,7 @@ export default function CatTerminaleColectareDate() {
                                         <div className="priceBox small">
                                           <div className="no-price">
                                             <div className="text">
-                                               Сделать предзаказ в один   
+                                               Сделать предзаказ в один{' '}
                                               <span>
                                                 клик
                                               </span>
@@ -664,9 +636,7 @@ export default function CatTerminaleColectareDate() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/terminal-mobil-chainway-mc-95-android">
-                                    <img src="/images/f1ced6e7-470c-45e5-b956-49c35285377d.png" alt="ТСД Chainway MC95 Android 12.0" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/terminal-mobil-chainway-mc-95-android" style={{backgroundImage: "url('/images/f1ced6e7-470c-45e5-b956-49c35285377d.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -704,9 +674,7 @@ export default function CatTerminaleColectareDate() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/terminal-mobil-chainway-c71-android">
-                                    <img src="/images/b078f31b-12ba-4efa-a290-e747da5f3aed.png" alt="TCD Chainway C71 Android 11.0" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/terminal-mobil-chainway-c71-android" style={{backgroundImage: "url('/images/b078f31b-12ba-4efa-a290-e747da5f3aed.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">

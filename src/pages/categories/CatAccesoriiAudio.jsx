@@ -63,9 +63,7 @@ export default function CatAccesoriiAudio() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/microfon-de-masa-itc-t-621a">
-                                    <img src="/images/8191afc3-7a75-4e08-b1d7-dbf3066f225b.jpg" alt="Microfon de masa ITC T-621A" loading="lazy" />
-                                  </a>
+                                  <a href="/product/microfon-de-masa-itc-t-621a" style={{backgroundImage: "url('/images/8191afc3-7a75-4e08-b1d7-dbf3066f225b.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -102,9 +100,7 @@ export default function CatAccesoriiAudio() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/potentiometru-volum-itc-t-673-30w">
-                                    <img src="/images/e7de4dcf-063d-4d91-83c1-930227ae1fdd.jpg" alt="Potentiometru volum ITC T-673 30W" loading="lazy" />
-                                  </a>
+                                  <a href="/product/potentiometru-volum-itc-t-673-30w" style={{backgroundImage: "url('/images/e7de4dcf-063d-4d91-83c1-930227ae1fdd.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -141,9 +137,7 @@ export default function CatAccesoriiAudio() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/potentiometru-volum-itc-t-674-60w">
-                                    <img src="/images/0ae7d138-910e-4669-9a02-fdfc4011557f.jpg" alt="Potentiometru volum ITC T-674 60W" loading="lazy" />
-                                  </a>
+                                  <a href="/product/potentiometru-volum-itc-t-674-60w" style={{backgroundImage: "url('/images/0ae7d138-910e-4669-9a02-fdfc4011557f.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">

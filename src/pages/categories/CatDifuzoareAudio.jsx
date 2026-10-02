@@ -63,9 +63,7 @@ export default function CatDifuzoareAudio() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/boxa-de-tavan-apart-cm3t">
-                                    <img src="/images/4e50e2c1-a5c9-448a-af9f-ebaee429dddf.jpg" alt="Boxa de tavan RSound CM3T" loading="lazy" />
-                                  </a>
+                                  <a href="/product/boxa-de-tavan-apart-cm3t" style={{backgroundImage: "url('/images/4e50e2c1-a5c9-448a-af9f-ebaee429dddf.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -102,9 +100,7 @@ export default function CatDifuzoareAudio() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/boxa-de-tavan-apart-cm4t">
-                                    <img src="/images/815bb8d0-ab41-4350-bf98-d275a0dccf6c.jpg" alt="Boxa de tavan RSound CM4T" loading="lazy" />
-                                  </a>
+                                  <a href="/product/boxa-de-tavan-apart-cm4t" style={{backgroundImage: "url('/images/815bb8d0-ab41-4350-bf98-d275a0dccf6c.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -141,9 +137,7 @@ export default function CatDifuzoareAudio() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/boxa-de-tavan-apart-cm6t">
-                                    <img src="/images/431754ce-0a55-4270-959d-e22e7dd21ac1.jpg" alt="Boxa de tavan RSound CM6T" loading="lazy" />
-                                  </a>
+                                  <a href="/product/boxa-de-tavan-apart-cm6t" style={{backgroundImage: "url('/images/431754ce-0a55-4270-959d-e22e7dd21ac1.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -180,9 +174,7 @@ export default function CatDifuzoareAudio() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/boxa-de-tavan-apart-cm20t">
-                                    <img src="/images/3008eff1-f40e-46fa-a2e2-3325dc5386e1.jpg" alt="Boxa de tavan RSound-CM20T" loading="lazy" />
-                                  </a>
+                                  <a href="/product/boxa-de-tavan-apart-cm20t" style={{backgroundImage: "url('/images/3008eff1-f40e-46fa-a2e2-3325dc5386e1.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -219,9 +211,7 @@ export default function CatDifuzoareAudio() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/difuzor-de-gradina-apart-rock-20">
-                                    <img src="/images/fe855eed-ba35-4c5b-a9cc-8d5c080f8635.jpg" alt="Difuzor decorativ APart Rock20" loading="lazy" />
-                                  </a>
+                                  <a href="/product/difuzor-de-gradina-apart-rock-20" style={{backgroundImage: "url('/images/fe855eed-ba35-4c5b-a9cc-8d5c080f8635.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -258,9 +248,7 @@ export default function CatDifuzoareAudio() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/difuzor-de-gradina-apart-rock-608">
-                                    <img src="/images/45c6e6f6-36a2-4231-aac9-37c1afa8643b.jpg" alt="Difuzor decorativ APart Rock608" loading="lazy" />
-                                  </a>
+                                  <a href="/product/difuzor-de-gradina-apart-rock-608" style={{backgroundImage: "url('/images/45c6e6f6-36a2-4231-aac9-37c1afa8643b.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -297,9 +285,7 @@ export default function CatDifuzoareAudio() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/difuzor-de-exterior-apart-sph16">
-                                    <img src="/images/9f302b9f-b139-4e7f-a63c-d555a32f5f84.jpg" alt="Difuzor suspendat APart SPH16" loading="lazy" />
-                                  </a>
+                                  <a href="/product/difuzor-de-exterior-apart-sph16" style={{backgroundImage: "url('/images/9f302b9f-b139-4e7f-a63c-d555a32f5f84.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -336,9 +322,7 @@ export default function CatDifuzoareAudio() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/difuzor-de-exterior-apart-sph20">
-                                    <img src="/images/38b8a59e-cc95-42f0-a509-5479a28bffa7.jpg" alt="Difuzor suspendat APart SPH20" loading="lazy" />
-                                  </a>
+                                  <a href="/product/difuzor-de-exterior-apart-sph20" style={{backgroundImage: "url('/images/38b8a59e-cc95-42f0-a509-5479a28bffa7.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -375,9 +359,7 @@ export default function CatDifuzoareAudio() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/audio-difuzor-de-perete-rsound-ms35">
-                                    <img src="/images/9738bbaa-b95c-410c-92b4-7595ebe0bd64.jpg" alt="Audio difuzor de perete RSound MS35" loading="lazy" />
-                                  </a>
+                                  <a href="/product/audio-difuzor-de-perete-rsound-ms35" style={{backgroundImage: "url('/images/9738bbaa-b95c-410c-92b4-7595ebe0bd64.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">

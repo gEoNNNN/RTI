@@ -63,9 +63,7 @@ export default function CatTicketSystem() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/terminal-de-intrare">
-                                    <img src="/images/e88c868c-3455-42dd-9b27-8c64b28df132.png" alt="Terminal de Intrare Ticket System" loading="lazy" />
-                                  </a>
+                                  <a href="/product/terminal-de-intrare" style={{backgroundImage: "url('/images/e88c868c-3455-42dd-9b27-8c64b28df132.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -102,9 +100,7 @@ export default function CatTicketSystem() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/terminal-de-iesire-ticket-system">
-                                    <img src="/images/a6d1a89d-3c44-4d98-a5dc-2f6c29bfc39b.png" alt="Terminal de Ie&amp;#537;ire Ticket System" loading="lazy" />
-                                  </a>
+                                  <a href="/product/terminal-de-iesire-ticket-system" style={{backgroundImage: "url('/images/a6d1a89d-3c44-4d98-a5dc-2f6c29bfc39b.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">

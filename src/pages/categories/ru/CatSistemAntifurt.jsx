@@ -117,9 +117,7 @@ export default function CatSistemAntifurt() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/sistemul-antifurt-rguard-new-line-am">
-                                    <img src="/images/c4a9d7f9-c36d-4ba4-b3c6-f0e3d7d72178.png" alt="Противокражная система RGuard New Line AM" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/sistemul-antifurt-rguard-new-line-am" style={{backgroundImage: "url('/images/c4a9d7f9-c36d-4ba4-b3c6-f0e3d7d72178.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -156,9 +154,7 @@ export default function CatSistemAntifurt() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/antene-antifurt-sensormatic-ultra-exit">
-                                    <img src="/images/4cb68656-11aa-47a7-831e-75547d356f93.png" alt="Противокражные ворота Sensormatic Ultra Exit" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/antene-antifurt-sensormatic-ultra-exit" style={{backgroundImage: "url('/images/4cb68656-11aa-47a7-831e-75547d356f93.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -195,9 +191,7 @@ export default function CatSistemAntifurt() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/antene-antifurt-sensormatic-ultra-post">
-                                    <img src="/images/406c21d0-d704-42ea-8d0f-818125c448db.png" alt="Противокражные ворота Sensormatic Ultra Post" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/antene-antifurt-sensormatic-ultra-post" style={{backgroundImage: "url('/images/406c21d0-d704-42ea-8d0f-818125c448db.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -234,9 +228,7 @@ export default function CatSistemAntifurt() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/rguard-new-line-am-acryl-antenna">
-                                    <img src="/images/b37194d5-2524-4949-a709-f8467d614923.png" alt="RGuard New Line AM Acryl Antenna" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/rguard-new-line-am-acryl-antenna" style={{backgroundImage: "url('/images/b37194d5-2524-4949-a709-f8467d614923.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -273,9 +265,7 @@ export default function CatSistemAntifurt() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/optical-tag-antifurt-o-001">
-                                    <img src="/images/1471aae5-a724-474b-bcf3-fec64e36ad7b.png" alt="Оптический защитный датчик (RO-001)" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/optical-tag-antifurt-o-001" style={{backgroundImage: "url('/images/1471aae5-a724-474b-bcf3-fec64e36ad7b.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -312,9 +302,7 @@ export default function CatSistemAntifurt() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/hard-tag-antifurt-t-048">
-                                    <img src="/images/48867ddb-625a-4aad-ae87-eb31c1044c11.png" alt="Противокражный Жёсткий Тег (R-048)" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/hard-tag-antifurt-t-048" style={{backgroundImage: "url('/images/48867ddb-625a-4aad-ae87-eb31c1044c11.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -351,9 +339,7 @@ export default function CatSistemAntifurt() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/hard-tag-antifurt-t047-1">
-                                    <img src="/images/ba80948a-1f61-4729-8ebb-3605a4af2ba0.png" alt="Противокражный Жёсткий Тег (R-047-1)" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/hard-tag-antifurt-t047-1" style={{backgroundImage: "url('/images/ba80948a-1f61-4729-8ebb-3605a4af2ba0.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -390,9 +376,7 @@ export default function CatSistemAntifurt() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/bottle-tag-b-001">
-                                    <img src="/images/e676f61c-1d79-41e6-b773-cfbe8dca09bf.png" alt="Датчик для бутылок (R-001)" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/bottle-tag-b-001" style={{backgroundImage: "url('/images/e676f61c-1d79-41e6-b773-cfbe8dca09bf.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -429,9 +413,7 @@ export default function CatSistemAntifurt() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/bottle-cap-b-012">
-                                    <img src="/images/57a9414c-f574-4062-8eaf-38e6c94a9a81.png" alt="BOTTLE CAP (R-012)" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/bottle-cap-b-012" style={{backgroundImage: "url('/images/57a9414c-f574-4062-8eaf-38e6c94a9a81.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -468,9 +450,7 @@ export default function CatSistemAntifurt() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/bottle-cap-b-011">
-                                    <img src="/images/b466e55b-2d55-4c19-bb17-2ee8a7865a73.png" alt="Bottle Cap (R-011)" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/bottle-cap-b-011" style={{backgroundImage: "url('/images/b466e55b-2d55-4c19-bb17-2ee8a7865a73.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -507,9 +487,7 @@ export default function CatSistemAntifurt() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/bottle-cap-b-015">
-                                    <img src="/images/8c6d8f9a-f563-4dfa-aead-244d5318f165.png" alt="Bottle Cap (R-015)" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/bottle-cap-b-015" style={{backgroundImage: "url('/images/8c6d8f9a-f563-4dfa-aead-244d5318f165.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -546,9 +524,7 @@ export default function CatSistemAntifurt() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/spider-tag">
-                                    <img src="/images/6af7c28a-4047-4272-a572-6b860cc662d3.png" alt="Spider Tag " loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/spider-tag" style={{backgroundImage: "url('/images/6af7c28a-4047-4272-a572-6b860cc662d3.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -585,9 +561,7 @@ export default function CatSistemAntifurt() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/bottle-tag-b-002">
-                                    <img src="/images/3fe64a17-8333-4a9d-be45-9b9ad86fe1aa.png" alt="Bottle Tag (R-002)" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/bottle-tag-b-002" style={{backgroundImage: "url('/images/3fe64a17-8333-4a9d-be45-9b9ad86fe1aa.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -624,9 +598,7 @@ export default function CatSistemAntifurt() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/hard-tag-antifurt-t-006">
-                                    <img src="/images/749430aa-4050-4c38-a8cc-63853a329439.png" alt="Противокражный Жесткий Датчик (R-006)" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/hard-tag-antifurt-t-006" style={{backgroundImage: "url('/images/749430aa-4050-4c38-a8cc-63853a329439.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -663,9 +635,7 @@ export default function CatSistemAntifurt() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/dr-roll-barcode">
-                                    <img src="/images/dd6fe6d2-145a-4a0f-9d42-ec4d8cbd4cc3.png" alt="DR Roll Barcode" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/dr-roll-barcode" style={{backgroundImage: "url('/images/dd6fe6d2-145a-4a0f-9d42-ec4d8cbd4cc3.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -702,9 +672,7 @@ export default function CatSistemAntifurt() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/dr-sheet-barcoder">
-                                    <img src="/images/c3df952f-f85f-4c97-9d64-a246e71465b2.png" alt="DR Sheet Barcoder" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/dr-sheet-barcoder" style={{backgroundImage: "url('/images/c3df952f-f85f-4c97-9d64-a246e71465b2.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">

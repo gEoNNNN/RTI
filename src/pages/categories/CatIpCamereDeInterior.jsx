@@ -63,9 +63,7 @@ export default function CatIpCamereDeInterior() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/camera-video-ip-interior-tip-fisheye-uniview-ipc814sr-dvpf16-4mp">
-                                    <img src="/images/ae31a1fb-d757-41ff-9c86-762663ca1ecb.png" alt="IP camera video Fisheye Uniview IPC814SR-DVPF16 4MP" loading="lazy" />
-                                  </a>
+                                  <a href="/product/camera-video-ip-interior-tip-fisheye-uniview-ipc814sr-dvpf16-4mp" style={{backgroundImage: "url('/images/ae31a1fb-d757-41ff-9c86-762663ca1ecb.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -102,9 +100,7 @@ export default function CatIpCamereDeInterior() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/camera-ip-interior-uniview-ipc314sr-dvpf36-4mp-vandal-resistant">
-                                    <img src="/images/58d12764-17b5-4416-958b-b4f62160b2b7.png" alt="Camera IP Uniview IPC314SR-DVPF36 4MP " loading="lazy" />
-                                  </a>
+                                  <a href="/product/camera-ip-interior-uniview-ipc314sr-dvpf36-4mp-vandal-resistant" style={{backgroundImage: "url('/images/58d12764-17b5-4416-958b-b4f62160b2b7.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -141,9 +137,7 @@ export default function CatIpCamereDeInterior() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/camera-ip-uniview-ipc314sr-dvpf36-4mp-vandal-resistant">
-                                    <img src="/images/e236f00b-bd46-4c6d-aa74-1ea7c3bd04a6.png" alt="Camera IP Uniview IPC314SR-DVPF36 4MP" loading="lazy" />
-                                  </a>
+                                  <a href="/product/camera-ip-uniview-ipc314sr-dvpf36-4mp-vandal-resistant" style={{backgroundImage: "url('/images/e236f00b-bd46-4c6d-aa74-1ea7c3bd04a6.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -180,9 +174,7 @@ export default function CatIpCamereDeInterior() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/camera-ip-uniview-ipc3614sr3-dpf28-4mp-fixed-dome-network">
-                                    <img src="/images/46899591-b1e3-4a74-ae48-9e08d9e1e6dc.png" alt="Camera IP Uniview IPC3614SR3-DPF28 4MP" loading="lazy" />
-                                  </a>
+                                  <a href="/product/camera-ip-uniview-ipc3614sr3-dpf28-4mp-fixed-dome-network" style={{backgroundImage: "url('/images/46899591-b1e3-4a74-ae48-9e08d9e1e6dc.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -219,9 +211,7 @@ export default function CatIpCamereDeInterior() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/camera-ip-uniview-uniview-ipc642e-x22i-in-2mp">
-                                    <img src="/images/b0b5bfb3-b0e3-473b-9136-2c24b054a99b.jpg" alt="Camera IP Uniview Uniview IPC642E-X22I-IN" loading="lazy" />
-                                  </a>
+                                  <a href="/product/camera-ip-uniview-uniview-ipc642e-x22i-in-2mp" style={{backgroundImage: "url('/images/b0b5bfb3-b0e3-473b-9136-2c24b054a99b.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -258,9 +248,7 @@ export default function CatIpCamereDeInterior() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/camera-ip-interior-uniview-ipc3232er-dv-2mp">
-                                    <img src="/images/7af2339d-6c87-4b5c-a397-1d630bfe9e30.jpg" alt="Camera IP interior Uniview IPC3232ER-DV" loading="lazy" />
-                                  </a>
+                                  <a href="/product/camera-ip-interior-uniview-ipc3232er-dv-2mp" style={{backgroundImage: "url('/images/7af2339d-6c87-4b5c-a397-1d630bfe9e30.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -305,9 +293,7 @@ export default function CatIpCamereDeInterior() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/camera-ip-uniview-ipc2125lr3-pf40m-d-5mp">
-                                    <img src="/images/ee520ceb-4e3b-4113-89b9-200377886356.jpg" alt="Camera IP Uniview IPC2125LR3-PF40M-D 5MP" loading="lazy" />
-                                  </a>
+                                  <a href="/product/camera-ip-uniview-ipc2125lr3-pf40m-d-5mp" style={{backgroundImage: "url('/images/ee520ceb-4e3b-4113-89b9-200377886356.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">

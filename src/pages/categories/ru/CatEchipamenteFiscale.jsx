@@ -74,9 +74,7 @@ export default function CatEchipamenteFiscale() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/Imprimanta%20fiscala%20RTI%205000%20INB">
-                                    <img src="/images/shopping-bag.e9efb.svg" alt="" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/Imprimanta%20fiscala%20RTI%205000%20INB" style={{backgroundImage: "url('/images/shopping-bag.e9efb.svg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -113,9 +111,7 @@ export default function CatEchipamenteFiscale() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/imprimanta-fiscala-rti-7000-p">
-                                    <img src="/images/60761f0a-ccda-47ee-ac8e-8c215f8c6028.jpg" alt="Фискальный регистратор RTI 7000 P" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/imprimanta-fiscala-rti-7000-p" style={{backgroundImage: "url('/images/60761f0a-ccda-47ee-ac8e-8c215f8c6028.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -152,9 +148,7 @@ export default function CatEchipamenteFiscale() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/imprimanta-fiscala-rti-5000-f">
-                                    <img src="/images/0cfe46c3-a58f-4ab1-9f86-87843b56bd89.jpg" alt="Фискальный регистратор RTI 5000 F" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/imprimanta-fiscala-rti-5000-f" style={{backgroundImage: "url('/images/0cfe46c3-a58f-4ab1-9f86-87843b56bd89.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">

@@ -30,6 +30,7 @@ import AboutPage from './pages/AboutPage';
 import ConsultPage from './pages/ConsultPage';
 import ContactPage from './pages/ContactPage';
 import { to, langFromPath, useLang } from './lang';
+import { addToCart, addedToCartToast } from './cart';
 import CatSolutiiRetail from './pages/categories/CatSolutiiRetail';
 import CatEchipamenteDeParcare from './pages/categories/CatEchipamenteDeParcare';
 import CatSistemeSupraveghereVideo from './pages/categories/CatSistemeSupraveghereVideo';
@@ -46,6 +47,37 @@ function DocumentMeta() {
     document.title = DOCUMENT_TITLES[lang] || DOCUMENT_TITLES.ro;
     document.documentElement.lang = lang;
   }, [lang]);
+  return null;
+}
+
+function CartClickHandler() {
+  const { pathname } = useLocation();
+
+  useEffect(() => {
+    function handleClick(e) {
+      const bag = e.target.closest('.product-card .right-body');
+      const addBtn = e.target.closest('.add-to-card-btn');
+      if (!bag && !addBtn) return;
+      const lang = langFromPath(pathname);
+      let slug = null;
+      if (bag) {
+        const card = bag.closest('.product-card');
+        const a = card && card.querySelector('a[href*="/product/"]');
+        const href = a && a.getAttribute('href');
+        const m = href && href.match(/\/product\/([^/"]+)/);
+        slug = m && m[1];
+      } else {
+        const m = pathname.match(/\/product\/([^/]+)/);
+        slug = m && m[1];
+      }
+      if (!slug) return;
+      const product = addToCart(slug, lang);
+      if (product) addedToCartToast(product, lang);
+    }
+    document.addEventListener('click', handleClick);
+    return () => document.removeEventListener('click', handleClick);
+  }, [pathname]);
+
   return null;
 }
 
@@ -136,6 +168,7 @@ export default function App() {
     <BrowserRouter>
       <ScrollToTop />
       <LinkInterceptor />
+      <CartClickHandler />
       <DocumentMeta />
       <div className="site">
         <MobileMenu isOpen={mobileMenuOpen} onClose={() => setMobileMenuOpen(false)} />

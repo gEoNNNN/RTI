@@ -65,9 +65,7 @@ export default function CatSistemNumarareVizitatori() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/contor-flux-de-vizitatori-stereo-3d">
-                                    <img src="/images/5491bffb-6750-40ee-807e-f6bec451f374.png" alt="Cчетчик посетителей RCount" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/contor-flux-de-vizitatori-stereo-3d" style={{backgroundImage: "url('/images/5491bffb-6750-40ee-807e-f6bec451f374.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">

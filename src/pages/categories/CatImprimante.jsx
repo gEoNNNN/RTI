@@ -117,9 +117,7 @@ export default function CatImprimante() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/imprimanta-de-etichete-citizen-cl-s321">
-                                    <img src="/images/6452f9e5-7cca-4a13-b98e-8574adc4661f.png" alt="Imprimanta de etichete Citizen CL-S321" loading="lazy" />
-                                  </a>
+                                  <a href="/product/imprimanta-de-etichete-citizen-cl-s321" style={{backgroundImage: "url('/images/6452f9e5-7cca-4a13-b98e-8574adc4661f.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -156,9 +154,7 @@ export default function CatImprimante() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/imprimanta-mobila-citizen-cmp-30ii">
-                                    <img src="/images/a537cb7f-626a-400c-ba3f-9f806f315290.png" alt="Imprimanta mobila Citizen CMP-30II" loading="lazy" />
-                                  </a>
+                                  <a href="/product/imprimanta-mobila-citizen-cmp-30ii" style={{backgroundImage: "url('/images/a537cb7f-626a-400c-ba3f-9f806f315290.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -195,9 +191,7 @@ export default function CatImprimante() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/imprimanta-portabila-citizen-cmp-40l">
-                                    <img src="/images/e7995221-4144-41fc-8a4d-175223c31409.png" alt="Imprimanta portabila Citizen CMP-40L" loading="lazy" />
-                                  </a>
+                                  <a href="/product/imprimanta-portabila-citizen-cmp-40l" style={{backgroundImage: "url('/images/e7995221-4144-41fc-8a4d-175223c31409.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -234,9 +228,7 @@ export default function CatImprimante() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/imprimanta-industriala-citizen-cl-e720">
-                                    <img src="/images/c39ebebd-266c-478e-8ac6-6c31f6dc9a06.png" alt="Imprimanta industriala Citizen CL-E720" loading="lazy" />
-                                  </a>
+                                  <a href="/product/imprimanta-industriala-citizen-cl-e720" style={{backgroundImage: "url('/images/c39ebebd-266c-478e-8ac6-6c31f6dc9a06.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -273,9 +265,7 @@ export default function CatImprimante() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/imprimanta-industriala-citizen-cl-s703">
-                                    <img src="/images/31482a84-d5df-44c8-a425-33faa2aacc1c.png" alt="Imprimanta industriala Citizen CL-S703" loading="lazy" />
-                                  </a>
+                                  <a href="/product/imprimanta-industriala-citizen-cl-s703" style={{backgroundImage: "url('/images/31482a84-d5df-44c8-a425-33faa2aacc1c.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -312,9 +302,7 @@ export default function CatImprimante() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/imprimanta-termica-pos-citizen-ct-s310ii">
-                                    <img src="/images/e5409380-5b06-4350-ad78-0ebb7f2cd912.png" alt="Imprimanta termica POS Citizen CT-S310II" loading="lazy" />
-                                  </a>
+                                  <a href="/product/imprimanta-termica-pos-citizen-ct-s310ii" style={{backgroundImage: "url('/images/e5409380-5b06-4350-ad78-0ebb7f2cd912.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -351,9 +339,7 @@ export default function CatImprimante() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/imprimanta-de-etichete-citizen-cl-e300">
-                                    <img src="/images/33685a4f-e32f-4bcb-b460-6c8ebbc94d0c.png" alt="Imprimanta de etichete Citizen CL-E300" loading="lazy" />
-                                  </a>
+                                  <a href="/product/imprimanta-de-etichete-citizen-cl-e300" style={{backgroundImage: "url('/images/33685a4f-e32f-4bcb-b460-6c8ebbc94d0c.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -390,9 +376,7 @@ export default function CatImprimante() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/imprimanta-industriala-citizen-cl-s521ii">
-                                    <img src="/images/08078e31-81f5-4bb9-bc55-d559927316e9.png" alt="Imprimanta industriala desktop Citizen CL-S521II" loading="lazy" />
-                                  </a>
+                                  <a href="/product/imprimanta-industriala-citizen-cl-s521ii" style={{backgroundImage: "url('/images/08078e31-81f5-4bb9-bc55-d559927316e9.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -429,9 +413,7 @@ export default function CatImprimante() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/imprimanta-industriala-desktop-citizen-cl-s621ii">
-                                    <img src="/images/062a1ba2-fbde-4188-8e4f-fc9b1bf4c8b3.png" alt="Imprimanta industriala desktop Citizen CL-S621II" loading="lazy" />
-                                  </a>
+                                  <a href="/product/imprimanta-industriala-desktop-citizen-cl-s621ii" style={{backgroundImage: "url('/images/062a1ba2-fbde-4188-8e4f-fc9b1bf4c8b3.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -468,9 +450,7 @@ export default function CatImprimante() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/imprimanta-portabila-citizen-cmp-20ii">
-                                    <img src="/images/85d0986b-9b0e-4664-883c-0b26bcae9217.png" alt="Imprimanta portabila Citizen CMP-20II" loading="lazy" />
-                                  </a>
+                                  <a href="/product/imprimanta-portabila-citizen-cmp-20ii" style={{backgroundImage: "url('/images/85d0986b-9b0e-4664-883c-0b26bcae9217.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -507,9 +487,7 @@ export default function CatImprimante() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/imprimanta-portabila-citizen-cmp-25l">
-                                    <img src="/images/eca638e8-7626-4100-b297-01bd2827ae2a.png" alt="Imprimanta portabila Citizen CMP-25L" loading="lazy" />
-                                  </a>
+                                  <a href="/product/imprimanta-portabila-citizen-cmp-25l" style={{backgroundImage: "url('/images/eca638e8-7626-4100-b297-01bd2827ae2a.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -546,9 +524,7 @@ export default function CatImprimante() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/imprimanta-de-etichete-citizen-e321">
-                                    <img src="/images/77283ead-f80c-4080-a52c-f4363c33a60c.png" alt="Imprimanta de etichete Citizen CL- E321" loading="lazy" />
-                                  </a>
+                                  <a href="/product/imprimanta-de-etichete-citizen-e321" style={{backgroundImage: "url('/images/77283ead-f80c-4080-a52c-f4363c33a60c.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -585,9 +561,7 @@ export default function CatImprimante() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/imprimanta-termica-citizen-ct-e651">
-                                    <img src="/images/37316b78-1cd6-4120-96e9-f4d2b20e7f88.png" alt="Imprimanta termica Citizen CT-E651" loading="lazy" />
-                                  </a>
+                                  <a href="/product/imprimanta-termica-citizen-ct-e651" style={{backgroundImage: "url('/images/37316b78-1cd6-4120-96e9-f4d2b20e7f88.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -624,9 +598,7 @@ export default function CatImprimante() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/imprimanta-termica-pos-citizen-ct-e351">
-                                    <img src="/images/536406e3-f30b-4e9f-bed0-475d1c10de11.png" alt="Imprimanta termica POS Citizen CT-E351" loading="lazy" />
-                                  </a>
+                                  <a href="/product/imprimanta-termica-pos-citizen-ct-e351" style={{backgroundImage: "url('/images/536406e3-f30b-4e9f-bed0-475d1c10de11.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -663,9 +635,7 @@ export default function CatImprimante() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/imprimanta-portabila-zebra-qln">
-                                    <img src="/images/f2ea6e75-d599-4909-ba2b-600f7c61c1f7.png" alt="Imprimanta portabila Zebra QLn" loading="lazy" />
-                                  </a>
+                                  <a href="/product/imprimanta-portabila-zebra-qln" style={{backgroundImage: "url('/images/f2ea6e75-d599-4909-ba2b-600f7c61c1f7.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -702,9 +672,7 @@ export default function CatImprimante() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/rprinter-421-l">
-                                    <img src="/images/32193b15-01ba-4b44-9089-a4376e101821.png" alt="RPrinter 421 L" loading="lazy" />
-                                  </a>
+                                  <a href="/product/rprinter-421-l" style={{backgroundImage: "url('/images/32193b15-01ba-4b44-9089-a4376e101821.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">

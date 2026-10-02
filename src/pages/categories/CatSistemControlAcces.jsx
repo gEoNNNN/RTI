@@ -124,9 +124,7 @@ export default function CatSistemControlAcces() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/buton-de-iesire-nf-10">
-                                    <img src="/images/36ac4b78-26e4-4356-8ef2-b5187b02f4d0.jpg" alt="Buton de iesire NF-10" loading="lazy" />
-                                  </a>
+                                  <a href="/product/buton-de-iesire-nf-10" style={{backgroundImage: "url('/images/36ac4b78-26e4-4356-8ef2-b5187b02f4d0.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -163,9 +161,7 @@ export default function CatSistemControlAcces() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/proximity-cheie-em-03-2">
-                                    <img src="/images/26368f0e-fe1d-43df-aa81-d94bd8632fea.png" alt="Cheie de proximitate (breloc) EM-03-2" loading="lazy" />
-                                  </a>
+                                  <a href="/product/proximity-cheie-em-03-2" style={{backgroundImage: "url('/images/26368f0e-fe1d-43df-aa81-d94bd8632fea.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -202,9 +198,7 @@ export default function CatSistemControlAcces() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/proximity-card-em-01a">
-                                    <img src="/images/d0c47eeb-7dc3-4da1-9591-aeda181224dc.jpg" alt="Proximity card EM-01A" loading="lazy" />
-                                  </a>
+                                  <a href="/product/proximity-card-em-01a" style={{backgroundImage: "url('/images/d0c47eeb-7dc3-4da1-9591-aeda181224dc.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -241,9 +235,7 @@ export default function CatSistemControlAcces() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/proximity-card-mf-02a">
-                                    <img src="/images/ec72057b-44b8-4abf-b634-c93fb0fc22d8.png" alt="Proximity Card MF-02A" loading="lazy" />
-                                  </a>
+                                  <a href="/product/proximity-card-mf-02a" style={{backgroundImage: "url('/images/ec72057b-44b8-4abf-b634-c93fb0fc22d8.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -280,9 +272,7 @@ export default function CatSistemControlAcces() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/exit-button-nf-30-push-button">
-                                    <img src="/images/9bdf93ba-f9ce-4b3a-9392-8ae6854825fb.jpg" alt="Buton de iesire NF-30" loading="lazy" />
-                                  </a>
+                                  <a href="/product/exit-button-nf-30-push-button" style={{backgroundImage: "url('/images/9bdf93ba-f9ce-4b3a-9392-8ae6854825fb.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -319,9 +309,7 @@ export default function CatSistemControlAcces() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/rfid-colector-de-date-125-khz-model-matrix-ii-eh">
-                                    <img src="/images/2974ff43-c8f9-47e7-accd-3cbe5fd5c1c6.png" alt="Cititor RFID Matrix-II EH 125 kHz" loading="lazy" />
-                                  </a>
+                                  <a href="/product/rfid-colector-de-date-125-khz-model-matrix-ii-eh" style={{backgroundImage: "url('/images/2974ff43-c8f9-47e7-accd-3cbe5fd5c1c6.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -358,9 +346,7 @@ export default function CatSistemControlAcces() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/rfid-colector-datelor-1356-mhz-i-125-khz-model-z-2-usb">
-                                    <img src="/images/7d6c88be-f0f7-46c9-b59a-0741fe9ed144.jpg" alt="Cititor RFID Z-2 USB 13,56 MHz si 125 kHz" loading="lazy" />
-                                  </a>
+                                  <a href="/product/rfid-colector-datelor-1356-mhz-i-125-khz-model-z-2-usb" style={{backgroundImage: "url('/images/7d6c88be-f0f7-46c9-b59a-0741fe9ed144.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -397,9 +383,7 @@ export default function CatSistemControlAcces() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/rfid-colector-de-date-1356-khz-model-matrix-ii-mf-i">
-                                    <img src="/images/5bc4b2c8-d314-4baf-ae76-d3cf76383b45.png" alt="Cititor RFID Matrix-II MF 13,56 MHz" loading="lazy" />
-                                  </a>
+                                  <a href="/product/rfid-colector-de-date-1356-khz-model-matrix-ii-mf-i" style={{backgroundImage: "url('/images/5bc4b2c8-d314-4baf-ae76-d3cf76383b45.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -436,9 +420,7 @@ export default function CatSistemControlAcces() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/dispozitiv-multifunctional-adaptor-cititor-codificator-model-rf-1996">
-                                    <img src="/images/a079a3c0-259a-4519-9cc8-f881123eb708.jpg" alt="Dispozitiv multifunctional RF-1996" loading="lazy" />
-                                  </a>
+                                  <a href="/product/dispozitiv-multifunctional-adaptor-cititor-codificator-model-rf-1996" style={{backgroundImage: "url('/images/a079a3c0-259a-4519-9cc8-f881123eb708.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -475,9 +457,7 @@ export default function CatSistemControlAcces() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/cititor-de-carduri-proximity-kr200">
-                                    <img src="/images/1cac38f6-3670-4b8e-90b1-15c1f5d714b1.jpg" alt="Cititor de carduri Proximity KR200" loading="lazy" />
-                                  </a>
+                                  <a href="/product/cititor-de-carduri-proximity-kr200" style={{backgroundImage: "url('/images/1cac38f6-3670-4b8e-90b1-15c1f5d714b1.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -514,9 +494,7 @@ export default function CatSistemControlAcces() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/cititor-de-carduri-proximity-kr1000-raza-lunga">
-                                    <img src="/images/56974d93-642d-40a3-97fe-ab1d03a84466.jpg" alt="Cititor de carduri raza lunga Proximity KR1000 " loading="lazy" />
-                                  </a>
+                                  <a href="/product/cititor-de-carduri-proximity-kr1000-raza-lunga" style={{backgroundImage: "url('/images/56974d93-642d-40a3-97fe-ab1d03a84466.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -553,9 +531,7 @@ export default function CatSistemControlAcces() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/cititor-de-proximitate-kr702em-touchscreen">
-                                    <img src="/images/f3308501-67c7-4993-9067-c312cbd915c2.png" alt="Cititor KR702E/M cu taste tactile" loading="lazy" />
-                                  </a>
+                                  <a href="/product/cititor-de-proximitate-kr702em-touchscreen" style={{backgroundImage: "url('/images/f3308501-67c7-4993-9067-c312cbd915c2.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -592,9 +568,7 @@ export default function CatSistemControlAcces() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/colector-de-date-mifare-model-sp-z-2mf">
-                                    <img src="/images/f5721c1a-7027-4202-a468-c935d152ebe7.jpg" alt="Colector date Mifare &amp;#1057;P-Z 2MF" loading="lazy" />
-                                  </a>
+                                  <a href="/product/colector-de-date-mifare-model-sp-z-2mf" style={{backgroundImage: "url('/images/f5721c1a-7027-4202-a468-c935d152ebe7.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -631,9 +605,7 @@ export default function CatSistemControlAcces() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/proximity-card-reader-nk-rf202">
-                                    <img src="/images/33ba482f-977a-43f3-b7d5-f3068d7b7111.jpg" alt="Cititor Proximity NK-RF202" loading="lazy" />
-                                  </a>
+                                  <a href="/product/proximity-card-reader-nk-rf202" style={{backgroundImage: "url('/images/33ba482f-977a-43f3-b7d5-f3068d7b7111.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -670,9 +642,7 @@ export default function CatSistemControlAcces() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/cititor-de-card-zkteco-zkteco-cr20-cu-interfata-usb">
-                                    <img src="/images/254c5aef-8e3a-4354-b505-cfa266549d54.png" alt="Cititor card ZKTeco CR20 cu interfata USB" loading="lazy" />
-                                  </a>
+                                  <a href="/product/cititor-de-card-zkteco-zkteco-cr20-cu-interfata-usb" style={{backgroundImage: "url('/images/254c5aef-8e3a-4354-b505-cfa266549d54.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -709,9 +679,7 @@ export default function CatSistemControlAcces() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/statie-intercom">
-                                    <img src="/images/ab7838b8-ffc8-4a86-8fe1-9b293eeb3e78.png" alt="Statie intercom" loading="lazy" />
-                                  </a>
+                                  <a href="/product/statie-intercom" style={{backgroundImage: "url('/images/ab7838b8-ffc8-4a86-8fe1-9b293eeb3e78.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">

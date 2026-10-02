@@ -158,9 +158,7 @@ export default function CatEchipamentePosSuplimentare() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/monitor-pentru-clienti-fec">
-                                    <img src="/images/3c3dc223-85a2-4836-ae58-1289d584e6f6.jpg" alt="POS display cumparator FEC AM-1008W" loading="lazy" />
-                                  </a>
+                                  <a href="/product/monitor-pentru-clienti-fec" style={{backgroundImage: "url('/images/3c3dc223-85a2-4836-ae58-1289d584e6f6.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -197,9 +195,7 @@ export default function CatEchipamentePosSuplimentare() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/sertar-de-bani-hs-410a">
-                                    <img src="/images/d8470884-9571-4160-ac7d-f261dbe26604.jpg" alt="Sertar de bani HS-410A" loading="lazy" />
-                                  </a>
+                                  <a href="/product/sertar-de-bani-hs-410a" style={{backgroundImage: "url('/images/d8470884-9571-4160-ac7d-f261dbe26604.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -220,7 +216,7 @@ export default function CatEchipamentePosSuplimentare() {
                                         <div className="priceBox small">
                                           <div className="no-price">
                                             <div className="text">
-                                               Pre-comanda intr-un   
+                                               Pre-comanda intr-un{' '}
                                               <span>
                                                 click
                                               </span>
@@ -246,9 +242,7 @@ export default function CatEchipamentePosSuplimentare() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/sertar-de-bani-hs-170">
-                                    <img src="/images/c0bd21f0-3c69-4b18-b6a7-080a6e1eedf0.jpg" alt="Sertar de bani HS 170" loading="lazy" />
-                                  </a>
+                                  <a href="/product/sertar-de-bani-hs-170" style={{backgroundImage: "url('/images/c0bd21f0-3c69-4b18-b6a7-080a6e1eedf0.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -269,7 +263,7 @@ export default function CatEchipamentePosSuplimentare() {
                                         <div className="priceBox small">
                                           <div className="no-price">
                                             <div className="text">
-                                               Pre-comanda intr-un   
+                                               Pre-comanda intr-un{' '}
                                               <span>
                                                 click
                                               </span>

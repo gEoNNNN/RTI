@@ -23,26 +23,33 @@ Object.values(categoriesRo).forEach((c) => {
 });
 
 function ProductCard({ product }) {
-  const to = useTo();
+  const t = useT();
   const img = product.images && product.images.length ? imgUrl(product.images[0]) : '/images/shopping-bag.e9efb.svg';
+  const askQuote = product.variants && product.variants[0] && product.variants[0].askQuote;
+  const noPrice = t('product.noPriceText.text', 'Pre-comanda intr-un  ');
+  const noPriceBtn = t('product.noPriceText.button', 'click');
   return (
     <div className="products-list__item" style={{ padding: '8px' }}>
       <div className="product-card">
-        <div className="product-card__image">
-          <Link to={to('/product/' + product.slug)}>
-            <img src={img} alt={product.title} loading="lazy" />
-          </Link>
+        <div itemScope="" className="product-card__image">
+          <a href={'/product/' + product.slug} style={{ backgroundImage: `url('${img}')` }}></a>
         </div>
         <div className="product-card-box-meta">
-          <div className="product-name">
+          <div itemScope="" className="product-name">
             <div className="product-card__name">
-              <Link to={to('/product/' + product.slug)}>{product.title}</Link>
+              <a href={'/product/' + product.slug}>{product.title}</a>
             </div>
           </div>
           <div className="product-card-footer">
             <div className="left">
               <div className="priceBox small">
-                <div className="no-price"></div>
+                <div className="no-price">
+                  {askQuote && (
+                    <div className="text">
+                      {' '}{noPrice}<span>{noPriceBtn}</span>
+                    </div>
+                  )}
+                </div>
               </div>
             </div>
             <div className="right">

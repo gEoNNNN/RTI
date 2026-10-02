@@ -103,9 +103,7 @@ export default function CatCantareComerciale() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/cantar-dibal-wind-serie-500">
-                                    <img src="/images/2a7ba239-64cb-402f-8ae6-edeb55b7ef08.png" alt="Cantar cu imprimare de etichete Dibal Wind serie 500" loading="lazy" />
-                                  </a>
+                                  <a href="/product/cantar-dibal-wind-serie-500" style={{backgroundImage: "url('/images/2a7ba239-64cb-402f-8ae6-edeb55b7ef08.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -142,9 +140,7 @@ export default function CatCantareComerciale() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/cantar-dibal-serie-500">
-                                    <img src="/images/6c8f3049-e0dd-4cbd-bb8b-08714ac1eced.png" alt="Cantar cu imprimare de etichete Dibal serie 500" loading="lazy" />
-                                  </a>
+                                  <a href="/product/cantar-dibal-serie-500" style={{backgroundImage: "url('/images/6c8f3049-e0dd-4cbd-bb8b-08714ac1eced.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -181,9 +177,7 @@ export default function CatCantareComerciale() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/terminal-de-cantarire-dibal-lp-545">
-                                    <img src="/images/2911cc83-c1d5-4e74-8148-0a20b5288bc2.png" alt="Terminal de cantarire Dibal LP-545" loading="lazy" />
-                                  </a>
+                                  <a href="/product/terminal-de-cantarire-dibal-lp-545" style={{backgroundImage: "url('/images/2911cc83-c1d5-4e74-8148-0a20b5288bc2.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -220,9 +214,7 @@ export default function CatCantareComerciale() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/cantar-dibal-self-service-serie-500">
-                                    <img src="/images/d6c7607a-31a4-4c64-8b3f-e046444519b7.png" alt="Cantar Dibal self-service serie 500" loading="lazy" />
-                                  </a>
+                                  <a href="/product/cantar-dibal-self-service-serie-500" style={{backgroundImage: "url('/images/d6c7607a-31a4-4c64-8b3f-e046444519b7.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -259,9 +251,7 @@ export default function CatCantareComerciale() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/cintar-suspendat-dibal-serie-500">
-                                    <img src="/images/50df8cf0-5dbb-4387-9bf0-1b75196bad58.png" alt="Cantar suspendat Dibal serie 500" loading="lazy" />
-                                  </a>
+                                  <a href="/product/cintar-suspendat-dibal-serie-500" style={{backgroundImage: "url('/images/50df8cf0-5dbb-4387-9bf0-1b75196bad58.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -298,9 +288,7 @@ export default function CatCantareComerciale() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/cintar-suspendat-dibal-serie-900">
-                                    <img src="/images/bc6a1520-5dec-43c3-8bdd-6d306526d35a.png" alt="Cantar suspendat Dibal serie 900" loading="lazy" />
-                                  </a>
+                                  <a href="/product/cintar-suspendat-dibal-serie-900" style={{backgroundImage: "url('/images/bc6a1520-5dec-43c3-8bdd-6d306526d35a.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -337,9 +325,7 @@ export default function CatCantareComerciale() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/cantar-comercial-cu-eticheta-dibal-cs-1100-w-hanging-pc-based">
-                                    <img src="/images/0b01b9e1-5fb3-4f60-8a26-8eefd7df49c0.png" alt="Cantar comercial cu eticheta Dibal CS-1100 W Hanging PC based" loading="lazy" />
-                                  </a>
+                                  <a href="/product/cantar-comercial-cu-eticheta-dibal-cs-1100-w-hanging-pc-based" style={{backgroundImage: "url('/images/0b01b9e1-5fb3-4f60-8a26-8eefd7df49c0.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -376,9 +362,7 @@ export default function CatCantareComerciale() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/cantar-cu-autodeservire-dibal-cs-1100-w-pc-based-cu-eticheta">
-                                    <img src="/images/daff3760-2934-43ab-b5fb-31e94d80ba3b.png" alt="Cantar cu autodeservire PC Based Dibal CS-1100 W cu eticheta " loading="lazy" />
-                                  </a>
+                                  <a href="/product/cantar-cu-autodeservire-dibal-cs-1100-w-pc-based-cu-eticheta" style={{backgroundImage: "url('/images/daff3760-2934-43ab-b5fb-31e94d80ba3b.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -415,9 +399,7 @@ export default function CatCantareComerciale() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/pc-scales-cs-2200-series-self-service-totem-dibal">
-                                    <img src="/images/9262fa24-459e-4ea3-8ec9-f4af071b130b.png" alt="PC SCALES CS-2200  series Self-Service Totem  Dibal" loading="lazy" />
-                                  </a>
+                                  <a href="/product/pc-scales-cs-2200-series-self-service-totem-dibal" style={{backgroundImage: "url('/images/9262fa24-459e-4ea3-8ec9-f4af071b130b.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -438,7 +420,7 @@ export default function CatCantareComerciale() {
                                         <div className="priceBox small">
                                           <div className="no-price">
                                             <div className="text">
-                                               Pre-comanda intr-un   
+                                               Pre-comanda intr-un{' '}
                                               <span>
                                                 click
                                               </span>
@@ -461,9 +443,7 @@ export default function CatCantareComerciale() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/cintar-dibal-autoservire-serie-900">
-                                    <img src="/images/4010f033-fa3d-4c59-b317-fb8edcc5d514.png" alt="Cantar Dibal autoservire serie 900" loading="lazy" />
-                                  </a>
+                                  <a href="/product/cintar-dibal-autoservire-serie-900" style={{backgroundImage: "url('/images/4010f033-fa3d-4c59-b317-fb8edcc5d514.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -500,9 +480,7 @@ export default function CatCantareComerciale() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/cantar-dibal-serie-g">
-                                    <img src="/images/ec0c06e9-0e1e-4fd6-8514-a1cca8f274a6.png" alt="Cantar Dibal serie G" loading="lazy" />
-                                  </a>
+                                  <a href="/product/cantar-dibal-serie-g" style={{backgroundImage: "url('/images/ec0c06e9-0e1e-4fd6-8514-a1cca8f274a6.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -539,9 +517,7 @@ export default function CatCantareComerciale() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/cantar-dibal-serie-900-double-display">
-                                    <img src="/images/609e5bb8-7b05-4549-bd9c-937ecbf805c0.png" alt="Cantar Dibal serie 900 double display" loading="lazy" />
-                                  </a>
+                                  <a href="/product/cantar-dibal-serie-900-double-display" style={{backgroundImage: "url('/images/609e5bb8-7b05-4549-bd9c-937ecbf805c0.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">

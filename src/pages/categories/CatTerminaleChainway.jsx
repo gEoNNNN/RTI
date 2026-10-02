@@ -63,9 +63,7 @@ export default function CatTerminaleChainway() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/terminal-mobil-chainway-c6000">
-                                    <img src="/images/81db7872-9214-4a9c-b8c2-32e8904e5cb6.png" alt="Terminal mobil Chainway C6000 Android 10.0" loading="lazy" />
-                                  </a>
+                                  <a href="/product/terminal-mobil-chainway-c6000" style={{backgroundImage: "url('/images/81db7872-9214-4a9c-b8c2-32e8904e5cb6.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -102,9 +100,7 @@ export default function CatTerminaleChainway() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/terminal-mobil-chainway-c66">
-                                    <img src="/images/75b731aa-8987-4fd6-b270-445e32437517.png" alt="Terminal mobil Chainway C66 Android 9.0" loading="lazy" />
-                                  </a>
+                                  <a href="/product/terminal-mobil-chainway-c66" style={{backgroundImage: "url('/images/75b731aa-8987-4fd6-b270-445e32437517.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -141,9 +137,7 @@ export default function CatTerminaleChainway() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/terminal-mobil-chainway-c60-android-100">
-                                    <img src="/images/fa3c22ca-9112-40c3-872d-a71608902ffa.png" alt="Terminal mobil Chainway C60 Android 10.0" loading="lazy" />
-                                  </a>
+                                  <a href="/product/terminal-mobil-chainway-c60-android-100" style={{backgroundImage: "url('/images/fa3c22ca-9112-40c3-872d-a71608902ffa.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -180,9 +174,7 @@ export default function CatTerminaleChainway() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/terminal-mobil-chainway-c90-android-100">
-                                    <img src="/images/b3858acd-70f2-4f09-b688-753fed9b2e84.png" alt="Terminal mobil Chainway C90 Android 10.0" loading="lazy" />
-                                  </a>
+                                  <a href="/product/terminal-mobil-chainway-c90-android-100" style={{backgroundImage: "url('/images/b3858acd-70f2-4f09-b688-753fed9b2e84.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -219,9 +211,7 @@ export default function CatTerminaleChainway() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/terminal-mobil-chainway-c61-android-110">
-                                    <img src="/images/1703f291-dc22-4557-b829-189be80c0225.png" alt="Terminal mobil Chainway C61 Android 11.0" loading="lazy" />
-                                  </a>
+                                  <a href="/product/terminal-mobil-chainway-c61-android-110" style={{backgroundImage: "url('/images/1703f291-dc22-4557-b829-189be80c0225.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -258,9 +248,7 @@ export default function CatTerminaleChainway() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/calculatoare-mobile-cu-imprimanta-incorporata-c75">
-                                    <img src="/images/a1d739e9-ab60-4937-b58f-0b35e29c8025.png" alt="Terminal mobil Chainway C75 Android 11.0" loading="lazy" />
-                                  </a>
+                                  <a href="/product/calculatoare-mobile-cu-imprimanta-incorporata-c75" style={{backgroundImage: "url('/images/a1d739e9-ab60-4937-b58f-0b35e29c8025.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -297,9 +285,7 @@ export default function CatTerminaleChainway() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/terminal-mobil-chainway-mc62-android">
-                                    <img src="/images/f2f8e72f-f3d7-4e94-875c-a83e41f3f7b1.png" alt="Terminal mobil Chainway MC62 Android " loading="lazy" />
-                                  </a>
+                                  <a href="/product/terminal-mobil-chainway-mc62-android" style={{backgroundImage: "url('/images/f2f8e72f-f3d7-4e94-875c-a83e41f3f7b1.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -336,9 +322,7 @@ export default function CatTerminaleChainway() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/terminal-mobil-chainway-mc50-android">
-                                    <img src="/images/d42d5681-1845-4566-8b89-afb8e66edfb2.png" alt="Terminal mobil Chainway MC50 Android " loading="lazy" />
-                                  </a>
+                                  <a href="/product/terminal-mobil-chainway-mc50-android" style={{backgroundImage: "url('/images/d42d5681-1845-4566-8b89-afb8e66edfb2.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -359,7 +343,7 @@ export default function CatTerminaleChainway() {
                                         <div className="priceBox small">
                                           <div className="no-price">
                                             <div className="text">
-                                               Pre-comanda intr-un   
+                                               Pre-comanda intr-un{' '}
                                               <span>
                                                 click
                                               </span>
@@ -382,9 +366,7 @@ export default function CatTerminaleChainway() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/terminal-mobil-chainway-mc21-android">
-                                    <img src="/images/c9b5ac24-253f-4b92-bda4-c09198079818.png" alt="Terminal mobil Chainway MC21  Android" loading="lazy" />
-                                  </a>
+                                  <a href="/product/terminal-mobil-chainway-mc21-android" style={{backgroundImage: "url('/images/c9b5ac24-253f-4b92-bda4-c09198079818.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -405,7 +387,7 @@ export default function CatTerminaleChainway() {
                                         <div className="priceBox small">
                                           <div className="no-price">
                                             <div className="text">
-                                               Pre-comanda intr-un   
+                                               Pre-comanda intr-un{' '}
                                               <span>
                                                 click
                                               </span>
@@ -436,9 +418,7 @@ export default function CatTerminaleChainway() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/terminal-mobil-chainway-mc-95-android">
-                                    <img src="/images/f1ced6e7-470c-45e5-b956-49c35285377d.png" alt="Terminal mobil Chainway MC 95 Android" loading="lazy" />
-                                  </a>
+                                  <a href="/product/terminal-mobil-chainway-mc-95-android" style={{backgroundImage: "url('/images/f1ced6e7-470c-45e5-b956-49c35285377d.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -476,9 +456,7 @@ export default function CatTerminaleChainway() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/terminal-mobil-chainway-c71-android">
-                                    <img src="/images/b078f31b-12ba-4efa-a290-e747da5f3aed.png" alt="Terminal mobil Chainway C71 Android" loading="lazy" />
-                                  </a>
+                                  <a href="/product/terminal-mobil-chainway-c71-android" style={{backgroundImage: "url('/images/b078f31b-12ba-4efa-a290-e747da5f3aed.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">

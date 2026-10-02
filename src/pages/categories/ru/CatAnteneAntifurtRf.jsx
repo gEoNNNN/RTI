@@ -63,9 +63,7 @@ export default function CatAnteneAntifurtRf() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/sistemul-antifurt-rguard-new-line-rf">
-                                    <img src="/images/e6457ec9-07bc-4c3f-9892-cf7b12c8957d.png" alt="Противокражная система RGuard New Line RF" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/sistemul-antifurt-rguard-new-line-rf" style={{backgroundImage: "url('/images/e6457ec9-07bc-4c3f-9892-cf7b12c8957d.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -102,9 +100,7 @@ export default function CatAnteneAntifurtRf() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/rguard-new-line-rf-acryl-antenna">
-                                    <img src="/images/3a97fe92-8ef4-4ca3-b053-3c2389e5bd0c.png" alt="RGuard New Line RF Acryl Antenna" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/rguard-new-line-rf-acryl-antenna" style={{backgroundImage: "url('/images/3a97fe92-8ef4-4ca3-b053-3c2389e5bd0c.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">

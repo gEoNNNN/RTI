@@ -63,9 +63,7 @@ export default function CatImprimanteDeEtichete() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/imprimanta-de-etichete-citizen-cl-s321">
-                                    <img src="/images/6452f9e5-7cca-4a13-b98e-8574adc4661f.png" alt="Термотрансферный принтер этикеток Citizen CL-S321" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/imprimanta-de-etichete-citizen-cl-s321" style={{backgroundImage: "url('/images/6452f9e5-7cca-4a13-b98e-8574adc4661f.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -102,9 +100,7 @@ export default function CatImprimanteDeEtichete() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/imprimanta-de-etichete-citizen-cl-e300">
-                                    <img src="/images/33685a4f-e32f-4bcb-b460-6c8ebbc94d0c.png" alt="Принтер этикеток Citizen CL-E300" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/imprimanta-de-etichete-citizen-cl-e300" style={{backgroundImage: "url('/images/33685a4f-e32f-4bcb-b460-6c8ebbc94d0c.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -141,9 +137,7 @@ export default function CatImprimanteDeEtichete() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/imprimanta-de-etichete-citizen-e321">
-                                    <img src="/images/77283ead-f80c-4080-a52c-f4363c33a60c.png" alt="Принтер этикеток Citizen CL-E321" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/imprimanta-de-etichete-citizen-e321" style={{backgroundImage: "url('/images/77283ead-f80c-4080-a52c-f4363c33a60c.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -188,9 +182,7 @@ export default function CatImprimanteDeEtichete() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/imprimanta-desktop-zebra-zd620">
-                                    <img src="/images/9b7f32d0-5dc7-405e-9ae1-089f5975aa16.jpg" alt="Принтер этикеток серии Zebra ZD620" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/imprimanta-desktop-zebra-zd620" style={{backgroundImage: "url('/images/9b7f32d0-5dc7-405e-9ae1-089f5975aa16.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -228,9 +220,7 @@ export default function CatImprimanteDeEtichete() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/imprmanta-desktop-zebra-zd420d">
-                                    <img src="/images/f5fbc826-67c5-4cb5-a5b0-39ec2363f762.jpg" alt="Принтер этикеток серии Zebra ZD420D" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/imprmanta-desktop-zebra-zd420d" style={{backgroundImage: "url('/images/f5fbc826-67c5-4cb5-a5b0-39ec2363f762.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -268,9 +258,7 @@ export default function CatImprimanteDeEtichete() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/imprimanta-cu-etichetatre-zebra-zd200">
-                                    <img src="/images/49fc1b92-cff6-437f-8dc8-1986be034041.jpg" alt="Настольный принтер серии Zebra ZD420D" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/imprimanta-cu-etichetatre-zebra-zd200" style={{backgroundImage: "url('/images/49fc1b92-cff6-437f-8dc8-1986be034041.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -308,9 +296,7 @@ export default function CatImprimanteDeEtichete() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/imprimanta-termica-zebra-zd500">
-                                    <img src="/images/f8b33e84-c80f-4960-a122-015466242efe.png" alt="Настольный принтер Zebra ZD 500" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/imprimanta-termica-zebra-zd500" style={{backgroundImage: "url('/images/f8b33e84-c80f-4960-a122-015466242efe.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">

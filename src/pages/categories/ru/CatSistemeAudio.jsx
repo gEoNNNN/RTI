@@ -103,9 +103,7 @@ export default function CatSistemeAudio() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/boxa-de-tavan-apart-cm3t">
-                                    <img src="/images/4e50e2c1-a5c9-448a-af9f-ebaee429dddf.jpg" alt="Динамик RSound CM3T" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/boxa-de-tavan-apart-cm3t" style={{backgroundImage: "url('/images/4e50e2c1-a5c9-448a-af9f-ebaee429dddf.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -142,9 +140,7 @@ export default function CatSistemeAudio() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/boxa-de-tavan-apart-cm4t">
-                                    <img src="/images/815bb8d0-ab41-4350-bf98-d275a0dccf6c.jpg" alt="Динамик RSound CM4T" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/boxa-de-tavan-apart-cm4t" style={{backgroundImage: "url('/images/815bb8d0-ab41-4350-bf98-d275a0dccf6c.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -181,9 +177,7 @@ export default function CatSistemeAudio() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/boxa-de-tavan-apart-cm6t">
-                                    <img src="/images/431754ce-0a55-4270-959d-e22e7dd21ac1.jpg" alt="Динамик RSound CM6T" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/boxa-de-tavan-apart-cm6t" style={{backgroundImage: "url('/images/431754ce-0a55-4270-959d-e22e7dd21ac1.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -220,9 +214,7 @@ export default function CatSistemeAudio() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/boxa-de-tavan-apart-cm20t">
-                                    <img src="/images/3008eff1-f40e-46fa-a2e2-3325dc5386e1.jpg" alt="Динамик RSound-CM20T" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/boxa-de-tavan-apart-cm20t" style={{backgroundImage: "url('/images/3008eff1-f40e-46fa-a2e2-3325dc5386e1.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -259,9 +251,7 @@ export default function CatSistemeAudio() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/amplificator-audio-apart-ma35">
-                                    <img src="/images/9381d101-07f9-42f4-8878-df57b31aaee7.jpg" alt="Микшер-усилитель Apart MA35 " loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/amplificator-audio-apart-ma35" style={{backgroundImage: "url('/images/9381d101-07f9-42f4-8878-df57b31aaee7.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -298,9 +288,7 @@ export default function CatSistemeAudio() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/difuzor-de-gradina-apart-rock-20">
-                                    <img src="/images/fe855eed-ba35-4c5b-a9cc-8d5c080f8635.jpg" alt="Декоративный динамик  APart Rock20 " loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/difuzor-de-gradina-apart-rock-20" style={{backgroundImage: "url('/images/fe855eed-ba35-4c5b-a9cc-8d5c080f8635.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -337,9 +325,7 @@ export default function CatSistemeAudio() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/difuzor-de-gradina-apart-rock-608">
-                                    <img src="/images/45c6e6f6-36a2-4231-aac9-37c1afa8643b.jpg" alt="Декоративный динамик APart Rock608" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/difuzor-de-gradina-apart-rock-608" style={{backgroundImage: "url('/images/45c6e6f6-36a2-4231-aac9-37c1afa8643b.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -376,9 +362,7 @@ export default function CatSistemeAudio() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/difuzor-de-exterior-apart-sph16">
-                                    <img src="/images/9f302b9f-b139-4e7f-a63c-d555a32f5f84.jpg" alt="Подвесной динамик APart SPH16" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/difuzor-de-exterior-apart-sph16" style={{backgroundImage: "url('/images/9f302b9f-b139-4e7f-a63c-d555a32f5f84.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -415,9 +399,7 @@ export default function CatSistemeAudio() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/difuzor-de-exterior-apart-sph20">
-                                    <img src="/images/38b8a59e-cc95-42f0-a509-5479a28bffa7.jpg" alt="Подвесной динамик APart SPH20" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/difuzor-de-exterior-apart-sph20" style={{backgroundImage: "url('/images/38b8a59e-cc95-42f0-a509-5479a28bffa7.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -454,9 +436,7 @@ export default function CatSistemeAudio() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/amplificator-ma65">
-                                    <img src="/images/935a6f8a-d674-4208-87d1-f8aa8d4dc603.jpg" alt="Микшер-усилитель Apart MA65" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/amplificator-ma65" style={{backgroundImage: "url('/images/935a6f8a-d674-4208-87d1-f8aa8d4dc603.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -493,9 +473,7 @@ export default function CatSistemeAudio() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/amplificator-ma125">
-                                    <img src="/images/a4efa2e4-5da2-4763-a65f-6d4ae3c39c29.jpg" alt="Микшер-усилитель Apart MA125" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/amplificator-ma125" style={{backgroundImage: "url('/images/a4efa2e4-5da2-4763-a65f-6d4ae3c39c29.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -532,9 +510,7 @@ export default function CatSistemeAudio() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/amplificator-ma200">
-                                    <img src="/images/353c9d08-2e40-49e4-8347-bbad51699367.jpg" alt="Микшер-усилитель APart MA200" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/amplificator-ma200" style={{backgroundImage: "url('/images/353c9d08-2e40-49e4-8347-bbad51699367.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -571,9 +547,7 @@ export default function CatSistemeAudio() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/amplificator-champ-3d">
-                                    <img src="/images/e413aa28-6c5e-469b-b39f-64c2c014e62c.jpg" alt="Трехканальный усилитель мощности APart CHAMP 3D" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/amplificator-champ-3d" style={{backgroundImage: "url('/images/e413aa28-6c5e-469b-b39f-64c2c014e62c.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -610,9 +584,7 @@ export default function CatSistemeAudio() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/amplificator-pa240p">
-                                    <img src="/images/05805ab6-f17f-4b3a-ac87-0884c4e2378a.jpg" alt="Профессиональный усилитель мощности APart PA240P" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/amplificator-pa240p" style={{backgroundImage: "url('/images/05805ab6-f17f-4b3a-ac87-0884c4e2378a.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -649,9 +621,7 @@ export default function CatSistemeAudio() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/microfon-de-masa-itc-t-621a">
-                                    <img src="/images/8191afc3-7a75-4e08-b1d7-dbf3066f225b.jpg" alt="Настольный микрофон ITC T-621A" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/microfon-de-masa-itc-t-621a" style={{backgroundImage: "url('/images/8191afc3-7a75-4e08-b1d7-dbf3066f225b.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -688,9 +658,7 @@ export default function CatSistemeAudio() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/potentiometru-volum-itc-t-673-30w">
-                                    <img src="/images/e7de4dcf-063d-4d91-83c1-930227ae1fdd.jpg" alt="Регулятор громкости ITC T-673 30W" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/potentiometru-volum-itc-t-673-30w" style={{backgroundImage: "url('/images/e7de4dcf-063d-4d91-83c1-930227ae1fdd.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">

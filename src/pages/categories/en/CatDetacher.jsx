@@ -63,9 +63,7 @@ export default function CatDetacher() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/detachers-d-001-d-002">
-                                    <img src="/images/de5a47b1-30fe-4b0d-a0d0-003ece1c1d74.png" alt="Detacher (R-001/ R-002)" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/detachers-d-001-d-002" style={{backgroundImage: "url('/images/de5a47b1-30fe-4b0d-a0d0-003ece1c1d74.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -102,9 +100,7 @@ export default function CatDetacher() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/detachers-d-003">
-                                    <img src="/images/cad969e2-03e8-4734-9d2c-e1341d29fe3f.png" alt="Detacher (R-003)" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/detachers-d-003" style={{backgroundImage: "url('/images/cad969e2-03e8-4734-9d2c-e1341d29fe3f.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -141,9 +137,7 @@ export default function CatDetacher() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/detachers-model-d-005">
-                                    <img src="/images/e4ffea42-7d8b-4291-8f35-7499103c33d8.png" alt="Detacher (R-005)" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/detachers-model-d-005" style={{backgroundImage: "url('/images/e4ffea42-7d8b-4291-8f35-7499103c33d8.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -180,9 +174,7 @@ export default function CatDetacher() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/detachers-d-006">
-                                    <img src="/images/9d394205-4e02-4edd-9f41-c49ae899af30.png" alt="Detacher (R-006)" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/detachers-d-006" style={{backgroundImage: "url('/images/9d394205-4e02-4edd-9f41-c49ae899af30.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -219,9 +211,7 @@ export default function CatDetacher() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/detacher-d-0018">
-                                    <img src="/images/a311d0f7-f396-4ee9-b934-875dfd78274f.png" alt="Detacher (R-0018)" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/detacher-d-0018" style={{backgroundImage: "url('/images/a311d0f7-f396-4ee9-b934-875dfd78274f.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -258,9 +248,7 @@ export default function CatDetacher() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/detacher-d-021">
-                                    <img src="/images/6366010e-1df4-482f-a1e7-c1a23d97ee10.png" alt="Detacher (R-021)" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/detacher-d-021" style={{backgroundImage: "url('/images/6366010e-1df4-482f-a1e7-c1a23d97ee10.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -297,9 +285,7 @@ export default function CatDetacher() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/detacher-d-007">
-                                    <img src="/images/579eb8e7-65cb-4e9e-a952-c8a85f1e9fdf.png" alt="Detacher (R-007)" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/detacher-d-007" style={{backgroundImage: "url('/images/579eb8e7-65cb-4e9e-a952-c8a85f1e9fdf.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -336,9 +322,7 @@ export default function CatDetacher() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/tag-detacher-aed-001">
-                                    <img src="/images/65177430-a37c-4528-911d-ece2592a46c2.png" alt="TAG Detacher (AER-001)" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/tag-detacher-aed-001" style={{backgroundImage: "url('/images/65177430-a37c-4528-911d-ece2592a46c2.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -375,9 +359,7 @@ export default function CatDetacher() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/tag-detacher-aed-002">
-                                    <img src="/images/a15e4e85-7e70-4ed5-89e2-621133a175c2.png" alt="TAG Detacher (AER-002)" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/tag-detacher-aed-002" style={{backgroundImage: "url('/images/a15e4e85-7e70-4ed5-89e2-621133a175c2.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -414,9 +396,7 @@ export default function CatDetacher() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/tag-detacher-aed-004">
-                                    <img src="/images/86977a68-7672-427f-a1e9-8c8d0093d8bb.png" alt="TAG Detacher (AER-004)" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/tag-detacher-aed-004" style={{backgroundImage: "url('/images/86977a68-7672-427f-a1e9-8c8d0093d8bb.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -453,9 +433,7 @@ export default function CatDetacher() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/tag-detacher-ah-001">
-                                    <img src="/images/6a2b7dd1-c912-4c4e-8014-48ca23b577f9.png" alt="TAG Detacher (AHR-001)" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/tag-detacher-ah-001" style={{backgroundImage: "url('/images/6a2b7dd1-c912-4c4e-8014-48ca23b577f9.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
