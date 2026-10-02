@@ -1,7 +1,9 @@
 /* Global reset to allow original site styles to take full effect */
+/* NOTE: no padding reset here — styles.css sets body{padding-top:60px} on
+   ≤991px to clear the fixed .mobile-header, and its own *{padding:0} reset.
+   A later padding:0 here would override it (equal specificity, later wins). */
 html, body {
   margin: 0;
-  padding: 0;
   background: #ffffff;
   font-family: Roboto, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
 }
