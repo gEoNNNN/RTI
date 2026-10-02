@@ -8,7 +8,7 @@ export default function CatScanereManuale_ScanereRscan() {
       <app-product-category>
         <div className="header">
           <app-page-header>
-            <div className="page-header product-category bg-image" style={{ backgroundImage: 'url("https://cdn.rti.md//resize:fill:1980/q:80/plain/local:///public/product-categories/thumbnail/3122179c-91c0-49b8-9d15-1515cfb00f5b.jpg")' }}>
+            <div className="page-header product-category bg-image" style={{ backgroundImage: 'url("/images/3122179c-91c0-49b8-9d15-1515cfb00f5b.5f912.jpg")' }}>
               <div className="overlay" style={{ background: 'transparent' }}></div>
               <div id="links" className="page-header__container container">
                 <div className="page-header__title">
@@ -90,7 +90,7 @@ export default function CatScanereManuale_ScanereRscan() {
               <div className="extend-button">
                 <div className="button">
                   <div>
-                     Расширить 
+                     Expand 
                   </div>
                   <div className="seo-arrow"></div>
                 </div>

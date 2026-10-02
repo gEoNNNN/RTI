@@ -8,7 +8,7 @@ export default function CatEchipamenteFiscale() {
       <app-product-category>
         <div className="header">
           <app-page-header>
-            <div className="page-header product-category bg-image" style={{ backgroundImage: 'url("https://cdn.rti.md//resize:fill:1980/q:80/plain/local:///public/product-categories/thumbnail/c66b9f71-121a-45af-8b3d-baa90dd6d20a.png")' }}>
+            <div className="page-header product-category bg-image" style={{ backgroundImage: 'url("/images/c66b9f71-121a-45af-8b3d-baa90dd6d20a.5f912.png")' }}>
               <div className="overlay" style={{ background: 'transparent' }}></div>
               <div id="links" className="page-header__container container">
                 <div className="page-header__title">
@@ -259,7 +259,7 @@ export default function CatEchipamenteFiscale() {
               <div className="extend-button">
                 <div className="button">
                   <div>
-                     Расширить 
+                     Expand 
                   </div>
                   <div className="seo-arrow"></div>
                 </div>

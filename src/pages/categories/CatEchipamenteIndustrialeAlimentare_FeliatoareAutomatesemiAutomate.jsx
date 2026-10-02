@@ -8,7 +8,7 @@ export default function CatEchipamenteIndustrialeAlimentare_FeliatoareAutomatese
       <app-product-category>
         <div className="header">
           <app-page-header>
-            <div className="page-header product-category bg-image" style={{ backgroundImage: 'url("https://cdn.rti.md//resize:fill:1980/q:80/plain/local:///public/product-categories/thumbnail/9fc35fac-0240-4b90-8647-2d42f629ce09.jpg")' }}>
+            <div className="page-header product-category bg-image" style={{ backgroundImage: 'url("/images/9fc35fac-0240-4b90-8647-2d42f629ce09.jpg")' }}>
               <div className="overlay" style={{ background: 'transparent' }}></div>
               <div id="links" className="page-header__container container">
                 <div className="page-header__title">

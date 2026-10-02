@@ -8,7 +8,7 @@ export default function CatSistemNumarareVizitatori() {
       <app-product-category>
         <div className="header">
           <app-page-header>
-            <div className="page-header product-category bg-image" style={{ backgroundImage: 'url("https://cdn.rti.md//resize:fill:1980/q:80/plain/local:///public/product-categories/thumbnail/7fe2da49-21c1-42fe-ad45-35fd4f82cd96.jpg")' }}>
+            <div className="page-header product-category bg-image" style={{ backgroundImage: 'url("/images/7fe2da49-21c1-42fe-ad45-35fd4f82cd96.5f912.jpg")' }}>
               <div className="overlay" style={{ background: 'transparent' }}></div>
               <div id="links" className="page-header__container container">
                 <div className="page-header__title">

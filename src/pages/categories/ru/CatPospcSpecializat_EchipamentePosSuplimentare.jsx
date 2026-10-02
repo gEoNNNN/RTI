@@ -8,7 +8,7 @@ export default function CatPospcSpecializat_EchipamentePosSuplimentare() {
       <app-product-category>
         <div className="header">
           <app-page-header>
-            <div className="page-header product-category bg-image" style={{ backgroundImage: 'url("https://cdn.rti.md//resize:fill:1980/q:80/plain/local:///public/product-categories/thumbnail/707c1bb3-2ac2-4ed8-9fe1-09637525c92a.png")' }}>
+            <div className="page-header product-category bg-image" style={{ backgroundImage: 'url("/images/707c1bb3-2ac2-4ed8-9fe1-09637525c92a.5f912.png")' }}>
               <div className="overlay" style={{ background: 'transparent' }}></div>
               <div id="links" className="page-header__container container">
                 <div className="page-header__title">

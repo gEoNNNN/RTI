@@ -8,7 +8,7 @@ export default function CatSistemAntifurt_AnteneAntifurtAm() {
       <app-product-category>
         <div className="header">
           <app-page-header>
-            <div className="page-header product-category bg-image" style={{ backgroundImage: 'url("https://cdn.rti.md//resize:fill:1980/q:80/plain/local:///public/product-categories/thumbnail/14957191-39c0-407b-92c2-6cc99b29a5a7.jpg")' }}>
+            <div className="page-header product-category bg-image" style={{ backgroundImage: 'url("/images/14957191-39c0-407b-92c2-6cc99b29a5a7.5f912.jpg")' }}>
               <div className="overlay" style={{ background: 'transparent' }}></div>
               <div id="links" className="page-header__container container">
                 <div className="page-header__title">

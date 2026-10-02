@@ -8,7 +8,7 @@ export default function CatImprimante_ImprimanteDeEtichete() {
       <app-product-category>
         <div className="header">
           <app-page-header>
-            <div className="page-header product-category bg-image" style={{ backgroundImage: 'url("https://cdn.rti.md//resize:fill:1980/q:80/plain/local:///public/product-categories/thumbnail/85760488-19f2-4b72-bbe8-da41d45f352e.jpg")' }}>
+            <div className="page-header product-category bg-image" style={{ backgroundImage: 'url("/images/85760488-19f2-4b72-bbe8-da41d45f352e.5f912.jpg")' }}>
               <div className="overlay" style={{ background: 'transparent' }}></div>
               <div id="links" className="page-header__container container">
                 <div className="page-header__title">
@@ -410,7 +410,7 @@ export default function CatImprimante_ImprimanteDeEtichete() {
               <div className="extend-button">
                 <div className="button">
                   <div>
-                     Расширить 
+                     Expand 
                   </div>
                   <div className="seo-arrow"></div>
                 </div>

@@ -29,7 +29,7 @@ import OneCPricingPage from './pages/OneCPricingPage';
 import AboutPage from './pages/AboutPage';
 import ConsultPage from './pages/ConsultPage';
 import ContactPage from './pages/ContactPage';
-import { to, langFromPath, useLang } from './lang';
+import { to, langFromPath, useLang, t } from './lang';
 import { addToCart, addedToCartToast } from './cart';
 import CatSolutiiRetail from './pages/categories/CatSolutiiRetail';
 import CatEchipamenteDeParcare from './pages/categories/CatEchipamenteDeParcare';
@@ -55,6 +55,27 @@ function CartClickHandler() {
 
   useEffect(() => {
     function handleClick(e) {
+      // SEO "Extinde/Restrange" toggle — same behavior as live (app-seo-text)
+      const seoBtn = e.target.closest('.extend-button .button');
+      if (seoBtn) {
+        const wrap = seoBtn.closest('app-seo-text');
+        const content = wrap && wrap.querySelector('.seo-content');
+        if (content) {
+          const lang = langFromPath(pathname);
+          const collapsed = content.classList.toggle('expand');
+          const grad = content.querySelector('.bg-gradient');
+          if (grad) grad.style.display = collapsed ? '' : 'none';
+          const label = seoBtn.querySelector('div');
+          if (label) {
+            label.textContent = collapsed
+              ? ' ' + t(lang, 'SeoText.expand', 'Extinde') + ' '
+              : ' ' + t(lang, 'SeoText.restrict', 'Restrange') + ' ';
+          }
+          const arrow = seoBtn.querySelector('.seo-arrow');
+          if (arrow) arrow.classList.toggle('down-arrow', !collapsed);
+        }
+        return;
+      }
       const bag = e.target.closest('.product-card .right-body');
       const addBtn = e.target.closest('.add-to-card-btn');
       if (!bag && !addBtn) return;

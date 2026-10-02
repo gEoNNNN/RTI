@@ -8,7 +8,7 @@ export default function CatSistemeAudio_AmplificatoareAudio() {
       <app-product-category>
         <div className="header">
           <app-page-header>
-            <div className="page-header product-category bg-image" style={{ backgroundImage: 'url("https://cdn.rti.md//resize:fill:1980/q:80/plain/local:///public/product-categories/thumbnail/52c32851-ccb4-4be9-a847-9c969af7fbb3.jpg")' }}>
+            <div className="page-header product-category bg-image" style={{ backgroundImage: 'url("/images/52c32851-ccb4-4be9-a847-9c969af7fbb3.5f912.jpg")' }}>
               <div className="overlay" style={{ background: 'transparent' }}></div>
               <div id="links" className="page-header__container container">
                 <div className="page-header__title">

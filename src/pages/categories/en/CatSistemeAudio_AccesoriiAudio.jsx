@@ -8,7 +8,7 @@ export default function CatSistemeAudio_AccesoriiAudio() {
       <app-product-category>
         <div className="header">
           <app-page-header>
-            <div className="page-header product-category bg-image" style={{ backgroundImage: 'url("https://cdn.rti.md//resize:fill:1980/q:80/plain/local:///public/product-categories/thumbnail/3bc510f9-eba4-47fb-95b7-3a211b1ba8a2.jpg")' }}>
+            <div className="page-header product-category bg-image" style={{ backgroundImage: 'url("/images/3bc510f9-eba4-47fb-95b7-3a211b1ba8a2.5f912.jpg")' }}>
               <div className="overlay" style={{ background: 'transparent' }}></div>
               <div id="links" className="page-header__container container">
                 <div className="page-header__title">
@@ -316,7 +316,7 @@ export default function CatSistemeAudio_AccesoriiAudio() {
               <div className="extend-button">
                 <div className="button">
                   <div>
-                     Расширить 
+                     Expand 
                   </div>
                   <div className="seo-arrow"></div>
                 </div>

@@ -8,7 +8,7 @@ export default function CatScanereCoduriDeBare_ScanereIncorporate() {
       <app-product-category>
         <div className="header">
           <app-page-header>
-            <div className="page-header product-category bg-image" style={{ backgroundImage: 'url("https://cdn.rti.md//resize:fill:1980/q:80/plain/local:///public/product-categories/thumbnail/c683561a-6454-467f-8d53-210f2e4dbe40.jpg")' }}>
+            <div className="page-header product-category bg-image" style={{ backgroundImage: 'url("/images/c683561a-6454-467f-8d53-210f2e4dbe40.5f912.jpg")' }}>
               <div className="overlay" style={{ background: 'transparent' }}></div>
               <div id="links" className="page-header__container container">
                 <div className="page-header__title">
@@ -187,7 +187,7 @@ export default function CatScanereCoduriDeBare_ScanereIncorporate() {
               <div className="extend-button">
                 <div className="button">
                   <div>
-                     Расширить 
+                     Expand 
                   </div>
                   <div className="seo-arrow"></div>
                 </div>

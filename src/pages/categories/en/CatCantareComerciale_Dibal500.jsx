@@ -240,7 +240,7 @@ export default function CatCantareComerciale_Dibal500() {
               <div className="extend-button">
                 <div className="button">
                   <div>
-                     Расширить 
+                     Expand 
                   </div>
                   <div className="seo-arrow"></div>
                 </div>

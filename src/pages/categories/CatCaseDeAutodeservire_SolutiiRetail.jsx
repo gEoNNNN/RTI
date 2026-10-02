@@ -8,7 +8,7 @@ export default function CatCaseDeAutodeservire_SolutiiRetail() {
       <app-product-category>
         <div className="header">
           <app-page-header>
-            <div className="page-header product-category bg-image" style={{ backgroundImage: 'url("https://cdn.rti.md//resize:fill:1980/q:80/plain/local:///public/product-categories/thumbnail/fec367e0-d42e-4a6c-89f9-8a8746684cdc.jpg")' }}>
+            <div className="page-header product-category bg-image" style={{ backgroundImage: 'url("/images/fec367e0-d42e-4a6c-89f9-8a8746684cdc.5f912.jpg")' }}>
               <div className="overlay" style={{ background: 'transparent' }}></div>
               <div id="links" className="page-header__container container">
                 <div className="page-header__title">
