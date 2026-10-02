@@ -120,9 +120,7 @@ export default function CatConsumabile_Riboane() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/ribbon-cu-transfer-termic-80x300">
-                                    <img src="/images/ddbbdf8b-e6a2-4d66-b38d-1f45e2abe641.webp" alt=" Thermal transfer ribbon 80x300" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/ribbon-cu-transfer-termic-80x300" style={{backgroundImage: "url('/images/ddbbdf8b-e6a2-4d66-b38d-1f45e2abe641.webp')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -159,9 +157,7 @@ export default function CatConsumabile_Riboane() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/ribbon-cu-transfer-termic-110x110">
-                                    <img src="/images/9a25bfe4-7859-49dd-a55b-76b924443d3c.webp" alt=" Thermal transfer ribbon 110x110" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/ribbon-cu-transfer-termic-110x110" style={{backgroundImage: "url('/images/9a25bfe4-7859-49dd-a55b-76b924443d3c.webp')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">

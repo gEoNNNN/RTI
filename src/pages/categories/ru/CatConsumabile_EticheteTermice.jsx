@@ -120,9 +120,7 @@ export default function CatConsumabile_EticheteTermice() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/eticheta-termica-eco-5860-700pcs">
-                                    <img src="/images/12fd6495-4ea2-4e8e-bcd4-092fe97ee1b4.jpg" alt="Термоэтикетки ЭКО 58x60" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/eticheta-termica-eco-5860-700pcs" style={{backgroundImage: "url('/images/12fd6495-4ea2-4e8e-bcd4-092fe97ee1b4.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -159,9 +157,7 @@ export default function CatConsumabile_EticheteTermice() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/eticheta-termica-eco-5840700pcs">
-                                    <img src="/images/ebe8e6df-7628-4950-8f54-a35d6a363015.jpg" alt="Термоэтикетки ЭКО 58x40" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/eticheta-termica-eco-5840700pcs" style={{backgroundImage: "url('/images/ebe8e6df-7628-4950-8f54-a35d6a363015.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -198,9 +194,7 @@ export default function CatConsumabile_EticheteTermice() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/eticheta-termica-eco-40252000pcs">
-                                    <img src="/images/6d57cc2d-b130-4996-8489-ace11bd948f7.jpg" alt="Термоэтикетка ЭКО 40x25" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/eticheta-termica-eco-40252000pcs" style={{backgroundImage: "url('/images/6d57cc2d-b130-4996-8489-ace11bd948f7.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -237,9 +231,7 @@ export default function CatConsumabile_EticheteTermice() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/eticheta-termica-tor-5840700pcs">
-                                    <img src="/images/346d230e-d6b1-4e3e-a251-86531f7ed74c.jpg" alt="Термоэтикетки ТОР 58x40" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/eticheta-termica-tor-5840700pcs" style={{backgroundImage: "url('/images/346d230e-d6b1-4e3e-a251-86531f7ed74c.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -276,9 +268,7 @@ export default function CatConsumabile_EticheteTermice() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/eticheta-de-pret-verde-fluorescenta-fluorescent-green-26121000pcs">
-                                    <img src="/images/23bc6de6-21a5-4a09-8ea2-f6dc838679c6.png" alt="Ценники флуоресцентные" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/eticheta-de-pret-verde-fluorescenta-fluorescent-green-26121000pcs" style={{backgroundImage: "url('/images/23bc6de6-21a5-4a09-8ea2-f6dc838679c6.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -315,9 +305,7 @@ export default function CatConsumabile_EticheteTermice() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/eticheta-termica-de-pret-alba-6539550pcs">
-                                    <img src="/images/113437b9-2d4f-4f88-8fd5-923280bbda56.jpeg" alt="Термоэтикетки 65x39" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/eticheta-termica-de-pret-alba-6539550pcs" style={{backgroundImage: "url('/images/113437b9-2d4f-4f88-8fd5-923280bbda56.jpeg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">

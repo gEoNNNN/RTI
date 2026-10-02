@@ -113,9 +113,7 @@ export default function CatCantareComerciale_Dibal500() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/cantar-dibal-wind-serie-500">
-                                    <img src="/images/2a7ba239-64cb-402f-8ae6-edeb55b7ef08.png" alt="Весы с печатью этикеток Dibal Wind серии 500" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/cantar-dibal-wind-serie-500" style={{backgroundImage: "url('/images/2a7ba239-64cb-402f-8ae6-edeb55b7ef08.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -152,9 +150,7 @@ export default function CatCantareComerciale_Dibal500() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/cantar-dibal-serie-500">
-                                    <img src="/images/6c8f3049-e0dd-4cbd-bb8b-08714ac1eced.png" alt="Весы с печатью этикеток Dibal серии 500" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/cantar-dibal-serie-500" style={{backgroundImage: "url('/images/6c8f3049-e0dd-4cbd-bb8b-08714ac1eced.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -191,9 +187,7 @@ export default function CatCantareComerciale_Dibal500() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/cintar-suspendat-dibal-serie-500">
-                                    <img src="/images/50df8cf0-5dbb-4387-9bf0-1b75196bad58.png" alt="Весы с печатью этикеток Dibal серии 500 подвесные" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/cintar-suspendat-dibal-serie-500" style={{backgroundImage: "url('/images/50df8cf0-5dbb-4387-9bf0-1b75196bad58.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">

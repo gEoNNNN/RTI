@@ -127,9 +127,7 @@ export default function CatImprimante_ImprimanteTermice() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/imprimanta-termica-pos-citizen-ct-s310ii">
-                                    <img src="/images/e5409380-5b06-4350-ad78-0ebb7f2cd912.png" alt="Imprimanta termica POS Citizen CT-S310II" loading="lazy" />
-                                  </a>
+                                  <a href="/product/imprimanta-termica-pos-citizen-ct-s310ii" style={{backgroundImage: "url('/images/e5409380-5b06-4350-ad78-0ebb7f2cd912.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -166,9 +164,7 @@ export default function CatImprimante_ImprimanteTermice() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/imprimanta-termica-citizen-ct-e651">
-                                    <img src="/images/37316b78-1cd6-4120-96e9-f4d2b20e7f88.png" alt="Imprimanta termica Citizen CT-E651" loading="lazy" />
-                                  </a>
+                                  <a href="/product/imprimanta-termica-citizen-ct-e651" style={{backgroundImage: "url('/images/37316b78-1cd6-4120-96e9-f4d2b20e7f88.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -205,9 +201,7 @@ export default function CatImprimante_ImprimanteTermice() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/imprimanta-termica-pos-citizen-ct-e351">
-                                    <img src="/images/536406e3-f30b-4e9f-bed0-475d1c10de11.png" alt="Imprimanta termica POS Citizen CT-E351" loading="lazy" />
-                                  </a>
+                                  <a href="/product/imprimanta-termica-pos-citizen-ct-e351" style={{backgroundImage: "url('/images/536406e3-f30b-4e9f-bed0-475d1c10de11.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -244,9 +238,7 @@ export default function CatImprimante_ImprimanteTermice() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/rprinter-421-l">
-                                    <img src="/images/32193b15-01ba-4b44-9089-a4376e101821.png" alt="RPrinter 421 L" loading="lazy" />
-                                  </a>
+                                  <a href="/product/rprinter-421-l" style={{backgroundImage: "url('/images/32193b15-01ba-4b44-9089-a4376e101821.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">

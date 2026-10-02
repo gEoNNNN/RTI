@@ -127,9 +127,7 @@ export default function CatEchipamenteDeParcare_TerminalDePlata() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/terminal-de-plata-automata">
-                                    <img src="/images/2ae38ef6-a292-45f6-8083-20696600e018.png" alt="Terminal de Plata Automat&amp;#259; " loading="lazy" />
-                                  </a>
+                                  <a href="/product/terminal-de-plata-automata" style={{backgroundImage: "url('/images/2ae38ef6-a292-45f6-8083-20696600e018.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -166,9 +164,7 @@ export default function CatEchipamenteDeParcare_TerminalDePlata() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/terminal-de-plata-generatia-2">
-                                    <img src="/images/017fcb38-b3d4-4533-9820-09e944dbc7e3.png" alt="Terminal de Plat&amp;#259; Genera&amp;#539;ia 2" loading="lazy" />
-                                  </a>
+                                  <a href="/product/terminal-de-plata-generatia-2" style={{backgroundImage: "url('/images/017fcb38-b3d4-4533-9820-09e944dbc7e3.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">

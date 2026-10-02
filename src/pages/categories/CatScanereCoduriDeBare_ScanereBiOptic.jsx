@@ -120,9 +120,7 @@ export default function CatScanereCoduriDeBare_ScanereBiOptic() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/scaner-bi-optic-datalogic-magellan-9550i">
-                                    <img src="/images/13b17f71-4a55-4195-a6fb-bd8e9733a656.png" alt="Scaner Bi-optic Datalogic Magellan 9550i" loading="lazy" />
-                                  </a>
+                                  <a href="/product/scaner-bi-optic-datalogic-magellan-9550i" style={{backgroundImage: "url('/images/13b17f71-4a55-4195-a6fb-bd8e9733a656.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -159,9 +157,7 @@ export default function CatScanereCoduriDeBare_ScanereBiOptic() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/scaner-bioptic-datalogic-magellan-9800i">
-                                    <img src="/images/8d6e2021-43f7-48d3-9c69-1b386ef49413.png" alt="Scaner Bi-optic Datalogic Magellan 9800i" loading="lazy" />
-                                  </a>
+                                  <a href="/product/scaner-bioptic-datalogic-magellan-9800i" style={{backgroundImage: "url('/images/8d6e2021-43f7-48d3-9c69-1b386ef49413.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">

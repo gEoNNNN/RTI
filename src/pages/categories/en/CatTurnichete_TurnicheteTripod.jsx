@@ -82,9 +82,7 @@ export default function CatTurnichete_TurnicheteTripod() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/turnichet-tripod-semi-automat-zento-cu-sistem-de-acces-rfid">
-                                    <img src="/images/7305d325-d23f-4e5a-8c81-ed1d5093a575.webp" alt="Semi-automatic tripod turnstile with RFID access system" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/turnichet-tripod-semi-automat-zento-cu-sistem-de-acces-rfid" style={{backgroundImage: "url('/images/7305d325-d23f-4e5a-8c81-ed1d5093a575.webp')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -121,9 +119,7 @@ export default function CatTurnichete_TurnicheteTripod() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/turnichet-exterior-zento-pentru-controlul-accesului-cu-recunoastere-automata-a-fetei">
-                                    <img src="/images/fa8b6e60-25fa-4622-a294-4888b7a895b1.png" alt="Automatic outdoor tripod turnstile " loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/turnichet-exterior-zento-pentru-controlul-accesului-cu-recunoastere-automata-a-fetei" style={{backgroundImage: "url('/images/fa8b6e60-25fa-4622-a294-4888b7a895b1.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">

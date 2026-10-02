@@ -106,9 +106,7 @@ export default function CatSistemeAntiincendiu_DispozitivePeriferice() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/integral-x-line">
-                                    <img src="/images/e93ea77c-0258-4ea4-b167-080a069571e4.png" alt="Addressable network cable Integral X-LINE.LINE" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/integral-x-line" style={{backgroundImage: "url('/images/e93ea77c-0258-4ea4-b167-080a069571e4.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -145,9 +143,7 @@ export default function CatSistemeAntiincendiu_DispozitivePeriferice() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/dispozitive-de-alarmare-pentru-semnalizarea-optica-si-acustica">
-                                    <img src="/images/af06bfe1-f399-47d7-81f1-330464ef11c5.jpg" alt="Alarm devices for optical and acoustic signaling" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/dispozitive-de-alarmare-pentru-semnalizarea-optica-si-acustica" style={{backgroundImage: "url('/images/af06bfe1-f399-47d7-81f1-330464ef11c5.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -184,9 +180,7 @@ export default function CatSistemeAntiincendiu_DispozitivePeriferice() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/detectoare-automate">
-                                    <img src="/images/5049f578-6969-451c-b118-60bab5c327cc.jpeg" alt="Automatic detectors" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/detectoare-automate" style={{backgroundImage: "url('/images/5049f578-6969-451c-b118-60bab5c327cc.jpeg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -223,9 +217,7 @@ export default function CatSistemeAntiincendiu_DispozitivePeriferice() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/butoane-de-alarmare-manuala">
-                                    <img src="/images/03bb0f7b-1ff1-439d-a7f7-10a8d7615a5f.jpg" alt="Manual alarm buttons" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/butoane-de-alarmare-manuala" style={{backgroundImage: "url('/images/03bb0f7b-1ff1-439d-a7f7-10a8d7615a5f.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">

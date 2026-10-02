@@ -120,9 +120,7 @@ export default function CatEchipamenteIndustrialeAlimentare_MasiniAutomateDeEtic
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/dibal-la-4500-series-automatic-labelling-machine">
-                                    <img src="/images/8045a163-ddf4-4a86-85a3-520ed19ad7cc.png" alt="Автоматическая этикетировочная машина Dibal LA 4500 series" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/dibal-la-4500-series-automatic-labelling-machine" style={{backgroundImage: "url('/images/8045a163-ddf4-4a86-85a3-520ed19ad7cc.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">

@@ -120,9 +120,7 @@ export default function CatEchipamenteIndustrialeAlimentare_FeliatoareAutomatese
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/feliator-graef-euro-3020">
-                                    <img src="/images/cee7a0f2-6d12-4562-82b5-2ac6aa3a53e7.jpg" alt="Слайсер GRAEF EURO 3020" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/feliator-graef-euro-3020" style={{backgroundImage: "url('/images/cee7a0f2-6d12-4562-82b5-2ac6aa3a53e7.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -159,9 +157,7 @@ export default function CatEchipamenteIndustrialeAlimentare_FeliatoareAutomatese
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/feliator-graef-euro-3060">
-                                    <img src="/images/5440feb7-a469-48e3-b60c-e407b2f1feed.jpg" alt="Слайсер GRAEF EURO 3060" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/feliator-graef-euro-3060" style={{backgroundImage: "url('/images/5440feb7-a469-48e3-b60c-e407b2f1feed.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -198,9 +194,7 @@ export default function CatEchipamenteIndustrialeAlimentare_FeliatoareAutomatese
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/feliator-graef-va-802">
-                                    <img src="/images/b57f8dc6-2d2f-4d4e-a137-2aa58ed5dd1e.jpg" alt="Слайсер автоматический GRAEF VA 802" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/feliator-graef-va-802" style={{backgroundImage: "url('/images/b57f8dc6-2d2f-4d4e-a137-2aa58ed5dd1e.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -237,9 +231,7 @@ export default function CatEchipamenteIndustrialeAlimentare_FeliatoareAutomatese
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/feliator-graef-va-806-fb">
-                                    <img src="/images/c7a42f5b-3346-4809-b1d4-a5e36752b533.jpg" alt="Слайсер GRAEF автоматический VA 806 FB" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/feliator-graef-va-806-fb" style={{backgroundImage: "url('/images/c7a42f5b-3346-4809-b1d4-a5e36752b533.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">

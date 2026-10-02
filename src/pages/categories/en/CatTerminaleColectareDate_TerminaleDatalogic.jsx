@@ -106,9 +106,7 @@ export default function CatTerminaleColectareDate_TerminaleDatalogic() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/terminal-mobil-datalogic-memor-1">
-                                    <img src="/images/73c199ca-98e4-408a-9448-adbd393b912e.png" alt="Datalogic Memor 1 mobile terminal" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/terminal-mobil-datalogic-memor-1" style={{backgroundImage: "url('/images/73c199ca-98e4-408a-9448-adbd393b912e.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -145,9 +143,7 @@ export default function CatTerminaleColectareDate_TerminaleDatalogic() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/terminal-mobil-datalogic-memor-10">
-                                    <img src="/images/d1df4bc8-1661-4ab5-b3c5-9bbcb202f23a.png" alt="Datalogic Memor 10 mobile terminal" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/terminal-mobil-datalogic-memor-10" style={{backgroundImage: "url('/images/d1df4bc8-1661-4ab5-b3c5-9bbcb202f23a.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -184,9 +180,7 @@ export default function CatTerminaleColectareDate_TerminaleDatalogic() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/terminal-mobil-datalogic-skorpiotm-x4">
-                                    <img src="/images/66a43319-8bb1-40b8-89e4-0f603c214da5.png" alt="Data collection terminal Datalogic Skorpio ™ X4" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/terminal-mobil-datalogic-skorpiotm-x4" style={{backgroundImage: "url('/images/66a43319-8bb1-40b8-89e4-0f603c214da5.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -223,9 +217,7 @@ export default function CatTerminaleColectareDate_TerminaleDatalogic() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/terminal-mobil-datalogic-falcon-x4">
-                                    <img src="/images/bb56212f-3d36-4843-b56d-188dc1d25eb4.png" alt="Datalogic Falcon X4 data collection terminal" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/terminal-mobil-datalogic-falcon-x4" style={{backgroundImage: "url('/images/bb56212f-3d36-4843-b56d-188dc1d25eb4.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -262,9 +254,7 @@ export default function CatTerminaleColectareDate_TerminaleDatalogic() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/terminal-mobil-datalogic-memor-x3">
-                                    <img src="/images/65186b85-e574-4945-bf7d-55e1800b4fac.png" alt="Datalogic Memor X3 data collection terminal" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/terminal-mobil-datalogic-memor-x3" style={{backgroundImage: "url('/images/65186b85-e574-4945-bf7d-55e1800b4fac.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">

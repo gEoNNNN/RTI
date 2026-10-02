@@ -135,9 +135,7 @@ export default function CatImprimante_ImprimanteDeCarduri() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/imprimanta-de-carduri-zebra-zc10l-single-side">
-                                    <img src="/images/1be0c485-b800-48e2-90fa-6c32a09ba3fd.webp" alt="Zebra ZC10L Card Printer" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/imprimanta-de-carduri-zebra-zc10l-single-side" style={{backgroundImage: "url('/images/1be0c485-b800-48e2-90fa-6c32a09ba3fd.webp')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">

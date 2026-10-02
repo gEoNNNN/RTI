@@ -106,9 +106,7 @@ export default function CatSistemeAntiincendiu_CentraleDeDetectieSiSemnalizareIn
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/centrala-integral-ip-mx">
-                                    <img src="/images/87f9ae86-1d60-4fb6-b019-7c06fad8b583.jpg" alt="Fire alarm control panel Integral IP MX" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/centrala-integral-ip-mx" style={{backgroundImage: "url('/images/87f9ae86-1d60-4fb6-b019-7c06fad8b583.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -145,9 +143,7 @@ export default function CatSistemeAntiincendiu_CentraleDeDetectieSiSemnalizareIn
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/centrala-integral-ip-cx">
-                                    <img src="/images/bffe477b-6faf-4df1-839d-2d12f1552929.jpg" alt="Fire alarm control panel Integral IP CX" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/centrala-integral-ip-cx" style={{backgroundImage: "url('/images/bffe477b-6faf-4df1-839d-2d12f1552929.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -184,9 +180,7 @@ export default function CatSistemeAntiincendiu_CentraleDeDetectieSiSemnalizareIn
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/centrala-integral-ip-bx">
-                                    <img src="/images/ad104977-7b88-4b7a-8f7a-9b2123f611bf.jpg" alt="Fire alarm control panel Integral IP BX" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/centrala-integral-ip-bx" style={{backgroundImage: "url('/images/ad104977-7b88-4b7a-8f7a-9b2123f611bf.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">

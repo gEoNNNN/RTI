@@ -120,9 +120,7 @@ export default function CatScanereCoduriDeBare_ScanereDeMasa() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/scaner-incorporabil-datalogic-magellan-3450vsi">
-                                    <img src="/images/c7c1f885-149c-4baf-9675-6839ce9008ae.png" alt="Имиджеровый сканнер Datalogic Magellan 3450VSi" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/scaner-incorporabil-datalogic-magellan-3450vsi" style={{backgroundImage: "url('/images/c7c1f885-149c-4baf-9675-6839ce9008ae.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -165,9 +163,7 @@ export default function CatScanereCoduriDeBare_ScanereDeMasa() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/scaner-incorporabil-datalogic-magellan-800i">
-                                    <img src="/images/003db957-1946-4d6b-b205-c7f4d52892c0.png" alt="Многоплоскостный сканер штрих кода Magellan™ 800i" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/scaner-incorporabil-datalogic-magellan-800i" style={{backgroundImage: "url('/images/003db957-1946-4d6b-b205-c7f4d52892c0.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -210,9 +206,7 @@ export default function CatScanereCoduriDeBare_ScanereDeMasa() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/scannerul-de-bare-datalogic-magellan-3200vsi">
-                                    <img src="/images/418b1079-00c5-41f8-8352-a4b6f969347a.jpg" alt=" Настольный сканер штрих кода Datalogic Magellan 3200VSi" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/scannerul-de-bare-datalogic-magellan-3200vsi" style={{backgroundImage: "url('/images/418b1079-00c5-41f8-8352-a4b6f969347a.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -249,9 +243,7 @@ export default function CatScanereCoduriDeBare_ScanereDeMasa() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/rscan-2d-scaner-stationar-1210">
-                                    <img src="/images/9212a91f-af47-4976-8fd1-e976cc96ffed.png" alt="RScan  стационарный 2D сканер  121" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/rscan-2d-scaner-stationar-1210" style={{backgroundImage: "url('/images/9212a91f-af47-4976-8fd1-e976cc96ffed.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -302,9 +294,7 @@ export default function CatScanereCoduriDeBare_ScanereDeMasa() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/scaner-incorporabil-datalogic-magellan-3300hsi">
-                                    <img src="/images/60077bc8-bdaa-43c8-af6a-8ef3c88a4cdf.png" alt="Многополосный сканер штрих кода Magellan 3300HSi" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/scaner-incorporabil-datalogic-magellan-3300hsi" style={{backgroundImage: "url('/images/60077bc8-bdaa-43c8-af6a-8ef3c88a4cdf.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">

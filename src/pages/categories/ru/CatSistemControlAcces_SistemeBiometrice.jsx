@@ -134,9 +134,7 @@ export default function CatSistemControlAcces_SistemeBiometrice() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/terminal-biometric-de-control-acces-tf1700">
-                                    <img src="/images/a0644d72-cc04-4b94-a830-ed6f6adaf320.png" alt="Биометрический терминал TF1700" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/terminal-biometric-de-control-acces-tf1700" style={{backgroundImage: "url('/images/a0644d72-cc04-4b94-a830-ed6f6adaf320.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -179,9 +177,7 @@ export default function CatSistemControlAcces_SistemeBiometrice() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/terminal-biometric-de-control-acces-zkteco-d2">
-                                    <img src="/images/927ab679-326b-4482-981b-299f2cbf18b9.png" alt="Биометрический терминал ZKTeco D2" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/terminal-biometric-de-control-acces-zkteco-d2" style={{backgroundImage: "url('/images/927ab679-326b-4482-981b-299f2cbf18b9.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -224,9 +220,7 @@ export default function CatSistemControlAcces_SistemeBiometrice() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/cititor-de-amprente-digitale-fr1200">
-                                    <img src="/images/3cf04a7c-a2ec-4f30-b8e1-0f72386e2bff.jpg" alt="Биометрический считыватель ZKTeco FR1200" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/cititor-de-amprente-digitale-fr1200" style={{backgroundImage: "url('/images/3cf04a7c-a2ec-4f30-b8e1-0f72386e2bff.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -269,9 +263,7 @@ export default function CatSistemControlAcces_SistemeBiometrice() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/terminal-biometric-de-control-acces-f8-t">
-                                    <img src="/images/7504d7be-66f5-479c-aef1-ae7d19881d92.jpg" alt="Биометрический терминал F8-T" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/terminal-biometric-de-control-acces-f8-t" style={{backgroundImage: "url('/images/7504d7be-66f5-479c-aef1-ae7d19881d92.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -314,9 +306,7 @@ export default function CatSistemControlAcces_SistemeBiometrice() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/terminal-biometric-de-control-acces-ma300">
-                                    <img src="/images/bde73168-f92c-4bb8-bbea-43fd7fa01360.png" alt="Биометрический терминал MA300" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/terminal-biometric-de-control-acces-ma300" style={{backgroundImage: "url('/images/bde73168-f92c-4bb8-bbea-43fd7fa01360.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -359,9 +349,7 @@ export default function CatSistemControlAcces_SistemeBiometrice() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/sistem-biometric-control-acces-zkteco-fr1500-wp-cu-cititor-de-amprenta">
-                                    <img src="/images/260efc8b-1f73-432a-957d-4fba48a3a023.png" alt="Врезной считыватель отпечатков пальцев ZKTeco FR1500-WP" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/sistem-biometric-control-acces-zkteco-fr1500-wp-cu-cititor-de-amprenta" style={{backgroundImage: "url('/images/260efc8b-1f73-432a-957d-4fba48a3a023.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -404,9 +392,7 @@ export default function CatSistemControlAcces_SistemeBiometrice() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/cititor-de-amprenta-zkteco-zk9500-cu-interfata-usb">
-                                    <img src="/images/c92aca0f-78f9-437e-b118-4ae9b71078a8.png" alt="Настольный биометрический считыватель ZKTeco ZK9500" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/cititor-de-amprenta-zkteco-zk9500-cu-interfata-usb" style={{backgroundImage: "url('/images/c92aca0f-78f9-437e-b118-4ae9b71078a8.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">

@@ -120,9 +120,7 @@ export default function CatConsumabile_HartieTermica() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/role-de-hartie-termica-57x40">
-                                    <img src="/images/bb7de18b-4a47-4dda-8759-4241c99bc134.jpg" alt="Role de hartie termica 57x40" loading="lazy" />
-                                  </a>
+                                  <a href="/product/role-de-hartie-termica-57x40" style={{backgroundImage: "url('/images/bb7de18b-4a47-4dda-8759-4241c99bc134.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -159,9 +157,7 @@ export default function CatConsumabile_HartieTermica() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/role-de-hartie-termica-59x40">
-                                    <img src="/images/d01ada75-bd02-44b0-802c-28de3bbca5b5.jpg" alt="Role de hartie termica 59x40" loading="lazy" />
-                                  </a>
+                                  <a href="/product/role-de-hartie-termica-59x40" style={{backgroundImage: "url('/images/d01ada75-bd02-44b0-802c-28de3bbca5b5.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -198,9 +194,7 @@ export default function CatConsumabile_HartieTermica() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/role-de-hartie-termica-8040">
-                                    <img src="/images/2df1d1f3-5bcc-43c1-b478-a320b5ff1066.jpg" alt="Role de hartie termica 80x40" loading="lazy" />
-                                  </a>
+                                  <a href="/product/role-de-hartie-termica-8040" style={{backgroundImage: "url('/images/2df1d1f3-5bcc-43c1-b478-a320b5ff1066.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">

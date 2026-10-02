@@ -113,9 +113,7 @@ export default function CatEchipamentPrimireemitereNumerar_AcceptoareMonede() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/smart-hopper">
-                                    <img src="/images/1dfbe0fe-83f1-489b-89cf-441836d5a301.jpg" alt="SMART hopper" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/smart-hopper" style={{backgroundImage: "url('/images/1dfbe0fe-83f1-489b-89cf-441836d5a301.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">

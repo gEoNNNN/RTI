@@ -120,9 +120,7 @@ export default function CatConsumabile_EticheteCuImaginePrealabila() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/eticheta-cu-imagine-prealabila">
-                                    <img src="/images/d1e907ec-665f-4d6e-8233-f79a7fb34b38.jpg" alt="Etichete cu imagine prealabila" loading="lazy" />
-                                  </a>
+                                  <a href="/product/eticheta-cu-imagine-prealabila" style={{backgroundImage: "url('/images/d1e907ec-665f-4d6e-8233-f79a7fb34b38.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">

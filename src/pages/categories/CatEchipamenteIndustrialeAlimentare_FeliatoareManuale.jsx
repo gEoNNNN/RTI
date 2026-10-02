@@ -120,9 +120,7 @@ export default function CatEchipamenteIndustrialeAlimentare_FeliatoareManuale() 
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/feliator-graef-euro-1920">
-                                    <img src="/images/0eba5773-d8f4-4121-afda-890a88913264.jpg" alt="Feliator GRAEF EURO 1920" loading="lazy" />
-                                  </a>
+                                  <a href="/product/feliator-graef-euro-1920" style={{backgroundImage: "url('/images/0eba5773-d8f4-4121-afda-890a88913264.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -159,9 +157,7 @@ export default function CatEchipamenteIndustrialeAlimentare_FeliatoareManuale() 
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/feliator-graef-euro-2550">
-                                    <img src="/images/bbc9d17d-4d86-40fd-bb30-6dffe25b6d50.jpg" alt="Feliator GRAEF EURO 2550" loading="lazy" />
-                                  </a>
+                                  <a href="/product/feliator-graef-euro-2550" style={{backgroundImage: "url('/images/bbc9d17d-4d86-40fd-bb30-6dffe25b6d50.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -198,9 +194,7 @@ export default function CatEchipamenteIndustrialeAlimentare_FeliatoareManuale() 
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/feliator-graef-profi-euro-2560">
-                                    <img src="/images/b64cb6dc-9bde-4bf0-a5cb-a42a47a296ad.jpg" alt="Feliator GRAEF Profi EURO 2560" loading="lazy" />
-                                  </a>
+                                  <a href="/product/feliator-graef-profi-euro-2560" style={{backgroundImage: "url('/images/b64cb6dc-9bde-4bf0-a5cb-a42a47a296ad.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -237,9 +231,7 @@ export default function CatEchipamenteIndustrialeAlimentare_FeliatoareManuale() 
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/feliator-graef-master-euro-2720">
-                                    <img src="/images/a55ee048-a72a-4c3a-ae96-425077a91864.jpg" alt="Feliator GRAEF Master EURO 2720" loading="lazy" />
-                                  </a>
+                                  <a href="/product/feliator-graef-master-euro-2720" style={{backgroundImage: "url('/images/a55ee048-a72a-4c3a-ae96-425077a91864.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -276,9 +268,7 @@ export default function CatEchipamenteIndustrialeAlimentare_FeliatoareManuale() 
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/feliator-graef-profi-euro-3000">
-                                    <img src="/images/674aec6e-eaa7-4d3b-84bd-cefdd9c06515.jpg" alt="Feliator GRAEF Profi EURO 3000" loading="lazy" />
-                                  </a>
+                                  <a href="/product/feliator-graef-profi-euro-3000" style={{backgroundImage: "url('/images/674aec6e-eaa7-4d3b-84bd-cefdd9c06515.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -315,9 +305,7 @@ export default function CatEchipamenteIndustrialeAlimentare_FeliatoareManuale() 
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/feliator-graef-euro-3310">
-                                    <img src="/images/5d38c11c-3f63-4696-9f29-12a11f01b9bb.png" alt="Feliator GRAEF EURO 3310" loading="lazy" />
-                                  </a>
+                                  <a href="/product/feliator-graef-euro-3310" style={{backgroundImage: "url('/images/5d38c11c-3f63-4696-9f29-12a11f01b9bb.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -354,9 +342,7 @@ export default function CatEchipamenteIndustrialeAlimentare_FeliatoareManuale() 
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/feliator-graef-euro-3370">
-                                    <img src="/images/380b9119-1898-4a40-b5a9-12e3141e8598.jpg" alt="Feliator GRAEF EURO 3370" loading="lazy" />
-                                  </a>
+                                  <a href="/product/feliator-graef-euro-3370" style={{backgroundImage: "url('/images/380b9119-1898-4a40-b5a9-12e3141e8598.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -393,9 +379,7 @@ export default function CatEchipamenteIndustrialeAlimentare_FeliatoareManuale() 
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/feliator-graef-euro-2500">
-                                    <img src="/images/b9db16fe-63c0-4d18-9654-2c861153ffd7.jpg" alt="Feliator GRAEF EURO 2500" loading="lazy" />
-                                  </a>
+                                  <a href="/product/feliator-graef-euro-2500" style={{backgroundImage: "url('/images/b9db16fe-63c0-4d18-9654-2c861153ffd7.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">

@@ -127,9 +127,7 @@ export default function CatEchipamenteDeParcare_BarieraAutomata() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/bariere">
-                                    <img src="/images/b22edda6-6536-4a86-ba8e-b0f2b5c38b05.png" alt="Автоматический шлагбаум RParking" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/bariere" style={{backgroundImage: "url('/images/b22edda6-6536-4a86-ba8e-b0f2b5c38b05.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -166,9 +164,7 @@ export default function CatEchipamenteDeParcare_BarieraAutomata() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/detachers-universal">
-                                    <img src="/images/0d0c9a93-e741-4b34-b354-ad2ee782b7f6.png" alt="Автоматический шлагбаум RParking PRO" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/detachers-universal" style={{backgroundImage: "url('/images/0d0c9a93-e741-4b34-b354-ad2ee782b7f6.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">

@@ -113,9 +113,7 @@ export default function CatCantareComerciale_PcBased() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/cantar-dibal-self-service-serie-500">
-                                    <img src="/images/d6c7607a-31a4-4c64-8b3f-e046444519b7.png" alt="Dibal 500 series self-service scales" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/cantar-dibal-self-service-serie-500" style={{backgroundImage: "url('/images/d6c7607a-31a4-4c64-8b3f-e046444519b7.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -152,9 +150,7 @@ export default function CatCantareComerciale_PcBased() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/cantar-cu-autodeservire-dibal-cs-1100-w-pc-based-cu-eticheta">
-                                    <img src="/images/daff3760-2934-43ab-b5fb-31e94d80ba3b.png" alt="Self-service scales PC Based Dibal CS-1100 W with label printing" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/cantar-cu-autodeservire-dibal-cs-1100-w-pc-based-cu-eticheta" style={{backgroundImage: "url('/images/daff3760-2934-43ab-b5fb-31e94d80ba3b.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -191,9 +187,7 @@ export default function CatCantareComerciale_PcBased() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/pc-scales-cs-2200-series-self-service-totem-dibal">
-                                    <img src="/images/9262fa24-459e-4ea3-8ec9-f4af071b130b.png" alt="PC SCALES CS-2200  series Self-Service Totem  Dibal" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/pc-scales-cs-2200-series-self-service-totem-dibal" style={{backgroundImage: "url('/images/9262fa24-459e-4ea3-8ec9-f4af071b130b.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -236,9 +230,7 @@ export default function CatCantareComerciale_PcBased() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/cintar-dibal-autoservire-serie-900">
-                                    <img src="/images/4010f033-fa3d-4c59-b317-fb8edcc5d514.png" alt="Dibal self-service scales 900 series" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/cintar-dibal-autoservire-serie-900" style={{backgroundImage: "url('/images/4010f033-fa3d-4c59-b317-fb8edcc5d514.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">

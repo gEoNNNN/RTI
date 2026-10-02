@@ -113,9 +113,7 @@ export default function CatCantareComerciale_Dibal900() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/cintar-suspendat-dibal-serie-900">
-                                    <img src="/images/bc6a1520-5dec-43c3-8bdd-6d306526d35a.png" alt="Весы Dibal серии 900 подвесные" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/cintar-suspendat-dibal-serie-900" style={{backgroundImage: "url('/images/bc6a1520-5dec-43c3-8bdd-6d306526d35a.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -152,9 +150,7 @@ export default function CatCantareComerciale_Dibal900() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/cantar-dibal-serie-900-double-display">
-                                    <img src="/images/609e5bb8-7b05-4549-bd9c-937ecbf805c0.png" alt="Весы Dibal серии 900 с двойным дисплеем" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/cantar-dibal-serie-900-double-display" style={{backgroundImage: "url('/images/609e5bb8-7b05-4549-bd9c-937ecbf805c0.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">

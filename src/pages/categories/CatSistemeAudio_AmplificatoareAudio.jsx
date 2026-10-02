@@ -113,9 +113,7 @@ export default function CatSistemeAudio_AmplificatoareAudio() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/amplificator-audio-apart-ma35">
-                                    <img src="/images/9381d101-07f9-42f4-8878-df57b31aaee7.jpg" alt="Amplificator audio Apart MA35" loading="lazy" />
-                                  </a>
+                                  <a href="/product/amplificator-audio-apart-ma35" style={{backgroundImage: "url('/images/9381d101-07f9-42f4-8878-df57b31aaee7.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -152,9 +150,7 @@ export default function CatSistemeAudio_AmplificatoareAudio() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/amplificator-ma65">
-                                    <img src="/images/935a6f8a-d674-4208-87d1-f8aa8d4dc603.jpg" alt="Amplificator MA65" loading="lazy" />
-                                  </a>
+                                  <a href="/product/amplificator-ma65" style={{backgroundImage: "url('/images/935a6f8a-d674-4208-87d1-f8aa8d4dc603.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -191,9 +187,7 @@ export default function CatSistemeAudio_AmplificatoareAudio() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/amplificator-ma125">
-                                    <img src="/images/a4efa2e4-5da2-4763-a65f-6d4ae3c39c29.jpg" alt="Amplificator MA125" loading="lazy" />
-                                  </a>
+                                  <a href="/product/amplificator-ma125" style={{backgroundImage: "url('/images/a4efa2e4-5da2-4763-a65f-6d4ae3c39c29.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -230,9 +224,7 @@ export default function CatSistemeAudio_AmplificatoareAudio() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/amplificator-ma200">
-                                    <img src="/images/353c9d08-2e40-49e4-8347-bbad51699367.jpg" alt="Amplificator APart MA200" loading="lazy" />
-                                  </a>
+                                  <a href="/product/amplificator-ma200" style={{backgroundImage: "url('/images/353c9d08-2e40-49e4-8347-bbad51699367.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -269,9 +261,7 @@ export default function CatSistemeAudio_AmplificatoareAudio() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/amplificator-champ-3d">
-                                    <img src="/images/e413aa28-6c5e-469b-b39f-64c2c014e62c.jpg" alt="Amplificator APart CHAMP 3D" loading="lazy" />
-                                  </a>
+                                  <a href="/product/amplificator-champ-3d" style={{backgroundImage: "url('/images/e413aa28-6c5e-469b-b39f-64c2c014e62c.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -308,9 +298,7 @@ export default function CatSistemeAudio_AmplificatoareAudio() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/amplificator-pa240p">
-                                    <img src="/images/05805ab6-f17f-4b3a-ac87-0884c4e2378a.jpg" alt="Amplificator profesional APart PA240P" loading="lazy" />
-                                  </a>
+                                  <a href="/product/amplificator-pa240p" style={{backgroundImage: "url('/images/05805ab6-f17f-4b3a-ac87-0884c4e2378a.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">

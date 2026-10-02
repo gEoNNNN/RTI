@@ -106,9 +106,7 @@ export default function CatPospcSpecializat_EchipamentePosSuplimentare() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/monitor-pentru-clienti-fec">
-                                    <img src="/images/3c3dc223-85a2-4836-ae58-1289d584e6f6.jpg" alt="FEC AM-1008W POS customer display" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/monitor-pentru-clienti-fec" style={{backgroundImage: "url('/images/3c3dc223-85a2-4836-ae58-1289d584e6f6.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -145,9 +143,7 @@ export default function CatPospcSpecializat_EchipamentePosSuplimentare() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/sertar-de-bani-hs-410a">
-                                    <img src="/images/d8470884-9571-4160-ac7d-f261dbe26604.jpg" alt="Money drawer HS-410A" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/sertar-de-bani-hs-410a" style={{backgroundImage: "url('/images/d8470884-9571-4160-ac7d-f261dbe26604.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -193,9 +189,7 @@ export default function CatPospcSpecializat_EchipamentePosSuplimentare() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/sertar-de-bani-hs-170">
-                                    <img src="/images/c0bd21f0-3c69-4b18-b6a7-080a6e1eedf0.jpg" alt="HS-170 cash drawer " loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/sertar-de-bani-hs-170" style={{backgroundImage: "url('/images/c0bd21f0-3c69-4b18-b6a7-080a6e1eedf0.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">

@@ -120,9 +120,7 @@ export default function CatScanereCoduriDeBare_ScanereManuale() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/cititor-coduri-bare-2d-datalogic-quickscan-qd2430">
-                                    <img src="/images/43b0df05-507f-453b-af54-78bb4e0b5253.png" alt="Scaner coduri de bare 2D Datalogic QuickScan QD2430" loading="lazy" />
-                                  </a>
+                                  <a href="/product/cititor-coduri-bare-2d-datalogic-quickscan-qd2430" style={{backgroundImage: "url('/images/43b0df05-507f-453b-af54-78bb4e0b5253.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -169,9 +167,7 @@ export default function CatScanereCoduriDeBare_ScanereManuale() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/scaner-coduri-de-bare-rsc-8410">
-                                    <img src="/images/df0de64b-8841-43e8-a72b-f6eed32d704b.png" alt="Scaner 2D coduri de bare wireless RScan RSC 8410" loading="lazy" />
-                                  </a>
+                                  <a href="/product/scaner-coduri-de-bare-rsc-8410" style={{backgroundImage: "url('/images/df0de64b-8841-43e8-a72b-f6eed32d704b.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -208,9 +204,7 @@ export default function CatScanereCoduriDeBare_ScanereManuale() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/scaner-coduri-de-bare-rsc-4300">
-                                    <img src="/images/de04a103-8384-4d8c-bc74-97d6c3c217f9.png" alt="Scaner 1D coduri de bare manual RScan RSC 4300" loading="lazy" />
-                                  </a>
+                                  <a href="/product/scaner-coduri-de-bare-rsc-4300" style={{backgroundImage: "url('/images/de04a103-8384-4d8c-bc74-97d6c3c217f9.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -247,9 +241,7 @@ export default function CatScanereCoduriDeBare_ScanereManuale() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/scaner-coduri-de-bare-rsc-2410">
-                                    <img src="/images/be880dce-b3e9-4729-a273-1108968f69b3.png" alt="Scaner 2D coduri de bare manual RScan RSC 2410" loading="lazy" />
-                                  </a>
+                                  <a href="/product/scaner-coduri-de-bare-rsc-2410" style={{backgroundImage: "url('/images/be880dce-b3e9-4729-a273-1108968f69b3.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -286,9 +278,7 @@ export default function CatScanereCoduriDeBare_ScanereManuale() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/datalogic-quickscan-qm-2130">
-                                    <img src="/images/6d418612-0472-42a4-a976-e5b88cbb0ebd.jpg" alt="Datalogic 1D  QuickScan QM 2130" loading="lazy" />
-                                  </a>
+                                  <a href="/product/datalogic-quickscan-qm-2130" style={{backgroundImage: "url('/images/6d418612-0472-42a4-a976-e5b88cbb0ebd.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -329,9 +319,7 @@ export default function CatScanereCoduriDeBare_ScanereManuale() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/datalogic-heron-hd3430">
-                                    <img src="/images/672d13a0-5308-486c-ab29-f07962732419.png" alt="Scaner 1d,2D coduri de bare Datalogic Heron HD3430" loading="lazy" />
-                                  </a>
+                                  <a href="/product/datalogic-heron-hd3430" style={{backgroundImage: "url('/images/672d13a0-5308-486c-ab29-f07962732419.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -372,9 +360,7 @@ export default function CatScanereCoduriDeBare_ScanereManuale() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/scaner-datalogic-quickscan-i-lite-qw2100">
-                                    <img src="/images/38025019-285e-4074-8df5-089e3444b566.png" alt="Scaner 1D Datalogic QuickScan Lite QW2100" loading="lazy" />
-                                  </a>
+                                  <a href="/product/scaner-datalogic-quickscan-i-lite-qw2100" style={{backgroundImage: "url('/images/38025019-285e-4074-8df5-089e3444b566.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -421,9 +407,7 @@ export default function CatScanereCoduriDeBare_ScanereManuale() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/cititor-de-coduri-de-bare-datalogic-quickscan-qm-2130a">
-                                    <img src="/images/2279673a-ee52-4104-8ec8-76f4236f890b.png" alt="Scaner 1D  de coduri de bare Datalogic QuickScan QM 2130a" loading="lazy" />
-                                  </a>
+                                  <a href="/product/cititor-de-coduri-de-bare-datalogic-quickscan-qm-2130a" style={{backgroundImage: "url('/images/2279673a-ee52-4104-8ec8-76f4236f890b.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">

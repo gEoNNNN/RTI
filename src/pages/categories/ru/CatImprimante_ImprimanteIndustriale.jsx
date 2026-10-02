@@ -127,9 +127,7 @@ export default function CatImprimante_ImprimanteIndustriale() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/imprimanta-industriala-citizen-cl-e720">
-                                    <img src="/images/c39ebebd-266c-478e-8ac6-6c31f6dc9a06.png" alt="Промышленный принтер Citizen CL-E720" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/imprimanta-industriala-citizen-cl-e720" style={{backgroundImage: "url('/images/c39ebebd-266c-478e-8ac6-6c31f6dc9a06.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -166,9 +164,7 @@ export default function CatImprimante_ImprimanteIndustriale() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/imprimanta-industriala-citizen-cl-s703">
-                                    <img src="/images/31482a84-d5df-44c8-a425-33faa2aacc1c.png" alt="Промышленный принтер Citizen CL-S703" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/imprimanta-industriala-citizen-cl-s703" style={{backgroundImage: "url('/images/31482a84-d5df-44c8-a425-33faa2aacc1c.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -205,9 +201,7 @@ export default function CatImprimante_ImprimanteIndustriale() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/imprimanta-industriala-citizen-cl-s521ii">
-                                    <img src="/images/08078e31-81f5-4bb9-bc55-d559927316e9.png" alt="Настольный промышленный принтер Citizen CL-S521II" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/imprimanta-industriala-citizen-cl-s521ii" style={{backgroundImage: "url('/images/08078e31-81f5-4bb9-bc55-d559927316e9.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -244,9 +238,7 @@ export default function CatImprimante_ImprimanteIndustriale() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/imprimanta-industriala-desktop-citizen-cl-s621ii">
-                                    <img src="/images/062a1ba2-fbde-4188-8e4f-fc9b1bf4c8b3.png" alt="Промышленный настольный принтер Citizen CL-S621II" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/imprimanta-industriala-desktop-citizen-cl-s621ii" style={{backgroundImage: "url('/images/062a1ba2-fbde-4188-8e4f-fc9b1bf4c8b3.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -291,9 +283,7 @@ export default function CatImprimante_ImprimanteIndustriale() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/imprimanta-industriala-105slplus-zebra">
-                                    <img src="/images/44c6238d-770e-468d-a46a-ab17c76f5628.jpg" alt="Промышленный принтер этикеток Zebra 105SL Plus" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/imprimanta-industriala-105slplus-zebra" style={{backgroundImage: "url('/images/44c6238d-770e-468d-a46a-ab17c76f5628.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -331,9 +321,7 @@ export default function CatImprimante_ImprimanteIndustriale() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/imprimanta-industriala-zebra-zm600">
-                                    <img src="/images/d0c6e6cb-a658-4465-8883-4183f6fdaa8e.jpg" alt="Промышленный принтер этикеток Zebra ZM600" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/imprimanta-industriala-zebra-zm600" style={{backgroundImage: "url('/images/d0c6e6cb-a658-4465-8883-4183f6fdaa8e.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">

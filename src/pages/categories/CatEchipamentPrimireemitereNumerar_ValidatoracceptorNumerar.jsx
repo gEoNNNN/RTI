@@ -113,9 +113,7 @@ export default function CatEchipamentPrimireemitereNumerar_ValidatoracceptorNume
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/validator-numerar-nv200-spectral">
-                                    <img src="/images/bd7b39fc-1cf6-45d8-bd6a-0d988af89cda.png" alt="Validator numerar NV200 Spectral" loading="lazy" />
-                                  </a>
+                                  <a href="/product/validator-numerar-nv200-spectral" style={{backgroundImage: "url('/images/bd7b39fc-1cf6-45d8-bd6a-0d988af89cda.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -152,9 +150,7 @@ export default function CatEchipamentPrimireemitereNumerar_ValidatoracceptorNume
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/validatoracceptor-numerar-nv10-usb">
-                                    <img src="/images/b531eb98-f8f1-44d0-813a-0c3363b749d3.png" alt="Acceptor numerar NV10 USB+" loading="lazy" />
-                                  </a>
+                                  <a href="/product/validatoracceptor-numerar-nv10-usb" style={{backgroundImage: "url('/images/b531eb98-f8f1-44d0-813a-0c3363b749d3.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">

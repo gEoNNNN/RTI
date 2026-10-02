@@ -120,9 +120,7 @@ export default function CatSistemeSupraveghereVideo_CamereVideoPtz() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/camera-ip-uniview-ptz-ipc6852sr-x44u-2mp-44x">
-                                    <img src="/images/ea06e00c-bd31-4135-9721-36749a2e26e7.png" alt="Camera IP Uniview PTZ IPC6852SR-X44U 2MP" loading="lazy" />
-                                  </a>
+                                  <a href="/product/camera-ip-uniview-ptz-ipc6852sr-x44u-2mp-44x" style={{backgroundImage: "url('/images/ea06e00c-bd31-4135-9721-36749a2e26e7.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -159,9 +157,7 @@ export default function CatSistemeSupraveghereVideo_CamereVideoPtz() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/camera-ip-uniview-uniview-ipc6248sr-x22-4k-ultra-4mp">
-                                    <img src="/images/8eaac268-4319-49ab-aade-e71d0144ca8a.png" alt="Camera IP Uniview Uniview IPC6248SR-X22, 4K Ultra 4MP" loading="lazy" />
-                                  </a>
+                                  <a href="/product/camera-ip-uniview-uniview-ipc6248sr-x22-4k-ultra-4mp" style={{backgroundImage: "url('/images/8eaac268-4319-49ab-aade-e71d0144ca8a.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -198,9 +194,7 @@ export default function CatSistemeSupraveghereVideo_CamereVideoPtz() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/camera-ip-uniview-uniview-ipc6222er-x20-2mp">
-                                    <img src="/images/4478bb7b-58b3-4957-b104-541a1c0b95d1.jpg" alt="Camera IP Uniview Uniview IPC6222ER-X20 2MP" loading="lazy" />
-                                  </a>
+                                  <a href="/product/camera-ip-uniview-uniview-ipc6222er-x20-2mp" style={{backgroundImage: "url('/images/4478bb7b-58b3-4957-b104-541a1c0b95d1.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -237,9 +231,7 @@ export default function CatSistemeSupraveghereVideo_CamereVideoPtz() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/camera-ip-uniview-uniview-ipc6242sr-x33g-ia-2mp">
-                                    <img src="/images/9b8a7f3c-0bb7-4eb7-8e75-9686049882e9.jpg" alt="Camera IP Uniview Uniview IPC6242SR-X33G-IA 2MP" loading="lazy" />
-                                  </a>
+                                  <a href="/product/camera-ip-uniview-uniview-ipc6242sr-x33g-ia-2mp" style={{backgroundImage: "url('/images/9b8a7f3c-0bb7-4eb7-8e75-9686049882e9.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">

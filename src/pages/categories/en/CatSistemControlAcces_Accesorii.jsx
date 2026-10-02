@@ -134,9 +134,7 @@ export default function CatSistemControlAcces_Accesorii() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/buton-de-iesire-nf-10">
-                                    <img src="/images/36ac4b78-26e4-4356-8ef2-b5187b02f4d0.jpg" alt="Exit button NF-10" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/buton-de-iesire-nf-10" style={{backgroundImage: "url('/images/36ac4b78-26e4-4356-8ef2-b5187b02f4d0.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -173,9 +171,7 @@ export default function CatSistemControlAcces_Accesorii() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/proximity-cheie-em-03-2">
-                                    <img src="/images/26368f0e-fe1d-43df-aa81-d94bd8632fea.png" alt=" Proximity key (keychain) EM-03-2" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/proximity-cheie-em-03-2" style={{backgroundImage: "url('/images/26368f0e-fe1d-43df-aa81-d94bd8632fea.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -212,9 +208,7 @@ export default function CatSistemControlAcces_Accesorii() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/proximity-card-em-01a">
-                                    <img src="/images/d0c47eeb-7dc3-4da1-9591-aeda181224dc.jpg" alt="Proximity card EM-01A" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/proximity-card-em-01a" style={{backgroundImage: "url('/images/d0c47eeb-7dc3-4da1-9591-aeda181224dc.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -251,9 +245,7 @@ export default function CatSistemControlAcces_Accesorii() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/proximity-card-mf-02a">
-                                    <img src="/images/ec72057b-44b8-4abf-b634-c93fb0fc22d8.png" alt="Proximity acces card MF-02A" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/proximity-card-mf-02a" style={{backgroundImage: "url('/images/ec72057b-44b8-4abf-b634-c93fb0fc22d8.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -290,9 +282,7 @@ export default function CatSistemControlAcces_Accesorii() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/exit-button-nf-30-push-button">
-                                    <img src="/images/9bdf93ba-f9ce-4b3a-9392-8ae6854825fb.jpg" alt="NF-30 door release push button" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/exit-button-nf-30-push-button" style={{backgroundImage: "url('/images/9bdf93ba-f9ce-4b3a-9392-8ae6854825fb.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">

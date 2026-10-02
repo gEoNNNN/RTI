@@ -106,9 +106,7 @@ export default function CatCaseDeAutodeservire_SolutiiHoreca() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/casa-de-autodeservire-rsistems">
-                                    <img src="/images/e7b7fd5c-d320-4198-a828-1f11d4acc81a.jpg" alt="Касса самообслуживания RSistems" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/casa-de-autodeservire-rsistems" style={{backgroundImage: "url('/images/e7b7fd5c-d320-4198-a828-1f11d4acc81a.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -145,9 +143,7 @@ export default function CatCaseDeAutodeservire_SolutiiHoreca() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/horeca-kiosk">
-                                    <img src="/images/38faa7f8-e79d-44b4-88ed-4090149372e2.jpg" alt="HORECA KIOSK" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/horeca-kiosk" style={{backgroundImage: "url('/images/38faa7f8-e79d-44b4-88ed-4090149372e2.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -184,9 +180,7 @@ export default function CatCaseDeAutodeservire_SolutiiHoreca() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/horeca-kiosk-white">
-                                    <img src="/images/c6dfbf4a-3330-476b-ae5c-e95cc5608d21.jpg" alt="HORECA KIOSK белый" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/horeca-kiosk-white" style={{backgroundImage: "url('/images/c6dfbf4a-3330-476b-ae5c-e95cc5608d21.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">

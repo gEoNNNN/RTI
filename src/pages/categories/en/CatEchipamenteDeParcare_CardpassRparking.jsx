@@ -127,9 +127,7 @@ export default function CatEchipamenteDeParcare_CardpassRparking() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/terminal-de-intrare-cardpass-rparking">
-                                    <img src="/images/8bd092e8-b035-48e9-ad2c-f46bd226c567.png" alt="CardPass RParking Entry Terminal" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/terminal-de-intrare-cardpass-rparking" style={{backgroundImage: "url('/images/8bd092e8-b035-48e9-ad2c-f46bd226c567.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -166,9 +164,7 @@ export default function CatEchipamenteDeParcare_CardpassRparking() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/terminal-de-iesire-cardpass-rparking">
-                                    <img src="/images/ae8fa814-897e-48e0-821a-7ec3894f913b.png" alt="CardPass RParking Exit Terminal" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/terminal-de-iesire-cardpass-rparking" style={{backgroundImage: "url('/images/ae8fa814-897e-48e0-821a-7ec3894f913b.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">

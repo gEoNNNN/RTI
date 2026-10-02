@@ -134,9 +134,7 @@ export default function CatSistemControlAcces_Turnichete() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/turnichet-tripod-semi-automat-zento-cu-sistem-de-acces-rfid">
-                                    <img src="/images/7305d325-d23f-4e5a-8c81-ed1d5093a575.webp" alt="Semi-automatic tripod turnstile with RFID access system" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/turnichet-tripod-semi-automat-zento-cu-sistem-de-acces-rfid" style={{backgroundImage: "url('/images/7305d325-d23f-4e5a-8c81-ed1d5093a575.webp')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -173,9 +171,7 @@ export default function CatSistemControlAcces_Turnichete() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/turnichet-exterior-zento-pentru-controlul-accesului-cu-recunoastere-automata-a-fetei">
-                                    <img src="/images/fa8b6e60-25fa-4622-a294-4888b7a895b1.png" alt="Automatic outdoor tripod turnstile " loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/turnichet-exterior-zento-pentru-controlul-accesului-cu-recunoastere-automata-a-fetei" style={{backgroundImage: "url('/images/fa8b6e60-25fa-4622-a294-4888b7a895b1.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -212,9 +208,7 @@ export default function CatSistemControlAcces_Turnichete() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/poarta-automata-de-securitate-pentru-supermarket">
-                                    <img src="/images/aa10efe8-bb28-4a9c-97ec-94657736abda.jpg" alt="Swing gate type turnstile, bidirectional access" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/poarta-automata-de-securitate-pentru-supermarket" style={{backgroundImage: "url('/images/aa10efe8-bb28-4a9c-97ec-94657736abda.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -251,9 +245,7 @@ export default function CatSistemControlAcces_Turnichete() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/turnichet-poarta-electronica-cu-cititor-de-carduri-pentru-oficii">
-                                    <img src="/images/9d4657f0-3d46-4e32-b04a-7110568a48e3.png" alt="Electronic turnstile gate with card reader for office" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/turnichet-poarta-electronica-cu-cititor-de-carduri-pentru-oficii" style={{backgroundImage: "url('/images/9d4657f0-3d46-4e32-b04a-7110568a48e3.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -290,9 +282,7 @@ export default function CatSistemControlAcces_Turnichete() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/turnichet-cu-usi-retractabile">
-                                    <img src="/images/dd149914-315f-4c2e-b778-2efe8b8ac85a.webp" alt="Wing turnstiles" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/turnichet-cu-usi-retractabile" style={{backgroundImage: "url('/images/dd149914-315f-4c2e-b778-2efe8b8ac85a.webp')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">

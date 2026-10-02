@@ -134,9 +134,7 @@ export default function CatSistemControlAcces_LacateElectronice() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/lacata-electronica-pentru-dulap-cu-alimentare-de-la-baterii-z-395-eht">
-                                    <img src="/images/977108ce-cab8-4d24-ad57-3d056a90590c.png" alt="Z-395 EHT electronic lock" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/lacata-electronica-pentru-dulap-cu-alimentare-de-la-baterii-z-395-eht" style={{backgroundImage: "url('/images/977108ce-cab8-4d24-ad57-3d056a90590c.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -173,9 +171,7 @@ export default function CatSistemControlAcces_LacateElectronice() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/lacata-electronica-pentru-mobilier-cu-alimentare-de-la-baterii-z-495-eht">
-                                    <img src="/images/f60686a8-c2e3-4f32-a290-db979f48b821.jpg" alt="Electronic lock Z-495 EHT" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/lacata-electronica-pentru-mobilier-cu-alimentare-de-la-baterii-z-495-eht" style={{backgroundImage: "url('/images/f60686a8-c2e3-4f32-a290-db979f48b821.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -212,9 +208,7 @@ export default function CatSistemControlAcces_LacateElectronice() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/lacata-electronica-pentru-mobilier-din-lemnmetal-cu-alimentare-de-la-baterii-z-396-eht">
-                                    <img src="/images/333e22e7-0310-4160-9667-c195bb463071.jpg" alt="Electronic lock Z-396 EHT" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/lacata-electronica-pentru-mobilier-din-lemnmetal-cu-alimentare-de-la-baterii-z-396-eht" style={{backgroundImage: "url('/images/333e22e7-0310-4160-9667-c195bb463071.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -251,9 +245,7 @@ export default function CatSistemControlAcces_LacateElectronice() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/lacata-electronica-pentru-mobilier-model-z-496-eht">
-                                    <img src="/images/df83a99d-d5d1-4fa8-a990-4f12b96d95bf.jpg" alt="Electronic lock Z-496 EHT" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/lacata-electronica-pentru-mobilier-model-z-496-eht" style={{backgroundImage: "url('/images/df83a99d-d5d1-4fa8-a990-4f12b96d95bf.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -290,9 +282,7 @@ export default function CatSistemControlAcces_LacateElectronice() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/aplicatie-electornica-pe-lacata-standart-din">
-                                    <img src="/images/2fd3520b-4934-4cd3-b1b4-97ad7ae8b24d.jpg" alt="Electronic pad for door lock Eurolock EHT net" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/aplicatie-electornica-pe-lacata-standart-din" style={{backgroundImage: "url('/images/2fd3520b-4934-4cd3-b1b4-97ad7ae8b24d.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -329,9 +319,7 @@ export default function CatSistemControlAcces_LacateElectronice() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/lcata-electronica-pentru-usa-alimentat-de-baterii-model-z-8-eht">
-                                    <img src="/images/973f548e-e635-4e84-b849-a97cda04f59d.jpg" alt="Electronic/smart lock Z-8 EHT" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/lcata-electronica-pentru-usa-alimentat-de-baterii-model-z-8-eht" style={{backgroundImage: "url('/images/973f548e-e635-4e84-b849-a97cda04f59d.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -368,9 +356,7 @@ export default function CatSistemControlAcces_LacateElectronice() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/l-bracket-lb-180-lb-260">
-                                    <img src="/images/434297e5-59dc-418a-8fe4-fc8d83ae5852.jpg" alt="L Bracket LB-180, LB-260" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/l-bracket-lb-180-lb-260" style={{backgroundImage: "url('/images/434297e5-59dc-418a-8fe4-fc8d83ae5852.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -407,9 +393,7 @@ export default function CatSistemControlAcces_LacateElectronice() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/u-bracket-for-frameless-glass-door-ub-180">
-                                    <img src="/images/2177b2f5-eec3-46a2-b564-f5d978aa450d.jpeg" alt="U-bracket UB-180" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/u-bracket-for-frameless-glass-door-ub-180" style={{backgroundImage: "url('/images/2177b2f5-eec3-46a2-b564-f5d978aa450d.jpeg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -446,9 +430,7 @@ export default function CatSistemControlAcces_LacateElectronice() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/lacata-electro-magnetica-ne-180s">
-                                    <img src="/images/fdb40d52-7b35-40e1-8ed6-a308f6e22144.jpg" alt="Electromagnetic lock NE-180S" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/lacata-electro-magnetica-ne-180s" style={{backgroundImage: "url('/images/fdb40d52-7b35-40e1-8ed6-a308f6e22144.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -485,9 +467,7 @@ export default function CatSistemControlAcces_LacateElectronice() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/lacata-electro-magnetica-ne-260s-led">
-                                    <img src="/images/3fa5db9f-ad81-4acf-94b7-637a1c654be3.jpg" alt="Electromagnetic lock NE-260S (LED)" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/lacata-electro-magnetica-ne-260s-led" style={{backgroundImage: "url('/images/3fa5db9f-ad81-4acf-94b7-637a1c654be3.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -524,9 +504,7 @@ export default function CatSistemControlAcces_LacateElectronice() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/lacata-electronica-nd-1600b">
-                                    <img src="/images/2cf79af4-ebf3-40cf-97f3-073bbb52d6cd.jpg" alt="Electromechanical lock ND-1600B " loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/lacata-electronica-nd-1600b" style={{backgroundImage: "url('/images/2cf79af4-ebf3-40cf-97f3-073bbb52d6cd.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -563,9 +541,7 @@ export default function CatSistemControlAcces_LacateElectronice() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/lacata-electronica-ni-100">
-                                    <img src="/images/9d74449c-ad64-49d7-af08-a6bd7e61c017.jpg" alt="Electric bolt lock NI-100" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/lacata-electronica-ni-100" style={{backgroundImage: "url('/images/9d74449c-ad64-49d7-af08-a6bd7e61c017.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -602,9 +578,7 @@ export default function CatSistemControlAcces_LacateElectronice() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/lacata-electronica-ni-600">
-                                    <img src="/images/569dc38b-1a31-47f6-af47-b6f0b34397c4.jpg" alt="Electric bolt lock NI-600" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/lacata-electronica-ni-600" style={{backgroundImage: "url('/images/569dc38b-1a31-47f6-af47-b6f0b34397c4.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">

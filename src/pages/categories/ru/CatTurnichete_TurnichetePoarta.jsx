@@ -82,9 +82,7 @@ export default function CatTurnichete_TurnichetePoarta() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/poarta-automata-de-securitate-pentru-supermarket">
-                                    <img src="/images/aa10efe8-bb28-4a9c-97ec-94657736abda.jpg" alt="Турникет с распашными воротами, двусторонний доступ" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/poarta-automata-de-securitate-pentru-supermarket" style={{backgroundImage: "url('/images/aa10efe8-bb28-4a9c-97ec-94657736abda.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -121,9 +119,7 @@ export default function CatTurnichete_TurnichetePoarta() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/turnichet-poarta-electronica-cu-cititor-de-carduri-pentru-oficii">
-                                    <img src="/images/9d4657f0-3d46-4e32-b04a-7110568a48e3.png" alt="Электронный турникет со считывателем карт для офиса" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/turnichet-poarta-electronica-cu-cititor-de-carduri-pentru-oficii" style={{backgroundImage: "url('/images/9d4657f0-3d46-4e32-b04a-7110568a48e3.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -160,9 +156,7 @@ export default function CatTurnichete_TurnichetePoarta() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/turnichet-cu-usi-retractabile">
-                                    <img src="/images/dd149914-315f-4c2e-b778-2efe8b8ac85a.webp" alt="Створчатый турникет" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/turnichet-cu-usi-retractabile" style={{backgroundImage: "url('/images/dd149914-315f-4c2e-b778-2efe8b8ac85a.webp')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">

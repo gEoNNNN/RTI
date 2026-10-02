@@ -120,9 +120,7 @@ export default function CatEchipamenteIndustrialeAlimentare_DetectoareIndustrial
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/detector-de-metale-dibal-mds-5700">
-                                    <img src="/images/11406a06-342f-4a68-bc49-52c63bf5ff69.png" alt="Detector de metale Dibal MDS-5700" loading="lazy" />
-                                  </a>
+                                  <a href="/product/detector-de-metale-dibal-mds-5700" style={{backgroundImage: "url('/images/11406a06-342f-4a68-bc49-52c63bf5ff69.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -159,9 +157,7 @@ export default function CatEchipamenteIndustrialeAlimentare_DetectoareIndustrial
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/detector-de-metale-dibal-md-5700">
-                                    <img src="/images/ace134a1-7980-44d0-bfc2-116133725be8.png" alt="Detector de metale Dibal MD-5700" loading="lazy" />
-                                  </a>
+                                  <a href="/product/detector-de-metale-dibal-md-5700" style={{backgroundImage: "url('/images/ace134a1-7980-44d0-bfc2-116133725be8.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">

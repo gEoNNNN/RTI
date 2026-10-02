@@ -127,9 +127,7 @@ export default function CatSistemAntifurt_Safer() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/cosmetic-safer-s-023">
-                                    <img src="/images/741be313-3ee2-4587-b3f5-55478975339a.png" alt="Cosmetic Safer (RS-023)" loading="lazy" />
-                                  </a>
+                                  <a href="/product/cosmetic-safer-s-023" style={{backgroundImage: "url('/images/741be313-3ee2-4587-b3f5-55478975339a.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -166,9 +164,7 @@ export default function CatSistemAntifurt_Safer() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/cometic-safer-s-025">
-                                    <img src="/images/bb75271d-d5a0-4be1-9c7b-968ec8f5b190.png" alt="Cosmetic Safer (RS-025)" loading="lazy" />
-                                  </a>
+                                  <a href="/product/cometic-safer-s-025" style={{backgroundImage: "url('/images/bb75271d-d5a0-4be1-9c7b-968ec8f5b190.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -205,9 +201,7 @@ export default function CatSistemAntifurt_Safer() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/razor-safer-s-024">
-                                    <img src="/images/50acd1d9-a3e1-4c96-ac94-c69600795e12.png" alt=" Razor Safer " loading="lazy" />
-                                  </a>
+                                  <a href="/product/razor-safer-s-024" style={{backgroundImage: "url('/images/50acd1d9-a3e1-4c96-ac94-c69600795e12.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -244,9 +238,7 @@ export default function CatSistemAntifurt_Safer() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/multifunction-safer">
-                                    <img src="/images/9a8bc49b-d8be-48df-9433-26367e1a0c8d.png" alt="Multifunction Safer" loading="lazy" />
-                                  </a>
+                                  <a href="/product/multifunction-safer" style={{backgroundImage: "url('/images/9a8bc49b-d8be-48df-9433-26367e1a0c8d.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">

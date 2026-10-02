@@ -120,9 +120,7 @@ export default function CatScanereCoduriDeBare_ScanereIncorporate() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/scan-rsc-1105-2d">
-                                    <img src="/images/6277c6db-337a-4d5c-a29a-0a18e7f365c7.png" alt="Сканер  RSC 1105 2D" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/scan-rsc-1105-2d" style={{backgroundImage: "url('/images/6277c6db-337a-4d5c-a29a-0a18e7f365c7.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">

@@ -134,9 +134,7 @@ export default function CatSistemControlAcces_ControlereDeAcces() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/statie-intercom">
-                                    <img src="/images/ab7838b8-ffc8-4a86-8fe1-9b293eeb3e78.png" alt="Statie intercom" loading="lazy" />
-                                  </a>
+                                  <a href="/product/statie-intercom" style={{backgroundImage: "url('/images/ab7838b8-ffc8-4a86-8fe1-9b293eeb3e78.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -173,9 +171,7 @@ export default function CatSistemControlAcces_ControlereDeAcces() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/ip-control-acs-model-z-5r-web">
-                                    <img src="/images/9a8b60be-4413-44c7-bf32-c2c02d94b782.jpg" alt="IP-control ACS model Z-5R Web" loading="lazy" />
-                                  </a>
+                                  <a href="/product/ip-control-acs-model-z-5r-web" style={{backgroundImage: "url('/images/9a8b60be-4413-44c7-bf32-c2c02d94b782.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -219,9 +215,7 @@ export default function CatSistemControlAcces_ControlereDeAcces() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/controler-de-acces-biometric-zkteco-inbio-460">
-                                    <img src="/images/6e3b927c-55c5-4575-9f98-a175aa9898bc.png" alt="Controler de acces biometric InBio serie 160/260/460" loading="lazy" />
-                                  </a>
+                                  <a href="/product/controler-de-acces-biometric-zkteco-inbio-460" style={{backgroundImage: "url('/images/6e3b927c-55c5-4575-9f98-a175aa9898bc.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -265,9 +259,7 @@ export default function CatSistemControlAcces_ControlereDeAcces() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/controler-autonom-ac-model-z-5r">
-                                    <img src="/images/1f2b06c0-b91d-449b-83d9-5fb79ba29389.jpg" alt="Controler autonom AC Model: Z-5R" loading="lazy" />
-                                  </a>
+                                  <a href="/product/controler-autonom-ac-model-z-5r" style={{backgroundImage: "url('/images/1f2b06c0-b91d-449b-83d9-5fb79ba29389.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -311,9 +303,7 @@ export default function CatSistemControlAcces_ControlereDeAcces() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/ecran-sensibil-la-atingere-cu-control-de-acces-pe-o-singura-usa-nt-t09">
-                                    <img src="/images/7abf1b9c-eeea-4ca8-88e0-b10e6d9f3c80.jpg" alt="Controler de acces tactil NT-T09" loading="lazy" />
-                                  </a>
+                                  <a href="/product/ecran-sensibil-la-atingere-cu-control-de-acces-pe-o-singura-usa-nt-t09" style={{backgroundImage: "url('/images/7abf1b9c-eeea-4ca8-88e0-b10e6d9f3c80.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -357,9 +347,7 @@ export default function CatSistemControlAcces_ControlereDeAcces() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/echipament-de-control-de-retea-acs-cu-cititor-incorporat-em-marine">
-                                    <img src="/images/faef633c-9fd0-494c-b677-80778bc4a47f.png" alt="Controler de retea cu cititor Em-Marine Matrix II Net " loading="lazy" />
-                                  </a>
+                                  <a href="/product/echipament-de-control-de-retea-acs-cu-cititor-incorporat-em-marine" style={{backgroundImage: "url('/images/faef633c-9fd0-494c-b677-80778bc4a47f.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -403,9 +391,7 @@ export default function CatSistemControlAcces_ControlereDeAcces() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/controler-de-acces-zkteco-c3-100-1-usa">
-                                    <img src="/images/782d6e13-c9f5-4232-8561-8822b882ce57.jpg" alt="Controler de acces ZKTeco C3-100 (1 usa)" loading="lazy" />
-                                  </a>
+                                  <a href="/product/controler-de-acces-zkteco-c3-100-1-usa" style={{backgroundImage: "url('/images/782d6e13-c9f5-4232-8561-8822b882ce57.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -449,9 +435,7 @@ export default function CatSistemControlAcces_ControlereDeAcces() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/controler-de-acces-zkteco-c3-200-2-usi">
-                                    <img src="/images/0cfabb48-7abb-4d9b-953d-adddcada2829.jpg" alt="Controler de acces ZKTeco C3-200 (2 usi)" loading="lazy" />
-                                  </a>
+                                  <a href="/product/controler-de-acces-zkteco-c3-200-2-usi" style={{backgroundImage: "url('/images/0cfabb48-7abb-4d9b-953d-adddcada2829.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -495,9 +479,7 @@ export default function CatSistemControlAcces_ControlereDeAcces() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/controler-de-acces-zkteco-c3-400-4-usi">
-                                    <img src="/images/98bf1a6f-455d-4069-a1ca-4084608eed02.jpg" alt="Controler de acces ZKTeco C3-400 (4 usi)" loading="lazy" />
-                                  </a>
+                                  <a href="/product/controler-de-acces-zkteco-c3-400-4-usi" style={{backgroundImage: "url('/images/98bf1a6f-455d-4069-a1ca-4084608eed02.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -541,9 +523,7 @@ export default function CatSistemControlAcces_ControlereDeAcces() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/echipament-de-control-de-retea-acs-model-guard-net">
-                                    <img src="/images/befd2c9f-d9b1-4301-8097-54112b46aed8.jpg" alt="Echipament de control de retea ACS Model: GUARD Net" loading="lazy" />
-                                  </a>
+                                  <a href="/product/echipament-de-control-de-retea-acs-model-guard-net" style={{backgroundImage: "url('/images/befd2c9f-d9b1-4301-8097-54112b46aed8.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -587,9 +567,7 @@ export default function CatSistemControlAcces_ControlereDeAcces() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/echipament-de-control-de-retea-acs-model-z-5r-net-8000">
-                                    <img src="/images/4a0b55f7-04c2-46ed-a382-65c6d6ff6cef.jpg" alt="Echipament de control de retea ACS Model: Z-5R Net 8000" loading="lazy" />
-                                  </a>
+                                  <a href="/product/echipament-de-control-de-retea-acs-model-z-5r-net-8000" style={{backgroundImage: "url('/images/4a0b55f7-04c2-46ed-a382-65c6d6ff6cef.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -633,9 +611,7 @@ export default function CatSistemControlAcces_ControlereDeAcces() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/modul-de-comanda-de-retea-acs-model-z-5r-net">
-                                    <img src="/images/6463f0e5-2e7b-4175-a1d5-de1c14e00d9d.jpg" alt="Modul de comandă de retea ACS Model: Z-5R Net" loading="lazy" />
-                                  </a>
+                                  <a href="/product/modul-de-comanda-de-retea-acs-model-z-5r-net" style={{backgroundImage: "url('/images/6463f0e5-2e7b-4175-a1d5-de1c14e00d9d.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">

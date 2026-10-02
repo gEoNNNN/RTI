@@ -134,9 +134,7 @@ export default function CatSistemControlAcces_Cititoare() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/rfid-colector-de-date-125-khz-model-matrix-ii-eh">
-                                    <img src="/images/2974ff43-c8f9-47e7-accd-3cbe5fd5c1c6.png" alt="Считыватель RFID Matrix-II EH 125 кГц" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/rfid-colector-de-date-125-khz-model-matrix-ii-eh" style={{backgroundImage: "url('/images/2974ff43-c8f9-47e7-accd-3cbe5fd5c1c6.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -173,9 +171,7 @@ export default function CatSistemControlAcces_Cititoare() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/rfid-colector-datelor-1356-mhz-i-125-khz-model-z-2-usb">
-                                    <img src="/images/7d6c88be-f0f7-46c9-b59a-0741fe9ed144.jpg" alt="RFID-считыватель Z-2 USB 13,56 МГц и 125 кГц " loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/rfid-colector-datelor-1356-mhz-i-125-khz-model-z-2-usb" style={{backgroundImage: "url('/images/7d6c88be-f0f7-46c9-b59a-0741fe9ed144.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -212,9 +208,7 @@ export default function CatSistemControlAcces_Cititoare() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/rfid-colector-de-date-1356-khz-model-matrix-ii-mf-i">
-                                    <img src="/images/5bc4b2c8-d314-4baf-ae76-d3cf76383b45.png" alt="RFID-считыватель Matrix-II MF-I 13,56 МГц " loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/rfid-colector-de-date-1356-khz-model-matrix-ii-mf-i" style={{backgroundImage: "url('/images/5bc4b2c8-d314-4baf-ae76-d3cf76383b45.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -251,9 +245,7 @@ export default function CatSistemControlAcces_Cititoare() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/dispozitiv-multifunctional-adaptor-cititor-codificator-model-rf-1996">
-                                    <img src="/images/a079a3c0-259a-4519-9cc8-f881123eb708.jpg" alt="Многофункциональное устройство RF-1996" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/dispozitiv-multifunctional-adaptor-cititor-codificator-model-rf-1996" style={{backgroundImage: "url('/images/a079a3c0-259a-4519-9cc8-f881123eb708.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -290,9 +282,7 @@ export default function CatSistemControlAcces_Cititoare() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/cititor-de-carduri-proximity-kr200">
-                                    <img src="/images/1cac38f6-3670-4b8e-90b1-15c1f5d714b1.jpg" alt="Проксимити считыватель KR200" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/cititor-de-carduri-proximity-kr200" style={{backgroundImage: "url('/images/1cac38f6-3670-4b8e-90b1-15c1f5d714b1.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -329,9 +319,7 @@ export default function CatSistemControlAcces_Cititoare() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/cititor-de-carduri-proximity-kr1000-raza-lunga">
-                                    <img src="/images/56974d93-642d-40a3-97fe-ab1d03a84466.jpg" alt="Считыватель карт дальнего действия Proximity KR1000" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/cititor-de-carduri-proximity-kr1000-raza-lunga" style={{backgroundImage: "url('/images/56974d93-642d-40a3-97fe-ab1d03a84466.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -368,9 +356,7 @@ export default function CatSistemControlAcces_Cititoare() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/cititor-de-proximitate-kr702em-touchscreen">
-                                    <img src="/images/f3308501-67c7-4993-9067-c312cbd915c2.png" alt="Считыватель KR702E/M с сенсорными клавишами" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/cititor-de-proximitate-kr702em-touchscreen" style={{backgroundImage: "url('/images/f3308501-67c7-4993-9067-c312cbd915c2.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -407,9 +393,7 @@ export default function CatSistemControlAcces_Cititoare() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/colector-de-date-mifare-model-sp-z-2mf">
-                                    <img src="/images/f5721c1a-7027-4202-a468-c935d152ebe7.jpg" alt="Считыватель Mifare СP-Z 2MF" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/colector-de-date-mifare-model-sp-z-2mf" style={{backgroundImage: "url('/images/f5721c1a-7027-4202-a468-c935d152ebe7.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -446,9 +430,7 @@ export default function CatSistemControlAcces_Cititoare() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/proximity-card-reader-nk-rf202">
-                                    <img src="/images/33ba482f-977a-43f3-b7d5-f3068d7b7111.jpg" alt="Считыватель NK-RF202" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/proximity-card-reader-nk-rf202" style={{backgroundImage: "url('/images/33ba482f-977a-43f3-b7d5-f3068d7b7111.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -485,9 +467,7 @@ export default function CatSistemControlAcces_Cititoare() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/ru/product/cititor-de-card-zkteco-zkteco-cr20-cu-interfata-usb">
-                                    <img src="/images/254c5aef-8e3a-4354-b505-cfa266549d54.png" alt="Считыватель бесконтактных карт ZKTeco CR20 с USB" loading="lazy" />
-                                  </a>
+                                  <a href="/ru/product/cititor-de-card-zkteco-zkteco-cr20-cu-interfata-usb" style={{backgroundImage: "url('/images/254c5aef-8e3a-4354-b505-cfa266549d54.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">

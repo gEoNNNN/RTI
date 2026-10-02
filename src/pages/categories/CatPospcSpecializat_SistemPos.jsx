@@ -106,9 +106,7 @@ export default function CatPospcSpecializat_SistemPos() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/rsistems-folding-stand-pos">
-                                    <img src="/images/244a8eaf-dc87-40be-a4e3-3d9f81958861.png" alt="RSistems POS cu suport pliabil" loading="lazy" />
-                                  </a>
+                                  <a href="/product/rsistems-folding-stand-pos" style={{backgroundImage: "url('/images/244a8eaf-dc87-40be-a4e3-3d9f81958861.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -145,9 +143,7 @@ export default function CatPospcSpecializat_SistemPos() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/rsistems-pos-aluminium-design">
-                                    <img src="/images/a9b782f4-35c7-4d6b-8c77-71f70fd6d3ca.jpg" alt="RSistems Aluminium POS &amp;ndash; Premium Design" loading="lazy" />
-                                  </a>
+                                  <a href="/product/rsistems-pos-aluminium-design" style={{backgroundImage: "url('/images/a9b782f4-35c7-4d6b-8c77-71f70fd6d3ca.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -191,9 +187,7 @@ export default function CatPospcSpecializat_SistemPos() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/pos-terminal-rsistem-j4125">
-                                    <img src="/images/754832b6-66c4-4d6c-a067-1207fb8e5a63.jpg" alt="POS terminal RSistem J4125" loading="lazy" />
-                                  </a>
+                                  <a href="/product/pos-terminal-rsistem-j4125" style={{backgroundImage: "url('/images/754832b6-66c4-4d6c-a067-1207fb8e5a63.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -237,9 +231,7 @@ export default function CatPospcSpecializat_SistemPos() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/pos-terminal-beetle-ipos-plus-diebold-nixdorf">
-                                    <img src="/images/f95d0359-5ffa-4dfe-9f3e-3b6c420f7e54.jpg" alt="POS terminal BEETLE/iPOS plus Diebold Nixdorf" loading="lazy" />
-                                  </a>
+                                  <a href="/product/pos-terminal-beetle-ipos-plus-diebold-nixdorf" style={{backgroundImage: "url('/images/f95d0359-5ffa-4dfe-9f3e-3b6c420f7e54.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -283,9 +275,7 @@ export default function CatPospcSpecializat_SistemPos() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/pos-terminal-rsistems-j1900">
-                                    <img src="/images/f720f9ed-6f8d-4968-bf3a-0a30186ca955.jpg" alt="POS terminal RSistems J1900" loading="lazy" />
-                                  </a>
+                                  <a href="/product/pos-terminal-rsistems-j1900" style={{backgroundImage: "url('/images/f720f9ed-6f8d-4968-bf3a-0a30186ca955.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -329,9 +319,7 @@ export default function CatPospcSpecializat_SistemPos() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/product/pos-terminal-pos-rs156-aw">
-                                    <img src="/images/c1be0217-86b7-40f7-8b29-b59f540c81ab.jpg" alt="POS terminal RSistems RS156-AW " loading="lazy" />
-                                  </a>
+                                  <a href="/product/pos-terminal-pos-rs156-aw" style={{backgroundImage: "url('/images/c1be0217-86b7-40f7-8b29-b59f540c81ab.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">

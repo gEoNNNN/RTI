@@ -120,9 +120,7 @@ export default function CatSistemeSupraveghereVideo_SistemeNvr() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/nvr-uniview-nvr308-64e-b">
-                                    <img src="/images/a9e8d48f-c810-4619-83ca-7e1a8bdc9f00.jpg" alt="NVR Uniview NVR308-64E-B" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/nvr-uniview-nvr308-64e-b" style={{backgroundImage: "url('/images/a9e8d48f-c810-4619-83ca-7e1a8bdc9f00.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -165,9 +163,7 @@ export default function CatSistemeSupraveghereVideo_SistemeNvr() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/nvr-uniview-unicorn">
-                                    <img src="/images/17783d67-1649-4df4-a92d-fa55f702ffdd.jpg" alt="NVR Uniview Unicorn" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/nvr-uniview-unicorn" style={{backgroundImage: "url('/images/17783d67-1649-4df4-a92d-fa55f702ffdd.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -210,9 +206,7 @@ export default function CatSistemeSupraveghereVideo_SistemeNvr() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/nvr-uniview-nvr301-08e">
-                                    <img src="/images/b15c03ab-53d6-4ec3-b141-6ea02840e4a0.jpg" alt="NVR Uniview NVR301-08E" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/nvr-uniview-nvr301-08e" style={{backgroundImage: "url('/images/b15c03ab-53d6-4ec3-b141-6ea02840e4a0.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -255,9 +249,7 @@ export default function CatSistemeSupraveghereVideo_SistemeNvr() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/nvr-uniview-nvr301-16-p8">
-                                    <img src="/images/06535927-2bfc-4db2-9f9f-bd0505c0582a.jpg" alt="NVR Uniview NVR301-16-P8" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/nvr-uniview-nvr301-16-p8" style={{backgroundImage: "url('/images/06535927-2bfc-4db2-9f9f-bd0505c0582a.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -300,9 +292,7 @@ export default function CatSistemeSupraveghereVideo_SistemeNvr() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/nvr-uniview-nvr301-04e">
-                                    <img src="/images/ac0e50f3-7580-49f0-853f-9b504a9c0451.jpg" alt="NVR Uniview NVR301-04E" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/nvr-uniview-nvr301-04e" style={{backgroundImage: "url('/images/ac0e50f3-7580-49f0-853f-9b504a9c0451.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -345,9 +335,7 @@ export default function CatSistemeSupraveghereVideo_SistemeNvr() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/nvr-uniview-nvr301-08-p8">
-                                    <img src="/images/37791c3e-81b2-4e0b-a1c3-c6dcc4f84859.jpg" alt="NVR Uniview NVR301-08-P8" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/nvr-uniview-nvr301-08-p8" style={{backgroundImage: "url('/images/37791c3e-81b2-4e0b-a1c3-c6dcc4f84859.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -390,9 +378,7 @@ export default function CatSistemeSupraveghereVideo_SistemeNvr() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/nvr-uniview-nvr301-16e">
-                                    <img src="/images/d9ef9a7f-bd27-4304-a58c-7d1e1ca16d7a.jpg" alt="NVR Uniview NVR301-16E" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/nvr-uniview-nvr301-16e" style={{backgroundImage: "url('/images/d9ef9a7f-bd27-4304-a58c-7d1e1ca16d7a.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -435,9 +421,7 @@ export default function CatSistemeSupraveghereVideo_SistemeNvr() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/nvr-uniview-nvr302-16e-b1">
-                                    <img src="/images/b778f3f6-c56a-4123-ba9c-890b00968411.jpg" alt="NVR Uniview NVR302-16E-B1" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/nvr-uniview-nvr302-16e-b1" style={{backgroundImage: "url('/images/b778f3f6-c56a-4123-ba9c-890b00968411.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -480,9 +464,7 @@ export default function CatSistemeSupraveghereVideo_SistemeNvr() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/nvr-uniview-nvr302-16e-p16-b">
-                                    <img src="/images/1beb0ebb-9f04-4abf-995f-d0033df4be81.jpg" alt="NVR Uniview NVR302-16E-P16-B" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/nvr-uniview-nvr302-16e-p16-b" style={{backgroundImage: "url('/images/1beb0ebb-9f04-4abf-995f-d0033df4be81.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -525,9 +507,7 @@ export default function CatSistemeSupraveghereVideo_SistemeNvr() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/nvr-uniview-nvr304-32e-b">
-                                    <img src="/images/153a06d0-85a6-4968-b198-58e6ef75183d.jpg" alt="NVR Uniview NVR304-32E-B" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/nvr-uniview-nvr304-32e-b" style={{backgroundImage: "url('/images/153a06d0-85a6-4968-b198-58e6ef75183d.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -570,9 +550,7 @@ export default function CatSistemeSupraveghereVideo_SistemeNvr() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/nvr-uniview-nvr516-64128">
-                                    <img src="/images/846ee88a-29fc-4074-ac9c-d61e009d1cf6.jpg" alt="NVR Uniview NVR516-64/128" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/nvr-uniview-nvr516-64128" style={{backgroundImage: "url('/images/846ee88a-29fc-4074-ac9c-d61e009d1cf6.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -615,9 +593,7 @@ export default function CatSistemeSupraveghereVideo_SistemeNvr() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/nvr-uniview-nvr302-16e-b">
-                                    <img src="/images/862375ed-98ea-4bd3-ab65-72550ccdf1d1.jpg" alt="NVR Uniview NVR302-16E-B" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/nvr-uniview-nvr302-16e-b" style={{backgroundImage: "url('/images/862375ed-98ea-4bd3-ab65-72550ccdf1d1.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
@@ -660,9 +636,7 @@ export default function CatSistemeSupraveghereVideo_SistemeNvr() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/nvr-uniview-nvr301-p-series">
-                                    <img src="/images/7d40125a-3136-4f3f-8ce4-877ed89395ac.jpg" alt="NVR Uniview NVR301-P SERIES" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/nvr-uniview-nvr301-p-series" style={{backgroundImage: "url('/images/7d40125a-3136-4f3f-8ce4-877ed89395ac.jpg')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">

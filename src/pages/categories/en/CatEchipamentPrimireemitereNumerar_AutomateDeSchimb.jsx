@@ -113,9 +113,7 @@ export default function CatEchipamentPrimireemitereNumerar_AutomateDeSchimb() {
                             <app-product-card>
                               <div className="product-card">
                                 <div itemscope="" className="product-card__image">
-                                  <a href="/en/product/automat-de-schimb">
-                                    <img src="/images/0646f5f9-054d-4a80-935e-1bc9546c454e.png" alt="Exchange machine" loading="lazy" />
-                                  </a>
+                                  <a href="/en/product/automat-de-schimb" style={{backgroundImage: "url('/images/0646f5f9-054d-4a80-935e-1bc9546c454e.png')"}}></a>
                                 </div>
                                 <div className="product-card-box-meta">
                                   <div itemscope="" className="product-name">
