@@ -30,28 +30,28 @@ export default function CatScanereCoduriDeBare() {
                   </a>
                 </div>
                 <div className="box-margin">
-                  <a routerlinkactive="active" className="subCategory-card" href="/category/scanere-manuale">
+                  <a routerlinkactive="active" className="subCategory-card" href="/category/scanere-coduri-de-bare/scanere-manuale">
                     <div className="subCategory-title">
                       Scanere manuale
                     </div>
                   </a>
                 </div>
                 <div className="box-margin">
-                  <a routerlinkactive="active" className="subCategory-card" href="/category/scanere-de-masa">
+                  <a routerlinkactive="active" className="subCategory-card" href="/category/scanere-coduri-de-bare/scanere-de-masa">
                     <div className="subCategory-title">
                       Scanere de masa
                     </div>
                   </a>
                 </div>
                 <div className="box-margin">
-                  <a routerlinkactive="active" className="subCategory-card" href="/category/scanere-bi-optic">
+                  <a routerlinkactive="active" className="subCategory-card" href="/category/scanere-coduri-de-bare/scanere-bi-optic">
                     <div className="subCategory-title">
                       Scanere Bi-optic
                     </div>
                   </a>
                 </div>
                 <div className="box-margin">
-                  <a routerlinkactive="active" className="subCategory-card" href="/category/scanere-incorporate">
+                  <a routerlinkactive="active" className="subCategory-card" href="/category/scanere-coduri-de-bare/scanere-incorporate">
                     <div className="subCategory-title">
                        Scanere  încorporate
                     </div>

@@ -30,14 +30,14 @@ export default function CatCaseDeAutodeservire() {
                   </a>
                 </div>
                 <div className="box-margin">
-                  <a routerlinkactive="active" className="subCategory-card" href="/category/solutii-horeca">
+                  <a routerlinkactive="active" className="subCategory-card" href="/category/case-de-autodeservire/solutii-horeca">
                     <div className="subCategory-title">
                       Solutii HoReCa 
                     </div>
                   </a>
                 </div>
                 <div className="box-margin">
-                  <a routerlinkactive="active" className="subCategory-card" href="/category/solutii-retail">
+                  <a routerlinkactive="active" className="subCategory-card" href="/category/case-de-autodeservire/solutii-retail">
                     <div className="subCategory-title">
                       Solutii Retail
                     </div>

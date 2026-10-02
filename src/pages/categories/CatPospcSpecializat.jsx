@@ -30,14 +30,14 @@ export default function CatPospcSpecializat() {
                   </a>
                 </div>
                 <div className="box-margin">
-                  <a routerlinkactive="active" className="subCategory-card" href="/category/sistem-pos">
+                  <a routerlinkactive="active" className="subCategory-card" href="/category/pospc-specializat/sistem-pos">
                     <div className="subCategory-title">
                       Sistem POS
                     </div>
                   </a>
                 </div>
                 <div className="box-margin">
-                  <a routerlinkactive="active" className="subCategory-card" href="/category/echipamente-pos-suplimentare">
+                  <a routerlinkactive="active" className="subCategory-card" href="/category/pospc-specializat/echipamente-pos-suplimentare">
                     <div className="subCategory-title">
                       Echipamente POS suplimentare
                     </div>

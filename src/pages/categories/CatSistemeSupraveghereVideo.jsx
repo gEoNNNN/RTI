@@ -30,28 +30,28 @@ export default function CatSistemeSupraveghereVideo() {
                   </a>
                 </div>
                 <div className="box-margin">
-                  <a routerlinkactive="active" className="subCategory-card" href="/category/sisteme-nvr">
+                  <a routerlinkactive="active" className="subCategory-card" href="/category/sisteme-supraveghere-video/sisteme-nvr">
                     <div className="subCategory-title">
                       Sisteme NVR
                     </div>
                   </a>
                 </div>
                 <div className="box-margin">
-                  <a routerlinkactive="active" className="subCategory-card" href="/category/camere-video-ptz">
+                  <a routerlinkactive="active" className="subCategory-card" href="/category/sisteme-supraveghere-video/camere-video-ptz">
                     <div className="subCategory-title">
                       Camere video PTZ
                     </div>
                   </a>
                 </div>
                 <div className="box-margin">
-                  <a routerlinkactive="active" className="subCategory-card" href="/category/ip-camere-de-interior">
+                  <a routerlinkactive="active" className="subCategory-card" href="/category/sisteme-supraveghere-video/ip-camere-de-interior">
                     <div className="subCategory-title">
                       IP camere de interior
                     </div>
                   </a>
                 </div>
                 <div className="box-margin">
-                  <a routerlinkactive="active" className="subCategory-card" href="/category/ip-camere-de-exterior">
+                  <a routerlinkactive="active" className="subCategory-card" href="/category/sisteme-supraveghere-video/ip-camere-de-exterior">
                     <div className="subCategory-title">
                       IP camere de exterior
                     </div>

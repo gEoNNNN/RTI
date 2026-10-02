@@ -30,35 +30,35 @@ export default function CatEchipamenteDeParcare() {
                   </a>
                 </div>
                 <div className="box-margin">
-                  <a routerlinkactive="active" className="subCategory-card" href="/category/ticket-system">
+                  <a routerlinkactive="active" className="subCategory-card" href="/category/echipamente-de-parcare/ticket-system">
                     <div className="subCategory-title">
                       Ticket System
                     </div>
                   </a>
                 </div>
                 <div className="box-margin">
-                  <a routerlinkactive="active" className="subCategory-card" href="/category/cardpass-rparking">
+                  <a routerlinkactive="active" className="subCategory-card" href="/category/echipamente-de-parcare/cardpass-rparking">
                     <div className="subCategory-title">
                       CardPass RParking
                     </div>
                   </a>
                 </div>
                 <div className="box-margin">
-                  <a routerlinkactive="active" className="subCategory-card" href="/category/terminal-de-plata">
+                  <a routerlinkactive="active" className="subCategory-card" href="/category/echipamente-de-parcare/terminal-de-plata">
                     <div className="subCategory-title">
                       Terminal de Plata
                     </div>
                   </a>
                 </div>
                 <div className="box-margin">
-                  <a routerlinkactive="active" className="subCategory-card" href="/category/bariera-automata">
+                  <a routerlinkactive="active" className="subCategory-card" href="/category/echipamente-de-parcare/bariera-automata">
                     <div className="subCategory-title">
                       Barieră Automată 
                     </div>
                   </a>
                 </div>
                 <div className="box-margin">
-                  <a routerlinkactive="active" className="subCategory-card" href="/category/accesorii-de-parcare">
+                  <a routerlinkactive="active" className="subCategory-card" href="/category/echipamente-de-parcare/accesorii-de-parcare">
                     <div className="subCategory-title">
                       Accesorii de Parcare 
                     </div>

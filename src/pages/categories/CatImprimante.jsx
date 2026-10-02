@@ -30,35 +30,35 @@ export default function CatImprimante() {
                   </a>
                 </div>
                 <div className="box-margin">
-                  <a routerlinkactive="active" className="subCategory-card" href="/category/imprimante-termice">
+                  <a routerlinkactive="active" className="subCategory-card" href="/category/imprimante/imprimante-termice">
                     <div className="subCategory-title">
                       Imprimante termice
                     </div>
                   </a>
                 </div>
                 <div className="box-margin">
-                  <a routerlinkactive="active" className="subCategory-card" href="/category/imprimante-de-etichete">
+                  <a routerlinkactive="active" className="subCategory-card" href="/category/imprimante/imprimante-de-etichete">
                     <div className="subCategory-title">
                       Imprimante de etichete
                     </div>
                   </a>
                 </div>
                 <div className="box-margin">
-                  <a routerlinkactive="active" className="subCategory-card" href="/category/imprimante-portabile">
+                  <a routerlinkactive="active" className="subCategory-card" href="/category/imprimante/imprimante-portabile">
                     <div className="subCategory-title">
                       Imprimante portabile
                     </div>
                   </a>
                 </div>
                 <div className="box-margin">
-                  <a routerlinkactive="active" className="subCategory-card" href="/category/imprimante-industriale">
+                  <a routerlinkactive="active" className="subCategory-card" href="/category/imprimante/imprimante-industriale">
                     <div className="subCategory-title">
                       Imprimante industriale
                     </div>
                   </a>
                 </div>
                 <div className="box-margin">
-                  <a routerlinkactive="active" className="subCategory-card" href="/category/imprimante-de-carduri">
+                  <a routerlinkactive="active" className="subCategory-card" href="/category/imprimante/imprimante-de-carduri">
                     <div className="subCategory-title">
                       Imprimante de carduri
                     </div>

@@ -30,14 +30,14 @@ export default function CatTerminaleColectareDate() {
                   </a>
                 </div>
                 <div className="box-margin">
-                  <a routerlinkactive="active" className="subCategory-card" href="/category/terminale-chainway">
+                  <a routerlinkactive="active" className="subCategory-card" href="/category/terminale-colectare-date/terminale-chainway">
                     <div className="subCategory-title">
                       Terminale Chainway
                     </div>
                   </a>
                 </div>
                 <div className="box-margin">
-                  <a routerlinkactive="active" className="subCategory-card" href="/category/terminale-datalogic">
+                  <a routerlinkactive="active" className="subCategory-card" href="/category/terminale-colectare-date/terminale-datalogic">
                     <div className="subCategory-title">
                       Terminale Datalogic
                     </div>

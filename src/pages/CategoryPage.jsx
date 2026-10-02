@@ -7,6 +7,9 @@ import categoriesRu from '../data/ru/categories_full.json';
 import categoriesEn from '../data/en/categories_full.json';
 import { categoryMap as categoryMapRu } from './categories/ru';
 import { categoryMap as categoryMapEn } from './categories/en';
+import { childMap as childMapRo } from './categories/children';
+import { childMap as childMapRu } from './categories/ru/children';
+import { childMap as childMapEn } from './categories/en/children';
 import { useLang, pick } from '../lang';
 import CatAccesoriiAntifurt from './categories/CatAccesoriiAntifurt';
 import CatAccesoriiAudio from './categories/CatAccesoriiAudio';
@@ -111,13 +114,20 @@ const categoryMap = {
 };
 
 const MAPS = { ro: categoryMap, ru: categoryMapRu, en: categoryMapEn };
+const CHILD_MAPS = { ro: childMapRo, ru: childMapRu, en: childMapEn };
 const CATS = { ro: categoriesRo, ru: categoriesRu, en: categoriesEn };
 
 export default function CategoryPage() {
-  const { slug } = useParams();
+  const { parent, slug } = useParams();
   const lang = useLang();
   const map = pick(lang, MAPS.ro, MAPS.ru, MAPS.en);
+  const childMap = pick(lang, CHILD_MAPS.ro, CHILD_MAPS.ru, CHILD_MAPS.en);
   const categories = pick(lang, CATS.ro, CATS.ru, CATS.en);
+  if (parent) {
+    const Child = childMap[`${parent}/${slug}`];
+    if (Child) return <Child />;
+    return <NotFoundPage />;
+  }
   const Selected = slug && map[slug];
   if (Selected) return <Selected />;
   if (slug && categories[slug]) return <GenericCategoryPage slug={slug} />;

@@ -30,21 +30,21 @@ export default function CatSistemeAudio() {
                   </a>
                 </div>
                 <div className="box-margin">
-                  <a routerlinkactive="active" className="subCategory-card" href="/category/difuzoare-audio">
+                  <a routerlinkactive="active" className="subCategory-card" href="/category/sisteme-audio/difuzoare-audio">
                     <div className="subCategory-title">
                       Difuzoare audio
                     </div>
                   </a>
                 </div>
                 <div className="box-margin">
-                  <a routerlinkactive="active" className="subCategory-card" href="/category/amplificatoare-audio">
+                  <a routerlinkactive="active" className="subCategory-card" href="/category/sisteme-audio/amplificatoare-audio">
                     <div className="subCategory-title">
                       Amplificatoare audio
                     </div>
                   </a>
                 </div>
                 <div className="box-margin">
-                  <a routerlinkactive="active" className="subCategory-card" href="/category/accesorii-audio">
+                  <a routerlinkactive="active" className="subCategory-card" href="/category/sisteme-audio/accesorii-audio">
                     <div className="subCategory-title">
                       Accesorii audio
                     </div>

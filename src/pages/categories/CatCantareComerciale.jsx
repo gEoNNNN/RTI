@@ -30,21 +30,21 @@ export default function CatCantareComerciale() {
                   </a>
                 </div>
                 <div className="box-margin">
-                  <a routerlinkactive="active" className="subCategory-card" href="/category/pc-based">
+                  <a routerlinkactive="active" className="subCategory-card" href="/category/cantare-comerciale/pc-based">
                     <div className="subCategory-title">
                       PC Based
                     </div>
                   </a>
                 </div>
                 <div className="box-margin">
-                  <a routerlinkactive="active" className="subCategory-card" href="/category/dibal-500">
+                  <a routerlinkactive="active" className="subCategory-card" href="/category/cantare-comerciale/dibal-500">
                     <div className="subCategory-title">
                       Dibal  500 
                     </div>
                   </a>
                 </div>
                 <div className="box-margin">
-                  <a routerlinkactive="active" className="subCategory-card" href="/category/dibal-900">
+                  <a routerlinkactive="active" className="subCategory-card" href="/category/cantare-comerciale/dibal-900">
                     <div className="subCategory-title">
                       Dibal  900 
                     </div>

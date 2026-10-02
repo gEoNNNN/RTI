@@ -30,35 +30,35 @@ export default function CatSistemAntifurt() {
                   </a>
                 </div>
                 <div className="box-margin">
-                  <a routerlinkactive="active" className="subCategory-card" href="/category/antene-antifurt-am">
+                  <a routerlinkactive="active" className="subCategory-card" href="/category/sistem-antifurt/antene-antifurt-am">
                     <div className="subCategory-title">
                       Antene Antifurt AM
                     </div>
                   </a>
                 </div>
                 <div className="box-margin">
-                  <a routerlinkactive="active" className="subCategory-card" href="/category/antene-antifurt-rf">
+                  <a routerlinkactive="active" className="subCategory-card" href="/category/sistem-antifurt/antene-antifurt-rf">
                     <div className="subCategory-title">
                       Antene Antifurt RF
                     </div>
                   </a>
                 </div>
                 <div className="box-margin">
-                  <a routerlinkactive="active" className="subCategory-card" href="/category/accesorii-antifurt">
+                  <a routerlinkactive="active" className="subCategory-card" href="/category/sistem-antifurt/accesorii-antifurt">
                     <div className="subCategory-title">
                       Accesorii Antifurt 
                     </div>
                   </a>
                 </div>
                 <div className="box-margin">
-                  <a routerlinkactive="active" className="subCategory-card" href="/category/detacher">
+                  <a routerlinkactive="active" className="subCategory-card" href="/category/sistem-antifurt/detacher">
                     <div className="subCategory-title">
                       Detacher
                     </div>
                   </a>
                 </div>
                 <div className="box-margin">
-                  <a routerlinkactive="active" className="subCategory-card" href="/category/safer">
+                  <a routerlinkactive="active" className="subCategory-card" href="/category/sistem-antifurt/safer">
                     <div className="subCategory-title">
                        Safer 
                     </div>

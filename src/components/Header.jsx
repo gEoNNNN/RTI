@@ -260,7 +260,7 @@ function Departments({ categories, open, activeDept, setActiveDept, openDepartme
                   <ul className="menu menu--layout--classic full-width">
                     {kids.map((k) => (
                       <li className="list ng-star-inserted" key={k.slug}>
-                        <a href={to('/category/' + k.slug, lang)} className="ng-star-inserted">
+                        <a href={to(`/category/${c.slug}/${k.slug}`, lang)} className="ng-star-inserted">
                           {k.icon && <img alt="RTI logo placeholder." className="icon lds-facebook ng-star-inserted" src={imgUrl(k.icon)} />}
                           <div className="ng-star-inserted"> {k.title} </div>
                         </a>
