@@ -614,6 +614,7 @@ function NewsWidget({ data = newsW, items = newsArticles, lang = 'ro' }) {
                 </div>
               </div>
             </div>
+            <div className="bullet-mask"></div>
           </div>
         </div>
       </div>

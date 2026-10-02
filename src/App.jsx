@@ -174,6 +174,7 @@ const ROUTES = [
   /* Remaining informational pages */
   ['/panouri-digitale', <SolutiiPanouriPage />],
   ['/iiko-soft-de-gestiune-horeca', <IikoPage />],
+  ['/iiko-sistem-de-gestiune-pentru-restaurant-bar-si-cafenea', <IikoPage />],
   ['/politica-de-confidentialitate', <GenericPage titleKey="footer.policyPrivacy" title="Politica de confidențialitate" />],
   ['/termeni-si-conditii', <GenericPage titleKey="footer.termsAndCond" title="Termeni și condiții" />],
   ['/account/profilul-meu', <GenericPage titleKey="account.global.login" title="Profilul meu" />],
