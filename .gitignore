@@ -22,3 +22,6 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Local admin credentials (created on first run of the dev server)
+.admin.json

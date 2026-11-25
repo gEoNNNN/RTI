@@ -34,6 +34,10 @@ import { addToCart, addedToCartToast } from './cart';
 import CatSolutiiRetail from './pages/categories/CatSolutiiRetail';
 import CatEchipamenteDeParcare from './pages/categories/CatEchipamenteDeParcare';
 import CatSistemeSupraveghereVideo from './pages/categories/CatSistemeSupraveghereVideo';
+import AdminBar from './admin/AdminBar';
+import InlineEditor from './admin/InlineEditor';
+import AdminPage from './admin/AdminPage';
+import { useApplyOverrides } from './admin/overrides';
 
 const DOCUMENT_TITLES = {
   ro: 'Organizarea si automatizarea afacerilor in Moldova | Grupul de companii RTI',
@@ -55,6 +59,7 @@ function CartClickHandler() {
 
   useEffect(() => {
     function handleClick(e) {
+      if (document.body.classList.contains('admin-edit')) return;
       // SEO "Extinde/Restrange" toggle — same behavior as live (app-seo-text)
       const seoBtn = e.target.closest('.extend-button .button');
       if (seoBtn) {
@@ -116,6 +121,7 @@ function LinkInterceptor() {
 
   useEffect(() => {
     function handleClick(e) {
+      if (document.body.classList.contains('admin-edit')) return;
       const anchor = e.target.closest('a');
       if (!anchor) return;
       const href = anchor.getAttribute('href');
@@ -183,28 +189,50 @@ const ROUTES = [
 
 const LANG_PREFIXES = ['', '/ru', '/en'];
 
-export default function App() {
+function ContentOverrides() {
+  useApplyOverrides();
+  return null;
+}
+
+function Site() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+  const { pathname } = useLocation();
+  const isAdminPage = pathname === '/admin';
 
   return (
-    <BrowserRouter>
+    <>
       <ScrollToTop />
       <LinkInterceptor />
       <CartClickHandler />
       <DocumentMeta />
-      <div className="site">
-        <MobileMenu isOpen={mobileMenuOpen} onClose={() => setMobileMenuOpen(false)} />
-        <Header onOpenMobileMenu={() => setMobileMenuOpen(true)} />
-        <Routes>
-          {LANG_PREFIXES.map((prefix) =>
-            ROUTES.map(([path, element], i) => (
-              <Route key={(prefix || 'ro') + i} path={prefix + (path === '/' ? '' : path) || '/'} element={element} />
-            ))
-          )}
-          <Route path="*" element={<NotFoundPage />} />
-        </Routes>
-        <Footer />
-      </div>
+      <ContentOverrides />
+      <AdminBar />
+      <InlineEditor />
+      {isAdminPage ? (
+        <AdminPage />
+      ) : (
+        <div className="site">
+          <MobileMenu isOpen={mobileMenuOpen} onClose={() => setMobileMenuOpen(false)} />
+          <Header onOpenMobileMenu={() => setMobileMenuOpen(true)} />
+          <Routes>
+            {LANG_PREFIXES.map((prefix) =>
+              ROUTES.map(([path, element], i) => (
+                <Route key={(prefix || 'ro') + i} path={prefix + (path === '/' ? '' : path) || '/'} element={element} />
+              ))
+            )}
+            <Route path="*" element={<NotFoundPage />} />
+          </Routes>
+          <Footer />
+        </div>
+      )}
+    </>
+  );
+}
+
+export default function App() {
+  return (
+    <BrowserRouter>
+      <Site />
     </BrowserRouter>
   );
 }

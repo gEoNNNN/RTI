@@ -1,3 +1,38 @@
+# RTI site
+
+React + Vite storefront for rti.md. Content lives in local JSON files under
+`src/data`; there is no database.
+
+## Admin panel (local files, no database)
+
+1. `npm run dev`
+2. Open <http://localhost:5173/admin>
+3. Sign in with `admin` / `rti-admin` — `.admin.json` at the project root is
+   created when the dev server starts. Change it there (the file is gitignored).
+
+**Products** — add, edit, rename and delete products. Saves straight to
+`src/data/products.json` (or `src/data/ru|en/products.json`). Image uploads go
+to `public/images` and are referenced from the JSON.
+
+**Edit site** — use the *Edit site* button in the admin panel (or the floating
+admin bar while signed in). Click any text, image, button label or link on the
+page and change it in the panel. Changes are stored in
+`public/content-overrides.json` and applied on top of the page for every
+visitor of that route. *Page changes* in the admin lists and resets them.
+Deleting an override restores the original content after a reload.
+
+### Limits
+
+- Editing writes files through the Vite dev/preview server, so it only works
+  while that server runs. A static `dist` deploy has no API — run
+  `npm run dev` (or `npm run preview`) on the machine that owns the files.
+- Product JSON is bundled at build time: after changing products, reload the
+  site in dev (automatic) or rebuild before deploying. Inline overrides are
+  read at runtime.
+- Inline edits are keyed by the element's position in the page. If the markup
+  of that section is rebuilt later, re-check the edit; the original text is
+  never destroyed.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
